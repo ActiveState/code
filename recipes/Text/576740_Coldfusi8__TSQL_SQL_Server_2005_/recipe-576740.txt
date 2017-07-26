@@ -1,0 +1,116 @@
+----------- Stored Procedure > backup_handle -----------
+
+USE [your_database]
+GO
+/****** Object:  StoredProcedure [dbo].[backup_handle]    Script Date: 05/05/2009 14:03:31 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+/***********************************************************************
+DEVELOPED BY    :	Dimitris Siskopoulos
+CREATED		:	05.05.2009
+DESCRIPTION	:	Handles database backup
+VERSION		:	1.0.0
+CHANGES		: 	
+************************************************************************/
+ALTER PROCEDURE [dbo].[backup_handle]
+	@databaseName varchar(100),
+	@backupDirectory varchar(100)
+AS
+
+--set @databaseName = 'YourDatabaseName'  
+--set @backupDirectory = 'd:\mywebsites\'
+
+-----------------------------------------------------------------   
+-- Backup database to file   
+-----------------------------------------------------------------   
+DECLARE @backupFileName varchar(100),
+		@databaseDataFilename varchar(100),
+		@databaseLogFilename varchar(100),   
+		@databaseDataFile varchar(100),
+		@databaseLogFile varchar(100),   
+		@execSql varchar(1000)   
+  
+-- Set the name of the database to backup   
+--set @databaseName = 'myDatabase'  
+-- Set the path fo the backup directory on the sql server pc   
+--set @backupDirectory = 'aboslute_path_to_backup_directory' -- such as 'c:\temp\'   
+  
+-- Create the backup file name based on the backup directory, the database name and today's date   
+set @backupFileName = @backupDirectory + @databaseName + '-' + replace(convert(varchar, getdate(), 110), '-', '.') + '.bak'  
+ 
+set @execSql = '   
+backup database [' + @databaseName + ']   
+to disk = ''' + @backupFileName + '''  
+with  
+  noformat,   
+  noinit,   
+  name = ''' + @databaseName + ' backup'',   
+  norewind,   
+  nounload,   
+  skip'   
+  
+exec(@execSql)  
+
+-- EOF --
+
+
+----------- COLDFUSION 8 CFML -----------
+<!--- 
+	Developed by: Dimitris Siskopoulos 5-5-2009
+	Requires SP: backup_handle to work properly
+ --->
+
+<!--- <cfinclude template="yourautentication.cfm">  --->
+<cfset databaseName="YourDatabaseName">
+<cfset backupDirectory="d:\mywebsites\">
+<cfset BackupName="#databaseName#-" & dateformat(now(),"dd.mm.yyyy.bak")>
+
+
+<cfif not isdefined("delbackup")>
+  <CFSTOREDPROC procedure="backup_handle" datasource="YourDatabaseDSN">
+    <CFPROCPARAM type="In" cfsqltype="CF_SQL_VARCHAR" dbvarname="databaseName" value="#databaseName#" null="no">
+    <CFPROCPARAM type="In" cfsqltype="CF_SQL_VARCHAR" dbvarname="backupDirectory" value="#backupDirectory#" null="no">
+    <CFPROCRESULT name="backup">
+  </CFSTOREDPROC>
+  <cfoutput>
+    <h1>done!</h1>
+    <!--- file to store zip --->
+    <cfzip
+action="zip"
+source="#ExpandPath( './#BackupName#/')#"
+file="#ExpandPath( './#BackupName#.zip')#"
+overwrite="true"
+/>
+    <h2><a href="#Request.ROOT#/adm/#BackupName#.zip">Click to download <strong>#BackupName#.zip</strong></a></h2>
+    <h4><a href="?delbackup=true">Click here to delete</a> the backup files after your download!</h4>
+  </cfoutput>
+  <cfelse>
+  <cfif delbackup eq "true">
+    <cfif fileexists('#ExpandPath('./#BackupName#')#')>
+      <cffile action = "delete" file = "#ExpandPath('./#BackupName#')#">
+      <cfoutput>
+        <h3><span style="color:green">File</span> #ExpandPath('./#BackupName#')# <span style="color:green">deleted succesfully!</span></h3>
+      </cfoutput>
+      <cfelse>
+      <cfoutput>
+        <h3><span style="color:red">File</span> #ExpandPath('./#BackupName#')# <span style="color:red">not found!</span></h3>
+      </cfoutput>
+    </cfif>
+    <cfif fileexists('#ExpandPath('./#BackupName#.zip')#')>
+      <cffile action = "delete" file = "#ExpandPath('./#BackupName#.zip')#">
+      <cfoutput>
+        <h3><span style="color:green">File</span> #ExpandPath('./#BackupName#.zip')# <span style="color:green">deleted succesfully!</span></h3>
+      </cfoutput>
+      <cfelse>
+      <cfoutput>
+        <h3><span style="color:red">File</span> #ExpandPath('./#BackupName#.zip')# <span style="color:red">not found!</span></h3>
+      </cfoutput>
+    </cfif>
+    <cfoutput>
+      <h4><a href="#Request.ROOT#">Click here to return to main page of your site #Request.ROOT#</a></h4>
+    </cfoutput>
+  </cfif>
+</cfif>

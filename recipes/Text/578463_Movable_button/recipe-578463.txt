@@ -1,0 +1,54 @@
+import clr
+
+clr.AddReference("System.Drawing")
+clr.AddReference("System.Windows.Forms")
+
+from System.Drawing import Point, Size
+from System.Windows.Forms import (
+  Application, Button, Form, FormStartPosition, MouseButtons
+)
+
+class frmMain(Form):
+   def __init__(self):
+      self._blnMoving = False
+      self.InitializeComponent()
+
+   def InitializeComponent(self):
+      self._btnMouse = Button()
+      #
+      #btnMouse
+      #
+      self._btnMouse.Location = Point(self.Width / 2, self.Height / 2)
+      self._btnMouse.Size = Size(110, 27)
+      self._btnMouse.Text = "Click me and move"
+      self._btnMouse.MouseDown += self.btnMouse_MouseDown
+      self._btnMouse.MouseMove += self.btnMouse_MouseMove
+      self._btnMouse.MouseUp += self.btnMouse_MouseUp
+      #
+      #frmMain
+      #
+      self.ClientSize = Size(570, 370)
+      self.Controls.Add(self._btnMouse)
+      self.StartPosition = FormStartPosition.CenterScreen
+      self.Text = "MovableButton"
+
+   def btnMouse_MouseDown(self, sender, e):
+      if e.Button == MouseButtons.Left:
+          self._blnMoving = True
+          self._btnLocate = e.Location
+
+   def btnMouse_MouseMove(self, sender, e):
+      if self._blnMoving:
+          btn = sender
+          btn.Location = Point(btn.Left - self._btnLocate.X + e.X,
+                                btn.Top - self._btnLocate.Y + e.Y)
+
+   def btnMouse_MouseUp(self, sender, e):
+      if e.Button == MouseButtons.Left:
+          self._blnMoving = False
+
+
+
+if __name__ == "__main__":
+   Application.EnableVisualStyles()
+   Application.Run(frmMain())

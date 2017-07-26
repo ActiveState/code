@@ -1,0 +1,6 @@
+clean:
+		rm -rf *.o pytestbin
+
+pytest:
+		make clean
+		gcc -o pytestbin pysource.c -Wall -I/usr/include/python2.7 -L/usr/lib -lpython2.7

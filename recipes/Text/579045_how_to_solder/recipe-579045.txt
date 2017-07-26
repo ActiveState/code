@@ -1,0 +1,54 @@
+0:05
+I have here two different pieces of copper that are from a standard [inaudible 00:09]
+0:09
+power supply. One common soldering job might be to put a connector on something like this.
+0:15
+This piece of wire has been stripped and sitting out in the air for a long time and I wanted
+0:19
+you to see how it looks when compared with something that's just recently stripped. And
+0:24
+holding them side by side, you can see that the one in my right hand is much, much cleaner
+0:29
+and shinier. It has a pinkish appearance of nice, clean copper whereas, the one on the
+0:34
+left not as copper colored.
+0:36
+The copper that has been exposed to air for a long times forms an oxide layer on its surface
+0:41
+and that oxide layer tends to disrupt the alloying process of soldering. So it's important
+0:47
+to be able to get rid of that oxide layer before you begin soldering.
+0:51
+There are two ways to do that. The first is to mechanically remove it. You can do that
+0:56
+by using sand paper to abrade away the oxide. And the other way is to chemically remove
+1:01
+it and for that, we would use our rosin core.
+1:04
+So let me show you how it looks when we tin solder to the clean copper wire. Begin by
+1:11
+adding some rosin, placing it in our vice, and heating it with our iron. See the smoke
+1:24
+forming as the flux burns off and we have a nicely tinned piece of copper.
+1:39
+Now, if we try to do the same process with the oxidized copper, we're going to run into
+1:45
+trouble. Add our flux. Okay, here we go. Now, as we heat the joint see that our solder is
+1:59
+still tries to find its way in there. It doesn't make quite the same contact that we had with
+2:05
+the other. Just for comparison, I'll hold them side by side. You see little bits of
+2:10
+brown left over? That's copper that hasn't been properly soldered and the reason for
+2:17
+that is the oxides that have formed on its surface tend to disrupt that alloying process.
+2:21
+So in order to make a better solder joint, what we need to do is we need to remove that
+2:26
+oxide layer.
+2:27
+What we'll do is we'll cut a new piece of wire. Strip and use our sand paper. Twisting
+2:45
+the wire. Adding our flux. Applying heat and our solder wicks its way between the wires
+3:05
+for a nice, clean tinned copper wire. And there you have it.

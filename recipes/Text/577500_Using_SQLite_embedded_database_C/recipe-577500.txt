@@ -1,0 +1,83 @@
+/*
+# http://akiscode.com/articles/sqlite-csharp.shtml
+# Copyright (c) 2010 Stephen Akiki
+# MIT License (Means you can do whatever you want with this)
+#  See http://www.opensource.org/licenses/mit-license.php
+# Error Codes:
+#   None
+*/
+
+try
+{
+   // This code segnment connects/creates the DB and creates a table in it called names
+   SQLiteConnection cnn = new SQLiteConnection("Data Source=SampleDB.s3db;Version=3;New=True;");
+
+   cnn.Open();
+
+   // The following command creates a table and inserts stuff in it.
+   // ... you can obviously seperate these into diff. functions.
+   string cmdstring = @"CREATE TABLE names
+   (pri_key INTEGER NOT NULL,
+   SSN TEXT,
+   f_name TEXT,
+   m_name TEXT,
+   l_name TEXT,
+   PRIMARY KEY (pri_key),
+   UNIQUE (SSN));
+
+   INSERT INTO names (SSN, f_name, m_name, l_name) VALUES ('NotRealSSN', 'Billy', 'Bob', 'Thornton');
+
+   ";
+
+   SQLiteCommand mycommand = new SQLiteCommand(cmdstring, cnn);
+
+   mycommand.ExecuteNonQuery();
+
+   // The following fills a DataTable variable with the results from a command you specify
+
+   SQLiteDataAdapter DB;
+   DataSet DS = new DataSet();
+   DataTable dt = new DataTable();
+
+   // Specify command below
+   DB = new SQLiteDataAdapter("SELECT * FROM names", cnn);
+   DS.Reset();
+   DB.Fill(DS);
+   dt = DS.Tables[0];
+
+   // THe following segment updates the listview
+   DataTable dtable = new DataTable();
+
+
+   listView1.Items.Clear();
+
+   for (int i = 0; i < dt.Rows.Count; i++)
+   {
+     DataRow drow = dt.Rows[i];
+
+     // Only row that have not been deleted
+     if (drow.RowState != DataRowState.Deleted)
+     {
+       // Define the list items
+       ListViewItem lvi = new ListViewItem(drow["f_name"].ToString());
+       lvi.SubItems.Add(drow["l_name"].ToString());
+       // Notice how I left some stuff from the database out
+       //  ... you can do that.
+
+
+       // Add the list items to the ListView
+       listView1.Items.Add(lvi);
+      }
+   }
+ 
+
+   cnn.Close();
+
+}
+
+catch (Exception fu)
+{
+   // If an exception is thrown it is probably because the database already exists
+   // ... just delete it, or add a delete clause at the beginning of your program
+   System.Windows.Forms.MessageBox.Show(fu.Message.ToString());
+}

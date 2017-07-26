@@ -1,0 +1,77 @@
+The D program, student_grades.d:
+
+/*
+student_grades.d
+Author: Vasudev Ram
+Web site: https://vasudevram.github.io
+Blog: http://jugad2.blogspot.com
+Product store: https://gumroad.com/vasudevram
+Adapts code from:
+http://nomad.so/2015/08/more-hidden-treasure-in-the-d-standard-library/
+*/
+
+import std.stdio;
+import std.algorithm;
+import std.array;
+import std.conv;
+import std.functional;
+
+// Set up the functional pipeline by composing some functions.
+alias sumString = pipe!(split, map!(to!(int)), sum);
+
+void main(string[] args)
+{
+    // Data to be transformed:
+    // Each string has the student name followed by 
+    // their grade in 5 subjects.
+    auto student_grades_list = 
+    [
+        "A 1 2 3 4 5",
+        "B 2 3 4 5 6",
+        "C 3 4 5 6 7",
+        "D 4 5 6 7 8",
+        "E 5 6 7 8 9",
+    ];
+
+    // Transform the data for each student.
+    foreach(student_grades; student_grades_list) {
+        auto student = student_grades[0]; // name
+        auto total = sumString(student_grades[2..$]); // grade total
+        writeln("Grade total for student ", student, ": ", total);
+    }
+}
+
+Compile it with:
+
+$ dmd student_grades.d
+
+The Python program is StdinToPDF.py which is part of the xtopdf toolkit, at:
+
+http://bitbucket.org/vasudevram/xtopdf
+
+Code for StdinToPDF.py is below. It requires xtopdf / PDFWriter, available from the above URL.
+
+# StdinToPDF.py
+
+# Read the contents of stdin (standard input) and write it to a PDF file
+# whose name is specified as a command line argument.
+# This program is part of the xtopdf toolkit:
+#     https://bitbucket.org/vasudevram/xtopdf
+
+import sys
+from PDFWriter import PDFWriter
+
+try:
+    with PDFWriter(sys.argv[1]) as pw:
+        pw.setFont("Courier", 12)
+        for lin in sys.stdin:
+            pw.writeLine(lin)
+except Exception, e:
+    print "ERROR: Caught exception: " + repr(e)
+    sys.exit(1)
+
+Run it with:
+
+$ student_grades | python StdinToPDF.py sg.pdf
+
+The student grade results will now be in the PDF file sg.pdf.

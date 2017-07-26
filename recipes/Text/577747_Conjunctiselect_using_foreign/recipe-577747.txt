@@ -1,0 +1,3 @@
+SELECT date, title FROM notes WHERE id IN
+  (SELECT kn.note_id FROM keywords_notes AS kn WHERE kn.keyword_id IN (1,2,3,4) 
+   GROUP BY kn.note_id HAVING COUNT(*) = 4)

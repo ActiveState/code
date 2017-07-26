@@ -1,0 +1,295 @@
+import clr
+
+clr.AddReference("System.Drawing")
+clr.AddReference("System.Windows.Forms")
+
+from System import Array, Exception, Environment
+from System.IO import Path, StreamWriter
+from System.Text import Encoding
+from System.Drawing import Font, FontStyle, Icon, Point, Size
+from Microsoft.Win32 import Registry
+from System.Windows.Forms import (
+  Application, Button, ColumnHeader, Control, Form, FormBorderStyle,
+  FormStartPosition, DockStyle, Label, ListView, MainMenu, MenuItem,
+  MessageBox, MessageBoxButtons, MessageBoxIcon, PictureBox,
+  PictureBoxSizeMode, Shortcut, SortOrder, StatusBar, View
+)
+
+class frmMain(Form):
+   def __init__(self):
+      self._key = r"Software\Microsoft\Windows\ShellNoRoam\MUICache"
+      self._csv = Environment.CurrentDirectory + r"\MUICacheView.csv"
+      self.InitializeComponent()
+
+   def InitializeComponent(self):
+      self._mnuMain = MainMenu()
+      self._mnuFile = MenuItem()
+      self._mnuScan = MenuItem()
+      self._mnuSave = MenuItem()
+      self._mnuNull = MenuItem()
+      self._mnuExit = MenuItem()
+      self._mnuEdit = MenuItem()
+      self._mnuKill = MenuItem()
+      self._mnuView = MenuItem()
+      self._mnuHide = MenuItem()
+      self._mnuSBar = MenuItem()
+      self._mnuHelp = MenuItem()
+      self._mnuInfo = MenuItem()
+      self._lstView = ListView()
+      self._chPath_ = ColumnHeader()
+      self._chName_ = ColumnHeader()
+      self._sbInfo_ = StatusBar()
+      #
+      #mnuMain
+      #
+      self._mnuMain.MenuItems.AddRange(Array[MenuItem]((self._mnuFile,
+                        self._mnuEdit, self._mnuView, self._mnuHelp)))
+      #
+      #mnuFile
+      #
+      self._mnuFile.MenuItems.AddRange(Array[MenuItem]((self._mnuScan,
+                        self._mnuSave, self._mnuNull, self._mnuExit)))
+      self._mnuFile.Text = "&File"
+      #
+      #mnuScan
+      #
+      self._mnuScan.Shortcut = Shortcut.F5
+      self._mnuScan.Text = "S&can"
+      self._mnuScan.Click += self.mnuScan_Click
+      #
+      #mnuSave
+      #
+      self._mnuSave.Shortcut = Shortcut.CtrlS
+      self._mnuSave.Text = "&Save log"
+      self._mnuSave.Click += self.mnuSave_Click
+      #
+      #mnuNull
+      #
+      self._mnuNull.Text = "-"
+      #
+      #mnuExit
+      #
+      self._mnuExit.Shortcut = Shortcut.CtrlX
+      self._mnuExit.Text = "E&xit"
+      self._mnuExit.Click += self.mnuExit_Click
+      #
+      #mnuEdit
+      #
+      self._mnuEdit.MenuItems.Add(self._mnuKill)
+      self._mnuEdit.Text = "&Edit"
+      #
+      #mnuKill
+      #
+      self._mnuKill.Shortcut = Shortcut.Del
+      self._mnuKill.Text = "&Delete item"
+      self._mnuKill.Click += self.mnuKill_Click
+      #
+      #mnuView
+      #
+      self._mnuView.MenuItems.AddRange(Array[MenuItem]((self._mnuHide, self._mnuSBar)))
+      self._mnuView.Text = "&View"
+      #
+      #mnuHide
+      #
+      self._mnuHide.Checked = True
+      self._mnuHide.Shortcut = Shortcut.CtrlH
+      self._mnuHide.Text = "&Hide system entries"
+      self._mnuHide.Click += self.mnuHide_Click
+      #
+      #mnuSBar
+      #
+      self._mnuSBar.Checked = True
+      self._mnuSBar.Shortcut = Shortcut.CtrlB
+      self._mnuSBar.Text = "Show Status &Bar"
+      self._mnuSBar.Click += self.mnuSBar_Click
+      #
+      #mnuHelp
+      #
+      self._mnuHelp.MenuItems.Add(self._mnuInfo)
+      self._mnuHelp.Text = "&Help"
+      #
+      #mnuInfo
+      #
+      self._mnuInfo.Text = "About"
+      self._mnuInfo.Click += self.mnuInfo_Click
+      #
+      #lstView
+      #
+      self._lstView.AllowColumnReorder = True
+      self._lstView.Columns.AddRange(Array[ColumnHeader]((self._chPath_, self._chName_)))
+      self._lstView.Dock = DockStyle.Fill
+      self._lstView.FullRowSelect = True
+      self._lstView.GridLines = True
+      self._lstView.MultiSelect = False
+      self._lstView.Sorting = SortOrder.Ascending
+      self._lstView.View = View.Details
+      #
+      #chPath_
+      #
+      self._chPath_.Text = "Application Path"
+      self._chPath_.Width = 275
+      #
+      #chName_
+      #
+      self._chName_.Text = "Application Name"
+      self._chName_.Width = 330
+      #
+      #sbInfo_
+      #
+      self._sbInfo_.SizingGrip = False
+      #
+      #frmMain
+      #
+      self.ClientSize = Size(573, 217)
+      self.Controls.AddRange(Array[Control]((self._lstView, self._sbInfo_)))
+      self.MaximizeBox = False
+      self.Menu = self._mnuMain
+      self.StartPosition = FormStartPosition.CenterScreen
+      self.Text = "MUICacheView"
+      self.Load += self.frmMain_Load
+
+   """ count finded items """
+   def ItemsCounting(self):
+      self._sbInfo_.Text = self._lstView.Items.Count.ToString() + " item(s)"
+
+   """ build items list """
+   def BuildItemsList(self, node):
+      rk = Registry.CurrentUser.OpenSubKey(self._key)
+
+      self._item = self._lstView.Items.Add(node)
+      self._item.SubItems.Add(rk.GetValue(node).ToString())
+
+   """ looking for items """
+   def InvokeScaning(self):
+      self._lstView.Items.Clear()
+
+      rk = Registry.CurrentUser.OpenSubKey(self._key)
+      for name in rk.GetValueNames():
+         if rk.GetValueKind(name).ToString() != "Binary":
+            if self._mnuHide.Checked:
+               if not name.StartsWith("@"):
+                  self.BuildItemsList(name)
+            else:
+               self.BuildItemsList(name)
+
+   """ loading main form """
+   def frmMain_Load(self, sender, e):
+      self.ItemsCounting()
+
+   """ pushing 'Scan' button """
+   def mnuScan_Click(self, sender, e):
+      self.InvokeScaning()
+      self.ItemsCounting()
+
+   """ saving log """
+   def mnuSave_Click(self, sender, e):
+      if self._lstView.Items.Count != 0:
+         sw = StreamWriter(self._csv, False, Encoding.Default)
+         i = 0
+         while i < self._lstView.Items.Count:
+            j = 0
+            while j < self._lstView.Columns.Count:
+               res = self._lstView.Items[i].Text + ", " + self._lstView.Items[i].SubItems[j].Text
+               j += 1
+            sw.WriteLine(res)
+            i += 1
+         sw.Flush()
+         sw.Close()
+
+   """ closing """
+   def mnuExit_Click(self, sender, e):
+      Application.Exit()
+
+   """ deleting item permanently """
+   def mnuKill_Click(self, sender, e):
+      rk = Registry.CurrentUser.OpenSubKey(self._key, True)
+      i = 0
+      while i < self._lstView.Items.Count:
+         if self._lstView.Items[i].Selected:
+            rk.DeleteValue(self._lstView.Items[i].Text, False)
+            self._lstView.Items[i].Remove()
+            i -= 1
+         i += 1
+
+      self.ItemsCounting()
+
+   """ toggle of system entries """
+   def mnuHide_Click(self, sender, e):
+      toggle = not self._mnuHide.Checked
+      self._mnuHide.Checked = toggle
+
+      self.InvokeScaning()
+      self.ItemsCounting()
+
+   """ toggle of status bar """
+   def mnuSBar_Click(self, sender, e):
+      toggle = not self._mnuSBar.Checked
+      self._mnuSBar.Checked = toggle
+      self._sbInfo_.Visible = toggle
+
+   """ copyright info """
+   def mnuInfo_Click(self, sender, e):
+      frm = frmAbout()
+      frm.ShowDialog(self)
+
+
+
+class frmAbout(Form):
+   def __init__(self):
+      self.InitializeComponent()
+
+   def InitializeComponent(self):
+      self._pbImage = PictureBox()
+      self._lblName = Label()
+      self._lblCopy = Label()
+      self._btnExit = Button()
+      #
+      #pbImage
+      #
+      self._pbImage.Location = Point(16, 16)
+      self._pbImage.Size = Size(32, 32)
+      self._pbImage.SizeMode = PictureBoxSizeMode.StretchImage
+      #
+      #lblName
+      #
+      self._lblName.Font = Font("Microsoft Sans Serif", 9, FontStyle.Bold)
+      self._lblName.Location = Point(53, 19)
+      self._lblName.Size = Size(360, 18)
+      self._lblName.Text = "MUICacheView v1.00"
+      #
+      #lblCopy
+      #
+      self._lblCopy.Location = Point(67, 37)
+      self._lblCopy.Size = Size(360, 23)
+      self._lblCopy.Text = "(C) 2012 Greg Zakharov gregzakh@gmail.com"
+      #
+      #btnExit
+      #
+      self._btnExit.Location = Point(135, 67)
+      self._btnExit.Text = "OK"
+      #
+      #frmAbout
+      #
+      self.AcceptButton = self._btnExit
+      self.CancelButton = self._btnExit
+      self.ClientSize = Size(350, 110)
+      self.ControlBox = False
+      self.Controls.AddRange(Array[Control]((self._pbImage,
+             self._lblName, self._lblCopy, self._btnExit)))
+      self.FormBorderStyle = FormBorderStyle.FixedSingle
+      self.ShowInTaskbar = False
+      self.StartPosition = FormStartPosition.CenterParent
+      self.Text = "About..."
+      self.Load += self.frmAbout_Load
+
+   def frmAbout_Load(self, sender, e):
+      try:
+        self._pbImage.Image = self.Owner.Icon.ToBitmap()
+      except Exception, e:
+        MessageBox.Show(e.Message, self.Text, MessageBoxButtons.OK, MessageBoxIcon.Stop)
+
+
+
+if __name__ == "__main__":
+   Application.EnableVisualStyles()
+   Application.Run(frmMain())

@@ -1,0 +1,15 @@
+# Python 2
+from urllib2 import urlopen, Request
+from re import search
+
+f = urlopen(Request("http://internet.yandex.ru/"))
+print search('IPv4:\s(\d+\.){3}\d+', f.read()).group(0)
+f.close()
+
+# Python 3
+from urllib.request import urlopen
+from re import compile, search
+
+f = urlopen("http://internet.yandex.ru/")
+print(compile('IPv4:\s(\d+\.){3}\d+').search(str(f.read())).group(0))
+f.close()

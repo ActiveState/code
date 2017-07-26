@@ -1,0 +1,44 @@
+#standard python library location
+import sys
+sys.path.append(r"C:\Python27\Lib")
+
+#import types
+from ctypes import byref, wintypes, windll
+from string import lower
+from sys    import argv
+
+#accessors
+GENERIC_READ              = wintypes.DWORD(0x80000000)
+IOCTL_STORAGE_EJECT_MEDIA = wintypes.DWORD(0x002D4808)
+IOCTL_STORAGE_LOAD_MEDIA  = wintypes.DWORD(0x002D480C)
+OPEN_EXISTING             = wintypes.DWORD(0x00000003)
+#(possible) returned parameters
+INVALID_HANDLE            = -1
+retBytes                  = wintypes.DWORD()
+
+#eject\close cdrom function
+def EjectClose(drv, cur):
+   dll = windll.kernel32 #accessor kernel32 library
+
+   try:
+      hndl = dll.CreateFileW(drv, GENERIC_READ, 0, None, OPEN_EXISTING, 0, None)
+
+      if hndl != INVALID_HANDLE:
+         if cur: #current status is true
+            dll.DeviceIoControl(hndl, IOCTL_STORAGE_EJECT_MEDIA, None, 0, None, 0, byref(retBytes), None)
+         else:
+            dll.DeviceIoControl(hndl, IOCTL_STORAGE_LOAD_MEDIA, None, 0, None, 0, byref(retBytes), None)
+   finally:
+      dll.CloseHandle(hndl) #do not forget about this!
+      hndl = None
+
+if __name__ == '__main__':
+   if len(argv) == 2:
+      if lower(argv[1]) == "-c" or lower(argv[1]) == "/c":
+         EjectClose(r"\\.\E:", False) #before launch scipt check cdrom's letter!
+      elif lower(argv[1]) == "-e" or lower(argv[1]) == "/e":
+         EjectClose(r"\\.\E:", True)
+      else:
+         print("Unknown %s parameter." % argv[1])
+   else:
+      print("Arguments are out of length.")

@@ -1,0 +1,11 @@
+20,21c20,21
+<     data = ''.join(['FFFFFFFFFFFF', macaddress * 20])
+<     send_data = '' 
+---
+>     data = b'FFFFFFFFFFFF' + (macaddress * 20).encode()
+>     send_data = b'' 
+25,26c25
+<         send_data = ''.join([send_data,
+<                              struct.pack('B', int(data[i: i + 2], 16))])
+---
+>         send_data += struct.pack('B', int(data[i: i + 2], 16)

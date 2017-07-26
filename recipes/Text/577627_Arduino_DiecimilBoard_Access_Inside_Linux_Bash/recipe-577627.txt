@@ -1,0 +1,33 @@
+Step by step testing inside a Linux Terminal usage for the USB Arduino Diecimila Board...
+Issued as completely Public Domain by B.Walker, G0LCU, Circa 30-03-2011.
+
+1) Boot up to your Linux flavour as root, (or run in a root Terminal).
+2) Temporarily disable any net access or use a stand-alone machine.
+3) Plug in the USB Arduino board.
+4) Open up a, (root), Terminal and clear the screen.
+5) clear<RETURN/ENTER>
+
+6) Check that you have a device as ttyUSB?
+7) ls /dev<RETURN/ENTER>
+NOTE:- ? above will probably be 0.
+8) If ttyUSB0, (to 7), appears then carry on; otherwise ignore the remainder of this text.
+
+NOTE:- Assuming the device is ttyUSB0 from now on, change below if needed to your ttyUSBx device.
+9) Place a wire link between ANALOG 0 and the 3.3 V terminals.
+NOTE:- 'chmod' is not really needed but added for fullness!
+10) chmod 666 /dev/ttyUSB0<RETURN/ENTER>
+
+11) Set up the on board serial I/O to 1200bps and RAW data transfer.
+12) stty -F /dev/ttyUSB0 1200<RETURN/ENTER>
+13) stty -F /dev/ttyUSB0 raw<RETURN/ENTER>
+
+14) Now start printing characters to the screen...
+15) cat < /dev/ttyUSB0<RETURN/ENTER>
+NOTE:- The characters will be from about 168 to 174 decimal allowing for bit error of the Arduino ADC.
+
+16) Remove and replace the wire link from ANALOG 0 and GND or ANALOG 0 and 5 V too.
+17) Press 'Ctrl-C' to stop any characters being printed to the Terminal.
+18) Unplug the USB Arduino board.
+19) Power down the computer IF REQUIRED.
+
+Enjoy finding simple solutions to often very difficult problems... ;o)
