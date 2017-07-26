@@ -3,4 +3,7 @@ Originally published: 2001-04-02 20:09:38
 Last updated: 2001-04-02 20:09:38  
 Author: Scott David Daniels  
   
-This converts a Numeric to a rational.  The result is always\nin reduced form, but the proof, while possible, is subtle.\n\nfarey(math.pi,100) = (22,7)
+This converts a Numeric to a rational.  The result is always
+in reduced form, but the proof, while possible, is subtle.
+
+farey(math.pi,100) = (22,7)

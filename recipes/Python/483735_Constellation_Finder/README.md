@@ -3,4 +3,39 @@ Originally published: 2006-04-06 15:35:21
 Last updated: 2006-04-06 22:42:16  
 Author: Stephen Chappell  
   
-The following recipe demonstrates the use of SETs in Python.\nThe scenario that this was written for is as follows:\n\nA star map is given according to the format X,Y,Z|...|X,Y,Z:\nX represents the X coordinate of the star (which may be any real integer).\nY represents the Y coordinate on the star (which may be any real integer).\nZ represents the color of the star (which may be any real integer larger than 0).\n| separates the stars (strings represented by X,Y,Z).\n, separates the numbers describing the stars (X,Y,Z).\n: represents the end of the star map.\n... is an arbitrary number of X,Y,Z strings with appropriate pipes.\n\nAs an extention to the original problem that this code was written for,\nconstellation definitions can follow the colon. The constellation string\nthat might follow is described by the following:\n\n:C!D#...#D|...|C!D#...#D\n: represents the beginning of the constellation definitions.\nC!D#...#D represents one constellation definition.\n| is the constellation definition separator.\nC is a number that identifies what constellation is being defined.\nD can be repesented as X,Y;X,Y or X,Y.\nX would be the X coordinate of a star defined in the star map.\nY would be the Y coordinate of a star defined in the star map.\n, would be the coordinate separator.\n; would be the star separator.\n... would be an arbitrary number of D string with appropriate # signs.\n... would be an arbitrary number of constellation definitions.\n\nThe explanation for D is that if two stars are listed, they are joined\ntogether with a line segment; but if there is one star, it is only highlighted.\n\nIn this updated version of the code, there is a key object that has\nconstellations already identified and a stars object that contains\nthe stars in the sky. Keys are used to unlocks the stars and the\nresults are printed out for the user of the program.
+The following recipe demonstrates the use of SETs in Python.
+The scenario that this was written for is as follows:
+
+A star map is given according to the format X,Y,Z|...|X,Y,Z:
+X represents the X coordinate of the star (which may be any real integer).
+Y represents the Y coordinate on the star (which may be any real integer).
+Z represents the color of the star (which may be any real integer larger than 0).
+| separates the stars (strings represented by X,Y,Z).
+, separates the numbers describing the stars (X,Y,Z).
+: represents the end of the star map.
+... is an arbitrary number of X,Y,Z strings with appropriate pipes.
+
+As an extention to the original problem that this code was written for,
+constellation definitions can follow the colon. The constellation string
+that might follow is described by the following:
+
+:C!D#...#D|...|C!D#...#D
+: represents the beginning of the constellation definitions.
+C!D#...#D represents one constellation definition.
+| is the constellation definition separator.
+C is a number that identifies what constellation is being defined.
+D can be repesented as X,Y;X,Y or X,Y.
+X would be the X coordinate of a star defined in the star map.
+Y would be the Y coordinate of a star defined in the star map.
+, would be the coordinate separator.
+; would be the star separator.
+... would be an arbitrary number of D string with appropriate # signs.
+... would be an arbitrary number of constellation definitions.
+
+The explanation for D is that if two stars are listed, they are joined
+together with a line segment; but if there is one star, it is only highlighted.
+
+In this updated version of the code, there is a key object that has
+constellations already identified and a stars object that contains
+the stars in the sky. Keys are used to unlocks the stars and the
+results are printed out for the user of the program.

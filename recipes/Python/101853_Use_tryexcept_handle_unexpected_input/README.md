@@ -3,4 +3,6 @@ Originally published: 2001-12-10 20:10:09
 Last updated: 2001-12-10 20:10:09  
 Author: philip nunez  
   
-Minesweeper expects the user to enter properly bounded integers for\nmoves.  Should the user enter something unexpected, the resulting exception\ncan be caught and handled in some way other than exiting.
+Minesweeper expects the user to enter properly bounded integers for
+moves.  Should the user enter something unexpected, the resulting exception
+can be caught and handled in some way other than exiting.

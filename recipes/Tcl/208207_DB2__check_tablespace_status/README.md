@@ -3,4 +3,29 @@ Originally published: 2003-07-01 00:10:26
 Last updated: 2003-07-01 00:10:26  
 Author: Patrick Finnegan  
   
-DB2 tablespaces can become unavailable for various reasons and when they do go off-line the problem may not be immediately visible.  For example tablespaces in "backup pending mode" can be readable but not updateable.\n\nFor example:\n\n\n------------------------------ Command Entered ------------------------------\nupdate sch1.table1set ind = 'N' where provider = 'ABC'\n\n-----------------------------------------------------------------------------\nDB21034E  The command was processed as an SQL statement because it was not a\nvalid Command Line Processor command.  During SQL processing it returned:\nSQL0290N  Table space access is not allowed.  SQLSTATE=55039\n\nThis looks like a permissions problem but it's actually an issue with the physical tablespace.  We can enumerate the tablespace details with the "db2 list tablespaces".  In this case the hex code for the "state" command indicates backup pending.\n\nTable\n\nTablespace ID                        = 91\nName                                 = SW380\nType                                 = System managed space\nContents                             = Any data\nState                                = 0x0020\nDetailed explanation:\n    Backup pending\n\nThis procedure returns a list of tablespaces where state is abnormal.
+DB2 tablespaces can become unavailable for various reasons and when they do go off-line the problem may not be immediately visible.  For example tablespaces in "backup pending mode" can be readable but not updateable.
+
+For example:
+
+
+------------------------------ Command Entered ------------------------------
+update sch1.table1set ind = 'N' where provider = 'ABC'
+
+-----------------------------------------------------------------------------
+DB21034E  The command was processed as an SQL statement because it was not a
+valid Command Line Processor command.  During SQL processing it returned:
+SQL0290N  Table space access is not allowed.  SQLSTATE=55039
+
+This looks like a permissions problem but it's actually an issue with the physical tablespace.  We can enumerate the tablespace details with the "db2 list tablespaces".  In this case the hex code for the "state" command indicates backup pending.
+
+Table
+
+Tablespace ID                        = 91
+Name                                 = SW380
+Type                                 = System managed space
+Contents                             = Any data
+State                                = 0x0020
+Detailed explanation:
+    Backup pending
+
+This procedure returns a list of tablespaces where state is abnormal.

@@ -3,4 +3,5 @@ Originally published: 2002-08-06 15:34:35
 Last updated: 2002-08-06 15:34:35  
 Author: William Kappele  
   
-This recipe produces random numbers from a normal (bell-shaped) distribution.\n(The rand() command in Tcl produces uniformly distributed random numbers.)
+This recipe produces random numbers from a normal (bell-shaped) distribution.
+(The rand() command in Tcl produces uniformly distributed random numbers.)

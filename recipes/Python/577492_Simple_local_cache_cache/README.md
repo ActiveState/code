@@ -3,4 +3,25 @@ Originally published: 2010-12-08 09:03:01
 Last updated: 2010-12-08 09:06:34  
 Author: Andrey Nikishaev  
   
-Simple local cache.\nIt saves local data in singleton dictionary with convenient interface\n\n#Examples of use:\n    # Initialize\n    SimpleCache({'data':{'example':'example data'}})\n    # Getting instance\n    c = SimpleCache.getInstance()\n    \n    c.set('re.reg_exp_compiled',re.compile(r'\\W*'))\n    reg_exp = c.get('re.reg_exp_compiled',default=re.compile(r'\\W*'))\n\n    # --------------------------------------------------------------\n\n    c = SimpleCache.getInstance()\n    reg_exp = c.getset('re.reg_exp_compiled',re.compile(r'\\W*'))\n\n    # --------------------------------------------------------------    \n\n    @scache\n    def func1():\n        return 'OK'
+Simple local cache.
+It saves local data in singleton dictionary with convenient interface
+
+#Examples of use:
+    # Initialize
+    SimpleCache({'data':{'example':'example data'}})
+    # Getting instance
+    c = SimpleCache.getInstance()
+    
+    c.set('re.reg_exp_compiled',re.compile(r'\W*'))
+    reg_exp = c.get('re.reg_exp_compiled',default=re.compile(r'\W*'))
+
+    # --------------------------------------------------------------
+
+    c = SimpleCache.getInstance()
+    reg_exp = c.getset('re.reg_exp_compiled',re.compile(r'\W*'))
+
+    # --------------------------------------------------------------    
+
+    @scache
+    def func1():
+        return 'OK'

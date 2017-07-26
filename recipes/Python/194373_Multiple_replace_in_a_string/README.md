@@ -3,4 +3,6 @@ Originally published: 2003-04-17 09:01:48
 Last updated: 2003-04-17 09:01:48  
 Author: Anand   
   
-A hack to quickly replace multiple\ncharacters/strings in a string with\ncharacters from another string.
+A hack to quickly replace multiple
+characters/strings in a string with
+characters from another string.
