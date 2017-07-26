@@ -1,7 +1,5 @@
-## "raw_input" For All Versions Of Python...
-
-Originally published: 2011-08-10 16:52:04
-Last updated: 2011-08-10 16:52:04
-Author: Barry Walker
-
+## "raw_input" For All Versions Of Python...Originally published: 2011-08-10 16:52:04 
+Last updated: 2011-08-10 16:52:04 
+Author: Barry Walker 
+ 
 The code says it all... ;o)\n\nPut the two lines in any Python code and have universal KB input...\n\nEnjoy finding simple solutions to often very difficult problems...\n\nBazza, G0LCU...\n

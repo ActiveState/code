@@ -1,7 +1,5 @@
-## Simple analogue anim and digital voltmeter with alarm DEMO...
-
-Originally published: 2011-03-04 19:47:36
-Last updated: 2011-03-04 19:47:37
-Author: Barry Walker
-
+## Simple analogue anim and digital voltmeter with alarm DEMO...Originally published: 2011-03-04 19:47:36 
+Last updated: 2011-03-04 19:47:37 
+Author: Barry Walker 
+ 
 I needed a simple standard Python analogue and digital display along with an overload beep when used as a\nbasic voltmeter.\n\nAnalogue readout, for quick glance.\nDigital readout, for better accuracy.\nBeep, to warn me of impending doom... ;o)\n\nThis was my starter code and works from Python 1.4.x to 2.7.x on MINIMUM platforms, AMIGA A1200, MS Windows ME\nand Knoppix 5.1.1. It is a stand alone program and the easiest way to start it is to import it as though it is\na module.\n\n(I DO have a Python 3.x.x version too and WILL be uploaded here in the future.)\n\nAlthough this is a DEMO it did access, (home built), HW from various ports on differing platforms.\n\nThis module IS needed for it to work:-\n\nhttp://code.activestate.com/recipes/577588-clear-screen-and-beep-for-various-platforms/?in=lang-python\n\nThese simple HW access modes using standard Python code WILL be released in the future.\n\nThis DEMO is released as Public Domain and you may modify it as you please...\n\nEnjoy finding simple solutions to often very difficult problems...\n\n\n\n73...\n\nBazza, G0LCU...\n\nTeam AMIGA...\n

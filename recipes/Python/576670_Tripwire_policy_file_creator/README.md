@@ -1,7 +1,5 @@
-## Tripwire policy file creator
-
-Originally published: 2009-02-25 20:30:15
-Last updated: 2009-02-25 20:30:15
-Author: Bill Sharer
-
+## Tripwire policy file creatorOriginally published: 2009-02-25 20:30:15 
+Last updated: 2009-02-25 20:30:15 
+Author: Bill Sharer 
+ 
 gen_twpol.py is a script that can be used to generate a tripwire policy source (twpol.txt) for your system.\n\nThis script may be distributed under the terms of the Gnu Public License GPLv2 or later.\n\nFor more information on the open source version of tripwire see http://sourceforge.net/projects/tripwire/\n\nThe tripwire source package usually ships with a an example twpol.txt file based on a RedHat Enterprise (RHEL)\ndistribution, typically an RHEL4 or RHEL5 version.  It doesn't do much good to have this get parked by your Gentoo\nebuild (nor other distro packager) as all sorts of stuff in /boot, /lib/modules and other places will be\nout of sync, differently named or just plain missing.  In addition, your system may have extra stuff that isn't\npresent in the file but critical to the distro.\n

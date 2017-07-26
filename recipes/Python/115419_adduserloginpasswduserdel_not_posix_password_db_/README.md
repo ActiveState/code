@@ -1,7 +1,5 @@
-## adduser/login/passwd/userdel (not posix) password db access
-
-Originally published: 2002-02-20 12:50:29
-Last updated: 2002-02-20 12:50:29
-Author: Nelson Rush
-
+## adduser/login/passwd/userdel (not posix) password db accessOriginally published: 2002-02-20 12:50:29 
+Last updated: 2002-02-20 12:50:29 
+Author: Nelson Rush 
+ 
 Let's you create a password db and let users login, etc.\nThis is not a real password system, its just something I came up with.\nIe. Don't try using this on /etc/passwd

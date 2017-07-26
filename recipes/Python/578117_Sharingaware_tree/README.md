@@ -1,7 +1,5 @@
-## Sharing-aware tree transformations
-
-Originally published: 2012-05-02 15:10:35
-Last updated: 2012-05-07 08:20:58
-Author: Sander Evers
-
+## Sharing-aware tree transformationsOriginally published: 2012-05-02 15:10:35 
+Last updated: 2012-05-07 08:20:58 
+Author: Sander Evers 
+ 
 The function `foldsh` in this recipe is a general purpose tool for transforming tree-like recursive data structures while keeping track of shared subtrees.\n\n    # By default, a branch is encoded as a list of subtrees; each subtree can be a\n    # branch or a leaf (=anything non-iterable). Subtrees can be shared:\n    >>> subtree = [42,44]\n    >>> tree = [subtree,[subtree]]\n    # We can apply a function to all leaves:\n    >>> foldsh(tree, leaf= lambda x: x+1)\n    [[43, 45], [[43, 45]]]\n    # Or apply a function to the branches:\n    >>> foldsh(tree, branch= lambda t,c: list(reversed(c)))\n    [[[44, 42]], [44, 42]]\n    # The sharing is preserved:\n    >>> _[0][0] is _[1]\n    True\n    # Summing up the leaves without double counting of shared subtrees:\n    >>> foldsh(tree, branch= lambda t,c: sum(c), shared= lambda x: 0)\n    86\n\nIn particular, it is useful for transforming YAML documents. An example of this is given below.

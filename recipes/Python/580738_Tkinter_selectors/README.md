@@ -1,7 +1,5 @@
-## Tkinter selectors
-
-Originally published: 2016-12-25 23:16:58
-Last updated: 2017-01-24 20:45:34
-Author: Miguel Martínez López
-
+## Tkinter selectorsOriginally published: 2016-12-25 23:16:58 
+Last updated: 2017-01-24 20:45:34 
+Author: Miguel Martínez López 
+ 
 Tkinter selectors like beautifulsoup selectors or jquery selectors.\n\nIt makes easy to select elements at runtime. The selectors use the same syntax than the option database.\n\nPlease let me now if you find a bug.\n\nThis is the provided API:\n\n    toplevel_titles(widget)\n\n    window_titles(widget)\n\n    full_name_of_widgets(root)\n\n    find_toplevel_by_title(widget, title)\n\n    find_widgets_by_name(root, name)\n\n    find_widget_by_name(root, name)\n\n    find_widgets_by_class(root, class_)\n\n    find_widget_by_class(root, class_)\n\n    find(root, selector, callback, async=True)\n\n    find_all(root, selector, callback, async=True)\n\n    config(root, selector, **kwargs)\n\n    config_async(root, selector, **kwargs)\n\n    config_all(root, selector, **kwargs)\n\n    config_all_async(root, selector, **kwargs)\n\n    tk_print(root, name=True, class_= True, indent="\\t")

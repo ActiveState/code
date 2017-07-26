@@ -1,7 +1,5 @@
-## argdeclare: declarative interface to argparse
-
-Originally published: 2009-10-26 14:35:21
-Last updated: 2010-03-02 00:05:40
-Author: Shakeeb Alireza
-
+## argdeclare: declarative interface to argparseOriginally published: 2009-10-26 14:35:21 
+Last updated: 2010-03-02 00:05:40 
+Author: Shakeeb Alireza 
+ 
 This is an implementation of the interface provided by the [cmdln](http://code.google.com/p/cmdln/) module but using [argparse](http://code.google.com/p/argparse/) to provide the option/arg heavy parsing.\n\nAn example of usage is provided in the `test` function, which should produce the following from the command line:\n\n$ python argdeclare.py --help\n\n    usage: argdeclare.py [-h] [-v] {uninstall,install,delete} ...\n\n    a description of the test app\n\n    optional arguments:\n      -h, --help            show this help message and exit\n      -v, --version         show program's version number and exit\n\n    subcommands:\n      valid subcommands\n\n      {uninstall,install,delete}\n                            additional help\n        delete              help text for delete subcmd\n        install             help text for install subcmd\n        uninstall           help text for uninstall subcmd\n\n$ python argdeclare.py install --help\n\n    usage: argdeclare.py install [-h] [-t TYPE] [--log] [-f] package\n\n    positional arguments:\n      package               package to be (un)installed\n\n    optional arguments:\n      -h, --help            show this help message and exit\n      -t TYPE, --type TYPE  specify type of package\n      --log, -l             log is on\n      -f, --force           force through installation\n\nenjoy!\n\n\nSA

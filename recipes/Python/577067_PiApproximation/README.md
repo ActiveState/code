@@ -1,7 +1,5 @@
-## Pi_Approximation
-
-Originally published: 2010-02-24 04:44:09
-Last updated: 2011-01-27 12:50:56
-Author: Fouad Teniou
-
+## Pi_ApproximationOriginally published: 2010-02-24 04:44:09 
+Last updated: 2011-01-27 12:50:56 
+Author: Fouad Teniou 
+ 
 Pi is a constant, an irrational number and its notation represent the sixteenth letter of the Greek alphabet, though its value is equal to the ratio of a circle’s circumference to its diameter.\n\n\n\n\nHowever, **a Muslim scientist Abu-Abdullah Muhammad Ibn Musa al-Khwarizmi** the founder of algebra ( derived from the Arabic word El-Jabr ), arithmetic, and trigonometry, an astronomer, and a geographer C850 studied and proved Pi’s irrationality.(**algorithm is derived from his name Khwarizmi** ).\n\n\n\n\nI used the circle equation x²+y² = 1 of radius 1 centred at (0,0) and the circle area’s formula to approximate Pi value.\ny²= 1-x² and y = √(1-x²) is the upper semicircle which will extend from x = -1 to x = 1 and  the rectangle method is used to approximate this area of an interval [-1,1]. \n\n\n\n\nThe area of a circle is A = πr², thus the semicircle of radius 1 will have an area A = ½ π(1²).\n\n\n\n\nUsing my Pi_Approximation program allows you to represent Pi to infinity of digits, and this will depend of the project type and the precision needed, though space programs require to approximate pi at its maximum precision. \n\n\n\n\nAnd my Pi_Approximation program allows you to make a better Pi’s approximation than the scientific Calculators 

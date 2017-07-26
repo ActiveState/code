@@ -1,7 +1,5 @@
-## Render tables for text interface
-
-Originally published: 2010-04-20 18:02:02
-Last updated: 2010-04-20 18:02:51
-Author: Denis Barmenkov
-
+## Render tables for text interfaceOriginally published: 2010-04-20 18:02:02 
+Last updated: 2010-04-20 18:02:51 
+Author: Denis Barmenkov 
+ 
 Sometime pprint module is not enough for formatting data for console or log file output.\nThis module provide function which fill the gap.\n\n**Sample function call:**\n\n    nums = [ '1', '2', '3', '4' ]\n    speeds = [ '100', '10000', '1500', '12' ]\n    desc = [ '', 'label 1', 'none', 'very long description' ]\n    lines = format_table( [(nums, ALIGN_RIGHT|PADDING_ALL, 'NUM'), \n                           (speeds, ALIGN_RIGHT|PADDING_ALL, 'SPEED'), \n                           (desc, ALIGN_LEFT|PADDING_ALL, 'DESC')] )\n\n**Output:**\n\n    =======================================\n    | NUM | SPEED | DESC                  |\n    =======================================\n    |   1 |   100 |                       |\n    |   2 | 10000 | label 1               |\n    |   3 |  1500 | none                  |\n    |   4 |    12 | very long description |\n    =======================================

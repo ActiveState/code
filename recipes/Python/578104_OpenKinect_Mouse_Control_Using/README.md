@@ -1,7 +1,5 @@
-## OpenKinect Mouse Control Using Python
-
-Originally published: 2012-04-14 21:00:12
-Last updated: 2012-04-15 18:49:00
-Author: Alexander James Wallar
-
+## OpenKinect Mouse Control Using PythonOriginally published: 2012-04-14 21:00:12 
+Last updated: 2012-04-15 18:49:00 
+Author: Alexander James Wallar 
+ 
 This is a simple code that lets a user control the mouse and left-click using the Microsoft Kinect, Python, and OpenKinect. \n\n    Computer Prerequisites:\n    -OpenKinect\n    -Python Wrapper for OpenKinect\n    -A Linux machine using Ubuntu\n    -OpenCV 2.1\n    -OpenCV 2.3\n    -Python 2.7.2\n    -A Microsoft Kinect\n    -A Microsoft Kinect USB Adapter\n    -PyGame\n    -Xlib for Python\n\nTo run this code you either need to start it in the terminal or you need to write a short bash script that runs the code. This is necessary because it requires super-user privileges.\n\nThe Bash script is (Assuming the code is saved by the name 'Hand Tracking.py' in /home/$USER directory:\n\n    #!bin/bash\n    cd 'home/$USER'\n    gksudo python 'Hand Tracking.py'\n\nThe code is heavily commented and most of what you will need to know is there. \n 

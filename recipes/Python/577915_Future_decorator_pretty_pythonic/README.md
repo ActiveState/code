@@ -1,7 +1,5 @@
-## Future decorator in a pretty pythonic way
-
-Originally published: 2011-10-20 16:51:47
-Last updated: 2011-10-20 16:51:48
-Author: Filippo Squillace
-
+## Future decorator in a pretty pythonic wayOriginally published: 2011-10-20 16:51:47 
+Last updated: 2011-10-20 16:51:48 
+Author: Filippo Squillace 
+ 
 Without thinking in thread creation the idea is to call several times \na function assigning a thread for each call with related parameters \nand returning the list of results in a pretty pythonic way.\nFor example, if we have already defined the function 'func':\n    res = func(par)\nwe want to call that several times and get the values in the future. So: \n    func(par1)\n    func(par2)\n    func(par3).get()\n    func(par4).get_all()\n    \nassigning a thread for each call. The 'get' method returns the first possible results,\nand 'get_all' returns all the values in a list. The decorator works fine with kwargs too.\n    \nThis recipe is based on:\nhttp://code.activestate.com/recipes/355651-implementing-futures-with-decorators/\nthat use only one call for the function. The problem in that recipe is that each call blocks the execution.\n\nVote if you like it!

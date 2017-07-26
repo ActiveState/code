@@ -1,7 +1,5 @@
-## A Fun Perfect Square Checker Using Integer Arithmetic Only... ;o)
-
-Originally published: 2014-09-16 22:27:04
-Last updated: 2014-09-16 22:27:04
-Author: Barry Walker
-
+## A Fun Perfect Square Checker Using Integer Arithmetic Only... ;o)Originally published: 2014-09-16 22:27:04 
+Last updated: 2014-09-16 22:27:04 
+Author: Barry Walker 
+ 
 A recent Python upload here gave me the inspiration to do a bash version...\nThis is a little tongue-in-cheek but an enjoyable bit of fun.\n\nIt took around 11 seconds to prove 90000000000 had a perfect square of 300000...\n\nIt is a stand alone program and has a degree of INPUT error correction...\n\nIt was done on a MacBook Pro, OSX 10.7.5, default bash terminal and should work on Linux flavours but it is untested...\n\nEnjoy finding simple solutions to often very difficult problems...\n\nBazza...

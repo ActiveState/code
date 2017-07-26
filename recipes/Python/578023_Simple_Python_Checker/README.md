@@ -1,7 +1,5 @@
-## Simple Python Checker
-
-Originally published: 2012-01-22 16:41:07
-Last updated: 2012-01-24 21:37:33
-Author: Thomas Lehmann
-
+## Simple Python CheckerOriginally published: 2012-01-22 16:41:07 
+Last updated: 2012-01-24 21:37:33 
+Author: Thomas Lehmann 
+ 
 **Why this recipe?**:\n * pylint is great but I does not support newer python versions.\n * I intended to write an own more simple parser recognizing that Python is doing the job for me and so I started to learn - a little - how to use AST.\n\n**In scope (for this recipe)**:\n * scanning a single python file displaying warnings and errors when breaking rules.\n * easy to maintain and easy extensible.\n * reporting messages in a way - when displayed in an editor - you can click on them to jump to the location for the relating message.\n * Lines of code means: without blanks (later: also without comments)\n\n**Out of scope (for this recipe)**:\n * For the recipe the folder/path support would break my limits. This include also the possible limits for this.\n * Checking for comments (SIngle line comments, block comments, checking for parameter documentation)\n\n**Future:**\n * I'm thinking about putting this on a project base location (issue tracker, versioning, ...).\n * Of course same free license.\n * Providing a link here.\n * Checking for comments to handle further limits (LOC/COM, COM, checking for tags vs. parameters).\n * Allow to handle a path/folder with Python files (another statistic output)\n

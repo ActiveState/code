@@ -1,7 +1,5 @@
-## And Now For Something COMPLETELY Different Using Text Mode Python...
-
-Originally published: 2011-10-26 19:24:25
-Last updated: 2011-10-26 19:24:32
-Author: Barry Walker
-
+## And Now For Something COMPLETELY Different Using Text Mode Python...Originally published: 2011-10-26 19:24:25 
+Last updated: 2011-10-26 19:24:32 
+Author: Barry Walker 
+ 
 Hi experts...\n\nA kids level project to do for yourselves...\n\nThis is a Python DEMO to show the power of the sound card using Linux for\na specific usage that I need(ed). It is a kids level project that uses the\nsound card as a variable DC Voltage reference for projects like stabilised\nlinear PSUs. Why linear? Relatively clean RF wise...\n\nThe TEST circuit is inside the code and is SOOO simple a dexterous 10 year\nold could make it in less than an hour and have it up and running to start\nusing...\n\nMy own circuit is just as simple, isolated, and, gives me MUCH more voltage\nrange than the one inside the code... How did I do it? ;o)\n\nThis is for Python 2.x.x, (probably even down to 1.5.2) but it would be\njust as easy to make it work on 3.x.x.\nI'll let the big guns do that...\n\nEnjoy finding simple solutions to often VERY difficult problems...\n\nBe aware of word wrapping etc...\n\nBazza,  G0LCU...\n

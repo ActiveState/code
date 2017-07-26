@@ -1,7 +1,5 @@
-## Tkinter treeview like a table or multicolumn listbox
-
-Originally published: 2017-01-11 18:59:15
-Last updated: 2017-05-02 22:27:48
-Author: Miguel Martínez López
-
+## Tkinter treeview like a table or multicolumn listboxOriginally published: 2017-01-11 18:59:15 
+Last updated: 2017-05-02 22:27:48 
+Author: Miguel Martínez López 
+ 
 This trick provides use my other recipe:\n\nhttps://code.activestate.com/recipes/580794-simple-multicolumn-listbox-for-tkinter/\n\nThis recipes defines a *Tk_Table:* A table that extends the multicolumn listbox adding row numbers, making the cells editable and adding autoscrollbars.\n\n*Tk_Table*\n\nIt has the same options than *Multicolumn_Listbox*, and some extra parameters to configure the new functionality.\n\nSetting the editable keyword to True, makes the widget editable.\n\nIf you want stripped rows, pass the stripped_rows with a tuple (or list) of two colors.\n\nIf you want row numbers, then pass to *row_numbers* parameter a True value.\n\nThese are the extra options for this class:\n\n- entry_background\n- entry_foreground\n- entry_validatecommand\n- entry_selectbackground\n- entry_selectborderwidth\n- entry_selectforeground\n- scrollbar_background\n- scrollbar_troughcolor\n- rowlabel_anchor\n- rowlabel_minwidth\n- rowlabel_hoverbackground\n- frame_relief\n- frame_borderwidth\n- frame_background\n- row_numbers

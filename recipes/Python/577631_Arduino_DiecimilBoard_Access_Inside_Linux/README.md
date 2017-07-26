@@ -1,7 +1,5 @@
-## Arduino Diecimila Board Access Inside Linux DEMO.
-
-Originally published: 2011-04-03 22:04:01
-Last updated: 2011-04-03 22:04:02
-Author: Barry Walker
-
+## Arduino Diecimila Board Access Inside Linux DEMO.Originally published: 2011-04-03 22:04:01 
+Last updated: 2011-04-03 22:04:02 
+Author: Barry Walker 
+ 
 Arduino-Linux2x.py\n\nThis is a simple Python example of accessing a(n) Arduino Diecimila Board using Standard Python 2.x.x.\n\nThis code requires NO PySerial to work, just standard Linux(/Unix?) commands and a Standard Python install.\n\nThe only prerequisite is that a root terminal is needed to start Python in.\n\nThis code is released as Public Domain and you can do with it as you please.\n\nTo get more values displayed it is best to use a potentiometer wired as one end to +5V, the other end to Gnd\nand the wiper to ANALOG IN 0. This has been tested on various Linux Distros and kept as simple as possible so\nthat anyone can understand it.\n\nThe required ?.pde file for the Arduino Board can be found here:-\n\nhttp://code.activestate.com/recipes/577625-arduino-diecimila-board-access-inside-winuae-demo/?in=lang-python\n\nSimilar assumptions are made as in the URL above.\n\nEnjoy finding simple solutions to often very difficult problems... ;o)\n

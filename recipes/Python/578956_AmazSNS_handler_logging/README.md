@@ -1,7 +1,5 @@
-## Amazon SNS handler for the logging module
-
-Originally published: 2014-11-06 17:29:23
-Last updated: 2014-11-06 17:32:26
-Author: Andrea Corbellini
-
+## Amazon SNS handler for the logging moduleOriginally published: 2014-11-06 17:29:23 
+Last updated: 2014-11-06 17:32:26 
+Author: Andrea Corbellini 
+ 
 This is a handler for the standard [logging](https://docs.python.org/library/logging.html) module that sends notifications to the [Amazon Simple Notification Service](http://aws.amazon.com/sns/).\n\nYou can use it like so:\n\n    logging.config.dictConfig({\n        'version': 1,\n        'disable_existing_loggers': False,\n        'formatters': {\n            'verbose': {\n                'format': '%(levelname)s %(asctime)s %(module)s %(process)d '\n                          '%(thread)d %(message)s',\n            },\n            'simple': {\n                'format': '%(levelname)s %(message)s',\n            },\n        },\n        'handlers': {\n            'sns': {\n                'level': 'INFO',\n                'class': 'SNSHandler',\n                'formatter': 'verbose',\n                'topic_arn': 'YOUR SNS TOPIC ARN',\n            },\n        },\n        'loggers': {\n            'YOUR MODULE': {\n                'handlers': ['sns'],\n                'level': 'INFO',\n                'propagate': True,\n            },\n        },\n    }

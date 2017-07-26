@@ -1,7 +1,5 @@
-## Not Quite So Simple QuickTime Player, Python Audio Capture.
-
-Originally published: 2014-11-08 19:10:57
-Last updated: 2014-11-08 19:10:58
-Author: Barry Walker
-
+## Not Quite So Simple QuickTime Player, Python Audio Capture.Originally published: 2014-11-08 19:10:57 
+Last updated: 2014-11-08 19:10:58 
+Author: Barry Walker 
+ 
 Not Quite So Simple QuickTime Player, Python Audio Capture.\n\nThis DEMO code captures a function to generate a user 5 second Audio sample in Apple *.aifc format.\nIt is then converted to DC quailty *.WAV format.\n\nIt uses default shell system files to do the task.\n\nAn AppleScript is created to do the sample but due to the limitations of QT Player there is a 1.5 second delay to allow QuickTine Player to start up.\nIt is not entirely quiet but unobtrusive enough as to be like quiet mode...\n\nThis is again a means a signal capture for an AudioScope without the need for special tools or installs.\n\nRead the code for more information.\n\nIMPORTANT!!! This DEMO WILL delete all *.aifc files inside the default $HOME/Movies directory, so be aware.\n\nA simple ALSA one is on its way too...\n\nIt actually works on Python 3.4.1 but I have no idea if it works below Python 2.5.6...\n\nBazza...\n

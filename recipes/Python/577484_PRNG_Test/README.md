@@ -1,7 +1,5 @@
-## PRNG Test
-
-Originally published: 2010-12-04 05:38:52
-Last updated: 2010-12-04 18:51:04
-Author: FB36 
-
+## PRNG TestOriginally published: 2010-12-04 05:38:52 
+Last updated: 2010-12-04 18:51:04 
+Author: FB36  
+ 
 This is a pseudo-random number generator test.\n\n(There are many known tests for pseudo-random generators\nbut I came up w/ this one on my own. I don't know\nif it is an already known method or not.)\n\nIdea is this:\nImagine if you generate a 1000-bit binary number using any\nPRNG (as 1-bit at a time) what is the probability that\nall bits will be 0 in the number?\n\nIf you had a true number generator then there is a real\nprobability (=1/(2**1000)) but if you use a PRNG then I would say the \nprobability is really 0!\n\nIf you had generated 2**1000 1000-bit numbers using a hypothetical \nTrue-Random Number Generator, assuming perfectly uniform probability\ndistribution, then TRNG would generate 1 number that contains 1000 zeros.\nThat is C(1000, 1000) = 1\n\nAssuming perfectly uniform probability distribution,\nC(n,k) gives you how many n-digit binary numbers would contain k zeros.\n\nThis code generates 2**n n-bit binary numbers (one bit at a time)\nusing the given PRNG and compares the actual distribution to the perfect \ndistribution of a hypothetical True-Random Number Generator.\n\n(I used n=20 in the code because the calculation takes too long.)\n

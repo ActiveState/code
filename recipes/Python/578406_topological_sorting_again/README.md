@@ -1,7 +1,5 @@
-## topological sorting again
-
-Originally published: 2013-01-07 14:51:50
-Last updated: 2013-03-06 19:21:11
-Author: yota 
-
+## topological sorting againOriginally published: 2013-01-07 14:51:50 
+Last updated: 2013-03-06 19:21:11 
+Author: yota  
+ 
 Topological sorting is the answer to the following question : in a direct acyclic graph, how can I pick up nodes "in order", such as upstream nodes are always before downstream ones ? Many solutions may exists, many algorithms too.\n\nAlas, it seems I'm too stupid to understand already proposed recipes on topological sorting. Hopefully I do grasp the "write once, read many" concept.\n\nHere, you will find a plain algorithm, optimized only for code clarity, of a topological sorting for direct acyclic graphs, implemented in python from the pseudo code found on [wikipedia](http://en.wikipedia.org/wiki/Topological_sorting):\n\n    L ← Empty list that will contain the sorted elements\n    S ← Set of all nodes with no incoming edges\n    while S is non-empty do\n        remove a node n from S\n        insert n into L\n        for each node m with an edge e from n to m do\n            remove edge e from the graph\n            if m has no other incoming edges then\n                insert m into S\n    if graph has edges then\n        return error (graph has at least one cycle)\n    else \n        return L (a topologically sorted order)\n\nOnly tested with python3.2, should work with other versions. Be careful, code indented with tabs, since space is evil è_é

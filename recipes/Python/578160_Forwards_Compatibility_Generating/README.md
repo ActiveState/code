@@ -1,7 +1,5 @@
-## Forwards Compatibility; Generating A Function On The Fly...
-
-Originally published: 2012-06-06 17:16:27
-Last updated: 2012-06-06 17:16:27
-Author: Barry Walker
-
+## Forwards Compatibility; Generating A Function On The Fly...Originally published: 2012-06-06 17:16:27 
+Last updated: 2012-06-06 17:16:27 
+Author: Barry Walker 
+ 
 This code auto-generates a function that converts a string to bytes only in Python Versions 3.x.x.\nThe function will NOT be generated in Python Versions 1.4.0 to 2.7.x. See the code for all the versions\ntested on. Inside the code are commented-out lines to show a practical usage for this and WILL be used\nin future /dev/audio or /dev/dsp access that I may develop...\n\nSee the notes right at the bottom and read all the notes inside the code...\n\nThis is NOT Public Domain like all my other stuff but is MIT licenced...\n\nEnjoy finding simple solutions to often very difficult problems...\n\nBazza, G0LCU...\n

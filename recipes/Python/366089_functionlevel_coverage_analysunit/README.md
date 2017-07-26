@@ -1,7 +1,5 @@
-## function-level coverage analysis for unit tests
-
-Originally published: 2005-02-06 21:47:04
-Last updated: 2005-02-17 18:50:03
-Author: scott moody
-
+## function-level coverage analysis for unit testsOriginally published: 2005-02-06 21:47:04 
+Last updated: 2005-02-17 18:50:03 
+Author: scott moody 
+ 
 Use this recipe to provide simple function/method coverage analysis within your unit test suites using the following steps within a unit test file:\n\nimport myModule\n<b>import coverage</b>\n\n<b>coverage.ignore=[</b>myModule.myClass1,myModule.function7,...<b>]</b>\n<b>coverage.watch(</b>myModule<b>)</b>\n\nclass TestMyModule:\n&nbsp;&nbsp;&nbsp;&nbsp;def test_one(self):\n &nbsp;&nbsp;&nbsp;&nbsp;.\n &nbsp;&nbsp;&nbsp;&nbsp;.\n&nbsp;&nbsp;&nbsp;&nbsp;.\n&nbsp;&nbsp;&nbsp;&nbsp;def test_coverage(self):\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;assert <b>coverage.uncovered()</b>==[]\n\n     where:\n  '<i>myModule</i>' is the module being tested.\n  '<i>coverage</i>' is the name given to the module containing this recipe.\n  '<i>coverage.ignore</i>' is an optional list of functions/methods/classes to be excluded from the coverage analysis.\n  '<i>coverage.watch(module_or_class)</i>' is called for each module and/or class to include in the coverage analysis.\n  '<i>coverage.uncovered()</i>' returns a list of functions/methods that were not called over the course of the unit test and that are not covered by the ignore list.

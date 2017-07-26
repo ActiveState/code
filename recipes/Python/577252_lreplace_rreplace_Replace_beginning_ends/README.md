@@ -1,7 +1,5 @@
-## lreplace() and rreplace(): Replace the beginning and ends of a strings
-
-Originally published: 2010-06-04 02:16:41
-Last updated: 2010-06-04 02:18:48
-Author: Dan McDougall
-
+## lreplace() and rreplace(): Replace the beginning and ends of a stringsOriginally published: 2010-06-04 02:16:41 
+Last updated: 2010-06-04 02:18:48 
+Author: Dan McDougall 
+ 
 Python newbies will often make the following mistake (I certainly have =):\n\n    >>> test = """this is a test:\n    ... tis the season for mistakes."""\n    >>> for line in test.split('\\n'):\n    ...     print line.lstrip('this')\n    ... \n     is a test\n     the season for mistakes.\n\nThe mistake is assuming that lstrip() (or rstrip()) strips a string (whole) when it actually strips all of the provided characters in the given string.  Python actually comes with no function to strip a string from the left-hand or right-hand side of a string so I wrote this (very simple) recipe to solve that problem.  Here's the usage:\n\n    >>> test = """this is a test:\n    ... tis the season for mistakes."""\n    >>> for line in test.split('\\n'):\n    ...     print lreplace('this', '', line)\n    ... \n     is a test\n    tis the season for mistakes.\n\nI really wish Python had these functions built into the string object.  I think it would be a useful addition to the standard library.  It would also be nicer to type this:\n\n    line.lreplace('this', '')\n\nInstead of this:\n\n    lreplace('this','',line)

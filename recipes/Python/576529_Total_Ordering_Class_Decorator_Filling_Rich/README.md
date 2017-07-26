@@ -1,7 +1,5 @@
-## Total Ordering: Class Decorator for Filling in Rich Comparison Methods When Only One is Implemented
-
-Originally published: 2008-10-05 19:57:34
-Last updated: 2008-10-28 11:54:42
-Author: Michael Foord
-
+## Total Ordering: Class Decorator for Filling in Rich Comparison Methods When Only One is ImplementedOriginally published: 2008-10-05 19:57:34 
+Last updated: 2008-10-28 11:54:42 
+Author: Michael Foord 
+ 
 ``total_ordering`` and ``force_total_ordering`` are class decorators for \nPython 2.6 & Python 3.\n\nThey provides *all* the rich comparison methods on a class by defining *any*\none of '__lt__', '__gt__', '__le__', '__ge__'.\n\n``total_ordering`` fills in all unimplemented rich comparison methods, assuming\nat least one is implemented. ``__lt__`` is taken as the base comparison method\non which the others are built, but if that is not available it will be\nconstructed from the first one found.\n\n``force_total_ordering`` does the same, but having taken a comparison method as\nthe base it fills in *all* the others - this overwrites additional comparison\nmethods that may be implemented, guaranteeing consistent comparison semantics.\n
