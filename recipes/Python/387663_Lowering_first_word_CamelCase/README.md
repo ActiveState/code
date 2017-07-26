@@ -1,4 +1,4 @@
-###Lowering the first word in a CamelCase Word
+## Lowering the first word in a CamelCase Word
 
 Originally published: 2005-02-16 13:13:45
 Last updated: 2005-02-16 13:13:45

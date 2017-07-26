@@ -1,4 +1,4 @@
-###Classifying letters as vowels or consonants and counting their frequencies
+## Classifying letters as vowels or consonants and counting their frequencies
 
 Originally published: 2017-01-17 20:05:09
 Last updated: 2017-01-17 20:05:10

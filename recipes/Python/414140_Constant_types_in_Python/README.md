@@ -1,4 +1,4 @@
-###Constant types in Python
+## Constant types in Python
 
 Originally published: 2005-05-13 09:08:54
 Last updated: 2005-05-15 18:46:12

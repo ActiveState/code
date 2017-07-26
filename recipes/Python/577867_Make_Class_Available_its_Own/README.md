@@ -1,4 +1,4 @@
-###Make a Class Available in its Own Definition Body!
+## Make a Class Available in its Own Definition Body!
 
 Originally published: 2011-09-15 03:37:12
 Last updated: 2011-09-15 05:36:36

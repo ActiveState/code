@@ -1,4 +1,4 @@
-###BaseDict -- a dict that (1) accesses data thru attributing (2) copy correctly
+## BaseDict -- a dict that (1) accesses data thru attributing (2) copy correctly
 
 Originally published: 2006-01-26 15:11:58
 Last updated: 2006-01-27 06:44:54

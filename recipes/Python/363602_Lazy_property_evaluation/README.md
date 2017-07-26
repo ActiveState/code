@@ -1,4 +1,4 @@
-###Lazy property evaluation
+## Lazy property evaluation
 
 Originally published: 2005-01-18 13:59:28
 Last updated: 2005-01-18 13:59:28

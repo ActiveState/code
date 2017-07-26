@@ -1,4 +1,4 @@
-###IMAP mailwatcher program using Tkinter
+## IMAP mailwatcher program using Tkinter
 
 Originally published: 2001-03-22 20:35:29
 Last updated: 2001-03-22 20:35:29

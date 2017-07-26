@@ -1,4 +1,4 @@
-###Binary BCD clock using curses
+## Binary BCD clock using curses
 
 Originally published: 2010-10-19 10:40:35
 Last updated: 2010-10-19 10:40:36

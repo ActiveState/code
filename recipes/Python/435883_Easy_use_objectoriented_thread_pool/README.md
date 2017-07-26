@@ -1,4 +1,4 @@
-###Easy to use object-oriented thread pool framework
+## Easy to use object-oriented thread pool framework
 
 Originally published: 2005-07-02 21:03:07
 Last updated: 2005-07-19 00:51:12

@@ -1,4 +1,4 @@
-###SimpleCryptSocketExt - SimpleCrypt Wrapper for Easy Socket, Client / Server Encryption
+## SimpleCryptSocketExt - SimpleCrypt Wrapper for Easy Socket, Client / Server Encryption
 
 Originally published: 2010-04-30 21:11:26
 Last updated: 2010-05-07 15:33:06

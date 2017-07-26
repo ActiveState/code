@@ -1,4 +1,4 @@
-###Simple Substitution Cipher Algorithm
+## Simple Substitution Cipher Algorithm
 
 Originally published: 2013-06-03 17:51:00
 Last updated: 2013-06-03 17:51:00

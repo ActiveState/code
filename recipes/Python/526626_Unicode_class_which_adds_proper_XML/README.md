@@ -1,4 +1,4 @@
-###Unicode class which adds proper XML declaration on encoding
+## Unicode class which adds proper XML declaration on encoding
 
 Originally published: 2007-08-09 04:52:45
 Last updated: 2007-08-09 04:52:45

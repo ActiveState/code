@@ -1,4 +1,4 @@
-###binascii.crc32 result to hex
+## binascii.crc32 result to hex
 
 Originally published: 2007-06-14 06:25:57
 Last updated: 2007-06-14 06:25:57

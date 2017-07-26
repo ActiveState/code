@@ -1,4 +1,4 @@
-###LazyGettext
+## LazyGettext
 
 Originally published: 2005-01-19 10:50:26
 Last updated: 2005-01-19 10:50:26

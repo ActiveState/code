@@ -1,4 +1,4 @@
-###C Fractal using recursion
+## C Fractal using recursion
 
 Originally published: 2010-07-19 00:05:08
 Last updated: 2010-07-19 00:05:08

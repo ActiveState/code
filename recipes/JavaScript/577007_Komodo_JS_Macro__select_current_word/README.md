@@ -1,4 +1,4 @@
-###Komodo JS Macro - select the current word under the cursor
+## Komodo JS Macro - select the current word under the cursor
 
 Originally published: 2010-01-14 12:30:17
 Last updated: 2010-01-14 12:30:17

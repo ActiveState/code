@@ -1,4 +1,4 @@
-###Python code clone detector (Don't Repeat Yourself)
+## Python code clone detector (Don't Repeat Yourself)
 
 Originally published: 2012-07-10 22:34:35
 Last updated: 2012-07-12 14:59:11

@@ -1,4 +1,4 @@
-###look ahead one item during iteration
+## look ahead one item during iteration
 
 Originally published: 2005-04-14 13:03:01
 Last updated: 2005-04-14 20:12:32

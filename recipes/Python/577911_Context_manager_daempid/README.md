@@ -1,4 +1,4 @@
-###Context manager for a daemon pid file
+## Context manager for a daemon pid file
 
 Originally published: 2011-10-17 12:41:57
 Last updated: 2013-10-07 21:03:30

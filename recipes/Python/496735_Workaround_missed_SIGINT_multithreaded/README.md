@@ -1,4 +1,4 @@
-###Workaround for missed SIGINT in multithreaded programs
+## Workaround for missed SIGINT in multithreaded programs
 
 Originally published: 2006-05-24 09:19:44
 Last updated: 2006-05-24 09:19:44

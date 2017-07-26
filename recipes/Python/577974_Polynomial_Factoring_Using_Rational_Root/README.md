@@ -1,4 +1,4 @@
-###Polynomial Factoring Using Rational Root Theorem
+## Polynomial Factoring Using Rational Root Theorem
 
 Originally published: 2011-12-03 23:51:06
 Last updated: 2011-12-03 23:51:07

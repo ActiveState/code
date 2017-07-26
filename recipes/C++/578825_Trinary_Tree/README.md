@@ -1,4 +1,4 @@
-###Tri-nary Tree: insertion and deletion
+## Tri-nary Tree: insertion and deletion
 
 Originally published: 2014-02-07 04:21:50
 Last updated: 2014-02-07 04:21:50

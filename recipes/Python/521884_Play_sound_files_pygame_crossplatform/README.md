@@ -1,4 +1,4 @@
-###Play sound files with pygame in a cross-platform manner
+## Play sound files with pygame in a cross-platform manner
 
 Originally published: 2007-06-04 15:19:54
 Last updated: 2007-06-21 14:16:58

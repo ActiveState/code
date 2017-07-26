@@ -1,4 +1,4 @@
-###C++-like iostream syntax in Python
+## C++-like iostream syntax in Python
 
 Originally published: 2002-10-16 20:13:49
 Last updated: 2002-10-16 20:13:49

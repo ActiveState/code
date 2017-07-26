@@ -1,4 +1,4 @@
-###extended great common divisor function
+## extended great common divisor function
 
 Originally published: 2006-03-10 02:29:28
 Last updated: 2006-03-14 21:02:28

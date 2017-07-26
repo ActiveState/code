@@ -1,4 +1,4 @@
-###Counter class
+## Counter class
 
 Originally published: 2013-07-18 05:40:06
 Last updated: 2013-07-18 05:40:07

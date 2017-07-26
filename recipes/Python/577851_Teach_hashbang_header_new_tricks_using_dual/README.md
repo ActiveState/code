@@ -1,4 +1,4 @@
-###Teach the hashbang header new tricks using a dual mode shell/python script
+## Teach the hashbang header new tricks using a dual mode shell/python script
 
 Originally published: 2011-08-21 07:27:04
 Last updated: 2011-08-21 07:27:05

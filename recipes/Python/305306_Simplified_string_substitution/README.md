@@ -1,4 +1,4 @@
-###Simplified string substitution
+## Simplified string substitution
 
 Originally published: 2004-09-18 02:59:47
 Last updated: 2004-10-24 08:57:28

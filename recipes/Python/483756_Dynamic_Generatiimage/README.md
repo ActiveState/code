@@ -1,4 +1,4 @@
-###Dynamic Generation of image labels
+## Dynamic Generation of image labels
 
 Originally published: 2006-04-11 11:24:02
 Last updated: 2006-04-11 11:24:02

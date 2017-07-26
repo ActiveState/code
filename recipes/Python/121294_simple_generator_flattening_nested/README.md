@@ -1,4 +1,4 @@
-###simple generator for flattening nested containers
+## simple generator for flattening nested containers
 
 Originally published: 2002-04-17 17:53:37
 Last updated: 2002-04-17 17:53:37

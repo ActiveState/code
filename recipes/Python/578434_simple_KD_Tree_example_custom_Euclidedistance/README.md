@@ -1,4 +1,4 @@
-###A simple KD Tree example with custom Euclidean distance ball query.
+## A simple KD Tree example with custom Euclidean distance ball query.
 
 Originally published: 2013-01-24 10:27:07
 Last updated: 2013-01-24 10:28:24

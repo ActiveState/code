@@ -1,4 +1,4 @@
-###Install LTPA config details into WAS.
+## Install LTPA config details into WAS.
 
 Originally published: 2005-10-18 23:12:15
 Last updated: 2005-10-18 23:12:15

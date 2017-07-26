@@ -1,4 +1,4 @@
-###Left-handed password generator
+## Left-handed password generator
 
 Originally published: 2011-10-30 08:30:51
 Last updated: 2011-10-31 12:51:14

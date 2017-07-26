@@ -1,4 +1,4 @@
-###The eight, most annoying lines of code I ever did write.
+## The eight, most annoying lines of code I ever did write.
 
 Originally published: 2005-10-03 09:54:27
 Last updated: 2005-10-03 09:54:27

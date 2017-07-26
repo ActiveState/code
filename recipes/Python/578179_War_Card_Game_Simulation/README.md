@@ -1,4 +1,4 @@
-###War Card Game Simulation
+## War Card Game Simulation
 
 Originally published: 2012-07-01 01:23:02
 Last updated: 2012-07-01 01:23:03

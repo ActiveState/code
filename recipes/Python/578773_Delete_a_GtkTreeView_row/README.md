@@ -1,4 +1,4 @@
-###Delete a Gtk.TreeView row
+## Delete a Gtk.TreeView row
 
 Originally published: 2013-11-27 13:59:58
 Last updated: 2013-11-27 13:59:58

@@ -1,4 +1,4 @@
-###Class-only Methods
+## Class-only Methods
 
 Originally published: 2013-03-07 19:55:04
 Last updated: 2013-03-08 17:00:53

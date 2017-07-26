@@ -1,4 +1,4 @@
-###Mayan Calendar
+## Mayan Calendar
 
 Originally published: 2001-12-07 10:59:07
 Last updated: 2001-12-07 10:59:07

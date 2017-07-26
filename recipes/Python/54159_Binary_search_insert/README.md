@@ -1,4 +1,4 @@
-###Binary search and insert in Python
+## Binary search and insert in Python
 
 Originally published: 2001-04-20 20:05:40
 Last updated: 2001-04-25 05:09:37

@@ -1,4 +1,4 @@
-###Game of Life - Python 3.4 & tkinter
+## Game of Life - Python 3.4 & tkinter
 
 Originally published: 2014-09-05 15:02:10
 Last updated: 2014-09-05 15:02:11

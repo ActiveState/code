@@ -1,4 +1,4 @@
-###Shortest Common Supersequence algorithms
+## Shortest Common Supersequence algorithms
 
 Originally published: 2013-10-02 12:51:05
 Last updated: 2013-10-02 12:52:23

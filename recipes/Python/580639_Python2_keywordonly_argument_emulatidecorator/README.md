@@ -1,4 +1,4 @@
-###Python2 keyword-only argument emulation as a decorator. Python3 compatible.
+## Python2 keyword-only argument emulation as a decorator. Python3 compatible.
 
 Originally published: 2016-04-10 00:52:25
 Last updated: 2016-04-15 13:25:20

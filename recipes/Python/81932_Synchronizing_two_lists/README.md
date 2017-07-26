@@ -1,4 +1,4 @@
-###Synchronizing two lists
+## Synchronizing two lists
 
 Originally published: 2001-10-15 20:19:32
 Last updated: 2001-10-15 20:19:32

@@ -1,4 +1,4 @@
-###Extract verbatim texts from LaTeX file
+## Extract verbatim texts from LaTeX file
 
 Originally published: 2004-07-15 15:35:21
 Last updated: 2004-07-15 15:35:21

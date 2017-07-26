@@ -1,4 +1,4 @@
-###extract email addresses from files
+## extract email addresses from files
 
 Originally published: 2002-07-10 16:38:29
 Last updated: 2002-07-10 16:38:29

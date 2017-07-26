@@ -1,4 +1,4 @@
-###Creating methods of a class at construction time
+## Creating methods of a class at construction time
 
 Originally published: 2005-02-28 07:44:19
 Last updated: 2005-02-28 07:44:19

@@ -1,4 +1,4 @@
-###Multi-threaded Mandelbrot Fractal Applet
+## Multi-threaded Mandelbrot Fractal Applet
 
 Originally published: 2010-03-27 16:09:41
 Last updated: 2010-03-27 16:09:42

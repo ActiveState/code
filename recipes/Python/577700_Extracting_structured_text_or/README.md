@@ -1,4 +1,4 @@
-###Extracting structured text or code
+## Extracting structured text or code
 
 Originally published: 2011-05-17 15:00:20
 Last updated: 2011-05-18 13:04:01

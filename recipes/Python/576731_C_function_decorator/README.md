@@ -1,4 +1,4 @@
-###C function decorator
+## C function decorator
 
 Originally published: 2009-04-26 14:52:06
 Last updated: 2009-04-29 23:55:03

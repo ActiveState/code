@@ -1,4 +1,4 @@
-###Simple telnet session scripting
+## Simple telnet session scripting
 
 Originally published: 2002-09-25 10:10:14
 Last updated: 2002-09-25 19:47:17

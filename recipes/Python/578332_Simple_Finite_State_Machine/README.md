@@ -1,4 +1,4 @@
-###Simple Finite State Machine class
+## Simple Finite State Machine class
 
 Originally published: 2012-11-18 11:36:27
 Last updated: 2012-11-20 14:37:34

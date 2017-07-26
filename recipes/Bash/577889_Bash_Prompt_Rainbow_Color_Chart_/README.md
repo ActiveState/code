@@ -1,4 +1,4 @@
-###Bash Prompt Rainbow Color Chart 
+## Bash Prompt Rainbow Color Chart 
 
 Originally published: 2011-10-02 20:36:26
 Last updated: 2011-10-02 21:39:21

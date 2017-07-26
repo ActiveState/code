@@ -1,4 +1,4 @@
-###Extending ConfigParser for reading and writing options from Windows Registry
+## Extending ConfigParser for reading and writing options from Windows Registry
 
 Originally published: 2002-07-11 02:48:41
 Last updated: 2002-07-11 02:48:41

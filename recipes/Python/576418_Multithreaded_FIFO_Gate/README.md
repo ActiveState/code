@@ -1,4 +1,4 @@
-###Multithreaded FIFO Gate
+## Multithreaded FIFO Gate
 
 Originally published: 2008-08-13 05:32:48
 Last updated: 2008-09-08 08:29:14

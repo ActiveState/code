@@ -1,4 +1,4 @@
-###Simple Back-propagation Neural Network in Python  source code
+## Simple Back-propagation Neural Network in Python  source code
 
 Originally published: 2012-05-30 17:09:48
 Last updated: 2012-05-30 17:09:49

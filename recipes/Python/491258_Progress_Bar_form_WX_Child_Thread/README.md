@@ -1,4 +1,4 @@
-###Progress Bar form WX in Child Thread of Main Python Code.
+## Progress Bar form WX in Child Thread of Main Python Code.
 
 Originally published: 2006-04-14 02:27:47
 Last updated: 2006-04-14 09:30:59

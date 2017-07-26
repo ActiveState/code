@@ -1,4 +1,4 @@
-###A File-Like Object to True File Object Adapter
+## A File-Like Object to True File Object Adapter
 
 Originally published: 2003-05-28 12:14:05
 Last updated: 2003-05-28 12:14:05

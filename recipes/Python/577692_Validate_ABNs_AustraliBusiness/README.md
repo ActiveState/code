@@ -1,4 +1,4 @@
-###Validate ABNs (Australian Business Numbers)
+## Validate ABNs (Australian Business Numbers)
 
 Originally published: 2011-05-13 03:22:08
 Last updated: 2011-05-13 03:22:12

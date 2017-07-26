@@ -1,4 +1,4 @@
-###Extract (Kill) mail attachments
+## Extract (Kill) mail attachments
 
 Originally published: 2003-11-27 04:42:54
 Last updated: 2003-11-27 04:42:54

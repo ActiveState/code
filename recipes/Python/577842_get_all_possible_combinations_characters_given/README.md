@@ -1,4 +1,4 @@
-###get all possible combinations of characters given a string
+## get all possible combinations of characters given a string
 
 Originally published: 2011-08-15 04:15:41
 Last updated: 2011-08-15 04:15:42

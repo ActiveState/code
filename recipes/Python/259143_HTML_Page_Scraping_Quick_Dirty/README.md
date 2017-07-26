@@ -1,4 +1,4 @@
-###HTML Page Scraping (of the Quick and Dirty Variety)
+## HTML Page Scraping (of the Quick and Dirty Variety)
 
 Originally published: 2003-12-31 09:34:48
 Last updated: 2003-12-31 17:43:07

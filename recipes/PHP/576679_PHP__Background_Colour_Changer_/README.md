@@ -1,4 +1,4 @@
-###PHP - Background Colour Changer 
+## PHP - Background Colour Changer 
 
 Originally published: 2009-03-05 05:10:30
 Last updated: 2009-03-05 05:22:31

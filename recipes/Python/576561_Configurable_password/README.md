@@ -1,4 +1,4 @@
-###Configurable password generator/checker
+## Configurable password generator/checker
 
 Originally published: 2008-11-10 01:50:17
 Last updated: 2008-11-10 01:50:54

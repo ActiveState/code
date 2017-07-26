@@ -1,4 +1,4 @@
-###A threading.Event you can pickle
+## A threading.Event you can pickle
 
 Originally published: 2006-02-07 07:59:16
 Last updated: 2006-02-07 07:59:16

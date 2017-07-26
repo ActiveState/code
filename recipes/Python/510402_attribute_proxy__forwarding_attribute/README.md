@@ -1,4 +1,4 @@
-###attribute proxy - forwarding attribute access
+## attribute proxy - forwarding attribute access
 
 Originally published: 2007-03-21 10:28:42
 Last updated: 2007-03-21 10:28:42

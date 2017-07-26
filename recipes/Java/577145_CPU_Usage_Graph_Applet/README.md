@@ -1,4 +1,4 @@
-###CPU Usage Graph Applet
+## CPU Usage Graph Applet
 
 Originally published: 2010-03-26 01:12:44
 Last updated: 2010-03-26 01:12:44

@@ -1,4 +1,4 @@
-###lpr-based printer module for *nix
+## lpr-based printer module for *nix
 
 Originally published: 2007-04-30 06:34:39
 Last updated: 2007-04-30 06:34:39

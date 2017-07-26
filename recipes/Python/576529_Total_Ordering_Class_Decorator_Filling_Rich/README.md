@@ -1,4 +1,4 @@
-###Total Ordering: Class Decorator for Filling in Rich Comparison Methods When Only One is Implemented
+## Total Ordering: Class Decorator for Filling in Rich Comparison Methods When Only One is Implemented
 
 Originally published: 2008-10-05 19:57:34
 Last updated: 2008-10-28 11:54:42

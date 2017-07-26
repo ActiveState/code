@@ -1,4 +1,4 @@
-###Enhancing dir() with globs
+## Enhancing dir() with globs
 
 Originally published: 2011-07-01 04:03:45
 Last updated: 2011-07-01 04:03:46

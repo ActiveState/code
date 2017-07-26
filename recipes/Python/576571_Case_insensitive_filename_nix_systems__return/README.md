@@ -1,4 +1,4 @@
-###Case insensitive filename on *nix systems - return the correct case filename
+## Case insensitive filename on *nix systems - return the correct case filename
 
 Originally published: 2008-11-25 07:59:52
 Last updated: 2008-11-25 16:27:13

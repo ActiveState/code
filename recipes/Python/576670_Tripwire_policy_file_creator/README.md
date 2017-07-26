@@ -1,4 +1,4 @@
-###Tripwire policy file creator
+## Tripwire policy file creator
 
 Originally published: 2009-02-25 20:30:15
 Last updated: 2009-02-25 20:30:15

@@ -1,4 +1,4 @@
-###HTTP basic authentication
+## HTTP basic authentication
 
 Originally published: 2004-09-15 08:44:51
 Last updated: 2004-10-05 14:05:47

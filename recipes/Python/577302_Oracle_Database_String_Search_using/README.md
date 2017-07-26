@@ -1,4 +1,4 @@
-###Oracle Database String Search using cx_Oracle
+## Oracle Database String Search using cx_Oracle
 
 Originally published: 2010-07-11 19:32:35
 Last updated: 2013-07-26 21:58:30

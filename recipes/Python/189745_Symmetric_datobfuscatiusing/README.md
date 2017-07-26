@@ -1,4 +1,4 @@
-###Symmetric data obfuscation using xor
+## Symmetric data obfuscation using xor
 
 Originally published: 2003-03-16 05:21:01
 Last updated: 2003-03-16 05:21:01

@@ -1,4 +1,4 @@
-###Generating Code Coverage HTML Output
+## Generating Code Coverage HTML Output
 
 Originally published: 2006-04-20 09:56:42
 Last updated: 2010-10-17 15:17:44

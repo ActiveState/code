@@ -1,4 +1,4 @@
-###Extract elements with id attributes from HTML
+## Extract elements with id attributes from HTML
 
 Originally published: 2006-06-08 10:55:27
 Last updated: 2006-06-08 10:55:27

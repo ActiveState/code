@@ -1,4 +1,4 @@
-###Robust Textual Tables
+## Robust Textual Tables
 
 Originally published: 2007-05-05 22:58:10
 Last updated: 2007-05-06 06:25:08

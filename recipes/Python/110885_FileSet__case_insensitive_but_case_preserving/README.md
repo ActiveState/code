@@ -1,4 +1,4 @@
-###FileSet - case insensitive but case preserving set of files
+## FileSet - case insensitive but case preserving set of files
 
 Originally published: 2002-01-29 23:53:14
 Last updated: 2002-01-29 23:53:14

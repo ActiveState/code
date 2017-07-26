@@ -1,4 +1,4 @@
-###two dict classes which can lookup keys by value, and values by key
+## two dict classes which can lookup keys by value, and values by key
 
 Originally published: 2005-06-02 19:33:29
 Last updated: 2005-06-22 08:44:20

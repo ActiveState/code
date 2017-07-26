@@ -1,4 +1,4 @@
-###Round-Robin Pairings Generator
+## Round-Robin Pairings Generator
 
 Originally published: 2001-06-13 19:45:02
 Last updated: 2001-06-13 19:45:02

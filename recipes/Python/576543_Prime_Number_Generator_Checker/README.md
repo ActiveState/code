@@ -1,4 +1,4 @@
-###Prime Number Generator Checker
+## Prime Number Generator Checker
 
 Originally published: 2008-10-27 12:29:23
 Last updated: 2008-10-28 12:14:03

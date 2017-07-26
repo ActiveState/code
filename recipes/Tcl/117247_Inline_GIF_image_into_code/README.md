@@ -1,4 +1,4 @@
-###Inline GIF image into code
+## Inline GIF image into code
 
 Originally published: 2002-03-18 13:47:20
 Last updated: 2002-03-18 13:47:20

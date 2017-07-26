@@ -1,4 +1,4 @@
-###PHP 'Struct' port
+## PHP 'Struct' port
 
 Originally published: 2010-03-28 01:15:24
 Last updated: 2010-03-28 01:22:31

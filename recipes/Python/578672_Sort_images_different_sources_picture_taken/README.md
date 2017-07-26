@@ -1,4 +1,4 @@
-###Sort images from different sources by picture taken date (Exif)
+## Sort images from different sources by picture taken date (Exif)
 
 Originally published: 2013-09-24 12:16:41
 Last updated: 2013-09-24 12:43:31

@@ -1,4 +1,4 @@
-###Fetch all (new) xkcd strips
+## Fetch all (new) xkcd strips
 
 Originally published: 2009-08-15 12:15:17
 Last updated: 2009-08-15 12:15:17

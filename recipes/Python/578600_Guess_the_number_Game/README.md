@@ -1,4 +1,4 @@
-###Guess the number, Game
+## Guess the number, Game
 
 Originally published: 2013-07-10 17:49:29
 Last updated: 2013-07-10 17:49:30

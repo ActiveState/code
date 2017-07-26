@@ -1,4 +1,4 @@
-###get the IP address associated with a network interface (linux only)
+## get the IP address associated with a network interface (linux only)
 
 Originally published: 2005-08-11 13:30:18
 Last updated: 2005-08-11 13:30:18

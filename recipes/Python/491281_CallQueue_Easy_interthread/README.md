@@ -1,4 +1,4 @@
-###CallQueue: Easy inter-thread communication
+## CallQueue: Easy inter-thread communication
 
 Originally published: 2006-04-21 05:25:27
 Last updated: 2006-04-22 08:52:08

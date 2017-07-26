@@ -1,4 +1,4 @@
-###Function emulation using __call__
+## Function emulation using __call__
 
 Originally published: 2005-10-14 03:07:25
 Last updated: 2005-11-21 02:15:46

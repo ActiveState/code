@@ -1,4 +1,4 @@
-###Bilinear Interpolation
+## Bilinear Interpolation
 
 Originally published: 2013-02-23 04:00:52
 Last updated: 2013-02-23 04:00:52

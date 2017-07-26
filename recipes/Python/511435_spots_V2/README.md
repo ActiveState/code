@@ -1,4 +1,4 @@
-###spots (V2)
+## spots (V2)
 
 Originally published: 2007-03-28 15:28:58
 Last updated: 2007-03-28 15:28:58

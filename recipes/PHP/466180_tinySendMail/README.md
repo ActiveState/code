@@ -1,4 +1,4 @@
-###tinySendMail
+## tinySendMail
 
 Originally published: 2006-01-08 14:14:49
 Last updated: 2006-01-08 14:14:49

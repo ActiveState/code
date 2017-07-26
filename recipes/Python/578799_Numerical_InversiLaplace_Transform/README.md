@@ -1,4 +1,4 @@
-###Numerical Inversion of the Laplace Transform with mpmath
+## Numerical Inversion of the Laplace Transform with mpmath
 
 Originally published: 2013-12-27 05:10:11
 Last updated: 2013-12-27 05:10:12

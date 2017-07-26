@@ -1,4 +1,4 @@
-###Simple stoppable server using socket timeout
+## Simple stoppable server using socket timeout
 
 Originally published: 2005-06-09 00:35:47
 Last updated: 2005-06-09 00:35:47

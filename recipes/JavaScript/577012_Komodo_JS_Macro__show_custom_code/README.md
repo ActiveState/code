@@ -1,4 +1,4 @@
-###Komodo JS Macro - show custom code completions
+## Komodo JS Macro - show custom code completions
 
 Originally published: 2010-01-18 13:28:16
 Last updated: 2010-01-18 13:28:16

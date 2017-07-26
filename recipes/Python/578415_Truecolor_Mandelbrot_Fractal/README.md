@@ -1,4 +1,4 @@
-###True-color Mandelbrot Fractal
+## True-color Mandelbrot Fractal
 
 Originally published: 2013-01-13 20:30:47
 Last updated: 2013-01-14 02:07:47

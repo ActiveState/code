@@ -1,4 +1,4 @@
-###VSS Integration Module
+## VSS Integration Module
 
 Originally published: 2006-02-13 07:14:10
 Last updated: 2006-02-13 07:14:10

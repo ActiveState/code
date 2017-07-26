@@ -1,4 +1,4 @@
-###Python reader for SPSS .por files
+## Python reader for SPSS .por files
 
 Originally published: 2009-06-15 15:37:39
 Last updated: 2009-06-15 15:37:39

@@ -1,4 +1,4 @@
-###Split into roughly equal sized columns
+## Split into roughly equal sized columns
 
 Originally published: 2005-06-21 23:39:01
 Last updated: 2005-06-22 06:49:42

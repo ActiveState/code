@@ -1,4 +1,4 @@
-###Transparently execute SQL queries as prepared statements with Postgresql
+## Transparently execute SQL queries as prepared statements with Postgresql
 
 Originally published: 2009-03-22 18:21:07
 Last updated: 2009-03-23 07:30:07

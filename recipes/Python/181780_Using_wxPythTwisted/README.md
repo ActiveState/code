@@ -1,4 +1,4 @@
-###Using wxPython with Twisted Python
+## Using wxPython with Twisted Python
 
 Originally published: 2003-02-21 02:38:30
 Last updated: 2003-02-21 02:38:30

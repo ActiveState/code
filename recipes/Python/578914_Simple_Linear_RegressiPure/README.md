@@ -1,4 +1,4 @@
-###Simple Linear Regression with Pure Python
+## Simple Linear Regression with Pure Python
 
 Originally published: 2014-07-31 15:55:14
 Last updated: 2014-07-31 15:55:15

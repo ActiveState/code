@@ -1,4 +1,4 @@
-###MultiSided Dice Roller DSL
+## MultiSided Dice Roller DSL
 
 Originally published: 2008-05-30 13:14:35
 Last updated: 2008-05-30 13:14:35

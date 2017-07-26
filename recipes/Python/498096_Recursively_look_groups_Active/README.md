@@ -1,4 +1,4 @@
-###Recursively look up groups in Active Directory
+## Recursively look up groups in Active Directory
 
 Originally published: 2006-09-14 06:49:46
 Last updated: 2006-09-14 06:49:46

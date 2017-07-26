@@ -1,4 +1,4 @@
-###A Basic USe flag EDitor for Gentoo Linux supporting on-the-fly editing
+## A Basic USe flag EDitor for Gentoo Linux supporting on-the-fly editing
 
 Originally published: 2015-02-28 07:04:31
 Last updated: 2015-02-28 07:04:31

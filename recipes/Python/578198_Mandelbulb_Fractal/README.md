@@ -1,4 +1,4 @@
-###Mandelbulb Fractal
+## Mandelbulb Fractal
 
 Originally published: 2012-07-08 00:10:25
 Last updated: 2012-07-08 00:10:25

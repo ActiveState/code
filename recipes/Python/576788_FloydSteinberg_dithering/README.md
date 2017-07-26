@@ -1,4 +1,4 @@
-###Floyd-Steinberg dithering algorithm
+## Floyd-Steinberg dithering algorithm
 
 Originally published: 2009-06-02 01:28:46
 Last updated: 2009-06-02 01:28:46

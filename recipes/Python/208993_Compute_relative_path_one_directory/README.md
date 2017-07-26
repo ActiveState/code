@@ -1,4 +1,4 @@
-###Compute relative path from one directory to another
+## Compute relative path from one directory to another
 
 Originally published: 2003-07-06 02:05:21
 Last updated: 2003-07-06 02:05:21

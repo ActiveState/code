@@ -1,4 +1,4 @@
-###Another relative filepath script
+## Another relative filepath script
 
 Originally published: 2004-08-30 07:32:36
 Last updated: 2004-09-16 11:33:22

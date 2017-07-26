@@ -1,4 +1,4 @@
-###Control CPU Usage by using ctypes (Win32 Platform)
+## Control CPU Usage by using ctypes (Win32 Platform)
 
 Originally published: 2009-01-26 09:27:40
 Last updated: 2009-01-26 09:32:34

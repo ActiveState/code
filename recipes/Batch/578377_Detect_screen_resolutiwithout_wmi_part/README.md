@@ -1,4 +1,4 @@
-###Detect screen resolution without wmi (part 2)
+## Detect screen resolution without wmi (part 2)
 
 Originally published: 2012-12-12 12:40:24
 Last updated: 2012-12-12 12:40:24

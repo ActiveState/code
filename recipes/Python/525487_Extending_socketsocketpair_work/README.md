@@ -1,4 +1,4 @@
-###Extending socket.socketpair() to work on Windows
+## Extending socket.socketpair() to work on Windows
 
 Originally published: 2007-07-22 22:36:21
 Last updated: 2007-07-22 22:36:21

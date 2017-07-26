@@ -1,4 +1,4 @@
-###Simple model to predict UK Interest Rates
+## Simple model to predict UK Interest Rates
 
 Originally published: 2014-06-13 14:29:36
 Last updated: 2014-06-13 14:29:36

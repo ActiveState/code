@@ -1,4 +1,4 @@
-###Wrap a a file-like object in another that calls a user callback whenever read() is called on it.
+## Wrap a a file-like object in another that calls a user callback whenever read() is called on it.
 
 Originally published: 2013-09-25 01:49:53
 Last updated: 2013-09-25 01:54:53

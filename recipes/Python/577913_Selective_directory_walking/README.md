@@ -1,4 +1,4 @@
-###Selective directory walking
+## Selective directory walking
 
 Originally published: 2011-10-19 06:34:56
 Last updated: 2011-10-20 05:05:39

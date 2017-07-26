@@ -1,4 +1,4 @@
-###Convert a transcript with Ansi escape sequences to HTML
+## Convert a transcript with Ansi escape sequences to HTML
 
 Originally published: 2010-08-09 10:54:32
 Last updated: 2010-10-09 22:29:42

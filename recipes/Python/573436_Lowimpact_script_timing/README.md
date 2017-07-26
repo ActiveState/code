@@ -1,4 +1,4 @@
-###Low-impact script timing
+## Low-impact script timing
 
 Originally published: 2008-05-30 12:16:07
 Last updated: 2008-07-30 08:43:03

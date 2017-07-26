@@ -1,4 +1,4 @@
-###Depth first search generator
+## Depth first search generator
 
 Originally published: 2009-11-03 06:36:16
 Last updated: 2009-11-09 04:46:21

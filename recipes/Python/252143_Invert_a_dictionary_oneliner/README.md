@@ -1,4 +1,4 @@
-###Invert a dictionary (one-liner)
+## Invert a dictionary (one-liner)
 
 Originally published: 2003-11-17 20:38:28
 Last updated: 2003-11-17 20:38:28

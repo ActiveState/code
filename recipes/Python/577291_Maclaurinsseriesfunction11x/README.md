@@ -1,4 +1,4 @@
-###Maclaurin's_series_function(1/1-x)
+## Maclaurin's_series_function(1/1-x)
 
 Originally published: 2010-07-07 12:32:45
 Last updated: 2010-07-07 12:36:23

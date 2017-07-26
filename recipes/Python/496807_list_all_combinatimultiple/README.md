@@ -1,4 +1,4 @@
-###list of all combination from multiple lists
+## list of all combination from multiple lists
 
 Originally published: 2006-06-19 17:19:27
 Last updated: 2006-06-19 17:19:27

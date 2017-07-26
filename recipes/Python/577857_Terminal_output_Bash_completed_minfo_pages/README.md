@@ -1,4 +1,4 @@
-###Terminal output of the "Bash completed man and info pages generation" recipe
+## Terminal output of the "Bash completed man and info pages generation" recipe
 
 Originally published: 2011-08-24 02:37:58
 Last updated: 2011-08-24 02:37:59

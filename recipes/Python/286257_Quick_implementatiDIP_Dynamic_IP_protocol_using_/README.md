@@ -1,4 +1,4 @@
-###Quick implementation of DIP (Dynamic IP) protocol using Twisted
+## Quick implementation of DIP (Dynamic IP) protocol using Twisted
 
 Originally published: 2004-07-22 02:27:24
 Last updated: 2004-07-26 11:25:23

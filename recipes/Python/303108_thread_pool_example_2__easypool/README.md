@@ -1,4 +1,4 @@
-###thread pool example #2 -- easy_pool class
+## thread pool example #2 -- easy_pool class
 
 Originally published: 2004-09-02 07:29:07
 Last updated: 2004-09-08 13:48:11

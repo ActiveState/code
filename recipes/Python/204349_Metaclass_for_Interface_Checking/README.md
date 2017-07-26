@@ -1,4 +1,4 @@
-###Metaclass for Interface Checking
+## Metaclass for Interface Checking
 
 Originally published: 2003-06-09 01:03:35
 Last updated: 2003-06-12 02:00:39

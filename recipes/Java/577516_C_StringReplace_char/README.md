@@ -1,4 +1,4 @@
-###C# String.Replace with a char array
+## C# String.Replace with a char array
 
 Originally published: 2010-12-24 09:58:34
 Last updated: 2010-12-24 09:58:35

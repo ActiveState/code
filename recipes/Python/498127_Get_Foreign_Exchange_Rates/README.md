@@ -1,4 +1,4 @@
-###Get Foreign Exchange Rates
+## Get Foreign Exchange Rates
 
 Originally published: 2006-09-22 22:51:57
 Last updated: 2006-09-23 06:15:56

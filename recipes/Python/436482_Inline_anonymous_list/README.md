@@ -1,4 +1,4 @@
-###In-line anonymous list comprehension functions
+## In-line anonymous list comprehension functions
 
 Originally published: 2005-07-12 15:05:24
 Last updated: 2005-07-12 15:05:24

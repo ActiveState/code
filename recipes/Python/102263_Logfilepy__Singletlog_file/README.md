@@ -1,4 +1,4 @@
-###Logfile.py - A Singleton log file creator
+## Logfile.py - A Singleton log file creator
 
 Originally published: 2001-12-13 14:38:20
 Last updated: 2001-12-13 14:38:20

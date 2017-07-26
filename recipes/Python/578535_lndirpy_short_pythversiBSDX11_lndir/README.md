@@ -1,4 +1,4 @@
-###lndir.py (short python version of the BSD/X11 lndir utility)
+## lndir.py (short python version of the BSD/X11 lndir utility)
 
 Originally published: 2013-05-28 06:54:36
 Last updated: 2013-05-28 07:21:28

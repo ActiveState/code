@@ -1,4 +1,4 @@
-###These Nasty Closures - Caveats for the Closure Enthusiast
+## These Nasty Closures - Caveats for the Closure Enthusiast
 
 Originally published: 2007-03-03 11:31:05
 Last updated: 2007-03-03 11:31:05

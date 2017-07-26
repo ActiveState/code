@@ -1,4 +1,4 @@
-###Plotting maps with Polar Stereographic projection focused in a region with Basemap
+## Plotting maps with Polar Stereographic projection focused in a region with Basemap
 
 Originally published: 2012-12-14 18:25:26
 Last updated: 2012-12-15 11:49:52

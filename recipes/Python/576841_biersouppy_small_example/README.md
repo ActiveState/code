@@ -1,4 +1,4 @@
-###bier-soup.py, a small example of BeautifulSoup
+## bier-soup.py, a small example of BeautifulSoup
 
 Originally published: 2009-07-14 11:32:00
 Last updated: 2009-07-24 05:59:43

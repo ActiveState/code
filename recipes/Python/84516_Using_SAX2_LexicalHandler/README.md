@@ -1,4 +1,4 @@
-###Using the SAX2 LexicalHandler Interface
+## Using the SAX2 LexicalHandler Interface
 
 Originally published: 2001-10-31 13:33:41
 Last updated: 2001-10-31 13:33:41

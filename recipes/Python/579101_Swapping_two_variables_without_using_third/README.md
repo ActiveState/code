@@ -1,4 +1,4 @@
-###Swapping two variables without using a third (temporary) variable
+## Swapping two variables without using a third (temporary) variable
 
 Originally published: 2015-09-19 19:51:21
 Last updated: 2015-09-19 19:51:22

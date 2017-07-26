@@ -1,4 +1,4 @@
-###sparse: A dictionary based sparse matrix class
+## sparse: A dictionary based sparse matrix class
 
 Originally published: 2001-03-16 08:02:38
 Last updated: 2005-04-18 00:17:29

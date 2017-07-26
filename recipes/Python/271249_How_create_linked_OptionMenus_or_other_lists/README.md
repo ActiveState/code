@@ -1,4 +1,4 @@
-###How to create linked OptionMenus (or other lists) in Tkinter
+## How to create linked OptionMenus (or other lists) in Tkinter
 
 Originally published: 2004-02-26 21:55:20
 Last updated: 2004-02-26 21:55:20

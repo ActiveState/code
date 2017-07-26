@@ -1,4 +1,4 @@
-###avoid running multiple copies of pine
+## avoid running multiple copies of pine
 
 Originally published: 2005-08-16 09:44:05
 Last updated: 2005-08-16 09:44:05

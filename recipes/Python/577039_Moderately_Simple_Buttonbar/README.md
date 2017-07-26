@@ -1,4 +1,4 @@
-###A Moderately Simple Buttonbar Program
+## A Moderately Simple Buttonbar Program
 
 Originally published: 2010-02-10 02:08:37
 Last updated: 2010-02-10 02:08:37

@@ -1,4 +1,4 @@
-###Promot & Verify Encrypted User Password
+## Promot & Verify Encrypted User Password
 
 Originally published: 2013-01-19 04:10:12
 Last updated: 2013-01-19 04:10:13

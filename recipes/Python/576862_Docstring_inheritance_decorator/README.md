@@ -1,4 +1,4 @@
-###Docstring inheritance decorator
+## Docstring inheritance decorator
 
 Originally published: 2009-07-28 13:42:32
 Last updated: 2009-07-28 13:42:32

@@ -1,4 +1,4 @@
-###Improved Gray Scale Quantization
+## Improved Gray Scale Quantization
 
 Originally published: 2003-12-24 01:44:38
 Last updated: 2003-12-24 01:44:38

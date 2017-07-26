@@ -1,4 +1,4 @@
-###Class Adoption
+## Class Adoption
 
 Originally published: 2001-10-16 01:13:22
 Last updated: 2001-10-16 01:13:22

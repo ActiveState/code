@@ -1,4 +1,4 @@
-###string Formatter that renders None values as empty strings
+## string Formatter that renders None values as empty strings
 
 Originally published: 2010-05-14 18:35:26
 Last updated: 2010-05-14 18:35:27

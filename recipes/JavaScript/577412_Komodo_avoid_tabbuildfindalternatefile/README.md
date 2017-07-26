@@ -1,4 +1,4 @@
-###Komodo: avoid tab-buildup with a find-alternate-file macro
+## Komodo: avoid tab-buildup with a find-alternate-file macro
 
 Originally published: 2010-09-28 18:16:41
 Last updated: 2010-09-28 18:16:42

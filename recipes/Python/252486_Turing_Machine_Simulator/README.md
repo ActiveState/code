@@ -1,4 +1,4 @@
-###Turing Machine Simulator
+## Turing Machine Simulator
 
 Originally published: 2003-12-03 16:12:17
 Last updated: 2003-12-03 16:12:17

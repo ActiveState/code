@@ -1,4 +1,4 @@
-###Knuth-Morris-Pratt string matching
+## Knuth-Morris-Pratt string matching
 
 Originally published: 2002-03-01 23:49:23
 Last updated: 2002-03-01 23:49:23

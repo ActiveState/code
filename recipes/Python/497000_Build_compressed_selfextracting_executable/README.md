@@ -1,4 +1,4 @@
-###Build a compressed self-extracting executable script on UNIX
+## Build a compressed self-extracting executable script on UNIX
 
 Originally published: 2006-08-29 18:48:53
 Last updated: 2006-08-29 18:48:53

@@ -1,4 +1,4 @@
-###Yet another way to use fields for databases
+## Yet another way to use fields for databases
 
 Originally published: 2003-09-18 22:15:48
 Last updated: 2003-09-18 22:15:48

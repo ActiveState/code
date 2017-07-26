@@ -1,4 +1,4 @@
-###python enum with strings
+## python enum with strings
 
 Originally published: 2001-10-11 11:39:07
 Last updated: 2001-10-11 11:39:07

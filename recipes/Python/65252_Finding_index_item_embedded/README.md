@@ -1,4 +1,4 @@
-###Finding the index of an item in embedded sequences
+## Finding the index of an item in embedded sequences
 
 Originally published: 2001-06-19 22:15:09
 Last updated: 2001-06-19 22:15:09

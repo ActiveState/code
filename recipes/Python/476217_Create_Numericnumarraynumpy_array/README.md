@@ -1,4 +1,4 @@
-###Create Numeric/numarray/numpy array from iterator
+## Create Numeric/numarray/numpy array from iterator
 
 Originally published: 2006-03-31 11:57:37
 Last updated: 2006-03-31 20:11:03

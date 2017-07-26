@@ -1,4 +1,4 @@
-###kexec the newest linux kernel
+## kexec the newest linux kernel
 
 Originally published: 2006-04-20 14:38:21
 Last updated: 2007-03-20 05:32:17

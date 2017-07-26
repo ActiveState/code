@@ -1,4 +1,4 @@
-###Amazing estimation of Pi using the Mandlebrot set
+## Amazing estimation of Pi using the Mandlebrot set
 
 Originally published: 2011-02-20 07:34:55
 Last updated: 2011-02-20 07:34:56

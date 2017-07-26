@@ -1,4 +1,4 @@
-###simple state machine implementation
+## simple state machine implementation
 
 Originally published: 2010-07-15 17:54:16
 Last updated: 2010-07-15 17:54:17

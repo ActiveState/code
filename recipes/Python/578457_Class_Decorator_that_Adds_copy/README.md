@@ -1,4 +1,4 @@
-###A Class Decorator that Adds a copy() Method
+## A Class Decorator that Adds a copy() Method
 
 Originally published: 2013-02-14 20:43:19
 Last updated: 2013-02-14 20:43:20

@@ -1,4 +1,4 @@
-###Connect PyGTK object events to class methods automatically
+## Connect PyGTK object events to class methods automatically
 
 Originally published: 2011-02-17 22:31:12
 Last updated: 2011-02-19 17:50:42

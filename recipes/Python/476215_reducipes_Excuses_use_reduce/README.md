@@ -1,4 +1,4 @@
-###reducipes: Excuses to use the reduce built-in
+## reducipes: Excuses to use the reduce built-in
 
 Originally published: 2006-03-31 10:50:38
 Last updated: 2006-03-31 18:52:03

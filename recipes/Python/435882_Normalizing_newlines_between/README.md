@@ -1,4 +1,4 @@
-###Normalizing newlines between windows/unix/macs
+## Normalizing newlines between windows/unix/macs
 
 Originally published: 2005-07-02 14:28:58
 Last updated: 2005-07-02 14:28:58

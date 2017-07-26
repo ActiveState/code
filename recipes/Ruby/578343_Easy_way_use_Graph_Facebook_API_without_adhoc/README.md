@@ -1,4 +1,4 @@
-###Easy way to use Graph Facebook API without ad-hoc libraries
+## Easy way to use Graph Facebook API without ad-hoc libraries
 
 Originally published: 2012-11-20 14:14:27
 Last updated: 2012-11-20 14:14:27

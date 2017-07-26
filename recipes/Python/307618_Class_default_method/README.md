@@ -1,4 +1,4 @@
-###Class with default method handler
+## Class with default method handler
 
 Originally published: 2004-10-08 06:21:21
 Last updated: 2004-10-08 06:21:21

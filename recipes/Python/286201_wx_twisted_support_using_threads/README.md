@@ -1,4 +1,4 @@
-###wx twisted support using threads
+## wx twisted support using threads
 
 Originally published: 2004-07-06 13:21:53
 Last updated: 2004-07-06 13:21:53

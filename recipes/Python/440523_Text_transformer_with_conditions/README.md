@@ -1,4 +1,4 @@
-###Text transformer with conditions
+## Text transformer with conditions
 
 Originally published: 2005-09-05 06:39:59
 Last updated: 2005-09-05 06:39:59

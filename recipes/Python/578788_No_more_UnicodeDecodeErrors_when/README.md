@@ -1,4 +1,4 @@
-###No more UnicodeDecodeErrors when printing
+## No more UnicodeDecodeErrors when printing
 
 Originally published: 2013-12-14 08:25:46
 Last updated: 2013-12-17 23:02:37

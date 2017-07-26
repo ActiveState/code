@@ -1,4 +1,4 @@
-###Tic Tac Toe console game
+## Tic Tac Toe console game
 
 Originally published: 2013-06-18 10:32:41
 Last updated: 2013-06-18 10:52:27

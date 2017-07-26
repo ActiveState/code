@@ -1,4 +1,4 @@
-###Simple Buttonbar Utility Version 1
+## Simple Buttonbar Utility Version 1
 
 Originally published: 2010-02-09 22:29:43
 Last updated: 2010-02-09 23:02:40

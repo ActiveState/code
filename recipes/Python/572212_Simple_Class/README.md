@@ -1,4 +1,4 @@
-###Simple Class
+## Simple Class
 
 Originally published: 2008-05-18 09:10:57
 Last updated: 2008-05-18 09:10:57

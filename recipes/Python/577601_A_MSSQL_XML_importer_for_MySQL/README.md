@@ -1,4 +1,4 @@
-###A MSSQL XML importer for MySQL
+## A MSSQL XML importer for MySQL
 
 Originally published: 2011-03-09 03:46:49
 Last updated: 2011-03-09 03:46:49

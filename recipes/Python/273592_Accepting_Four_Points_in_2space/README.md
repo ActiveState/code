@@ -1,4 +1,4 @@
-###Accepting Four Points in 2-space
+## Accepting Four Points in 2-space
 
 Originally published: 2004-03-10 06:47:51
 Last updated: 2004-03-10 06:47:51

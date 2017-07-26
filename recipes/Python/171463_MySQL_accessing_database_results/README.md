@@ -1,4 +1,4 @@
-###MySQL and accessing database results by field
+## MySQL and accessing database results by field
 
 Originally published: 2002-12-29 19:10:01
 Last updated: 2003-01-07 21:37:48

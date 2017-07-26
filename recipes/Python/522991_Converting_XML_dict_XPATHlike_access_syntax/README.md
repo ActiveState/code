@@ -1,4 +1,4 @@
-###Converting XML to dict (for a XPATH-like access syntax) and back to XML
+## Converting XML to dict (for a XPATH-like access syntax) and back to XML
 
 Originally published: 2007-06-25 06:23:51
 Last updated: 2007-06-28 03:16:28

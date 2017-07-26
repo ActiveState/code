@@ -1,4 +1,4 @@
-###Heap (Priority Queue) extension type in Python 2.2
+## Heap (Priority Queue) extension type in Python 2.2
 
 Originally published: 2003-12-04 10:48:19
 Last updated: 2003-12-04 20:24:15

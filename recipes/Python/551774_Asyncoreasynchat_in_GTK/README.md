@@ -1,4 +1,4 @@
-###Asyncore/asynchat in GTK
+## Asyncore/asynchat in GTK
 
 Originally published: 2008-03-17 13:51:05
 Last updated: 2008-03-17 13:51:05

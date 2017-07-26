@@ -1,4 +1,4 @@
-###Redate pictures with EXIF
+## Redate pictures with EXIF
 
 Originally published: 2009-06-29 00:24:57
 Last updated: 2009-06-29 03:06:01

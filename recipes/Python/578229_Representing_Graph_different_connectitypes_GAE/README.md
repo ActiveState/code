@@ -1,4 +1,4 @@
-###Representing a Graph with different connection types on GAE using PolyModel
+## Representing a Graph with different connection types on GAE using PolyModel
 
 Originally published: 2012-07-29 12:51:18
 Last updated: 2012-07-29 13:01:39

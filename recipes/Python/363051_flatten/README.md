@@ -1,4 +1,4 @@
-###flatten(...)
+## flatten(...)
 
 Originally published: 2005-01-13 13:11:30
 Last updated: 2005-01-14 05:56:26

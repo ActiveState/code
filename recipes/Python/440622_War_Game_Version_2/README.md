@@ -1,4 +1,4 @@
-###War Game (Version 2)
+## War Game (Version 2)
 
 Originally published: 2005-10-02 17:45:49
 Last updated: 2005-10-02 17:45:49

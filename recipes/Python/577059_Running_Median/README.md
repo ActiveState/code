@@ -1,4 +1,4 @@
-###Running Median
+## Running Median
 
 Originally published: 2010-02-20 08:22:00
 Last updated: 2010-02-20 08:22:00

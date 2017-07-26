@@ -1,4 +1,4 @@
-###Using the MySQLdb interface
+## Using the MySQLdb interface
 
 Originally published: 2001-06-19 09:55:47
 Last updated: 2002-05-12 22:36:47

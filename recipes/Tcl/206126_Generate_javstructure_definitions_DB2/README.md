@@ -1,4 +1,4 @@
-###Generate java structure definitions for DB2 tables.
+## Generate java structure definitions for DB2 tables.
 
 Originally published: 2003-06-18 01:33:12
 Last updated: 2003-06-18 01:33:12

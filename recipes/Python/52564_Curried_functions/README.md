@@ -1,4 +1,4 @@
-###Curried functions
+## Curried functions
 
 Originally published: 2001-04-09 14:56:35
 Last updated: 2001-04-09 14:56:35

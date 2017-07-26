@@ -1,4 +1,4 @@
-###"only on change" decorator
+## "only on change" decorator
 
 Originally published: 2005-06-24 07:17:29
 Last updated: 2005-06-24 07:17:29

@@ -1,4 +1,4 @@
-###Generator of combinations without replacement for a sequence using dynamic programming
+## Generator of combinations without replacement for a sequence using dynamic programming
 
 Originally published: 2011-06-21 09:11:18
 Last updated: 2011-06-21 09:11:19

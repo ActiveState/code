@@ -1,4 +1,4 @@
-###Draft for an sqlite3 based DBM
+## Draft for an sqlite3 based DBM
 
 Originally published: 2009-01-29 15:25:06
 Last updated: 2009-01-30 10:27:30

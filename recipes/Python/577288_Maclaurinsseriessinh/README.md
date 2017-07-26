@@ -1,4 +1,4 @@
-###Maclaurin's_series_sinh
+## Maclaurin's_series_sinh
 
 Originally published: 2010-07-07 12:08:34
 Last updated: 2010-07-07 12:08:34

@@ -1,4 +1,4 @@
-###DB2JDBC.tcl
+## DB2JDBC.tcl
 
 Originally published: 2005-10-17 03:26:56
 Last updated: 2005-10-17 03:26:56

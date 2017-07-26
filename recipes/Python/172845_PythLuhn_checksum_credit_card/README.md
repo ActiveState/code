@@ -1,4 +1,4 @@
-###Python Luhn checksum for credit card validation
+## Python Luhn checksum for credit card validation
 
 Originally published: 2003-01-08 13:16:57
 Last updated: 2003-01-08 13:16:57

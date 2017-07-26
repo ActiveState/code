@@ -1,4 +1,4 @@
-###"page x of y" with reportlab
+## "page x of y" with reportlab
 
 Originally published: 2008-02-12 09:38:32
 Last updated: 2008-02-13 14:27:33

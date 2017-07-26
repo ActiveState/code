@@ -1,4 +1,4 @@
-###getch()-like unbuffered character reading from stdin on both Windows and Unix
+## getch()-like unbuffered character reading from stdin on both Windows and Unix
 
 Originally published: 2015-08-19 04:45:50
 Last updated: 2015-08-19 04:45:51

@@ -1,4 +1,4 @@
-###Automatic delegation as an alternative to inheritance
+## Automatic delegation as an alternative to inheritance
 
 Originally published: 2001-03-22 16:15:16
 Last updated: 2001-04-08 21:03:15

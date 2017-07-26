@@ -1,4 +1,4 @@
-###Text Compressor 3.1
+## Text Compressor 3.1
 
 Originally published: 2010-10-20 00:50:14
 Last updated: 2010-10-20 00:50:15

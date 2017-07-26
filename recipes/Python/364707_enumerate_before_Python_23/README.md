@@ -1,4 +1,4 @@
-###"enumerate" before Python 2.3
+## "enumerate" before Python 2.3
 
 Originally published: 2005-01-27 02:15:20
 Last updated: 2005-01-30 00:36:19

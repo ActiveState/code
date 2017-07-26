@@ -1,4 +1,4 @@
-###A DEMO 6 Bit At A Glance Colouerd Bargraph Generator.
+## A DEMO 6 Bit At A Glance Colouerd Bargraph Generator.
 
 Originally published: 2012-12-30 15:50:16
 Last updated: 2013-01-16 12:26:55

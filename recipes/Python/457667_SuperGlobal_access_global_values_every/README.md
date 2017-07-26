@@ -1,4 +1,4 @@
-###SuperGlobal, access global values from every module
+## SuperGlobal, access global values from every module
 
 Originally published: 2005-11-27 10:51:09
 Last updated: 2005-11-27 10:51:09

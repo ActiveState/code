@@ -1,4 +1,4 @@
-###Binary Matrix Fractals using iteration method
+## Binary Matrix Fractals using iteration method
 
 Originally published: 2010-03-18 22:00:20
 Last updated: 2010-03-18 22:00:21

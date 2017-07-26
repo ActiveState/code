@@ -1,4 +1,4 @@
-###Efficient and Comfortable HTML-Template Macro
+## Efficient and Comfortable HTML-Template Macro
 
 Originally published: 2003-11-03 23:11:40
 Last updated: 2003-11-03 23:11:40

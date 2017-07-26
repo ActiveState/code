@@ -1,4 +1,4 @@
-###Swapping values without using a temporary variable
+## Swapping values without using a temporary variable
 
 Originally published: 2001-06-08 13:54:45
 Last updated: 2001-06-09 00:45:38

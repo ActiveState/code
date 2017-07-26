@@ -1,4 +1,4 @@
-###No print error in console-less environments
+## No print error in console-less environments
 
 Originally published: 2005-07-01 02:24:01
 Last updated: 2005-07-01 02:24:01

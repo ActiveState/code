@@ -1,4 +1,4 @@
-###Komodo JS Macro: move tabs
+## Komodo JS Macro: move tabs
 
 Originally published: 2012-04-03 18:10:03
 Last updated: 2012-04-10 17:39:47

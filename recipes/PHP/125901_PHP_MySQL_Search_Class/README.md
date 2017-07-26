@@ -1,4 +1,4 @@
-###PHP MySQL Search Class
+## PHP MySQL Search Class
 
 Originally published: 2002-05-09 10:46:09
 Last updated: 2003-10-28 19:57:45

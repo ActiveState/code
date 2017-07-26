@@ -1,4 +1,4 @@
-###IPv6 Multicast
+## IPv6 Multicast
 
 Originally published: 2005-10-28 11:43:52
 Last updated: 2005-10-28 11:43:52

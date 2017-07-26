@@ -1,4 +1,4 @@
-###A simple Tkinter notebook-like widget
+## A simple Tkinter notebook-like widget
 
 Originally published: 2003-03-08 11:59:56
 Last updated: 2004-12-26 19:11:42

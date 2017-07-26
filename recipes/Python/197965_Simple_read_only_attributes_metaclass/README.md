@@ -1,4 +1,4 @@
-###Simple read only attributes with meta-class programming
+## Simple read only attributes with meta-class programming
 
 Originally published: 2003-05-03 02:57:27
 Last updated: 2003-05-03 02:57:27

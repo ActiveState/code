@@ -1,4 +1,4 @@
-###Named constant type
+## Named constant type
 
 Originally published: 2011-12-13 23:22:12
 Last updated: 2012-06-13 13:43:47

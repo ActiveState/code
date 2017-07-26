@@ -1,4 +1,4 @@
-###Long period random number generator
+## Long period random number generator
 
 Originally published: 2009-03-31 20:12:00
 Last updated: 2010-12-02 05:19:25

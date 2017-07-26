@@ -1,4 +1,4 @@
-###Wait for network service to appear
+## Wait for network service to appear
 
 Originally published: 2009-02-20 09:04:48
 Last updated: 2009-02-20 14:04:11

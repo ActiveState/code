@@ -1,4 +1,4 @@
-###The Bentley-Knuth problem and solutions
+## The Bentley-Knuth problem and solutions
 
 Originally published: 2014-03-15 23:46:59
 Last updated: 2014-03-15 23:46:59

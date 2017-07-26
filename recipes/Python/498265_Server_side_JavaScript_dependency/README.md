@@ -1,4 +1,4 @@
-###Server side JavaScript dependency resolution
+## Server side JavaScript dependency resolution
 
 Originally published: 2006-11-15 09:53:45
 Last updated: 2006-11-15 09:53:45

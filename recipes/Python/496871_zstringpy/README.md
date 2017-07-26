@@ -1,4 +1,4 @@
-###z_string.py
+## z_string.py
 
 Originally published: 2006-07-07 06:02:57
 Last updated: 2006-07-07 06:02:57

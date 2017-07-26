@@ -1,4 +1,4 @@
-###Get multiple elements from a list
+## Get multiple elements from a list
 
 Originally published: 2011-11-21 06:41:56
 Last updated: 2011-11-21 06:41:57

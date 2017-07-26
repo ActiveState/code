@@ -1,4 +1,4 @@
-###Plot database table dependecies for a mySQL database
+## Plot database table dependecies for a mySQL database
 
 Originally published: 2010-07-09 12:00:09
 Last updated: 2010-07-10 08:14:09

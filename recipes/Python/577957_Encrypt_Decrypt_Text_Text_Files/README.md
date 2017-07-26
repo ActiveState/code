@@ -1,4 +1,4 @@
-###Encrypt and Decrypt Text and Text Files (BETA) Jython GUI
+## Encrypt and Decrypt Text and Text Files (BETA) Jython GUI
 
 Originally published: 2011-11-23 02:22:10
 Last updated: 2011-11-23 05:37:04

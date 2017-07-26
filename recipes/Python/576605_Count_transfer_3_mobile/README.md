@@ -1,4 +1,4 @@
-###Count up transfer for 3 mobile broadband on a mac
+## Count up transfer for 3 mobile broadband on a mac
 
 Originally published: 2009-01-04 03:13:33
 Last updated: 2009-01-04 03:13:33

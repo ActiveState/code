@@ -1,4 +1,4 @@
-###Summarizing XHTML
+## Summarizing XHTML
 
 Originally published: 2006-12-19 05:19:49
 Last updated: 2006-12-19 05:19:49

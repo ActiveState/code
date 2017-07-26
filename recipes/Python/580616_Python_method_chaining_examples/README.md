@@ -1,4 +1,4 @@
-###Python method chaining examples
+## Python method chaining examples
 
 Originally published: 2016-02-25 19:40:32
 Last updated: 2016-02-25 19:40:33

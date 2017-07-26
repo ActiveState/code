@@ -1,4 +1,4 @@
-###A general purpose file iterator class
+## A general purpose file iterator class
 
 Originally published: 2005-04-06 06:29:14
 Last updated: 2005-04-06 06:29:14

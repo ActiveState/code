@@ -1,4 +1,4 @@
-###A simple equation solver using attribute access and introspection
+## A simple equation solver using attribute access and introspection
 
 Originally published: 2004-09-03 16:29:43
 Last updated: 2004-09-03 16:29:43

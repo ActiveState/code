@@ -1,4 +1,4 @@
-###Generic cacheable value objects superclass
+## Generic cacheable value objects superclass
 
 Originally published: 2004-08-31 01:08:19
 Last updated: 2004-08-31 01:08:19

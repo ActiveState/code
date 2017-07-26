@@ -1,4 +1,4 @@
-###high-performance currying with instancemethod
+## high-performance currying with instancemethod
 
 Originally published: 2003-10-17 15:57:11
 Last updated: 2003-10-17 15:57:11

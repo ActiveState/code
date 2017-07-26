@@ -1,4 +1,4 @@
-###Using reST (reStructuredText) to create HTML snippets
+## Using reST (reStructuredText) to create HTML snippets
 
 Originally published: 2003-04-04 08:58:15
 Last updated: 2003-04-04 17:28:20

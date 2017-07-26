@@ -1,4 +1,4 @@
-###split_and_join.py
+## split_and_join.py
 
 Originally published: 2006-02-12 20:44:38
 Last updated: 2006-02-12 20:44:38

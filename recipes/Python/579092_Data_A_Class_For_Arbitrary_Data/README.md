@@ -1,4 +1,4 @@
-###Data (A Class For Arbitrary Data)
+## Data (A Class For Arbitrary Data)
 
 Originally published: 2015-08-03 15:21:38
 Last updated: 2015-08-03 15:22:40

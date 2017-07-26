@@ -1,4 +1,4 @@
-###Prints full name of all occurrences of given filename in your PATH
+## Prints full name of all occurrences of given filename in your PATH
 
 Originally published: 2009-06-29 15:20:10
 Last updated: 2009-06-29 15:20:10

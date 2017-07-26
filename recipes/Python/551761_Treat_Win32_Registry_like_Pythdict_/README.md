@@ -1,4 +1,4 @@
-###Treat the Win32 Registry like a Python dict -- updated
+## Treat the Win32 Registry like a Python dict -- updated
 
 Originally published: 2008-03-11 11:38:50
 Last updated: 2008-03-11 11:38:50

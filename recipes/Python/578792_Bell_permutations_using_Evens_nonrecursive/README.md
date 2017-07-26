@@ -1,4 +1,4 @@
-###Bell permutations using Even's nonrecursive algorithm
+## Bell permutations using Even's nonrecursive algorithm
 
 Originally published: 2013-12-19 15:20:51
 Last updated: 2013-12-23 02:44:43

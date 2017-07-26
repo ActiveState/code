@@ -1,4 +1,4 @@
-###Simple Abstract "Constants" to Use When @abstractproperty is Overkill or Misleading
+## Simple Abstract "Constants" to Use When @abstractproperty is Overkill or Misleading
 
 Originally published: 2011-06-17 22:40:39
 Last updated: 2011-08-12 23:35:45

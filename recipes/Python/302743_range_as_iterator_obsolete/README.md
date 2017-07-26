@@ -1,4 +1,4 @@
-###range as iterator (obsolete)
+## range as iterator (obsolete)
 
 Originally published: 2004-08-31 04:46:32
 Last updated: 2004-08-31 13:15:19

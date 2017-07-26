@@ -1,4 +1,4 @@
-###Dynamical Billiards Simulation
+## Dynamical Billiards Simulation
 
 Originally published: 2010-10-30 05:15:29
 Last updated: 2010-10-30 06:22:28

@@ -1,4 +1,4 @@
-###xmlrpc parameter mapping for OO-style programming.
+## xmlrpc parameter mapping for OO-style programming.
 
 Originally published: 2004-12-17 06:18:46
 Last updated: 2004-12-17 06:18:46

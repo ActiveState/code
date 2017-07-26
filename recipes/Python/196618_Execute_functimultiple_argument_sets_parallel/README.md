@@ -1,4 +1,4 @@
-###Execute a function on multiple argument sets in parallel using a thread pool.
+## Execute a function on multiple argument sets in parallel using a thread pool.
 
 Originally published: 2003-04-25 15:08:27
 Last updated: 2003-04-25 15:08:27

@@ -1,4 +1,4 @@
-###linecount.py
+## linecount.py
 
 Originally published: 2002-05-07 15:02:10
 Last updated: 2002-08-02 19:37:59

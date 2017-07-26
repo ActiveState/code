@@ -1,4 +1,4 @@
-###Implementing a circular data structure using lists
+## Implementing a circular data structure using lists
 
 Originally published: 2001-03-13 18:16:59
 Last updated: 2001-03-13 18:16:59

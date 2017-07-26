@@ -1,4 +1,4 @@
-###Base Expansion/Conversion Algorithm Python
+## Base Expansion/Conversion Algorithm Python
 
 Originally published: 2011-11-02 03:44:39
 Last updated: 2011-11-21 19:58:14

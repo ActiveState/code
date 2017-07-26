@@ -1,4 +1,4 @@
-###Speech recognition in Windows using the MS Speech API
+## Speech recognition in Windows using the MS Speech API
 
 Originally published: 2001-12-02 10:36:29
 Last updated: 2002-02-10 21:19:23

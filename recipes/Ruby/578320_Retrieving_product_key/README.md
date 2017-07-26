@@ -1,4 +1,4 @@
-###Retrieving product key with IronRuby
+## Retrieving product key with IronRuby
 
 Originally published: 2012-11-03 18:22:00
 Last updated: 2012-11-03 18:22:01

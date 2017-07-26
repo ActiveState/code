@@ -1,4 +1,4 @@
-###A lazy, memoized attribute space.
+## A lazy, memoized attribute space.
 
 Originally published: 2006-01-18 20:09:02
 Last updated: 2006-01-18 20:09:02

@@ -1,4 +1,4 @@
-###Heap, a heapq wrapper class
+## Heap, a heapq wrapper class
 
 Originally published: 2007-03-09 13:55:05
 Last updated: 2007-03-09 13:55:05

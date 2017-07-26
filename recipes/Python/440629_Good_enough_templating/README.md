@@ -1,4 +1,4 @@
-###Good enough templating
+## Good enough templating
 
 Originally published: 2005-10-02 20:25:37
 Last updated: 2005-10-08 22:27:00

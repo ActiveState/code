@@ -1,4 +1,4 @@
-###The game of Hangman in Python
+## The game of Hangman in Python
 
 Originally published: 2013-06-06 21:55:18
 Last updated: 2013-06-06 21:55:18

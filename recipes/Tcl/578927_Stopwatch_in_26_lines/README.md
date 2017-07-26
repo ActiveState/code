@@ -1,4 +1,4 @@
-###Stopwatch in 26 lines
+## Stopwatch in 26 lines
 
 Originally published: 2014-09-05 13:33:12
 Last updated: 2014-09-05 13:33:13

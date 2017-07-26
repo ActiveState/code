@@ -1,4 +1,4 @@
-###Criteria-based cascading priority queue
+## Criteria-based cascading priority queue
 
 Originally published: 2005-01-28 10:39:52
 Last updated: 2005-01-28 10:39:52

@@ -1,4 +1,4 @@
-###Flexible directory walking
+## Flexible directory walking
 
 Originally published: 2001-04-10 11:35:24
 Last updated: 2001-06-25 23:27:51

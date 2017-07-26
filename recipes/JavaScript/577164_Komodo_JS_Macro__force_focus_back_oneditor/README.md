@@ -1,4 +1,4 @@
-###Komodo JS Macro - force the focus back onto the editor after an alt-tab
+## Komodo JS Macro - force the focus back onto the editor after an alt-tab
 
 Originally published: 2010-03-29 18:55:38
 Last updated: 2010-03-29 18:59:03

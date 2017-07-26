@@ -1,4 +1,4 @@
-###Equivalence partition
+## Equivalence partition
 
 Originally published: 2007-01-04 01:45:54
 Last updated: 2007-01-04 01:45:54

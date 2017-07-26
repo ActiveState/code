@@ -1,4 +1,4 @@
-###Setting Win32 System Clock Using SNTP
+## Setting Win32 System Clock Using SNTP
 
 Originally published: 2004-02-22 05:49:50
 Last updated: 2004-02-22 05:49:50

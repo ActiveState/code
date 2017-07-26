@@ -1,4 +1,4 @@
-###How to disablе debug logging in release version
+## How to disablе debug logging in release version
 
 Originally published: 2006-07-07 05:38:09
 Last updated: 2006-07-12 08:34:36

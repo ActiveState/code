@@ -1,4 +1,4 @@
-###Simulating the ternary operator in Python
+## Simulating the ternary operator in Python
 
 Originally published: 2001-03-19 13:06:05
 Last updated: 2001-03-19 13:06:05

@@ -1,4 +1,4 @@
-###Tkinter. Grid with panes
+## Tkinter. Grid with panes
 
 Originally published: 2014-05-03 17:28:01
 Last updated: 2016-10-30 22:25:05

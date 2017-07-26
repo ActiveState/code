@@ -1,4 +1,4 @@
-###Decorator to make a decorated call in a separate thread with timeout
+## Decorator to make a decorated call in a separate thread with timeout
 
 Originally published: 2005-09-18 00:01:27
 Last updated: 2005-10-31 05:15:57

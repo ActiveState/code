@@ -1,4 +1,4 @@
-###Simple file ziping utility
+## Simple file ziping utility
 
 Originally published: 2007-11-06 04:45:50
 Last updated: 2007-11-06 04:45:50

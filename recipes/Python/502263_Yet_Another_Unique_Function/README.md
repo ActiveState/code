@@ -1,4 +1,4 @@
-###Yet Another Unique() Function
+## Yet Another Unique() Function
 
 Originally published: 2007-02-27 15:20:19
 Last updated: 2007-02-28 22:09:52

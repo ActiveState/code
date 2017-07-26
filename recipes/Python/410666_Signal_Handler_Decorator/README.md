@@ -1,4 +1,4 @@
-###Signal Handler Decorator
+## Signal Handler Decorator
 
 Originally published: 2005-04-21 18:15:06
 Last updated: 2005-04-21 18:15:06

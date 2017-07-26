@@ -1,4 +1,4 @@
-###Using terminfo for portable color output & cursor control
+## Using terminfo for portable color output & cursor control
 
 Originally published: 2006-03-11 14:06:33
 Last updated: 2006-03-27 19:20:16

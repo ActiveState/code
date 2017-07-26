@@ -1,4 +1,4 @@
-###Pulling stuff out of the internet archive (wayback machine)
+## Pulling stuff out of the internet archive (wayback machine)
 
 Originally published: 2004-07-12 07:42:28
 Last updated: 2004-07-12 07:42:28

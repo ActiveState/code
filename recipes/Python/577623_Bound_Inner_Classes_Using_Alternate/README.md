@@ -1,4 +1,4 @@
-###Bound Inner Classes, Using An Alternate Approach
+## Bound Inner Classes, Using An Alternate Approach
 
 Originally published: 2011-03-24 09:45:04
 Last updated: 2011-03-24 09:47:11

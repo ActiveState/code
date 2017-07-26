@@ -1,4 +1,4 @@
-###Pollard Rho Prime Factorization
+## Pollard Rho Prime Factorization
 
 Originally published: 2010-02-09 15:47:36
 Last updated: 2010-02-10 10:02:51

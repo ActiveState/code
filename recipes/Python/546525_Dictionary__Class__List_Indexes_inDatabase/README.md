@@ -1,4 +1,4 @@
-###Dictionary / Class / List Indexes into Database Query Results
+## Dictionary / Class / List Indexes into Database Query Results
 
 Originally published: 2008-02-18 21:49:31
 Last updated: 2008-02-18 21:49:31

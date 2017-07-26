@@ -1,4 +1,4 @@
-###Incrementing counter
+## Incrementing counter
 
 Originally published: 2009-11-13 04:55:28
 Last updated: 2009-11-13 04:55:28

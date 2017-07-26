@@ -1,4 +1,4 @@
-###Is scraping easiest with Internet Explorer on Windows?
+## Is scraping easiest with Internet Explorer on Windows?
 
 Originally published: 2006-06-10 15:32:40
 Last updated: 2006-06-10 15:32:40

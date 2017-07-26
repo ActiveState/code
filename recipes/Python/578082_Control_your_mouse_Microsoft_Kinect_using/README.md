@@ -1,4 +1,4 @@
-###Control your mouse with the Microsoft Kinect using OpenKinect
+## Control your mouse with the Microsoft Kinect using OpenKinect
 
 Originally published: 2012-03-19 21:28:07
 Last updated: 2012-03-19 21:28:08

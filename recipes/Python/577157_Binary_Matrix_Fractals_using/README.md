@@ -1,4 +1,4 @@
-###Binary Matrix Fractals using recursion
+## Binary Matrix Fractals using recursion
 
 Originally published: 2010-03-27 04:29:51
 Last updated: 2010-03-27 15:15:49

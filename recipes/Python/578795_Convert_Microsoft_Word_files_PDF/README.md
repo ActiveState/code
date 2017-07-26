@@ -1,4 +1,4 @@
-###Convert Microsoft Word files to PDF with DOCXtoPDF
+## Convert Microsoft Word files to PDF with DOCXtoPDF
 
 Originally published: 2013-12-24 23:03:43
 Last updated: 2013-12-24 23:03:43

@@ -1,4 +1,4 @@
-###Offline Version Control (online with dropbox)
+## Offline Version Control (online with dropbox)
 
 Originally published: 2013-07-07 15:18:51
 Last updated: 2013-07-07 15:18:51

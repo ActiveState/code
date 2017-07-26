@@ -1,4 +1,4 @@
-###Authenticate users through a third party POP-server
+## Authenticate users through a third party POP-server
 
 Originally published: 2003-06-03 15:51:09
 Last updated: 2003-06-03 15:51:09

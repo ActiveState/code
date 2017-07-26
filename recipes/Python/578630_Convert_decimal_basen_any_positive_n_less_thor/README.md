@@ -1,4 +1,4 @@
-###Convert from decimal to base-n for any positive n less than or equal to 10
+## Convert from decimal to base-n for any positive n less than or equal to 10
 
 Originally published: 2013-08-09 05:56:15
 Last updated: 2013-08-09 05:56:16

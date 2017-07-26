@@ -1,4 +1,4 @@
-###Running median, mean and mode
+## Running median, mean and mode
 
 Originally published: 2013-03-06 17:33:31
 Last updated: 2013-03-06 17:33:32

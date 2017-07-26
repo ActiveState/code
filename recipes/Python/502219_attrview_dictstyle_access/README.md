@@ -1,4 +1,4 @@
-###attrview(): dict-style access to attributes
+## attrview(): dict-style access to attributes
 
 Originally published: 2007-02-15 19:55:27
 Last updated: 2007-02-21 15:49:08

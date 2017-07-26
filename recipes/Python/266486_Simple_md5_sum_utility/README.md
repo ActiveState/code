@@ -1,4 +1,4 @@
-###Simple md5 sum utility
+## Simple md5 sum utility
 
 Originally published: 2004-01-30 07:38:46
 Last updated: 2004-01-30 07:38:46

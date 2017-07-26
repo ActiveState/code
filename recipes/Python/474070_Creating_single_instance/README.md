@@ -1,4 +1,4 @@
-###Creating a single instance application
+## Creating a single instance application
 
 Originally published: 2006-02-22 06:37:05
 Last updated: 2006-02-22 06:37:05

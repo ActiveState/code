@@ -1,4 +1,4 @@
-###Thread pool with same API as (multi)processing.Pool
+## Thread pool with same API as (multi)processing.Pool
 
 Originally published: 2008-10-01 15:40:55
 Last updated: 2016-01-30 00:40:20

@@ -1,4 +1,4 @@
-###xgetopt: a solution for managing commnad line args and usage information
+## xgetopt: a solution for managing commnad line args and usage information
 
 Originally published: 2001-10-07 19:37:32
 Last updated: 2001-10-14 05:33:43

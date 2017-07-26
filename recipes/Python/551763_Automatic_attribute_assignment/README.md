@@ -1,4 +1,4 @@
-###Automatic attribute assignment
+## Automatic attribute assignment
 
 Originally published: 2008-03-11 14:25:40
 Last updated: 2008-03-11 14:25:40

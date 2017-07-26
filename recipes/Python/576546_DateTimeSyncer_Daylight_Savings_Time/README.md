@@ -1,4 +1,4 @@
-###DateTimeSyncer with Daylight Savings Time adjustment
+## DateTimeSyncer with Daylight Savings Time adjustment
 
 Originally published: 2008-10-30 19:33:37
 Last updated: 2008-10-31 15:52:18

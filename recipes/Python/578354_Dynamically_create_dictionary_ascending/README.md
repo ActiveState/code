@@ -1,4 +1,4 @@
-###Dynamically create a dictionary of ascending paths
+## Dynamically create a dictionary of ascending paths
 
 Originally published: 2012-12-03 22:49:10
 Last updated: 2012-12-03 22:50:47

@@ -1,4 +1,4 @@
-###test if a file or string is text or binary
+## test if a file or string is text or binary
 
 Originally published: 2003-01-10 13:37:35
 Last updated: 2003-01-11 01:13:40

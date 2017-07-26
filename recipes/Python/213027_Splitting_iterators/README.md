@@ -1,4 +1,4 @@
-###Splitting iterators
+## Splitting iterators
 
 Originally published: 2003-07-29 18:14:41
 Last updated: 2003-07-29 18:14:41

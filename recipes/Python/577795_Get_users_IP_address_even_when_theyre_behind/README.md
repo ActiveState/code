@@ -1,4 +1,4 @@
-###Get user's IP address even when they're behind a proxy
+## Get user's IP address even when they're behind a proxy
 
 Originally published: 2011-07-15 21:19:16
 Last updated: 2011-07-15 21:19:17

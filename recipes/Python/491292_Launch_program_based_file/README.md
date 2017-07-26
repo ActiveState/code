@@ -1,4 +1,4 @@
-###Launch a program based on file extension
+## Launch a program based on file extension
 
 Originally published: 2006-04-23 16:31:26
 Last updated: 2006-04-23 16:31:26

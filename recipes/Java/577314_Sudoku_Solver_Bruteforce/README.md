@@ -1,4 +1,4 @@
-###Sudoku Solver (Bruteforce)
+## Sudoku Solver (Bruteforce)
 
 Originally published: 2010-07-18 11:31:10
 Last updated: 2010-07-18 11:31:10

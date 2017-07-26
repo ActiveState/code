@@ -1,4 +1,4 @@
-###Simple decorator with arguments
+## Simple decorator with arguments
 
 Originally published: 2005-12-23 22:24:08
 Last updated: 2005-12-23 22:24:08

@@ -1,4 +1,4 @@
-###Releasing a Resource used by a Generator
+## Releasing a Resource used by a Generator
 
 Originally published: 2002-05-31 05:00:15
 Last updated: 2002-05-31 05:00:15

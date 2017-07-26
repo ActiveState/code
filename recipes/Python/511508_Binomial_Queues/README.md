@@ -1,4 +1,4 @@
-###Binomial Queues
+## Binomial Queues
 
 Originally published: 2007-05-01 14:01:44
 Last updated: 2007-05-01 14:01:44

@@ -1,4 +1,4 @@
-###secondsToStr - h:mm:ss.sss formatting of floating point seconds
+## secondsToStr - h:mm:ss.sss formatting of floating point seconds
 
 Originally published: 2007-04-20 07:28:47
 Last updated: 2007-04-20 07:28:47

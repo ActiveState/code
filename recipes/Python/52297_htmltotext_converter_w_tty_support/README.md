@@ -1,4 +1,4 @@
-###htmltotext converter w/ tty support for bold/underline
+## htmltotext converter w/ tty support for bold/underline
 
 Originally published: 2001-03-22 15:13:10
 Last updated: 2004-01-30 16:44:42

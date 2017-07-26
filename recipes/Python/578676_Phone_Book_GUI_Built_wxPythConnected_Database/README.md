@@ -1,4 +1,4 @@
-###A Phone Book GUI Built in wxPython Connected To Database Using Data Grid View
+## A Phone Book GUI Built in wxPython Connected To Database Using Data Grid View
 
 Originally published: 2013-09-29 14:59:08
 Last updated: 2013-09-29 19:25:23

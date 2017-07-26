@@ -1,4 +1,4 @@
-###Determining Current Function Name
+## Determining Current Function Name
 
 Originally published: 2001-07-17 03:24:20
 Last updated: 2001-07-17 03:24:20

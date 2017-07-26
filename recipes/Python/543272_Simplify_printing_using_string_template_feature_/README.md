@@ -1,4 +1,4 @@
-###Simplify printing using the string template feature added in 2.4
+## Simplify printing using the string template feature added in 2.4
 
 Originally published: 2008-01-29 13:09:38
 Last updated: 2008-02-23 08:36:18

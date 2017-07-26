@@ -1,4 +1,4 @@
-###Short Enum Recipe
+## Short Enum Recipe
 
 Originally published: 2010-01-25 14:22:16
 Last updated: 2013-01-31 14:16:06

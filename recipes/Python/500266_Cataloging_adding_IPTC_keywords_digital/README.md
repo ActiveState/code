@@ -1,4 +1,4 @@
-###Cataloging and adding IPTC keywords to digital photos
+## Cataloging and adding IPTC keywords to digital photos
 
 Originally published: 2007-01-19 13:38:49
 Last updated: 2007-01-19 13:38:49

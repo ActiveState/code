@@ -1,4 +1,4 @@
-###Miller-Rabin Primality Test
+## Miller-Rabin Primality Test
 
 Originally published: 2007-04-07 16:11:50
 Last updated: 2007-04-07 16:11:50

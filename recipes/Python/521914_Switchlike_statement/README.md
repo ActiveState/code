@@ -1,4 +1,4 @@
-###Switch-like statement construction..
+## Switch-like statement construction..
 
 Originally published: 2007-06-17 11:02:50
 Last updated: 2007-06-17 22:15:45

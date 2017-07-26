@@ -1,4 +1,4 @@
-###Fast and elegant switch/case-like dispatch
+## Fast and elegant switch/case-like dispatch
 
 Originally published: 2011-09-02 01:17:52
 Last updated: 2011-09-02 01:49:40

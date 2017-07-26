@@ -1,4 +1,4 @@
-###FunctionDecorators
+## FunctionDecorators
 
 Originally published: 2005-01-19 10:23:33
 Last updated: 2005-02-15 02:48:07

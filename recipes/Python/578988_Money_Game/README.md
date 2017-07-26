@@ -1,4 +1,4 @@
-###Money Game
+## Money Game
 
 Originally published: 2014-12-22 23:38:37
 Last updated: 2014-12-22 23:38:38

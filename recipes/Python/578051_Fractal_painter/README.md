@@ -1,4 +1,4 @@
-###Fractal painter
+## Fractal painter
 
 Originally published: 2012-02-23 21:57:15
 Last updated: 2012-02-23 21:57:16

@@ -1,4 +1,4 @@
-###ed25519
+## ed25519
 
 Originally published: 2015-09-21 12:55:10
 Last updated: 2015-09-21 12:58:34

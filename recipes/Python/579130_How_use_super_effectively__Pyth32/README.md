@@ -1,4 +1,4 @@
-###How to use super() effectively -- Python 3.2 version
+## How to use super() effectively -- Python 3.2 version
 
 Originally published: 2015-12-01 16:23:03
 Last updated: 2015-12-01 16:23:09

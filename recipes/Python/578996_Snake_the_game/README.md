@@ -1,4 +1,4 @@
-###Snake the game
+## Snake the game
 
 Originally published: 2015-01-03 01:54:04
 Last updated: 2015-01-03 02:04:02

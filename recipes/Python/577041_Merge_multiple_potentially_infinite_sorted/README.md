@@ -1,4 +1,4 @@
-###Merge multiple (potentially infinite) sorted inputs into a single sorted output
+## Merge multiple (potentially infinite) sorted inputs into a single sorted output
 
 Originally published: 2010-02-11 01:08:04
 Last updated: 2010-04-01 04:54:16

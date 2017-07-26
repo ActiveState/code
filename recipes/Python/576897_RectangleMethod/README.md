@@ -1,4 +1,4 @@
-###Rectangle_Method
+## Rectangle_Method
 
 Originally published: 2009-09-09 04:22:14
 Last updated: 2011-01-20 12:28:15

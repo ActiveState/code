@@ -1,4 +1,4 @@
-###Using a Dictionary in place of a 'switch' statement
+## Using a Dictionary in place of a 'switch' statement
 
 Originally published: 2003-02-16 14:25:05
 Last updated: 2003-02-16 14:25:05

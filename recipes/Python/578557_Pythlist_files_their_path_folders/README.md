@@ -1,4 +1,4 @@
-###Python list of files and their path from folders and subfolders
+## Python list of files and their path from folders and subfolders
 
 Originally published: 2013-06-10 19:07:45
 Last updated: 2013-06-10 19:07:46

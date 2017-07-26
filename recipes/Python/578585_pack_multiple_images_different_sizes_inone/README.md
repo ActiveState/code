@@ -1,4 +1,4 @@
-###pack multiple images of different sizes into one image
+## pack multiple images of different sizes into one image
 
 Originally published: 2013-06-27 14:50:37
 Last updated: 2013-06-27 14:50:37

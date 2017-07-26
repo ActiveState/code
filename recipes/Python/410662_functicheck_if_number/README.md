@@ -1,4 +1,4 @@
-###A function to check if a number is prime
+## A function to check if a number is prime
 
 Originally published: 2005-04-21 05:44:25
 Last updated: 2005-04-21 05:44:25

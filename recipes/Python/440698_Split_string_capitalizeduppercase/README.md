@@ -1,4 +1,4 @@
-###Split string on capitalized/uppercase char
+## Split string on capitalized/uppercase char
 
 Originally published: 2005-10-12 03:24:34
 Last updated: 2005-10-12 03:24:34

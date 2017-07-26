@@ -1,4 +1,4 @@
-###Arbitrary order attribute writing with ElementTree
+## Arbitrary order attribute writing with ElementTree
 
 Originally published: 2008-07-31 21:34:00
 Last updated: 2008-08-01 19:24:34

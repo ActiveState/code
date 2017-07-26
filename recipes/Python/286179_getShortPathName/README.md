@@ -1,4 +1,4 @@
-###getShortPathName
+## getShortPathName
 
 Originally published: 2004-06-30 14:11:00
 Last updated: 2004-06-30 14:11:00

@@ -1,4 +1,4 @@
-###Retrieve word definitions from online dictionary site
+## Retrieve word definitions from online dictionary site
 
 Originally published: 2003-07-23 11:30:39
 Last updated: 2003-08-13 13:32:02

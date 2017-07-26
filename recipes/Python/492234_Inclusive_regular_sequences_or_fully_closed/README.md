@@ -1,4 +1,4 @@
-###Inclusive regular sequences or fully closed ranges
+## Inclusive regular sequences or fully closed ranges
 
 Originally published: 2006-05-02 07:56:33
 Last updated: 2006-05-02 07:56:33

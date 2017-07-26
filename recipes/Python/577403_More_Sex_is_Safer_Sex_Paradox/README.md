@@ -1,4 +1,4 @@
-###"More Sex is Safer Sex" Paradox
+## "More Sex is Safer Sex" Paradox
 
 Originally published: 2010-09-21 22:40:46
 Last updated: 2010-09-22 02:56:37

@@ -1,4 +1,4 @@
-###Odbc connection on win32
+## Odbc connection on win32
 
 Originally published: 2004-09-07 06:08:35
 Last updated: 2004-09-07 06:08:35

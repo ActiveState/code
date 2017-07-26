@@ -1,4 +1,4 @@
-###Union Find data structure
+## Union Find data structure
 
 Originally published: 2003-08-13 23:47:13
 Last updated: 2005-07-02 18:33:13

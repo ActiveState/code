@@ -1,4 +1,4 @@
-###Boost.Bind in Python (a variation of Curry technique, partial function application)
+## Boost.Bind in Python (a variation of Curry technique, partial function application)
 
 Originally published: 2005-09-14 21:48:40
 Last updated: 2005-09-22 04:47:28

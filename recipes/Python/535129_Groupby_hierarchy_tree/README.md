@@ -1,4 +1,4 @@
-###Groupby hierarchy tree
+## Groupby hierarchy tree
 
 Originally published: 2007-11-20 09:34:09
 Last updated: 2007-11-20 09:34:09

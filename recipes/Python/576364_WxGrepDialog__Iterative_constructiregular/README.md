@@ -1,4 +1,4 @@
-###WxGrepDialog - Iterative construction of regular expressions
+## WxGrepDialog - Iterative construction of regular expressions
 
 Originally published: 2008-07-18 08:48:01
 Last updated: 2008-07-18 08:48:01

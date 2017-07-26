@@ -1,4 +1,4 @@
-###getting properties of an object in webdav/exchange  part 2
+## getting properties of an object in webdav/exchange  part 2
 
 Originally published: 2004-08-05 12:45:06
 Last updated: 2004-08-05 12:45:06

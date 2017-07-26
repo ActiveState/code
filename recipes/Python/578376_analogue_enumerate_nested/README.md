@@ -1,4 +1,4 @@
-###An analogue of enumerate for nested lists.
+## An analogue of enumerate for nested lists.
 
 Originally published: 2012-12-11 14:51:44
 Last updated: 2012-12-11 16:59:14

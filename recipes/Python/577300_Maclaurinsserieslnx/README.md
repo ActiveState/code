@@ -1,4 +1,4 @@
-###Maclaurin's_series_ln(x)
+## Maclaurin's_series_ln(x)
 
 Originally published: 2010-07-10 12:46:50
 Last updated: 2010-07-15 11:16:30

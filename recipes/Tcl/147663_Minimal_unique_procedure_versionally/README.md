@@ -1,4 +1,4 @@
-###Minimal unique procedure for the versionally challanged
+## Minimal unique procedure for the versionally challanged
 
 Originally published: 2002-09-01 08:35:34
 Last updated: 2002-09-01 08:35:34

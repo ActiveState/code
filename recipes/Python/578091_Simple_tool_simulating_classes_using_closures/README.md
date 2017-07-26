@@ -1,4 +1,4 @@
-###Simple tool for simulating classes using closures and nested scopes
+## Simple tool for simulating classes using closures and nested scopes
 
 Originally published: 2012-04-02 01:56:52
 Last updated: 2012-04-11 06:21:18

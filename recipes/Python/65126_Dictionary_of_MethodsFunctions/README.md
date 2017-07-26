@@ -1,4 +1,4 @@
-###Dictionary of Methods/Functions
+## Dictionary of Methods/Functions
 
 Originally published: 2001-06-12 18:44:04
 Last updated: 2001-06-12 18:44:04

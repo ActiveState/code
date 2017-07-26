@@ -1,4 +1,4 @@
-###Parsing out EDI messages
+## Parsing out EDI messages
 
 Originally published: 2004-08-12 09:36:18
 Last updated: 2004-08-12 09:36:18

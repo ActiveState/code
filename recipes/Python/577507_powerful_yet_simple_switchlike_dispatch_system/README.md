@@ -1,4 +1,4 @@
-###A powerful yet simple switch-like dispatch system for Python
+## A powerful yet simple switch-like dispatch system for Python
 
 Originally published: 2010-12-21 04:23:36
 Last updated: 2010-12-21 04:38:48

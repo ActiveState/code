@@ -1,4 +1,4 @@
-###Tweet your GPS coordinates (Symbian)
+## Tweet your GPS coordinates (Symbian)
 
 Originally published: 2009-01-02 09:44:44
 Last updated: 2012-11-27 04:13:29

@@ -1,4 +1,4 @@
-###How to tell if it's currently Daylight Savings Time
+## How to tell if it's currently Daylight Savings Time
 
 Originally published: 2002-10-31 10:35:09
 Last updated: 2002-10-31 10:35:09

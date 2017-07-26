@@ -1,4 +1,4 @@
-###Game theory payoff matrix solver
+## Game theory payoff matrix solver
 
 Originally published: 2006-06-25 18:44:09
 Last updated: 2006-06-25 18:44:09

@@ -1,4 +1,4 @@
-###Create a zip bomb, for testing
+## Create a zip bomb, for testing
 
 Originally published: 2016-06-07 13:11:49
 Last updated: 2016-06-07 13:11:50

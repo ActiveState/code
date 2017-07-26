@@ -1,4 +1,4 @@
-###map_longest and map_strict
+## map_longest and map_strict
 
 Originally published: 2011-05-06 09:29:52
 Last updated: 2011-05-06 17:35:17

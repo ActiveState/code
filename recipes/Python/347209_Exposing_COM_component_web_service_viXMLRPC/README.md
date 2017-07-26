@@ -1,4 +1,4 @@
-###Exposing a COM component as a web service via XMLRPC with CherryPy (windows-specific)
+## Exposing a COM component as a web service via XMLRPC with CherryPy (windows-specific)
 
 Originally published: 2004-11-22 23:00:28
 Last updated: 2004-11-23 10:36:18

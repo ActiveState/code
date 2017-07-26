@@ -1,4 +1,4 @@
-###Simple example of embeding plots in wx and running them interactively
+## Simple example of embeding plots in wx and running them interactively
 
 Originally published: 2010-09-21 17:30:30
 Last updated: 2010-09-21 17:30:30

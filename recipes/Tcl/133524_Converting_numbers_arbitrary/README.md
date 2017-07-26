@@ -1,4 +1,4 @@
-###Converting numbers from arbitrary bases
+## Converting numbers from arbitrary bases
 
 Originally published: 2002-06-17 15:12:58
 Last updated: 2002-06-17 15:12:58

@@ -1,4 +1,4 @@
-###Run SQLite-connections in isolated threads
+## Run SQLite-connections in isolated threads
 
 Originally published: 2006-06-15 07:51:20
 Last updated: 2006-06-15 18:29:10

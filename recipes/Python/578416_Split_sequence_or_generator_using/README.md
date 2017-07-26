@@ -1,4 +1,4 @@
-###Split a sequence or generator using a predicate
+## Split a sequence or generator using a predicate
 
 Originally published: 2013-01-15 11:43:21
 Last updated: 2013-01-21 16:20:17

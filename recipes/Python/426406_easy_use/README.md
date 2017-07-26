@@ -1,4 +1,4 @@
-###An easy to use Configuration reader
+## An easy to use Configuration reader
 
 Originally published: 2005-06-22 12:19:04
 Last updated: 2005-06-22 12:19:04

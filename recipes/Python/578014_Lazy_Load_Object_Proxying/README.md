@@ -1,4 +1,4 @@
-###Lazy Load Object Proxying
+## Lazy Load Object Proxying
 
 Originally published: 2012-01-13 07:56:28
 Last updated: 2012-01-13 07:56:29

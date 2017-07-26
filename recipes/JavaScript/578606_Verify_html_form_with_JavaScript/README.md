@@ -1,4 +1,4 @@
-###Verify html form with JavaScript
+## Verify html form with JavaScript
 
 Originally published: 2013-07-15 12:18:24
 Last updated: 2013-07-15 12:19:53

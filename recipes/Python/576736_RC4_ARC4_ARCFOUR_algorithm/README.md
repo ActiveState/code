@@ -1,4 +1,4 @@
-###RC4, ARC4, ARCFOUR algorithm
+## RC4, ARC4, ARCFOUR algorithm
 
 Originally published: 2009-05-03 09:32:38
 Last updated: 2009-05-03 09:45:59

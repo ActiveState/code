@@ -1,4 +1,4 @@
-###Validate data easily with JSON Schema
+## Validate data easily with JSON Schema
 
 Originally published: 2015-12-06 21:23:47
 Last updated: 2015-12-06 21:23:48

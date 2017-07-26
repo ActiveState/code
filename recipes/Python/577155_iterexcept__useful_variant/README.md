@@ -1,4 +1,4 @@
-###iter_except -- a useful variant of __builtin__.iter()
+## iter_except -- a useful variant of __builtin__.iter()
 
 Originally published: 2010-03-27 02:04:21
 Last updated: 2010-03-27 02:04:22

@@ -1,4 +1,4 @@
-###Two-pass Pairing Heap with Multipass Auxiliary List
+## Two-pass Pairing Heap with Multipass Auxiliary List
 
 Originally published: 2004-04-10 09:21:28
 Last updated: 2004-11-26 21:58:32

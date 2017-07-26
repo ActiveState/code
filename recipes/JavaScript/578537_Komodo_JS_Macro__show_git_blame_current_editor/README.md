@@ -1,4 +1,4 @@
-###Komodo JS Macro - show git blame for the current editor line
+## Komodo JS Macro - show git blame for the current editor line
 
 Originally published: 2013-05-28 18:59:51
 Last updated: 2013-05-28 18:59:52

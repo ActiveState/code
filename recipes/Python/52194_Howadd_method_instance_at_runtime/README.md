@@ -1,4 +1,4 @@
-###Howto add a method to an instance at runtime for debugging
+## Howto add a method to an instance at runtime for debugging
 
 Originally published: 2001-02-23 18:24:19
 Last updated: 2001-02-23 18:24:19

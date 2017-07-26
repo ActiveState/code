@@ -1,4 +1,4 @@
-###lazy ordered unique elements from an iterator
+## lazy ordered unique elements from an iterator
 
 Originally published: 2011-06-23 09:40:50
 Last updated: 2011-06-23 16:36:38

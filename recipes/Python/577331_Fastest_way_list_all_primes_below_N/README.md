@@ -1,4 +1,4 @@
-###Fastest way to list all primes below N in python
+## Fastest way to list all primes below N in python
 
 Originally published: 2010-07-24 01:20:09
 Last updated: 2010-07-27 01:57:20

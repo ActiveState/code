@@ -1,4 +1,4 @@
-###Discrete PID Controller
+## Discrete PID Controller
 
 Originally published: 2010-05-19 11:37:07
 Last updated: 2015-12-18 20:59:43

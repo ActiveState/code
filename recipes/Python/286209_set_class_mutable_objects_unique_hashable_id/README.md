@@ -1,4 +1,4 @@
-###A set class for mutable objects with unique and hashable 'id' attributes
+## A set class for mutable objects with unique and hashable 'id' attributes
 
 Originally published: 2004-07-07 18:34:01
 Last updated: 2004-07-07 18:34:01

@@ -1,4 +1,4 @@
-###Recursive function to replace nested for loops (cartesian product)
+## Recursive function to replace nested for loops (cartesian product)
 
 Originally published: 2010-10-01 00:35:47
 Last updated: 2010-10-01 00:40:26

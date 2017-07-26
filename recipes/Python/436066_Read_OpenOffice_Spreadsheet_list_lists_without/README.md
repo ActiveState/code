@@ -1,4 +1,4 @@
-###Read OpenOffice Spreadsheet as list of lists (without UNO)
+## Read OpenOffice Spreadsheet as list of lists (without UNO)
 
 Originally published: 2005-07-06 01:02:48
 Last updated: 2005-11-28 11:34:46

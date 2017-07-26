@@ -1,4 +1,4 @@
-###Error propagating class for uncertain numeric quantities
+## Error propagating class for uncertain numeric quantities
 
 Originally published: 2007-12-11 02:11:00
 Last updated: 2007-12-11 02:11:00

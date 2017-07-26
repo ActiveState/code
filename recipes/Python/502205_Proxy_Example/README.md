@@ -1,4 +1,4 @@
-###Proxy Example
+## Proxy Example
 
 Originally published: 2007-02-01 21:55:34
 Last updated: 2007-02-01 21:55:34

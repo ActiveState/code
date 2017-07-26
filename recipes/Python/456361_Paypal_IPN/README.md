@@ -1,4 +1,4 @@
-###Paypal IPN
+## Paypal IPN
 
 Originally published: 2005-11-18 08:16:10
 Last updated: 2006-09-19 19:02:54

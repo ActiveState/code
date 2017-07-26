@@ -1,4 +1,4 @@
-###Encrypting A String
+## Encrypting A String
 
 Originally published: 2005-10-02 19:12:29
 Last updated: 2005-10-02 19:12:29

@@ -1,4 +1,4 @@
-###Mixin for pickling objects with __slots__
+## Mixin for pickling objects with __slots__
 
 Originally published: 2013-01-21 08:42:44
 Last updated: 2013-01-21 08:55:57

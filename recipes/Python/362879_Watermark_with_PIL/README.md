@@ -1,4 +1,4 @@
-###Watermark with PIL
+## Watermark with PIL
 
 Originally published: 2005-01-12 11:07:01
 Last updated: 2005-01-12 11:07:01

@@ -1,4 +1,4 @@
-###Setting a file descriptor to blocking or non-blocking mode
+## Setting a file descriptor to blocking or non-blocking mode
 
 Originally published: 2010-09-06 11:09:36
 Last updated: 2010-09-06 11:20:53

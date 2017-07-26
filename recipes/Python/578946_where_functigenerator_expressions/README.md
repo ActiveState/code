@@ -1,4 +1,4 @@
-###where() function for generator expressions (Python 3)
+## where() function for generator expressions (Python 3)
 
 Originally published: 2014-10-04 18:48:04
 Last updated: 2014-10-05 04:10:21

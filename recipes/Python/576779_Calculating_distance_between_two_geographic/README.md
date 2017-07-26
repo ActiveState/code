@@ -1,4 +1,4 @@
-###Calculating distance between two geographic points
+## Calculating distance between two geographic points
 
 Originally published: 2009-05-27 07:38:04
 Last updated: 2009-05-28 04:19:30

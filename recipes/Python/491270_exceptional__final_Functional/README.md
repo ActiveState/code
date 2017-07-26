@@ -1,4 +1,4 @@
-###exceptional & final: Functional exception handling
+## exceptional & final: Functional exception handling
 
 Originally published: 2006-04-19 04:28:31
 Last updated: 2006-04-23 09:48:32

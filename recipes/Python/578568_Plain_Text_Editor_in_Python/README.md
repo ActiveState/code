@@ -1,4 +1,4 @@
-###Plain Text Editor in Python
+## Plain Text Editor in Python
 
 Originally published: 2013-06-18 15:33:00
 Last updated: 2013-06-18 15:33:01

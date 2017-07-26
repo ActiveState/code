@@ -1,4 +1,4 @@
-###Maclaurin's_series_sin 
+## Maclaurin's_series_sin 
 
 Originally published: 2010-07-07 12:04:45
 Last updated: 2010-07-07 12:05:33

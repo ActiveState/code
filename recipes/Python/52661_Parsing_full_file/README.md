@@ -1,4 +1,4 @@
-###Parsing a full file specification.
+## Parsing a full file specification.
 
 Originally published: 2001-04-10 11:20:17
 Last updated: 2001-10-16 16:26:54

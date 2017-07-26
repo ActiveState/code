@@ -1,4 +1,4 @@
-###Unprettify XML: Strip irrelevant spaces and newlines from XML
+## Unprettify XML: Strip irrelevant spaces and newlines from XML
 
 Originally published: 2008-03-18 16:10:05
 Last updated: 2011-04-21 17:31:01

@@ -1,4 +1,4 @@
-###Expanding and Compressing Tabs
+## Expanding and Compressing Tabs
 
 Originally published: 2001-06-18 06:16:11
 Last updated: 2001-06-28 15:42:20

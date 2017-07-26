@@ -1,4 +1,4 @@
-###Subclass function
+## Subclass function
 
 Originally published: 2009-03-22 11:36:37
 Last updated: 2009-03-23 00:48:54

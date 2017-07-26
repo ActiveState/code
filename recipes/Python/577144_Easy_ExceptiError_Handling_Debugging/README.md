@@ -1,4 +1,4 @@
-###Easy Exception, Error Handling and Debugging with Auto Logging
+## Easy Exception, Error Handling and Debugging with Auto Logging
 
 Originally published: 2010-03-25 21:01:48
 Last updated: 2010-04-06 20:40:05

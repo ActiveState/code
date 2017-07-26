@@ -1,4 +1,4 @@
-###Convert Microsot Excel (XLSX) to PDF with Python and xtopdf
+## Convert Microsot Excel (XLSX) to PDF with Python and xtopdf
 
 Originally published: 2015-11-22 22:15:23
 Last updated: 2015-11-22 22:15:25

@@ -1,4 +1,4 @@
-###fast prime number list creator
+## fast prime number list creator
 
 Originally published: 2004-07-17 09:12:38
 Last updated: 2004-07-17 09:12:38

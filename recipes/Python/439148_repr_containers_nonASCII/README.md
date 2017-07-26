@@ -1,4 +1,4 @@
-###repr() of containers with non-ASCII strings
+## repr() of containers with non-ASCII strings
 
 Originally published: 2005-08-12 02:53:35
 Last updated: 2005-08-12 02:53:35

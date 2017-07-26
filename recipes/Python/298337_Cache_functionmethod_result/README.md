@@ -1,4 +1,4 @@
-###Cache function/method result
+## Cache function/method result
 
 Originally published: 2004-08-03 05:54:55
 Last updated: 2004-08-03 05:54:55

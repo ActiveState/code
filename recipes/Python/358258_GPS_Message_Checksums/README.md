@@ -1,4 +1,4 @@
-###GPS Message Checksums
+## GPS Message Checksums
 
 Originally published: 2004-12-11 14:38:20
 Last updated: 2004-12-11 14:38:20

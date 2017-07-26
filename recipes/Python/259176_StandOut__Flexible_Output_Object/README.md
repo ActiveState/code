@@ -1,4 +1,4 @@
-###StandOut - Flexible Output Object
+## StandOut - Flexible Output Object
 
 Originally published: 2004-01-09 06:28:44
 Last updated: 2004-01-09 06:28:44

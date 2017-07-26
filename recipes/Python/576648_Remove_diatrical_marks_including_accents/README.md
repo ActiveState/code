@@ -1,4 +1,4 @@
-###Remove diatrical marks (including accents) from strings using latin alphabets
+## Remove diatrical marks (including accents) from strings using latin alphabets
 
 Originally published: 2009-02-10 12:21:26
 Last updated: 2009-02-11 11:40:55

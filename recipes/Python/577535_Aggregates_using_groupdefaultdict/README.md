@@ -1,4 +1,4 @@
-###Aggregates using groupby, defaultdict and Counter
+## Aggregates using groupby, defaultdict and Counter
 
 Originally published: 2011-01-07 16:27:42
 Last updated: 2011-02-07 15:38:09

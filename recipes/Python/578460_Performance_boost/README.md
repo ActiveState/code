@@ -1,4 +1,4 @@
-###Performance boost with metaclasses
+## Performance boost with metaclasses
 
 Originally published: 2013-02-17 10:58:13
 Last updated: 2013-02-17 10:58:13

@@ -1,4 +1,4 @@
-###Flexible Win32 message pump using MsgWaitForMultipleObjects
+## Flexible Win32 message pump using MsgWaitForMultipleObjects
 
 Originally published: 2001-10-17 14:54:27
 Last updated: 2002-06-06 16:07:11

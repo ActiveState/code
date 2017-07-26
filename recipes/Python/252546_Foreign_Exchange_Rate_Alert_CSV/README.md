@@ -1,4 +1,4 @@
-###Foreign Exchange Rate Alert, CSV version ($CAD<->$USD)
+## Foreign Exchange Rate Alert, CSV version ($CAD<->$USD)
 
 Originally published: 2003-12-17 09:41:55
 Last updated: 2011-12-09 07:32:23

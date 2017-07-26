@@ -1,4 +1,4 @@
-###Console progress dots using threads and a context manager
+## Console progress dots using threads and a context manager
 
 Originally published: 2007-11-28 05:29:11
 Last updated: 2007-11-28 05:29:11

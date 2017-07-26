@@ -1,4 +1,4 @@
-###Python Binary Search Tree
+## Python Binary Search Tree
 
 Originally published: 2011-01-09 22:27:08
 Last updated: 2011-01-10 02:27:08

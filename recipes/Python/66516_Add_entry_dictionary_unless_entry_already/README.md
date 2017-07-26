@@ -1,4 +1,4 @@
-###Add an entry to a dictionary, unless the entry is already there
+## Add an entry to a dictionary, unless the entry is already there
 
 Originally published: 2001-08-14 06:10:00
 Last updated: 2001-08-14 13:18:30

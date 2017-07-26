@@ -1,4 +1,4 @@
-###Decimal and binary prefix Python snippet
+## Decimal and binary prefix Python snippet
 
 Originally published: 2010-05-06 17:09:43
 Last updated: 2010-05-06 17:09:44

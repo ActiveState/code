@@ -1,4 +1,4 @@
-###A time value of money class demonstrating properties
+## A time value of money class demonstrating properties
 
 Originally published: 2004-08-30 23:48:47
 Last updated: 2004-08-30 23:48:47

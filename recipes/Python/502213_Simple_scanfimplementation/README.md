@@ -1,4 +1,4 @@
-###Simple scanf-implementation
+## Simple scanf-implementation
 
 Originally published: 2007-02-12 10:22:54
 Last updated: 2007-02-12 10:22:54

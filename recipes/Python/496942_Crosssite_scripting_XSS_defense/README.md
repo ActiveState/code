@@ -1,4 +1,4 @@
-###Cross-site scripting (XSS) defense
+## Cross-site scripting (XSS) defense
 
 Originally published: 2006-08-05 10:45:10
 Last updated: 2006-08-05 10:45:10

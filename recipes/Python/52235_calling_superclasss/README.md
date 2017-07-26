@@ -1,4 +1,4 @@
-###calling a superclass's implementation of a method
+## calling a superclass's implementation of a method
 
 Originally published: 2001-03-12 08:06:55
 Last updated: 2001-03-12 08:06:55

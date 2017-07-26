@@ -1,4 +1,4 @@
-###Normally Distributed Random Numbers
+## Normally Distributed Random Numbers
 
 Originally published: 2002-08-06 15:34:35
 Last updated: 2002-08-06 15:34:35

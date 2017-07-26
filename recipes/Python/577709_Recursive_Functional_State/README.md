@@ -1,4 +1,4 @@
-###Recursive Functional State Machine
+## Recursive Functional State Machine
 
 Originally published: 2011-05-20 13:46:48
 Last updated: 2011-05-20 13:46:48

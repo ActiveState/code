@@ -1,4 +1,4 @@
-###Yet another prime number sieve
+## Yet another prime number sieve
 
 Originally published: 2011-10-10 07:49:07
 Last updated: 2011-10-10 07:49:08

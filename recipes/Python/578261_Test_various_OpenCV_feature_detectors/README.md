@@ -1,4 +1,4 @@
-###Test various OpenCV feature detectors in Python
+## Test various OpenCV feature detectors in Python
 
 Originally published: 2012-09-13 16:07:20
 Last updated: 2012-09-13 16:07:21

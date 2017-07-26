@@ -1,4 +1,4 @@
-###Cycling a sequence
+## Cycling a sequence
 
 Originally published: 2014-09-20 19:20:46
 Last updated: 2014-09-20 19:20:46

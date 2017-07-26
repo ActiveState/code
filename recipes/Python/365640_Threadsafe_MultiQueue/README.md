@@ -1,4 +1,4 @@
-###Thread-safe MultiQueue
+## Thread-safe MultiQueue
 
 Originally published: 2005-02-03 06:15:31
 Last updated: 2005-02-05 17:13:00

@@ -1,4 +1,4 @@
-###Finding sets in the card game SET!
+## Finding sets in the card game SET!
 
 Originally published: 2013-04-04 22:13:55
 Last updated: 2013-04-05 12:49:36

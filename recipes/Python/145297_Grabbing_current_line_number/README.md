@@ -1,4 +1,4 @@
-###Grabbing the current line number easily
+## Grabbing the current line number easily
 
 Originally published: 2002-08-16 16:55:41
 Last updated: 2002-08-16 16:55:41

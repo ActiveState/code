@@ -1,4 +1,4 @@
-###Determine the available desktop area (primary monitor) on Windows
+## Determine the available desktop area (primary monitor) on Windows
 
 Originally published: 2005-12-02 07:50:39
 Last updated: 2005-12-02 07:50:39

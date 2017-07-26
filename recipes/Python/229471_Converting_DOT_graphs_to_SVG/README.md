@@ -1,4 +1,4 @@
-###Converting DOT graphs to SVG
+## Converting DOT graphs to SVG
 
 Originally published: 2003-10-17 15:37:13
 Last updated: 2003-10-17 15:37:13

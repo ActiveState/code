@@ -1,4 +1,4 @@
-###Using proxy connection for QWebView
+## Using proxy connection for QWebView
 
 Originally published: 2009-10-02 01:57:52
 Last updated: 2009-10-02 02:32:51

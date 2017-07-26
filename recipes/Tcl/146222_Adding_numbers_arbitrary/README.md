@@ -1,4 +1,4 @@
-###Adding numbers in arbitrary bases.
+## Adding numbers in arbitrary bases.
 
 Originally published: 2002-08-22 16:16:22
 Last updated: 2002-08-22 16:16:22

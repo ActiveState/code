@@ -1,4 +1,4 @@
-###Encode messages and message digests in 'Bubble Babble' format
+## Encode messages and message digests in 'Bubble Babble' format
 
 Originally published: 2005-05-03 06:58:51
 Last updated: 2005-05-05 15:48:59

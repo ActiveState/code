@@ -1,4 +1,4 @@
-###Using a simple dictionary for CGI parameters
+## Using a simple dictionary for CGI parameters
 
 Originally published: 2001-10-13 09:51:15
 Last updated: 2001-10-13 09:51:15

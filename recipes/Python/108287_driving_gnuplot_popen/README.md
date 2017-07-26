@@ -1,4 +1,4 @@
-###driving gnuplot with the popen function
+## driving gnuplot with the popen function
 
 Originally published: 2002-01-18 05:38:53
 Last updated: 2002-03-04 14:00:46

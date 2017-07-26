@@ -1,4 +1,4 @@
-###Russian Multiplication in Python
+## Russian Multiplication in Python
 
 Originally published: 2013-06-18 15:25:02
 Last updated: 2013-06-18 15:25:02

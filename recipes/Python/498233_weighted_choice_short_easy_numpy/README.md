@@ -1,4 +1,4 @@
-###weighted choice (short and easy numpy version)
+## weighted choice (short and easy numpy version)
 
 Originally published: 2006-10-31 12:09:20
 Last updated: 2006-10-31 12:09:20

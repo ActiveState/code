@@ -1,4 +1,4 @@
-###Using doctests to verify a module's export list
+## Using doctests to verify a module's export list
 
 Originally published: 2012-09-19 17:28:39
 Last updated: 2012-09-19 19:13:20

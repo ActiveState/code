@@ -1,4 +1,4 @@
-###Simple record (a.k.a. struct) type
+## Simple record (a.k.a. struct) type
 
 Originally published: 2007-02-20 15:07:41
 Last updated: 2007-02-22 03:59:46

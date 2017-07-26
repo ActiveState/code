@@ -1,4 +1,4 @@
-###Secant Method of Solving Equtions in Python
+## Secant Method of Solving Equtions in Python
 
 Originally published: 2013-01-16 16:42:25
 Last updated: 2013-01-16 16:42:26

@@ -1,4 +1,4 @@
-###Natural string sorting
+## Natural string sorting
 
 Originally published: 2004-06-10 14:08:13
 Last updated: 2004-06-10 14:08:13

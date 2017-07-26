@@ -1,4 +1,4 @@
-###Global Signal Dispatching
+## Global Signal Dispatching
 
 Originally published: 2001-11-06 13:33:51
 Last updated: 2001-12-11 19:30:28

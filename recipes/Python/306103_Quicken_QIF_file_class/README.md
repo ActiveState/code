@@ -1,4 +1,4 @@
-###Quicken QIF file class and conversion
+## Quicken QIF file class and conversion
 
 Originally published: 2004-09-27 16:00:27
 Last updated: 2004-09-27 16:00:27

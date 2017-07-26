@@ -1,4 +1,4 @@
-###slurp.py (Regex based simple parsing engine)
+## slurp.py (Regex based simple parsing engine)
 
 Originally published: 2013-05-26 18:00:57
 Last updated: 2013-05-26 18:00:58

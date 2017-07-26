@@ -1,4 +1,4 @@
-###Update web to point to dynamic ip
+## Update web to point to dynamic ip
 
 Originally published: 2004-11-16 22:15:41
 Last updated: 2004-11-16 22:15:41

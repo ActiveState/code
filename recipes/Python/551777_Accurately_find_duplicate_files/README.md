@@ -1,4 +1,4 @@
-###Accurately find duplicate files
+## Accurately find duplicate files
 
 Originally published: 2008-03-18 10:17:01
 Last updated: 2008-03-18 10:17:01

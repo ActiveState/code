@@ -1,4 +1,4 @@
-###EAN Bar code image generator
+## EAN Bar code image generator
 
 Originally published: 2005-06-18 04:07:13
 Last updated: 2005-06-18 04:07:13

@@ -1,4 +1,4 @@
-###Simple event dispatcher
+## Simple event dispatcher
 
 Originally published: 2010-10-19 21:18:44
 Last updated: 2010-10-19 21:18:45

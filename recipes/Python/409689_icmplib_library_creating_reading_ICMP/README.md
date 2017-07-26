@@ -1,4 +1,4 @@
-###icmplib: library for creating and reading ICMP packets
+## icmplib: library for creating and reading ICMP packets
 
 Originally published: 2005-04-13 15:08:31
 Last updated: 2007-07-15 19:37:46

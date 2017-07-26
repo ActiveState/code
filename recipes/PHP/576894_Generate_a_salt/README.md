@@ -1,4 +1,4 @@
-###Generate a salt
+## Generate a salt
 
 Originally published: 2009-09-01 19:04:43
 Last updated: 2012-07-10 19:52:17

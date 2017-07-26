@@ -1,4 +1,4 @@
-###Incremental PCA
+## Incremental PCA
 
 Originally published: 2010-05-01 18:04:38
 Last updated: 2010-05-01 18:04:39

@@ -1,4 +1,4 @@
-###min and max with key= argument
+## min and max with key= argument
 
 Originally published: 2005-02-25 22:30:22
 Last updated: 2006-03-27 00:34:58

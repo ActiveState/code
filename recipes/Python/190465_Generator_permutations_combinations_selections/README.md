@@ -1,4 +1,4 @@
-###Generator for permutations, combinations, selections of a sequence
+## Generator for permutations, combinations, selections of a sequence
 
 Originally published: 2003-03-20 10:54:20
 Last updated: 2003-03-20 10:54:20

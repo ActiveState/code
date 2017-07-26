@@ -1,4 +1,4 @@
-###Extract text from XML document
+## Extract text from XML document
 
 Originally published: 2001-06-12 19:49:31
 Last updated: 2001-06-14 19:42:23

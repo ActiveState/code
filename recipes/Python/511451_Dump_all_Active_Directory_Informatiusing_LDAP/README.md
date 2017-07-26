@@ -1,4 +1,4 @@
-###Dump all Active Directory Information using LDAP scripting
+## Dump all Active Directory Information using LDAP scripting
 
 Originally published: 2007-04-04 17:07:38
 Last updated: 2007-04-04 17:07:38

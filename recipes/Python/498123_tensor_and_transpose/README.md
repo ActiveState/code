@@ -1,4 +1,4 @@
-###tensor and transpose
+## tensor and transpose
 
 Originally published: 2006-09-21 15:25:44
 Last updated: 2006-09-21 15:25:44

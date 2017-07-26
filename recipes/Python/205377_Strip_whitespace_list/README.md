@@ -1,4 +1,4 @@
-###Strip whitespace from a list of strings
+## Strip whitespace from a list of strings
 
 Originally published: 2003-06-13 11:16:00
 Last updated: 2003-06-18 15:14:13

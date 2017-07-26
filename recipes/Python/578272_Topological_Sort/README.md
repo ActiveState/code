@@ -1,4 +1,4 @@
-###Topological Sort
+## Topological Sort
 
 Originally published: 2012-09-27 12:11:14
 Last updated: 2012-09-27 12:21:23

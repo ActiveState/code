@@ -1,4 +1,4 @@
-###Printing strings with embedded variable names
+## Printing strings with embedded variable names
 
 Originally published: 2001-03-22 14:53:47
 Last updated: 2002-06-05 03:41:24

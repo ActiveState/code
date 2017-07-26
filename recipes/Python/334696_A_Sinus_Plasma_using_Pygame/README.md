@@ -1,4 +1,4 @@
-###A Sinus Plasma, using Pygame
+## A Sinus Plasma, using Pygame
 
 Originally published: 2004-11-07 23:38:22
 Last updated: 2004-11-07 23:38:22

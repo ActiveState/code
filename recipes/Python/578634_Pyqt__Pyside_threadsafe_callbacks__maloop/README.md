@@ -1,4 +1,4 @@
-###Pyqt / Pyside: thread-safe callbacks + main loop integration
+## Pyqt / Pyside: thread-safe callbacks + main loop integration
 
 Originally published: 2013-08-09 22:29:43
 Last updated: 2013-10-12 08:43:09

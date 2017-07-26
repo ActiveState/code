@@ -1,4 +1,4 @@
-###Serve PageTemplates with Medusa
+## Serve PageTemplates with Medusa
 
 Originally published: 2002-10-18 17:16:53
 Last updated: 2002-10-18 17:16:53

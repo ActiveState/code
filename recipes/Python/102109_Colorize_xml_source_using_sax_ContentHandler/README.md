@@ -1,4 +1,4 @@
-###Colorize xml source using the sax ContentHandler, LexicalHandler and Declhandler interfaces
+## Colorize xml source using the sax ContentHandler, LexicalHandler and Declhandler interfaces
 
 Originally published: 2001-12-12 10:37:15
 Last updated: 2002-01-15 10:13:48

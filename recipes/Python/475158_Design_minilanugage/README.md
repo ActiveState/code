@@ -1,4 +1,4 @@
-###Design mini-lanugage for data input
+## Design mini-lanugage for data input
 
 Originally published: 2006-03-20 22:24:06
 Last updated: 2006-03-20 22:24:06

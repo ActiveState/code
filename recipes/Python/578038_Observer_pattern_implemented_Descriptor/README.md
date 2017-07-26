@@ -1,4 +1,4 @@
-###Observer pattern implemented with Descriptor class
+## Observer pattern implemented with Descriptor class
 
 Originally published: 2012-02-14 23:43:52
 Last updated: 2012-02-14 23:43:53

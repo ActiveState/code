@@ -1,4 +1,4 @@
-###N-way merge sort
+## N-way merge sort
 
 Originally published: 2007-05-01 18:58:46
 Last updated: 2007-05-01 18:58:46

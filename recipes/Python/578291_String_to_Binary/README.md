@@ -1,4 +1,4 @@
-###String to Binary
+## String to Binary
 
 Originally published: 2012-10-17 17:48:47
 Last updated: 2014-07-30 07:20:22

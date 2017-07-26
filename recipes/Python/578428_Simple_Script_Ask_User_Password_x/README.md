@@ -1,4 +1,4 @@
-###Simple Script to Ask the User for a Password x Times
+## Simple Script to Ask the User for a Password x Times
 
 Originally published: 2013-01-19 04:05:40
 Last updated: 2013-01-19 04:05:41

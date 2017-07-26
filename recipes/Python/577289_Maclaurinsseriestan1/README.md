@@ -1,4 +1,4 @@
-###Maclaurin's_series_tan-1
+## Maclaurin's_series_tan-1
 
 Originally published: 2010-07-07 12:13:31
 Last updated: 2010-07-07 12:21:44

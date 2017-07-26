@@ -1,4 +1,4 @@
-###Script for GAE Blobstore migration from Master Slave to High Replication Datastore
+## Script for GAE Blobstore migration from Master Slave to High Replication Datastore
 
 Originally published: 2011-11-03 17:21:03
 Last updated: 2011-11-04 14:56:56

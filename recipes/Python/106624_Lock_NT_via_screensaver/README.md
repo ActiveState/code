@@ -1,4 +1,4 @@
-###Lock NT via screensaver
+## Lock NT via screensaver
 
 Originally published: 2002-01-10 13:30:21
 Last updated: 2002-01-11 01:49:31

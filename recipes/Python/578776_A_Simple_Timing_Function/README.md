@@ -1,4 +1,4 @@
-###A Simple Timing Function
+## A Simple Timing Function
 
 Originally published: 2013-12-01 01:37:27
 Last updated: 2013-12-01 01:39:44

@@ -1,4 +1,4 @@
-###simple string checksum
+## simple string checksum
 
 Originally published: 2001-03-14 06:34:47
 Last updated: 2001-03-14 06:34:47

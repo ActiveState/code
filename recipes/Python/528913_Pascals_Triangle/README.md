@@ -1,4 +1,4 @@
-###Pascal's Triangle
+## Pascal's Triangle
 
 Originally published: 2007-09-02 07:47:08
 Last updated: 2007-09-03 22:34:13

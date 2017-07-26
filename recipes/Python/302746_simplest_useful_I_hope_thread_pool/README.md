@@ -1,4 +1,4 @@
-###simplest useful (I hope!) thread pool example
+## simplest useful (I hope!) thread pool example
 
 Originally published: 2004-08-31 07:43:53
 Last updated: 2004-09-08 13:53:48

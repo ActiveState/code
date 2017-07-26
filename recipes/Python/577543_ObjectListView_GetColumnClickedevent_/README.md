@@ -1,4 +1,4 @@
-###ObjectListView GetColumnClicked(event) # handler
+## ObjectListView GetColumnClicked(event) # handler
 
 Originally published: 2011-01-14 04:41:34
 Last updated: 2011-01-14 04:41:35

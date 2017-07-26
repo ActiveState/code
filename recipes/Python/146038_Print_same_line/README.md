@@ -1,4 +1,4 @@
-###Print in the same line on the console
+## Print in the same line on the console
 
 Originally published: 2002-08-21 20:39:12
 Last updated: 2002-08-21 20:39:12

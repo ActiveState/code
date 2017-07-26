@@ -1,4 +1,4 @@
-###Bader-Offer Method (Hagenbach-Bischoff)
+## Bader-Offer Method (Hagenbach-Bischoff)
 
 Originally published: 2015-01-14 11:14:05
 Last updated: 2015-01-14 11:14:06

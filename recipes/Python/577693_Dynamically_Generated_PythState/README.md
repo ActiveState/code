@@ -1,4 +1,4 @@
-###Dynamically Generated Python State Machine
+## Dynamically Generated Python State Machine
 
 Originally published: 2011-05-13 05:30:13
 Last updated: 2011-09-30 05:16:56

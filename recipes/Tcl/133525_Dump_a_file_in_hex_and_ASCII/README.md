@@ -1,4 +1,4 @@
-###Dump a file in hex and ASCII
+## Dump a file in hex and ASCII
 
 Originally published: 2002-06-17 15:27:20
 Last updated: 2002-06-17 15:27:20

@@ -1,4 +1,4 @@
-###A more clean implementation for Ordered Dictionary
+## A more clean implementation for Ordered Dictionary
 
 Originally published: 2006-05-31 20:56:26
 Last updated: 2006-05-31 20:56:26

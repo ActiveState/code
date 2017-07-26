@@ -1,4 +1,4 @@
-###Singleton(subclass) with once initialization
+## Singleton(subclass) with once initialization
 
 Originally published: 2010-04-23 11:27:56
 Last updated: 2010-04-23 11:27:58

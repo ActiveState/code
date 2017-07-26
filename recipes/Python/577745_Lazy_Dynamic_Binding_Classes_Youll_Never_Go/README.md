@@ -1,4 +1,4 @@
-###Lazy Dynamic Binding on Classes (You'll Never Go Back)
+## Lazy Dynamic Binding on Classes (You'll Never Go Back)
 
 Originally published: 2011-06-11 00:02:36
 Last updated: 2011-08-12 23:42:27

@@ -1,4 +1,4 @@
-###Split String into n-size pieces
+## Split String into n-size pieces
 
 Originally published: 2006-06-06 12:24:23
 Last updated: 2006-06-06 12:24:23

@@ -1,4 +1,4 @@
-###using inner classes for transparent extensions to your class
+## using inner classes for transparent extensions to your class
 
 Originally published: 2005-11-17 06:41:11
 Last updated: 2005-11-17 16:28:05

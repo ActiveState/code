@@ -1,4 +1,4 @@
-###tree.py - graphically displays the directory structure of a specified path
+## tree.py - graphically displays the directory structure of a specified path
 
 Originally published: 2003-08-21 00:50:43
 Last updated: 2003-08-21 00:50:43

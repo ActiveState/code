@@ -1,4 +1,4 @@
-###Calculate the distance matrix for n-dimensional point array
+## Calculate the distance matrix for n-dimensional point array
 
 Originally published: 2006-11-06 10:20:23
 Last updated: 2006-11-11 22:56:49

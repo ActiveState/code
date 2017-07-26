@@ -1,4 +1,4 @@
-###Handling ANSI Terminal.
+## Handling ANSI Terminal.
 
 Originally published: 2008-07-08 08:19:49
 Last updated: 2010-02-09 05:51:23

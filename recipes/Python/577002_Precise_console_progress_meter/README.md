@@ -1,4 +1,4 @@
-###Precise console progress meter with ETA calculation
+## Precise console progress meter with ETA calculation
 
 Originally published: 2010-01-11 09:37:48
 Last updated: 2010-04-18 21:11:40

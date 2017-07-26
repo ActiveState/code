@@ -1,4 +1,4 @@
-###simple pygtk Calculator
+## simple pygtk Calculator
 
 Originally published: 2009-01-20 21:07:35
 Last updated: 2009-01-20 21:07:35

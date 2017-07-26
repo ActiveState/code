@@ -1,4 +1,4 @@
-###Poker hand primitives
+## Poker hand primitives
 
 Originally published: 2005-05-30 01:17:34
 Last updated: 2005-05-30 01:17:34

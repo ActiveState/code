@@ -1,4 +1,4 @@
-###Simple XOR keyword Encryption
+## Simple XOR keyword Encryption
 
 Originally published: 2004-02-03 03:26:47
 Last updated: 2004-02-03 03:26:47

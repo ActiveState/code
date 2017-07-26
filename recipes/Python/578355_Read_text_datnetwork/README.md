@@ -1,4 +1,4 @@
-###Read text data from the network port
+## Read text data from the network port
 
 Originally published: 2012-12-04 20:17:58
 Last updated: 2012-12-04 20:17:59

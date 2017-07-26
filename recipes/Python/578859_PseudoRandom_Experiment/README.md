@@ -1,4 +1,4 @@
-###Pseudo-Random Experiment: Coin Toss
+## Pseudo-Random Experiment: Coin Toss
 
 Originally published: 2014-03-31 18:51:14
 Last updated: 2014-03-31 18:51:15

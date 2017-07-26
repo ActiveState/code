@@ -1,4 +1,4 @@
-###A nicer syntax for super(cls,self)
+## A nicer syntax for super(cls,self)
 
 Originally published: 2004-05-18 01:40:04
 Last updated: 2004-05-19 10:59:30

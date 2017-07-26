@@ -1,4 +1,4 @@
-###Gumowski-Mira Strange Attractor
+## Gumowski-Mira Strange Attractor
 
 Originally published: 2010-12-05 01:58:53
 Last updated: 2010-12-07 09:54:51

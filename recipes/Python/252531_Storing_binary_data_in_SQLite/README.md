@@ -1,4 +1,4 @@
-###Storing binary data in SQLite
+## Storing binary data in SQLite
 
 Originally published: 2003-12-13 20:37:16
 Last updated: 2003-12-13 20:37:16

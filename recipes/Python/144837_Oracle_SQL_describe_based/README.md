@@ -1,4 +1,4 @@
-###Oracle SQL describe (based on DCOracle2)
+## Oracle SQL describe (based on DCOracle2)
 
 Originally published: 2002-08-14 13:10:43
 Last updated: 2002-08-14 13:10:43

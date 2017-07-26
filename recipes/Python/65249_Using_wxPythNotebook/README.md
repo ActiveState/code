@@ -1,4 +1,4 @@
-###Using a wxPython "Notebook" with panels
+## Using a wxPython "Notebook" with panels
 
 Originally published: 2001-06-19 10:58:51
 Last updated: 2001-06-19 22:26:42

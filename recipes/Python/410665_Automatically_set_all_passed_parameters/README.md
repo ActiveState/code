@@ -1,4 +1,4 @@
-###Automatically set all passed parameters to self
+## Automatically set all passed parameters to self
 
 Originally published: 2005-04-21 17:29:19
 Last updated: 2005-04-21 17:29:19

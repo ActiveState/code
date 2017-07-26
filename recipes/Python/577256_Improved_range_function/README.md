@@ -1,4 +1,4 @@
-###Improved range function
+## Improved range function
 
 Originally published: 2010-06-05 18:21:01
 Last updated: 2010-06-07 01:50:20

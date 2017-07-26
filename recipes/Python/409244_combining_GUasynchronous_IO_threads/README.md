@@ -1,4 +1,4 @@
-###combining GUIs and asynchronous I/O with threads and pygtk
+## combining GUIs and asynchronous I/O with threads and pygtk
 
 Originally published: 2005-04-10 08:36:58
 Last updated: 2005-04-10 08:36:58

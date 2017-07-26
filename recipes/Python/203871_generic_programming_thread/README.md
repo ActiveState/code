@@ -1,4 +1,4 @@
-###A generic programming thread pool
+## A generic programming thread pool
 
 Originally published: 2003-06-05 05:51:52
 Last updated: 2003-09-24 17:24:43

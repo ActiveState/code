@@ -1,4 +1,4 @@
-###Easy Property Creation in Python
+## Easy Property Creation in Python
 
 Originally published: 2009-05-06 11:08:21
 Last updated: 2009-05-06 11:59:16

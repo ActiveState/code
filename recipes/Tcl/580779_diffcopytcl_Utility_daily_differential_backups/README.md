@@ -1,4 +1,4 @@
-###diff_copy.tcl Utility for daily differential backups of large windows directory structures
+## diff_copy.tcl Utility for daily differential backups of large windows directory structures
 
 Originally published: 2017-04-10 13:51:57
 Last updated: 2017-04-10 13:51:58

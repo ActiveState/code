@@ -1,4 +1,4 @@
-###Get version from Win32 Portable Executable file
+## Get version from Win32 Portable Executable file
 
 Originally published: 2006-08-18 10:04:04
 Last updated: 2006-08-18 10:04:04

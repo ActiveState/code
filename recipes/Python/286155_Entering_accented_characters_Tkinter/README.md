@@ -1,4 +1,4 @@
-###Entering accented characters in Tkinter widgets
+## Entering accented characters in Tkinter widgets
 
 Originally published: 2004-06-19 02:09:47
 Last updated: 2005-01-12 22:00:07

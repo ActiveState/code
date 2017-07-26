@@ -1,4 +1,4 @@
-###Observer Pattern
+## Observer Pattern
 
 Originally published: 2002-06-05 08:47:40
 Last updated: 2003-01-13 09:38:15

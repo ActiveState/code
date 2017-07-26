@@ -1,4 +1,4 @@
-###Printing with Python and pyGTK
+## Printing with Python and pyGTK
 
 Originally published: 2009-06-24 00:16:50
 Last updated: 2009-06-25 13:54:34

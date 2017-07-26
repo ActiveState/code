@@ -1,4 +1,4 @@
-###Visualize unicode strings
+## Visualize unicode strings
 
 Originally published: 2005-07-13 22:56:28
 Last updated: 2005-07-14 05:59:09

@@ -1,4 +1,4 @@
-###Maclaurin's_series_ln(x)_decimal_module_version
+## Maclaurin's_series_ln(x)_decimal_module_version
 
 Originally published: 2010-07-15 11:09:59
 Last updated: 2011-01-20 12:09:24

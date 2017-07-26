@@ -1,4 +1,4 @@
-###Generic proxy object with before/after method hooks.
+## Generic proxy object with before/after method hooks.
 
 Originally published: 2005-02-07 22:52:49
 Last updated: 2005-02-07 22:52:49

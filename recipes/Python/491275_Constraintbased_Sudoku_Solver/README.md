@@ -1,4 +1,4 @@
-###Constraint-based Sudoku Solver
+## Constraint-based Sudoku Solver
 
 Originally published: 2006-04-20 11:19:04
 Last updated: 2006-04-20 11:19:04

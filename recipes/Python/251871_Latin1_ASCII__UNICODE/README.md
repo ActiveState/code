@@ -1,4 +1,4 @@
-###Latin1 to ASCII -- The UNICODE Hammer
+## Latin1 to ASCII -- The UNICODE Hammer
 
 Originally published: 2003-11-10 11:06:49
 Last updated: 2003-11-10 11:06:49

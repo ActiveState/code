@@ -1,4 +1,4 @@
-###Bass class for PDO abstraction
+## Bass class for PDO abstraction
 
 Originally published: 2007-06-25 16:54:52
 Last updated: 2010-03-28 01:16:30

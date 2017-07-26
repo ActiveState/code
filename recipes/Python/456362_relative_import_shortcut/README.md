@@ -1,4 +1,4 @@
-###relative import shortcut
+## relative import shortcut
 
 Originally published: 2005-11-18 10:24:17
 Last updated: 2005-11-18 10:24:17

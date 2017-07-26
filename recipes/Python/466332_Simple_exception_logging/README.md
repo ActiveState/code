@@ -1,4 +1,4 @@
-###Simple exception logging
+## Simple exception logging
 
 Originally published: 2006-01-22 08:48:00
 Last updated: 2006-01-22 08:48:00

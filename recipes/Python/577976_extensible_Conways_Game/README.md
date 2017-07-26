@@ -1,4 +1,4 @@
-###An extensible Conway's Game of Life
+## An extensible Conway's Game of Life
 
 Originally published: 2011-12-05 11:45:45
 Last updated: 2011-12-05 11:45:45

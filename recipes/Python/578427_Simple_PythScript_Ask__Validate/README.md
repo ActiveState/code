@@ -1,4 +1,4 @@
-###Simple Python Script to Ask & Validate Password
+## Simple Python Script to Ask & Validate Password
 
 Originally published: 2013-01-19 04:04:29
 Last updated: 2013-01-19 04:04:30

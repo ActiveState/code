@@ -1,4 +1,4 @@
-###Sending mail with attachments
+## Sending mail with attachments
 
 Originally published: 2001-06-21 16:58:11
 Last updated: 2003-02-23 22:42:28

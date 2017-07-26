@@ -1,4 +1,4 @@
-###monty hall problem
+## monty hall problem
 
 Originally published: 2010-08-25 20:02:16
 Last updated: 2010-08-25 20:02:17

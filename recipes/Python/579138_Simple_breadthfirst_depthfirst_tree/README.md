@@ -1,4 +1,4 @@
-###Simple breadth-first, depth-first tree traversal
+## Simple breadth-first, depth-first tree traversal
 
 Originally published: 2015-12-17 03:35:43
 Last updated: 2015-12-18 18:15:18

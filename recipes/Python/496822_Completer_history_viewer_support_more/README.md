@@ -1,4 +1,4 @@
-###Completer with history viewer support and more features
+## Completer with history viewer support and more features
 
 Originally published: 2006-06-24 13:37:01
 Last updated: 2006-06-29 01:22:23

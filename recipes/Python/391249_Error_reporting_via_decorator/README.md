@@ -1,4 +1,4 @@
-###Error reporting via decorator
+## Error reporting via decorator
 
 Originally published: 2005-03-10 16:13:58
 Last updated: 2005-03-10 16:13:58

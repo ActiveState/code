@@ -1,4 +1,4 @@
-###Eight queen problem (Javascript)
+## Eight queen problem (Javascript)
 
 Originally published: 2013-03-20 18:58:44
 Last updated: 2013-03-20 19:03:44

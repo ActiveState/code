@@ -1,4 +1,4 @@
-###Some python style switches
+## Some python style switches
 
 Originally published: 2004-02-17 15:55:22
 Last updated: 2004-05-11 21:38:56

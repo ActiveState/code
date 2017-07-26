@@ -1,4 +1,4 @@
-###Easy way to 'unget' a value from a generator using send()
+## Easy way to 'unget' a value from a generator using send()
 
 Originally published: 2007-09-12 13:08:13
 Last updated: 2007-09-12 13:08:13

@@ -1,4 +1,4 @@
-###How to stream an mp3 file using vlc.py, with a simple TKinter GUI.
+## How to stream an mp3 file using vlc.py, with a simple TKinter GUI.
 
 Originally published: 2013-06-09 12:52:29
 Last updated: 2013-06-09 12:52:30

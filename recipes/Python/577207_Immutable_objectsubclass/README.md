@@ -1,4 +1,4 @@
-###Immutable object(subclass)
+## Immutable object(subclass)
 
 Originally published: 2010-04-22 19:39:30
 Last updated: 2010-04-23 08:30:50

@@ -1,4 +1,4 @@
-###Komodo JS Macro: Real auto word-wrap
+## Komodo JS Macro: Real auto word-wrap
 
 Originally published: 2012-04-08 13:00:46
 Last updated: 2012-04-10 17:38:13

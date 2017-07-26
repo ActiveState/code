@@ -1,4 +1,4 @@
-###Alternative to __del__ through __finalize__ and __finalattrs__
+## Alternative to __del__ through __finalize__ and __finalattrs__
 
 Originally published: 2007-05-12 00:33:44
 Last updated: 2007-05-13 19:13:22

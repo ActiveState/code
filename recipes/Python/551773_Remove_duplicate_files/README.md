@@ -1,4 +1,4 @@
-###Remove duplicate files
+## Remove duplicate files
 
 Originally published: 2008-03-17 10:38:07
 Last updated: 2008-03-17 10:38:07

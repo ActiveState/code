@@ -1,4 +1,4 @@
-###Komodo JS Macro: Execute JavaScript
+## Komodo JS Macro: Execute JavaScript
 
 Originally published: 2012-05-07 13:21:30
 Last updated: 2012-05-07 13:21:30

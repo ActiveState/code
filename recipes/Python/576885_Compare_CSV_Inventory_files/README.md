@@ -1,4 +1,4 @@
-###Compare CSV Inventory files
+## Compare CSV Inventory files
 
 Originally published: 2009-08-18 14:14:04
 Last updated: 2009-08-18 14:14:04

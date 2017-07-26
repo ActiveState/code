@@ -1,4 +1,4 @@
-###Binary_Decimal Recursion
+## Binary_Decimal Recursion
 
 Originally published: 2010-02-09 04:25:40
 Last updated: 2010-02-23 04:39:41

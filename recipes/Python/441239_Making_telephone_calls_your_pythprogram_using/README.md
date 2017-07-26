@@ -1,4 +1,4 @@
-###Making telephone calls from your python program using Voicent Gateway
+## Making telephone calls from your python program using Voicent Gateway
 
 Originally published: 2005-10-13 16:28:19
 Last updated: 2005-10-13 16:28:19

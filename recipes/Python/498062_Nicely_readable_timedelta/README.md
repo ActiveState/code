@@ -1,4 +1,4 @@
-###Nicely readable timedelta
+## Nicely readable timedelta
 
 Originally published: 2006-09-02 17:18:55
 Last updated: 2006-09-02 17:18:55

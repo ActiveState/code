@@ -1,4 +1,4 @@
-###Syntax-highlighted code blocks for docutils
+## Syntax-highlighted code blocks for docutils
 
 Originally published: 2003-11-24 20:28:08
 Last updated: 2006-03-04 21:49:14

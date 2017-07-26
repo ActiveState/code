@@ -1,4 +1,4 @@
-###Faster Factorial
+## Faster Factorial
 
 Originally published: 2010-05-23 08:05:57
 Last updated: 2010-05-23 16:06:33

@@ -1,4 +1,4 @@
-###Factorial-Lambda
+## Factorial-Lambda
 
 Originally published: 2009-01-16 02:45:17
 Last updated: 2011-01-27 12:40:22

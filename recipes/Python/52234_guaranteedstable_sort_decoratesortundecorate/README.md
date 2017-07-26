@@ -1,4 +1,4 @@
-###guaranteed-stable sort with the decorate-sort-undecorate idiom (aka Schwartzian transform)
+## guaranteed-stable sort with the decorate-sort-undecorate idiom (aka Schwartzian transform)
 
 Originally published: 2001-03-15 07:18:43
 Last updated: 2001-06-04 18:47:59

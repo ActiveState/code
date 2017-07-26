@@ -1,4 +1,4 @@
-###Type-checking decorator
+## Type-checking decorator
 
 Originally published: 2005-11-15 14:00:59
 Last updated: 2005-11-17 12:23:59

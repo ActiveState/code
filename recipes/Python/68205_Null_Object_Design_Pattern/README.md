@@ -1,4 +1,4 @@
-###Null Object Design Pattern
+## Null Object Design Pattern
 
 Originally published: 2001-09-07 00:14:12
 Last updated: 2001-09-07 00:14:12

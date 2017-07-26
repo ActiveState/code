@@ -1,4 +1,4 @@
-###remove directories recursively
+## remove directories recursively
 
 Originally published: 2008-03-26 16:14:58
 Last updated: 2008-03-26 16:14:58

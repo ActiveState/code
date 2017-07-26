@@ -1,4 +1,4 @@
-###Get all installed Windows hotfixes
+## Get all installed Windows hotfixes
 
 Originally published: 2014-07-31 17:32:38
 Last updated: 2014-07-31 17:33:19

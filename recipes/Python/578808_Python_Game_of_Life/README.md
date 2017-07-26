@@ -1,4 +1,4 @@
-###Python Game of Life
+## Python Game of Life
 
 Originally published: 2014-01-14 01:14:21
 Last updated: 2014-01-14 14:34:17

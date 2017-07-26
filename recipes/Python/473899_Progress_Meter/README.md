@@ -1,4 +1,4 @@
-###Progress Meter
+## Progress Meter
 
 Originally published: 2006-02-16 22:45:53
 Last updated: 2006-02-17 06:57:51

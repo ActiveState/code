@@ -1,4 +1,4 @@
-###A function to check if a number is a power of a prime
+## A function to check if a number is a power of a prime
 
 Originally published: 2005-04-21 06:26:35
 Last updated: 2005-04-21 06:26:35

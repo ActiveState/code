@@ -1,4 +1,4 @@
-###CRC64 - Calculate the cyclic redundancy check.
+## CRC64 - Calculate the cyclic redundancy check.
 
 Originally published: 2004-01-10 03:26:38
 Last updated: 2004-01-10 03:26:38

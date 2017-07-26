@@ -1,4 +1,4 @@
-###emulate collections.defaultdict
+## emulate collections.defaultdict
 
 Originally published: 2007-07-09 14:15:39
 Last updated: 2007-07-09 14:15:39

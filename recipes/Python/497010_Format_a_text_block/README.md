@@ -1,4 +1,4 @@
-###Format a text block.
+## Format a text block.
 
 Originally published: 2006-08-31 12:49:09
 Last updated: 2006-08-31 12:49:09

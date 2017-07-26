@@ -1,4 +1,4 @@
-###Generate a PDF Greeting Card
+## Generate a PDF Greeting Card
 
 Originally published: 2007-12-05 20:07:24
 Last updated: 2007-12-06 04:06:04

@@ -1,4 +1,4 @@
-###Managment command to deploy a Django project
+## Managment command to deploy a Django project
 
 Originally published: 2011-06-21 22:07:35
 Last updated: 2011-06-21 22:10:31

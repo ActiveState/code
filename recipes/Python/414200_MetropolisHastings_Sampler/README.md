@@ -1,4 +1,4 @@
-###Metropolis-Hastings Sampler
+## Metropolis-Hastings Sampler
 
 Originally published: 2005-05-13 15:58:00
 Last updated: 2005-05-13 15:58:00

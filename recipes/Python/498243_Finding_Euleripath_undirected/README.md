@@ -1,4 +1,4 @@
-###Finding Eulerian path in undirected graph
+## Finding Eulerian path in undirected graph
 
 Originally published: 2006-11-05 06:43:27
 Last updated: 2006-11-05 06:43:27

@@ -1,4 +1,4 @@
-###Simple Dijkstra Algorithm
+## Simple Dijkstra Algorithm
 
 Originally published: 2012-06-06 00:33:32
 Last updated: 2012-06-08 02:20:18

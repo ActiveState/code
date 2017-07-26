@@ -1,4 +1,4 @@
-###Get a value un windows registry
+## Get a value un windows registry
 
 Originally published: 2013-10-15 07:30:39
 Last updated: 2013-10-15 07:30:39

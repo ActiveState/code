@@ -1,4 +1,4 @@
-###client/server clipboard application
+## client/server clipboard application
 
 Originally published: 2002-08-09 08:14:45
 Last updated: 2002-08-09 08:14:45

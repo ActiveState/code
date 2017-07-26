@@ -1,4 +1,4 @@
-###Table objects with  operations in SQL-like syntax.
+## Table objects with  operations in SQL-like syntax.
 
 Originally published: 2004-07-02 16:05:48
 Last updated: 2004-09-02 13:21:24

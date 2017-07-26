@@ -1,4 +1,4 @@
-###Python SQLSMO - Threading Example
+## Python SQLSMO - Threading Example
 
 Originally published: 2015-02-10 01:56:09
 Last updated: 2015-02-10 02:01:42

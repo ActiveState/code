@@ -1,4 +1,4 @@
-###Image to ASCII Art Converter
+## Image to ASCII Art Converter
 
 Originally published: 2016-09-25 21:24:11
 Last updated: 2016-09-25 21:24:12

@@ -1,4 +1,4 @@
-###checkCpu
+## checkCpu
 
 Originally published: 2005-01-23 20:23:51
 Last updated: 2005-01-23 20:23:51

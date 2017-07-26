@@ -1,4 +1,4 @@
-###Generic way to create a daemonized process in python
+## Generic way to create a daemonized process in python
 
 Originally published: 2012-03-14 08:44:42
 Last updated: 2012-03-26 14:56:17

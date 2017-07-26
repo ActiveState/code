@@ -1,4 +1,4 @@
-###Log watcher (tail -F *.log)
+## Log watcher (tail -F *.log)
 
 Originally published: 2011-11-29 18:31:01
 Last updated: 2014-04-04 15:54:03

@@ -1,4 +1,4 @@
-###Newton Fractals
+## Newton Fractals
 
 Originally published: 2010-03-30 04:50:08
 Last updated: 2010-03-30 04:50:09

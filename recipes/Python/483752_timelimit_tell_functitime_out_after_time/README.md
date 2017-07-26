@@ -1,4 +1,4 @@
-###timelimit: tell a function to time out after a time limit
+## timelimit: tell a function to time out after a time limit
 
 Originally published: 2006-04-10 18:39:47
 Last updated: 2006-04-10 18:39:47

@@ -1,4 +1,4 @@
-###Global database configuration and context aware connection pool extention for psycopg2
+## Global database configuration and context aware connection pool extention for psycopg2
 
 Originally published: 2010-02-26 02:53:51
 Last updated: 2010-02-26 02:57:49

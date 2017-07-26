@@ -1,4 +1,4 @@
-###web sevice usage via a http proxy
+## web sevice usage via a http proxy
 
 Originally published: 2006-02-13 07:09:58
 Last updated: 2006-02-13 07:09:58

@@ -1,4 +1,4 @@
-###Komodo JS Macro - use vertical editor tabs positioned to the right
+## Komodo JS Macro - use vertical editor tabs positioned to the right
 
 Originally published: 2010-09-09 18:07:58
 Last updated: 2010-09-10 02:53:33

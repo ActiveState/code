@@ -1,4 +1,4 @@
-###Longest common subsequence of 3+ strings
+## Longest common subsequence of 3+ strings
 
 Originally published: 2015-06-01 08:08:11
 Last updated: 2015-06-01 08:08:11

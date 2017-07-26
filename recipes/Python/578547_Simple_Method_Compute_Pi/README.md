@@ -1,4 +1,4 @@
-###Simple Method to Compute Pi in Python
+## Simple Method to Compute Pi in Python
 
 Originally published: 2013-06-03 18:06:42
 Last updated: 2013-06-03 18:06:43

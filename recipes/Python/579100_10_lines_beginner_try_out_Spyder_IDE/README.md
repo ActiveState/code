@@ -1,4 +1,4 @@
-###10 lines for a beginner to try out the Spyder IDE for python programming
+## 10 lines for a beginner to try out the Spyder IDE for python programming
 
 Originally published: 2015-09-18 15:04:08
 Last updated: 2015-09-18 15:04:09

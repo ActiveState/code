@@ -1,4 +1,4 @@
-###Fix ugly file names to be UNIX shell-friendly.
+## Fix ugly file names to be UNIX shell-friendly.
 
 Originally published: 2005-11-02 07:30:53
 Last updated: 2005-11-02 07:30:53

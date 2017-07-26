@@ -1,4 +1,4 @@
-###Read simple initialization file
+## Read simple initialization file
 
 Originally published: 2006-09-22 10:20:30
 Last updated: 2006-09-22 10:20:30

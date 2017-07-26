@@ -1,4 +1,4 @@
-###A Simple Calculator
+## A Simple Calculator
 
 Originally published: 2014-09-06 13:36:35
 Last updated: 2014-09-06 13:36:35

@@ -1,4 +1,4 @@
-###Pluralize word -- convert singular word to its plural form
+## Pluralize word -- convert singular word to its plural form
 
 Originally published: 2011-07-06 21:32:50
 Last updated: 2011-07-06 21:37:19

@@ -1,4 +1,4 @@
-###Persistently monitored collection class
+## Persistently monitored collection class
 
 Originally published: 2005-09-01 08:23:11
 Last updated: 2005-09-21 20:45:19

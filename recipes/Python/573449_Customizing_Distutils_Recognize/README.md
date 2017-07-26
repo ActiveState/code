@@ -1,4 +1,4 @@
-###Customizing Distutils to Recognize Subversion Committed Revision Numbers
+## Customizing Distutils to Recognize Subversion Committed Revision Numbers
 
 Originally published: 2008-06-08 08:01:04
 Last updated: 2008-12-18 14:03:51

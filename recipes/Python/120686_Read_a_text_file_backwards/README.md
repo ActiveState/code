@@ -1,4 +1,4 @@
-###Read a text file backwards
+## Read a text file backwards
 
 Originally published: 2002-04-12 22:31:38
 Last updated: 2002-04-12 22:31:38

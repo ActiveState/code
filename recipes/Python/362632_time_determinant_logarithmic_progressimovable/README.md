@@ -1,4 +1,4 @@
-###a time determinant logarithmic progression, with a movable target and energy factor.
+## a time determinant logarithmic progression, with a movable target and energy factor.
 
 Originally published: 2005-01-11 00:05:15
 Last updated: 2005-01-11 08:20:00

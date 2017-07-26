@@ -1,4 +1,4 @@
-###Create Sierpinski Carpet (Fractal) FAST
+## Create Sierpinski Carpet (Fractal) FAST
 
 Originally published: 2016-03-16 08:56:04
 Last updated: 2016-03-16 08:56:08

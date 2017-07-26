@@ -1,4 +1,4 @@
-###Equally-spaced numbers (linspace)
+## Equally-spaced numbers (linspace)
 
 Originally published: 2015-01-12 22:16:31
 Last updated: 2015-01-12 22:16:37

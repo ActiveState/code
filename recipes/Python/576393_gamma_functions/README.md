@@ -1,4 +1,4 @@
-###gamma functions
+## gamma functions
 
 Originally published: 2008-07-29 13:43:49
 Last updated: 2008-07-29 13:43:49

@@ -1,4 +1,4 @@
-###Directory Walking File Renamer
+## Directory Walking File Renamer
 
 Originally published: 2008-12-28 08:04:34
 Last updated: 2008-12-28 08:04:34

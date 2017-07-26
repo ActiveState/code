@@ -1,4 +1,4 @@
-###Eight Queens With out Permutations
+## Eight Queens With out Permutations
 
 Originally published: 2010-07-21 10:11:20
 Last updated: 2010-07-21 10:11:20

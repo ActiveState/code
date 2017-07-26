@@ -1,4 +1,4 @@
-###Easy string interpolation in Python 2.4
+## Easy string interpolation in Python 2.4
 
 Originally published: 2004-11-12 02:46:30
 Last updated: 2004-11-12 02:46:30

@@ -1,4 +1,4 @@
-###Quickslice decorator: Abbreviated slice arguments in functions
+## Quickslice decorator: Abbreviated slice arguments in functions
 
 Originally published: 2005-05-29 20:41:36
 Last updated: 2005-05-31 19:30:02

@@ -1,4 +1,4 @@
-###Displaying Decoded Hotkeys for Shortcuts in MSW
+## Displaying Decoded Hotkeys for Shortcuts in MSW
 
 Originally published: 2001-09-04 05:25:11
 Last updated: 2001-09-04 05:25:11

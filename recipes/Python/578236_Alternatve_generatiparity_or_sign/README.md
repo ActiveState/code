@@ -1,4 +1,4 @@
-###Alternatve generation of the parity or sign of a permutation
+## Alternatve generation of the parity or sign of a permutation
 
 Originally published: 2012-08-07 08:45:23
 Last updated: 2012-08-07 08:45:23

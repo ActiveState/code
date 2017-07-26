@@ -1,4 +1,4 @@
-###ilines -- universal newlines from any data source
+## ilines -- universal newlines from any data source
 
 Originally published: 2004-06-23 11:33:52
 Last updated: 2004-06-23 11:33:52

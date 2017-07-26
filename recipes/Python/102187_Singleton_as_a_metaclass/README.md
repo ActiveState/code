@@ -1,4 +1,4 @@
-###Singleton as a metaclass
+## Singleton as a metaclass
 
 Originally published: 2001-12-13 03:17:50
 Last updated: 2001-12-13 03:17:50

@@ -1,4 +1,4 @@
-###Changing shortcut on a usb key V2
+## Changing shortcut on a usb key V2
 
 Originally published: 2008-08-20 08:42:33
 Last updated: 2008-08-22 13:34:57

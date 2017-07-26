@@ -1,4 +1,4 @@
-###recvall2  (another way to do a recvall like the helpful sendall)
+## recvall2  (another way to do a recvall like the helpful sendall)
 
 Originally published: 2005-02-18 15:25:09
 Last updated: 2005-02-18 15:25:09

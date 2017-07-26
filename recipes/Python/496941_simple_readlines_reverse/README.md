@@ -1,4 +1,4 @@
-###simple readlines in reverse w/deque
+## simple readlines in reverse w/deque
 
 Originally published: 2006-08-04 08:04:03
 Last updated: 2006-08-04 19:09:16

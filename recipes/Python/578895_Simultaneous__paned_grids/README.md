@@ -1,4 +1,4 @@
-###Simultaneous  paned grids
+## Simultaneous  paned grids
 
 Originally published: 2014-06-18 13:56:12
 Last updated: 2014-06-18 13:57:48

@@ -1,4 +1,4 @@
-###Domain Class
+## Domain Class
 
 Originally published: 2004-02-04 10:59:27
 Last updated: 2005-01-14 13:47:44

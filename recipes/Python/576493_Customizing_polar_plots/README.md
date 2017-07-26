@@ -1,4 +1,4 @@
-###Customizing polar plots in matplotlib
+## Customizing polar plots in matplotlib
 
 Originally published: 2008-09-06 05:31:02
 Last updated: 2008-09-06 05:31:02

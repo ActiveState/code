@@ -1,4 +1,4 @@
-###Stepping stone algorithum for solving the transhipment problem
+## Stepping stone algorithum for solving the transhipment problem
 
 Originally published: 2008-11-29 10:40:47
 Last updated: 2008-11-29 10:40:47

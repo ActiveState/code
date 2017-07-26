@@ -1,4 +1,4 @@
-###Code to solve Smoluchowsky Equation
+## Code to solve Smoluchowsky Equation
 
 Originally published: 2008-10-31 06:25:13
 Last updated: 2008-10-31 06:25:13

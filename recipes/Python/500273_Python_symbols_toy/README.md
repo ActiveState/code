@@ -1,4 +1,4 @@
-###Python symbols (toy)
+## Python symbols (toy)
 
 Originally published: 2007-01-22 18:40:30
 Last updated: 2007-01-22 18:40:30

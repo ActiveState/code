@@ -1,4 +1,4 @@
-###Merge join for N iterators
+## Merge join for N iterators
 
 Originally published: 2008-07-22 07:59:14
 Last updated: 2008-10-29 03:50:37

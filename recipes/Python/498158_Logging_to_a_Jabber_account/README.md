@@ -1,4 +1,4 @@
-###Logging to a Jabber account
+## Logging to a Jabber account
 
 Originally published: 2006-10-03 15:35:06
 Last updated: 2006-10-03 15:35:06

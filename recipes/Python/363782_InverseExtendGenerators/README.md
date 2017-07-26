@@ -1,4 +1,4 @@
-###InverseExtendGenerators
+## InverseExtendGenerators
 
 Originally published: 2005-01-19 10:43:01
 Last updated: 2005-01-19 18:46:46

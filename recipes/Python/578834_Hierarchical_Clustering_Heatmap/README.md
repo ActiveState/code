@@ -1,4 +1,4 @@
-###Hierarchical Clustering Heatmap Python
+## Hierarchical Clustering Heatmap Python
 
 Originally published: 2014-02-19 11:05:38
 Last updated: 2014-02-19 11:09:36

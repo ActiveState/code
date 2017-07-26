@@ -1,4 +1,4 @@
-###Instant GUI compiler for testing purpose
+## Instant GUI compiler for testing purpose
 
 Originally published: 2006-01-30 15:46:23
 Last updated: 2006-01-30 15:46:23

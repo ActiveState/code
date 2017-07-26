@@ -1,4 +1,4 @@
-###Call a Callback when a Tkinter.Text is Modified
+## Call a Callback when a Tkinter.Text is Modified
 
 Originally published: 2005-12-13 18:55:54
 Last updated: 2005-12-15 23:00:43

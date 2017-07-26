@@ -1,4 +1,4 @@
-###Manipulate Mac OS clipboard
+## Manipulate Mac OS clipboard
 
 Originally published: 2005-04-20 15:28:46
 Last updated: 2005-04-21 18:38:38

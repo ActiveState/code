@@ -1,4 +1,4 @@
-###pipe convenience function for doing pipes as in bash
+## pipe convenience function for doing pipes as in bash
 
 Originally published: 2006-03-24 00:38:28
 Last updated: 2006-03-24 00:38:28

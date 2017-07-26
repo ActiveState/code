@@ -1,4 +1,4 @@
-###A simple XML-RPC server
+## A simple XML-RPC server
 
 Originally published: 2001-10-13 11:34:19
 Last updated: 2001-10-13 11:34:19

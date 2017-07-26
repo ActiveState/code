@@ -1,4 +1,4 @@
-###See How __getattribute__ Interacts With Special Methods
+## See How __getattribute__ Interacts With Special Methods
 
 Originally published: 2011-07-31 02:58:24
 Last updated: 2011-08-12 21:30:02

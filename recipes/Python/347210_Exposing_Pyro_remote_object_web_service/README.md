@@ -1,4 +1,4 @@
-###Exposing a Pyro remote object as a web service via XMLRPC with CherryPy
+## Exposing a Pyro remote object as a web service via XMLRPC with CherryPy
 
 Originally published: 2004-11-23 02:50:16
 Last updated: 2004-11-23 02:50:16

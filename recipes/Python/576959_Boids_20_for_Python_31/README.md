@@ -1,4 +1,4 @@
-###Boids 2.0 for Python 3.1
+## Boids 2.0 for Python 3.1
 
 Originally published: 2009-11-18 18:55:26
 Last updated: 2009-11-28 10:42:51

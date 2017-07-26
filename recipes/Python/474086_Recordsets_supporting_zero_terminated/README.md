@@ -1,4 +1,4 @@
-###Recordsets supporting zero terminated strings
+## Recordsets supporting zero terminated strings
 
 Originally published: 2006-02-25 15:10:17
 Last updated: 2006-02-25 15:10:17

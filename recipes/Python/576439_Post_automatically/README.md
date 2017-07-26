@@ -1,4 +1,4 @@
-###Post automatically on the python cookbook
+## Post automatically on the python cookbook
 
 Originally published: 2008-08-20 10:37:18
 Last updated: 2008-08-20 10:50:07

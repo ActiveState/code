@@ -1,4 +1,4 @@
-###Convert (La)TeX math expressions to Tk Images on the fly
+## Convert (La)TeX math expressions to Tk Images on the fly
 
 Originally published: 2001-09-11 05:24:09
 Last updated: 2001-09-11 05:24:09

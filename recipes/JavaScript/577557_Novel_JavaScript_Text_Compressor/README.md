@@ -1,4 +1,4 @@
-###Novel JavaScript Text Compressor
+## Novel JavaScript Text Compressor
 
 Originally published: 2011-01-31 13:40:12
 Last updated: 2011-01-31 15:41:36

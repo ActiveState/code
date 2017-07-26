@@ -1,4 +1,4 @@
-###Sharing-aware tree transformations
+## Sharing-aware tree transformations
 
 Originally published: 2012-05-02 15:10:35
 Last updated: 2012-05-07 08:20:58

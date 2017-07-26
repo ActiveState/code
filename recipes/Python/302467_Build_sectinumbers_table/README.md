@@ -1,4 +1,4 @@
-###Build section numbers for a table of contents
+## Build section numbers for a table of contents
 
 Originally published: 2004-08-28 16:54:50
 Last updated: 2004-08-28 16:54:50

@@ -1,4 +1,4 @@
-###Complex Polynomial Roots Fractal
+## Complex Polynomial Roots Fractal
 
 Originally published: 2011-09-05 16:38:13
 Last updated: 2013-04-29 14:35:53

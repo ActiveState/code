@@ -1,4 +1,4 @@
-###Change image properties
+## Change image properties
 
 Originally published: 2001-06-05 04:43:44
 Last updated: 2002-11-01 09:48:06

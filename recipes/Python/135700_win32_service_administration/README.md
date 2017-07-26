@@ -1,4 +1,4 @@
-###win32 service administration
+## win32 service administration
 
 Originally published: 2002-06-26 12:25:18
 Last updated: 2002-07-01 15:17:32

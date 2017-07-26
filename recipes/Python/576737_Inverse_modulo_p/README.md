@@ -1,4 +1,4 @@
-###Inverse modulo p
+## Inverse modulo p
 
 Originally published: 2009-05-03 13:05:06
 Last updated: 2013-01-31 23:41:21

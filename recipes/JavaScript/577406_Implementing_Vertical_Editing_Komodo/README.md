@@ -1,4 +1,4 @@
-###Implementing Vertical Editing in Komodo 6
+## Implementing Vertical Editing in Komodo 6
 
 Originally published: 2010-09-23 21:41:49
 Last updated: 2010-09-29 19:09:35

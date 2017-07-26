@@ -1,4 +1,4 @@
-###Get text length - Column left center and right alignement
+## Get text length - Column left center and right alignement
 
 Originally published: 2016-06-14 14:52:59
 Last updated: 2016-06-15 06:42:00

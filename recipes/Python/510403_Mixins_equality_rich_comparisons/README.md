@@ -1,4 +1,4 @@
-###Mixins for equality, rich comparisons and hashing
+## Mixins for equality, rich comparisons and hashing
 
 Originally published: 2007-03-21 13:20:30
 Last updated: 2007-04-10 16:49:41

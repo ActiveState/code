@@ -1,4 +1,4 @@
-###Watch directory and do periodic commits to Subversion repository.
+## Watch directory and do periodic commits to Subversion repository.
 
 Originally published: 2011-02-10 14:00:13
 Last updated: 2011-02-10 14:00:13

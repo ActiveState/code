@@ -1,4 +1,4 @@
-###Creating a read-only text or entry widget
+## Creating a read-only text or entry widget
 
 Originally published: 2002-04-09 01:14:41
 Last updated: 2002-04-25 09:22:09

@@ -1,4 +1,4 @@
-###OO Meta-programing: method generation from a template
+## OO Meta-programing: method generation from a template
 
 Originally published: 2001-09-08 10:37:50
 Last updated: 2001-09-08 10:37:50

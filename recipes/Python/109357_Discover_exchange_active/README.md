@@ -1,4 +1,4 @@
-###Discover exchange in active directory
+## Discover exchange in active directory
 
 Originally published: 2002-01-24 09:32:42
 Last updated: 2004-09-04 14:53:41

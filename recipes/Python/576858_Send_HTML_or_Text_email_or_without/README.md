@@ -1,4 +1,4 @@
-###Send HTML or Text email with or without attachments
+## Send HTML or Text email with or without attachments
 
 Originally published: 2009-07-27 13:14:24
 Last updated: 2009-07-27 13:14:24

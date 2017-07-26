@@ -1,4 +1,4 @@
-###Retrieving the median of a set in constant time
+## Retrieving the median of a set in constant time
 
 Originally published: 2011-04-17 02:19:37
 Last updated: 2011-04-19 15:00:57

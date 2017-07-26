@@ -1,4 +1,4 @@
-###GAE Matplotlib Demo
+## GAE Matplotlib Demo
 
 Originally published: 2012-12-31 17:39:13
 Last updated: 2012-12-31 17:39:14

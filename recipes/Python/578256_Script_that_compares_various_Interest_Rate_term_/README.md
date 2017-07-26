@@ -1,4 +1,4 @@
-###Script that compares various Interest Rate term structure models.
+## Script that compares various Interest Rate term structure models.
 
 Originally published: 2012-09-10 08:02:33
 Last updated: 2012-09-10 08:02:34

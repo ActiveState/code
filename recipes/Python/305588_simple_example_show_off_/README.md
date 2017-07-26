@@ -1,4 +1,4 @@
-###simple example to show off  itertools.tee
+## simple example to show off  itertools.tee
 
 Originally published: 2004-09-23 10:26:53
 Last updated: 2004-09-23 22:01:49

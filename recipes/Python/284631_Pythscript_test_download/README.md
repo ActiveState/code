@@ -1,4 +1,4 @@
-###A Python script to test download mirrors
+## A Python script to test download mirrors
 
 Originally published: 2004-05-18 12:45:48
 Last updated: 2004-05-19 21:28:55

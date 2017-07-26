@@ -1,4 +1,4 @@
-###helpful 5-liner version of os.makedirs
+## helpful 5-liner version of os.makedirs
 
 Originally published: 2002-03-17 16:41:05
 Last updated: 2002-03-18 22:17:56

@@ -1,4 +1,4 @@
-###Riddle's Authentication System
+## Riddle's Authentication System
 
 Originally published: 2006-04-08 15:42:50
 Last updated: 2006-04-09 19:07:24

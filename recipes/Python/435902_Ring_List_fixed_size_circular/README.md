@@ -1,4 +1,4 @@
-###Ring List. A fixed size circular list
+## Ring List. A fixed size circular list
 
 Originally published: 2005-07-05 04:08:05
 Last updated: 2005-07-05 04:08:05

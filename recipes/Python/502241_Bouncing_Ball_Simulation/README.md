@@ -1,4 +1,4 @@
-###Bouncing Ball Simulation
+## Bouncing Ball Simulation
 
 Originally published: 2007-02-20 19:04:03
 Last updated: 2007-02-20 19:04:03

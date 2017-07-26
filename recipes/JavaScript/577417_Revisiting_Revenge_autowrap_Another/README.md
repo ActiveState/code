@@ -1,4 +1,4 @@
-###Revisiting "Revenge of the auto-wrap": Another toggle-macro
+## Revisiting "Revenge of the auto-wrap": Another toggle-macro
 
 Originally published: 2010-10-04 17:17:18
 Last updated: 2010-10-04 23:51:41

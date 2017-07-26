@@ -1,4 +1,4 @@
-###Get names and types of all attributes of a Python module
+## Get names and types of all attributes of a Python module
 
 Originally published: 2016-10-06 17:21:41
 Last updated: 2016-10-06 17:21:42

@@ -1,4 +1,4 @@
-###ChainedList and ChainedListView: Exposing Multiple Lists as a Single Sequence
+## ChainedList and ChainedListView: Exposing Multiple Lists as a Single Sequence
 
 Originally published: 2012-07-03 21:00:02
 Last updated: 2012-07-03 21:00:02

@@ -1,4 +1,4 @@
-###Sync Lotus Domino ldap server with IBM Tivoli Ldap server.
+## Sync Lotus Domino ldap server with IBM Tivoli Ldap server.
 
 Originally published: 2004-11-22 21:15:48
 Last updated: 2004-11-22 21:15:48

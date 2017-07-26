@@ -1,4 +1,4 @@
-###Profile Manager (Cave Story)
+## Profile Manager (Cave Story)
 
 Originally published: 2012-12-07 01:21:03
 Last updated: 2012-12-07 01:21:04

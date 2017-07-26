@@ -1,4 +1,4 @@
-###Maclaurin's_series_cos
+## Maclaurin's_series_cos
 
 Originally published: 2010-07-07 11:52:33
 Last updated: 2010-07-07 11:56:52

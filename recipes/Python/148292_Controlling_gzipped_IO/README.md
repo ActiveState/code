@@ -1,4 +1,4 @@
-###Controlling gzipped I/O
+## Controlling gzipped I/O
 
 Originally published: 2002-09-05 03:55:17
 Last updated: 2003-05-10 16:31:48

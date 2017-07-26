@@ -1,4 +1,4 @@
-###Priority dict: a priority queue with updatable priorities
+## Priority dict: a priority queue with updatable priorities
 
 Originally published: 2007-06-26 09:20:06
 Last updated: 2007-06-26 09:20:06

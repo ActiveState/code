@@ -1,4 +1,4 @@
-###Extract images of a PDF - optionally by page using PyMuPDF / fitz
+## Extract images of a PDF - optionally by page using PyMuPDF / fitz
 
 Originally published: 2016-09-28 12:02:48
 Last updated: 2016-09-28 12:03:59

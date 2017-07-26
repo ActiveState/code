@@ -1,4 +1,4 @@
-###Maximum cardinality matching in general graphs
+## Maximum cardinality matching in general graphs
 
 Originally published: 2003-09-12 14:49:55
 Last updated: 2003-09-12 21:54:02

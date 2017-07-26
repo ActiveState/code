@@ -1,4 +1,4 @@
-###simplecom1: simple access to the PC Com1 port
+## simplecom1: simple access to the PC Com1 port
 
 Originally published: 2003-01-15 12:43:09
 Last updated: 2003-01-25 03:41:50

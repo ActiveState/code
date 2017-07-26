@@ -1,4 +1,4 @@
-###msoffice2ps - a Microsoft Office to Postscript converter
+## msoffice2ps - a Microsoft Office to Postscript converter
 
 Originally published: 2004-10-12 02:17:43
 Last updated: 2007-08-27 08:32:13

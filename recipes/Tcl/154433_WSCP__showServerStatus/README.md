@@ -1,4 +1,4 @@
-###WSCP - showServerStatus
+## WSCP - showServerStatus
 
 Originally published: 2002-10-01 04:42:31
 Last updated: 2002-10-01 04:42:31

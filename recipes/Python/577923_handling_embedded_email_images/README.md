@@ -1,4 +1,4 @@
-###handling embedded email images in python
+## handling embedded email images in python
 
 Originally published: 2011-10-26 15:30:31
 Last updated: 2011-10-26 15:31:45

@@ -1,4 +1,4 @@
-###PDF a Directory of Images using Reportlab
+## PDF a Directory of Images using Reportlab
 
 Originally published: 2009-04-12 08:35:10
 Last updated: 2009-04-12 08:35:10

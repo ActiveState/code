@@ -1,4 +1,4 @@
-###Handling International Text with Unicode
+## Handling International Text with Unicode
 
 Originally published: 2005-01-04 01:47:12
 Last updated: 2005-01-04 17:58:58

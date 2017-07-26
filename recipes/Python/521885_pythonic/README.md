@@ -1,4 +1,4 @@
-###A pythonic implementation of xrange
+## A pythonic implementation of xrange
 
 Originally published: 2007-06-04 18:34:55
 Last updated: 2007-06-04 18:34:55

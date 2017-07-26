@@ -1,4 +1,4 @@
-###Longest common subsequence problem solver
+## Longest common subsequence problem solver
 
 Originally published: 2009-08-06 05:11:22
 Last updated: 2009-08-06 06:36:56

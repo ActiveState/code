@@ -1,4 +1,4 @@
-###Bible Verse Quiz - verse.py
+## Bible Verse Quiz - verse.py
 
 Originally published: 2010-02-11 19:50:54
 Last updated: 2010-02-12 04:19:44

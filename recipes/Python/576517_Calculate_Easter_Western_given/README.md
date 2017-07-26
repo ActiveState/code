@@ -1,4 +1,4 @@
-###Calculate Easter (Western) given a year
+## Calculate Easter (Western) given a year
 
 Originally published: 2008-09-30 10:35:59
 Last updated: 2008-09-30 10:35:59

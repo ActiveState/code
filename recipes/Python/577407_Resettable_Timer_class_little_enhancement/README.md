@@ -1,4 +1,4 @@
-###Resettable Timer class (a little enhancement from python builtin Timer class)
+## Resettable Timer class (a little enhancement from python builtin Timer class)
 
 Originally published: 2010-09-24 08:37:57
 Last updated: 2010-09-24 08:37:58

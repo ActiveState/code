@@ -1,4 +1,4 @@
-###Partition an iterable into n lists
+## Partition an iterable into n lists
 
 Originally published: 2009-05-30 16:35:27
 Last updated: 2009-05-30 16:35:27

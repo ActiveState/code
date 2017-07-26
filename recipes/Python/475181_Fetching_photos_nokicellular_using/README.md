@@ -1,4 +1,4 @@
-###Fetching photos from nokia cellular using gnokii
+## Fetching photos from nokia cellular using gnokii
 
 Originally published: 2006-03-25 02:09:25
 Last updated: 2006-04-03 06:47:57

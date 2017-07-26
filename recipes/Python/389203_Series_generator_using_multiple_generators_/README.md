@@ -1,4 +1,4 @@
-###Series generator using multiple generators & function decorators
+## Series generator using multiple generators & function decorators
 
 Originally published: 2005-02-23 00:42:39
 Last updated: 2005-02-23 00:42:39

@@ -1,4 +1,4 @@
-###Proxying WCF service 
+## Proxying WCF service 
 
 Originally published: 2014-11-07 13:03:18
 Last updated: 2014-11-07 13:03:18

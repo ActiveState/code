@@ -1,4 +1,4 @@
-###objectsignature - debugging utility, will work with containers, classes, nested classes ... almost anything
+## objectsignature - debugging utility, will work with containers, classes, nested classes ... almost anything
 
 Originally published: 2012-02-15 07:05:30
 Last updated: 2012-02-15 23:05:44

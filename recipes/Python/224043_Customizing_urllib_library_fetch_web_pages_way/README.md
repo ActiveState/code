@@ -1,4 +1,4 @@
-###Customizing the urllib library to fetch web pages the way you want
+## Customizing the urllib library to fetch web pages the way you want
 
 Originally published: 2003-09-22 08:02:29
 Last updated: 2003-09-22 08:02:29

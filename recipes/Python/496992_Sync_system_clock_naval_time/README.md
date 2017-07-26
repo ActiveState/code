@@ -1,4 +1,4 @@
-###Sync the system clock to the naval time server
+## Sync the system clock to the naval time server
 
 Originally published: 2006-08-26 07:08:54
 Last updated: 2006-08-26 20:38:42

@@ -1,4 +1,4 @@
-###Protect PHP File that must be include
+## Protect PHP File that must be include
 
 Originally published: 2003-06-24 17:41:18
 Last updated: 2003-06-24 17:41:18

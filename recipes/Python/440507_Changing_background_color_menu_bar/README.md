@@ -1,4 +1,4 @@
-###Changing the background color of the menu bar in a wxPython Windows app
+## Changing the background color of the menu bar in a wxPython Windows app
 
 Originally published: 2005-09-01 14:02:54
 Last updated: 2005-09-02 19:09:28

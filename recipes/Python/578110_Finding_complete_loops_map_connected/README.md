@@ -1,4 +1,4 @@
-###Finding complete loops in a map of connected nodes
+## Finding complete loops in a map of connected nodes
 
 Originally published: 2012-04-24 18:47:20
 Last updated: 2012-04-24 18:47:21

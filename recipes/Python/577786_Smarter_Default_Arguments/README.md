@@ -1,4 +1,4 @@
-###Smarter Default Arguments
+## Smarter Default Arguments
 
 Originally published: 2011-07-12 03:43:23
 Last updated: 2011-08-12 23:06:57

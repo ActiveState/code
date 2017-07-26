@@ -1,4 +1,4 @@
-###Clean up __init__() methods that contain only attribute assignments.
+## Clean up __init__() methods that contain only attribute assignments.
 
 Originally published: 2004-04-27 01:19:19
 Last updated: 2004-04-27 01:19:19

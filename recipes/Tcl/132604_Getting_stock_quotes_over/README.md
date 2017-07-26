@@ -1,4 +1,4 @@
-###Getting stock quotes over the internet
+## Getting stock quotes over the internet
 
 Originally published: 2002-06-11 15:33:05
 Last updated: 2002-06-11 15:33:05

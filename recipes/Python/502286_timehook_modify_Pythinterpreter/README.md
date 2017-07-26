@@ -1,4 +1,4 @@
-###timehook: modify the Python interpreter time.
+## timehook: modify the Python interpreter time.
 
 Originally published: 2007-03-07 09:05:37
 Last updated: 2007-03-07 09:05:37

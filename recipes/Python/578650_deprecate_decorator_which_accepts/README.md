@@ -1,4 +1,4 @@
-###deprecate decorator which accepts arguments
+## deprecate decorator which accepts arguments
 
 Originally published: 2013-08-23 13:20:21
 Last updated: 2013-08-23 13:24:40

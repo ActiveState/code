@@ -1,4 +1,4 @@
-###Convenience class for algorithm development
+## Convenience class for algorithm development
 
 Originally published: 2007-07-21 17:51:35
 Last updated: 2007-07-21 17:51:35

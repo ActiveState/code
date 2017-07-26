@@ -1,4 +1,4 @@
-###AutoRename.py
+## AutoRename.py
 
 Originally published: 2010-08-01 21:39:53
 Last updated: 2010-08-01 21:39:54

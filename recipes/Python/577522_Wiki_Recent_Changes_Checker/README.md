@@ -1,4 +1,4 @@
-###Wiki Recent Changes Checker
+## Wiki Recent Changes Checker
 
 Originally published: 2010-12-28 07:27:24
 Last updated: 2010-12-28 07:27:25

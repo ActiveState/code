@@ -1,4 +1,4 @@
-###'Zip walker' - Zip file tree generator
+## 'Zip walker' - Zip file tree generator
 
 Originally published: 2005-06-16 02:54:02
 Last updated: 2005-06-16 02:54:02

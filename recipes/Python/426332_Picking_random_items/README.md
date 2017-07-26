@@ -1,4 +1,4 @@
-###Picking random items from an iterator
+## Picking random items from an iterator
 
 Originally published: 2005-06-22 01:57:25
 Last updated: 2005-06-22 01:57:25

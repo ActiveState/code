@@ -1,4 +1,4 @@
-###[Twisted] From blocking functions to deferred functions
+## [Twisted] From blocking functions to deferred functions
 
 Originally published: 2005-08-17 23:56:05
 Last updated: 2005-08-19 09:05:30

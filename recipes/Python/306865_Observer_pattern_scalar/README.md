@@ -1,4 +1,4 @@
-###Observer pattern for scalar attributes.
+## Observer pattern for scalar attributes.
 
 Originally published: 2004-10-02 14:43:42
 Last updated: 2004-10-02 14:43:42

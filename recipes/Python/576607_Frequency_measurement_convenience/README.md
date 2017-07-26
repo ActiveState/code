@@ -1,4 +1,4 @@
-###Frequency measurement convenience class
+## Frequency measurement convenience class
 
 Originally published: 2009-01-05 07:01:11
 Last updated: 2009-01-05 07:01:11

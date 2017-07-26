@@ -1,4 +1,4 @@
-###Decimal to Binary Conversion
+## Decimal to Binary Conversion
 
 Originally published: 2010-12-05 22:26:28
 Last updated: 2010-12-05 22:26:29

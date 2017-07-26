@@ -1,4 +1,4 @@
-###List information about installed Python packages and modules
+## List information about installed Python packages and modules
 
 Originally published: 2005-09-01 05:04:17
 Last updated: 2005-09-02 06:53:56

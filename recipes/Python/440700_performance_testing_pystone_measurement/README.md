@@ -1,4 +1,4 @@
-###performance testing with a pystone measurement decorator
+## performance testing with a pystone measurement decorator
 
 Originally published: 2005-10-12 09:05:47
 Last updated: 2005-10-12 16:18:30

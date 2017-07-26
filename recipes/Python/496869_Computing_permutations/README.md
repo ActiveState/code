@@ -1,4 +1,4 @@
-###Computing permutations with duplicates
+## Computing permutations with duplicates
 
 Originally published: 2006-07-06 14:44:08
 Last updated: 2006-07-07 00:06:16

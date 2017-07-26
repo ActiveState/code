@@ -1,4 +1,4 @@
-###Very Simple Password Generator in Python
+## Very Simple Password Generator in Python
 
 Originally published: 2013-01-02 14:28:34
 Last updated: 2013-01-02 14:28:34

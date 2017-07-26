@@ -1,4 +1,4 @@
-###SPICE for PHP
+## SPICE for PHP
 
 Originally published: 2008-04-30 17:30:49
 Last updated: 2008-04-30 17:30:49

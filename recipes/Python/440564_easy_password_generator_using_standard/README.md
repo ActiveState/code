@@ -1,4 +1,4 @@
-###An easy password generator using standard Python modules
+## An easy password generator using standard Python modules
 
 Originally published: 2005-09-16 02:06:28
 Last updated: 2006-11-12 11:54:30

@@ -1,4 +1,4 @@
-###First Class Enums in Python
+## First Class Enums in Python
 
 Originally published: 2013-03-07 13:10:28
 Last updated: 2013-03-07 13:10:29

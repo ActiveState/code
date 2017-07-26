@@ -1,4 +1,4 @@
-###Puzzle: Four cubes with different colors on their sides
+## Puzzle: Four cubes with different colors on their sides
 
 Originally published: 2013-02-11 10:32:25
 Last updated: 2013-02-11 10:32:26

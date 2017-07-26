@@ -1,4 +1,4 @@
-###Guess language of text using ZIP
+## Guess language of text using ZIP
 
 Originally published: 2004-12-07 02:13:42
 Last updated: 2004-12-07 10:33:50

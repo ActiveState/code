@@ -1,4 +1,4 @@
-###C#-Style Events in Python
+## C#-Style Events in Python
 
 Originally published: 2005-04-24 21:57:07
 Last updated: 2008-10-26 06:35:11

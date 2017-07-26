@@ -1,4 +1,4 @@
-###Generate the partitions of a set, by index
+## Generate the partitions of a set, by index
 
 Originally published: 2010-04-30 11:07:29
 Last updated: 2010-04-30 11:07:30

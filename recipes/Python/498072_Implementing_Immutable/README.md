@@ -1,4 +1,4 @@
-###Implementing an Immutable Dictionary
+## Implementing an Immutable Dictionary
 
 Originally published: 2006-09-06 04:57:33
 Last updated: 2007-06-13 09:23:09

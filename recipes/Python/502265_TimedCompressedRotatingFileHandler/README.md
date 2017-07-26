@@ -1,4 +1,4 @@
-###TimedCompressedRotatingFileHandler
+## TimedCompressedRotatingFileHandler
 
 Originally published: 2007-02-28 08:16:44
 Last updated: 2007-02-28 08:16:44

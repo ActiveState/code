@@ -1,4 +1,4 @@
-###Apparent Infection Rate Calculation
+## Apparent Infection Rate Calculation
 
 Originally published: 2010-04-06 07:28:07
 Last updated: 2010-04-06 07:28:08

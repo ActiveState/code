@@ -1,4 +1,4 @@
-###Bounded Buffer Example (2)
+## Bounded Buffer Example (2)
 
 Originally published: 2006-03-29 10:11:15
 Last updated: 2006-03-29 10:11:15

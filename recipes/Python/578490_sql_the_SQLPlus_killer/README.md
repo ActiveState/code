@@ -1,4 +1,4 @@
-###sql+ the SQL*Plus killer
+## sql+ the SQL*Plus killer
 
 Originally published: 2013-03-12 16:50:30
 Last updated: 2013-03-14 09:13:01

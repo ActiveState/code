@@ -1,4 +1,4 @@
-###Formats current exception with stack trace so that it fits in single line and has known encoding.
+## Formats current exception with stack trace so that it fits in single line and has known encoding.
 
 Originally published: 2005-11-04 03:07:54
 Last updated: 2005-12-01 07:43:44

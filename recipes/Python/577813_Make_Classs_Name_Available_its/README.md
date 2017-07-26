@@ -1,4 +1,4 @@
-###Make a Class's Name Available in its Definition Body
+## Make a Class's Name Available in its Definition Body
 
 Originally published: 2011-07-31 03:20:47
 Last updated: 2011-08-04 21:38:40

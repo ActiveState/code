@@ -1,4 +1,4 @@
-###Regular Expression for generic sequences of symbols
+## Regular Expression for generic sequences of symbols
 
 Originally published: 2009-06-13 09:50:12
 Last updated: 2009-06-13 09:51:38

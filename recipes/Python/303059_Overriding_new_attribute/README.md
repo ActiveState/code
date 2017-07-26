@@ -1,4 +1,4 @@
-###Overriding __new__ for attribute initialization
+## Overriding __new__ for attribute initialization
 
 Originally published: 2004-09-01 22:42:50
 Last updated: 2004-09-01 22:42:50

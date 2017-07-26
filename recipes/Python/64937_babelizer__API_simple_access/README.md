@@ -1,4 +1,4 @@
-###babelizer - API for simple access to babelfish.altavista.com.
+## babelizer - API for simple access to babelfish.altavista.com.
 
 Originally published: 2001-06-07 08:32:49
 Last updated: 2001-10-23 04:03:48

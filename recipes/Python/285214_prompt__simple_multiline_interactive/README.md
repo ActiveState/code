@@ -1,4 +1,4 @@
-###prompt - simple multiline interactive interpreter
+## prompt - simple multiline interactive interpreter
 
 Originally published: 2004-06-01 09:33:12
 Last updated: 2004-06-01 09:33:12

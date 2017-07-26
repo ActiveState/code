@@ -1,4 +1,4 @@
-###Yet again, one more enum for Python
+## Yet again, one more enum for Python
 
 Originally published: 2010-02-22 22:53:36
 Last updated: 2010-02-22 22:53:42

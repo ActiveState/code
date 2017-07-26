@@ -1,4 +1,4 @@
-###Print Logger Internals
+## Print Logger Internals
 
 Originally published: 2012-12-24 04:11:32
 Last updated: 2012-12-24 04:11:35

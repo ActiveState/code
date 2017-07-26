@@ -1,4 +1,4 @@
-###unicode word-wrap function
+## unicode word-wrap function
 
 Originally published: 2004-12-10 04:30:08
 Last updated: 2004-12-12 03:14:22

@@ -1,4 +1,4 @@
-###MS Explorer Favorites to HTML
+## MS Explorer Favorites to HTML
 
 Originally published: 2003-01-23 09:07:41
 Last updated: 2003-01-23 09:07:41

@@ -1,4 +1,4 @@
-###Dictionary tool for lazy typers
+## Dictionary tool for lazy typers
 
 Originally published: 2006-08-01 13:10:36
 Last updated: 2006-08-01 13:10:36

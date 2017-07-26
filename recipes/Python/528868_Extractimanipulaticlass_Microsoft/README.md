@@ -1,4 +1,4 @@
-###Extraction and manipulation class for Microsoft Access
+## Extraction and manipulation class for Microsoft Access
 
 Originally published: 2007-08-11 11:42:01
 Last updated: 2008-03-01 07:15:52

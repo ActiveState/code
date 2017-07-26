@@ -1,4 +1,4 @@
-###Templated Inheritance in Python
+## Templated Inheritance in Python
 
 Originally published: 2001-12-04 19:49:41
 Last updated: 2001-12-04 19:49:41

@@ -1,4 +1,4 @@
-###Accessing current function
+## Accessing current function
 
 Originally published: 2007-09-09 01:24:19
 Last updated: 2007-09-09 01:24:19

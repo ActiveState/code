@@ -1,4 +1,4 @@
-###Inherit method docstrings without breaking decorators or violating DRY
+## Inherit method docstrings without breaking decorators or violating DRY
 
 Originally published: 2013-06-30 20:09:12
 Last updated: 2013-07-01 02:29:40

@@ -1,4 +1,4 @@
-###Create .m3u playlists on the fly for mp3 dowloads
+## Create .m3u playlists on the fly for mp3 dowloads
 
 Originally published: 2006-02-27 10:32:05
 Last updated: 2006-02-27 10:32:05

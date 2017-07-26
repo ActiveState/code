@@ -1,4 +1,4 @@
-###Counting pages of PDF documents on Mac OS X.
+## Counting pages of PDF documents on Mac OS X.
 
 Originally published: 2004-07-09 23:43:27
 Last updated: 2004-07-09 23:43:27

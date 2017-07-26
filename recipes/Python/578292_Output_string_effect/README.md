@@ -1,4 +1,4 @@
-###Output string with effect, python3+
+## Output string with effect, python3+
 
 Originally published: 2012-10-17 18:21:39
 Last updated: 2012-10-17 18:23:05

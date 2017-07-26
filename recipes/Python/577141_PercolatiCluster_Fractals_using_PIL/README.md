@@ -1,4 +1,4 @@
-###Percolation Cluster Fractals using PIL Floodfill
+## Percolation Cluster Fractals using PIL Floodfill
 
 Originally published: 2010-03-25 01:58:31
 Last updated: 2010-03-25 14:02:25

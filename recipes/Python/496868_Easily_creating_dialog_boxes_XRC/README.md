@@ -1,4 +1,4 @@
-###Easily creating dialog boxes from XRC files
+## Easily creating dialog boxes from XRC files
 
 Originally published: 2006-07-06 14:39:56
 Last updated: 2006-07-06 14:39:56

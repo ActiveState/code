@@ -1,4 +1,4 @@
-###Heap-based priority queue
+## Heap-based priority queue
 
 Originally published: 2001-10-14 17:04:26
 Last updated: 2001-10-14 17:04:26

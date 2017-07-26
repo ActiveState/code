@@ -1,4 +1,4 @@
-###Classmethod emulation in python2.1
+## Classmethod emulation in python2.1
 
 Originally published: 2002-02-11 19:18:27
 Last updated: 2002-02-12 03:19:41

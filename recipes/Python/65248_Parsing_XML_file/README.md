@@ -1,4 +1,4 @@
-###Parsing an XML file with xml.parsers.expat
+## Parsing an XML file with xml.parsers.expat
 
 Originally published: 2001-06-19 10:34:54
 Last updated: 2001-07-27 15:31:46

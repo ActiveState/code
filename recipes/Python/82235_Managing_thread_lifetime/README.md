@@ -1,4 +1,4 @@
-###Managing thread lifetime
+## Managing thread lifetime
 
 Originally published: 2001-10-17 13:40:15
 Last updated: 2001-10-18 21:12:51

@@ -1,4 +1,4 @@
-###Multiplication Table
+## Multiplication Table
 
 Originally published: 2009-07-21 16:05:15
 Last updated: 2009-07-22 15:25:39

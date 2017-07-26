@@ -1,4 +1,4 @@
-###Object snoop - experiment with Python special methods
+## Object snoop - experiment with Python special methods
 
 Originally published: 2010-09-05 16:46:48
 Last updated: 2010-09-05 17:54:50

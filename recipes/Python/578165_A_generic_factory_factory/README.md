@@ -1,4 +1,4 @@
-###A generic factory factory.
+## A generic factory factory.
 
 Originally published: 2012-06-11 23:31:10
 Last updated: 2012-06-11 23:31:11

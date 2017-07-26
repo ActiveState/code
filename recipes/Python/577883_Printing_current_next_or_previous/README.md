@@ -1,4 +1,4 @@
-###Printing current, next, or previous day
+## Printing current, next, or previous day
 
 Originally published: 2011-09-29 21:36:16
 Last updated: 2011-09-29 21:39:22

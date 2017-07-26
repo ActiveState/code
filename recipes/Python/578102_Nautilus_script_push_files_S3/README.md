@@ -1,4 +1,4 @@
-###Nautilus script to push files to S3 in python
+## Nautilus script to push files to S3 in python
 
 Originally published: 2012-04-10 21:41:48
 Last updated: 2012-04-10 21:41:48

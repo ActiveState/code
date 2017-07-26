@@ -1,4 +1,4 @@
-###Random number in a range
+## Random number in a range
 
 Originally published: 2001-09-10 11:25:18
 Last updated: 2001-09-10 11:25:18

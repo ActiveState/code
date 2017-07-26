@@ -1,4 +1,4 @@
-###Color Study 1
+## Color Study 1
 
 Originally published: 2011-04-05 23:35:31
 Last updated: 2011-04-05 23:35:32

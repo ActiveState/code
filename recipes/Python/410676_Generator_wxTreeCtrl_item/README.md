@@ -1,4 +1,4 @@
-###Generator for wxTreeCtrl item children
+## Generator for wxTreeCtrl item children
 
 Originally published: 2005-04-23 12:38:45
 Last updated: 2005-04-23 12:38:45

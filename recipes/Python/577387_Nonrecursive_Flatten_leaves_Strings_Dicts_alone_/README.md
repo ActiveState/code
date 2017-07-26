@@ -1,4 +1,4 @@
-###Non-recursive Flatten, leaves Strings and Dicts alone, minimal type assumptions, with tests
+## Non-recursive Flatten, leaves Strings and Dicts alone, minimal type assumptions, with tests
 
 Originally published: 2010-09-09 23:58:03
 Last updated: 2010-09-10 00:10:47

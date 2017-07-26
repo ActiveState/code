@@ -1,4 +1,4 @@
-###Indexing into XML
+## Indexing into XML
 
 Originally published: 2002-10-08 05:38:27
 Last updated: 2002-10-08 05:38:27

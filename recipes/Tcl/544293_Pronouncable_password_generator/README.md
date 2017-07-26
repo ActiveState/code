@@ -1,4 +1,4 @@
-###Pronouncable password generator
+## Pronouncable password generator
 
 Originally published: 2008-02-03 15:35:46
 Last updated: 2008-02-03 15:35:46

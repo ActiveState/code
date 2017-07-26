@@ -1,4 +1,4 @@
-###Debug with garbage collection
+## Debug with garbage collection
 
 Originally published: 2001-06-25 04:46:01
 Last updated: 2001-06-25 04:46:01

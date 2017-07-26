@@ -1,4 +1,4 @@
-###Basic Text Editor
+## Basic Text Editor
 
 Originally published: 2011-03-21 23:10:10
 Last updated: 2011-03-21 23:10:10

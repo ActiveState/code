@@ -1,4 +1,4 @@
-###First and last item access with predicates to increase expressiveness
+## First and last item access with predicates to increase expressiveness
 
 Originally published: 2005-08-02 18:39:18
 Last updated: 2005-08-03 01:44:57

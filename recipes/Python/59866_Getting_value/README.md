@@ -1,4 +1,4 @@
-###Getting a value from a dictionary
+## Getting a value from a dictionary
 
 Originally published: 2001-05-29 09:51:54
 Last updated: 2001-05-29 09:51:54

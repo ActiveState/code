@@ -1,4 +1,4 @@
-###Print selected text pages to PDF with Python, selpg and xtopdf on Linux
+## Print selected text pages to PDF with Python, selpg and xtopdf on Linux
 
 Originally published: 2014-10-29 17:38:09
 Last updated: 2014-10-29 17:38:10

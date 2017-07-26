@@ -1,4 +1,4 @@
-### Ten's Multiplication Algorithms in Python
+##  Ten's Multiplication Algorithms in Python
 
 Originally published: 2013-06-18 15:23:33
 Last updated: 2013-06-18 15:23:36

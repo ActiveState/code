@@ -1,4 +1,4 @@
-###Simple (very) SNTP client
+## Simple (very) SNTP client
 
 Originally published: 2002-03-01 16:35:27
 Last updated: 2002-03-02 00:41:33

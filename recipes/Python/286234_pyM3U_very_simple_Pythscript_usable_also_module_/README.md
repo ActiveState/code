@@ -1,4 +1,4 @@
-###pyM3U is a very simple Python script (usable also as a module) allowing the generation of M3U playlists
+## pyM3U is a very simple Python script (usable also as a module) allowing the generation of M3U playlists
 
 Originally published: 2004-07-13 03:23:40
 Last updated: 2004-07-13 03:23:40

@@ -1,4 +1,4 @@
-###Inner Join
+## Inner Join
 
 Originally published: 2011-11-01 18:49:00
 Last updated: 2011-11-01 20:10:34

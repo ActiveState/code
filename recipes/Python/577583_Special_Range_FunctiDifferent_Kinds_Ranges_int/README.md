@@ -1,4 +1,4 @@
-###Special Range Function for Different Kinds of Ranges (int, float, character)
+## Special Range Function for Different Kinds of Ranges (int, float, character)
 
 Originally published: 2011-02-20 01:20:53
 Last updated: 2011-03-30 16:42:47

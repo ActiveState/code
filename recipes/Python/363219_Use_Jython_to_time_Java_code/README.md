@@ -1,4 +1,4 @@
-###Use Jython to time Java code
+## Use Jython to time Java code
 
 Originally published: 2005-01-14 10:56:25
 Last updated: 2005-02-07 04:57:15

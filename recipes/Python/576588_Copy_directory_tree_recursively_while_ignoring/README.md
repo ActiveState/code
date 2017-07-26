@@ -1,4 +1,4 @@
-###Copy directory tree recursively while ignoring cvs, git and svn directories
+## Copy directory tree recursively while ignoring cvs, git and svn directories
 
 Originally published: 2008-12-18 21:36:11
 Last updated: 2008-12-18 21:36:12

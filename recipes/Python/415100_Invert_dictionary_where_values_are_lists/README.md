@@ -1,4 +1,4 @@
-###Invert a dictionary where values are lists (one-liner)
+## Invert a dictionary where values are lists (one-liner)
 
 Originally published: 2005-05-24 19:46:49
 Last updated: 2005-05-24 19:46:49

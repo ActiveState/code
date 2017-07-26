@@ -1,4 +1,4 @@
-###Sets using a sorted list of integers representing the items
+## Sets using a sorted list of integers representing the items
 
 Originally published: 2005-11-15 11:12:50
 Last updated: 2005-11-22 15:43:11

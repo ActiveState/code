@@ -1,4 +1,4 @@
-###READBIN.PY -- A Command Line Utility For Reading And Printing A Formatted Hex/Character File Dump
+## READBIN.PY -- A Command Line Utility For Reading And Printing A Formatted Hex/Character File Dump
 
 Originally published: 2001-06-21 01:04:24
 Last updated: 2001-06-21 01:04:24

@@ -1,4 +1,4 @@
-###smart copy
+## smart copy
 
 Originally published: 2015-02-06 09:44:10
 Last updated: 2015-02-06 09:45:12

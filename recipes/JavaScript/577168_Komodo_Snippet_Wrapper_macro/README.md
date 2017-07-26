@@ -1,4 +1,4 @@
-###Komodo Snippet Wrapper macro
+## Komodo Snippet Wrapper macro
 
 Originally published: 2010-03-30 16:32:35
 Last updated: 2011-05-25 20:52:56

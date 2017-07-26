@@ -1,4 +1,4 @@
-###Classic ASP script analyzer, finds all functions, includes, duplicite functions
+## Classic ASP script analyzer, finds all functions, includes, duplicite functions
 
 Originally published: 2008-09-18 02:39:29
 Last updated: 2008-09-18 02:39:29

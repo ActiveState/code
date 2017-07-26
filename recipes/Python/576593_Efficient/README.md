@@ -1,4 +1,4 @@
-###Efficient generation of permutations
+## Efficient generation of permutations
 
 Originally published: 2008-12-22 06:11:55
 Last updated: 2008-12-22 06:11:55

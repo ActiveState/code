@@ -1,4 +1,4 @@
-###Convert Base64 encoded embedded ASCII text into binary files
+## Convert Base64 encoded embedded ASCII text into binary files
 
 Originally published: 2003-07-24 23:01:44
 Last updated: 2003-07-26 06:52:41

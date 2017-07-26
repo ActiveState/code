@@ -1,4 +1,4 @@
-###Komodo JS Macro - increase the number of code completion items shown
+## Komodo JS Macro - increase the number of code completion items shown
 
 Originally published: 2010-03-29 18:11:36
 Last updated: 2012-03-15 23:20:25

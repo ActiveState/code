@@ -1,4 +1,4 @@
-###StatusMeter widget for Tkinter
+## StatusMeter widget for Tkinter
 
 Originally published: 2009-03-02 19:24:38
 Last updated: 2009-03-02 19:24:38

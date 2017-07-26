@@ -1,4 +1,4 @@
-###Benford's Law demo
+## Benford's Law demo
 
 Originally published: 2010-10-19 10:56:50
 Last updated: 2010-10-19 10:56:51

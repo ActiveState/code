@@ -1,4 +1,4 @@
-###Quadratic
+## Quadratic
 
 Originally published: 2008-08-05 06:02:44
 Last updated: 2011-01-28 12:46:37

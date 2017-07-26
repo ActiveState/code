@@ -1,4 +1,4 @@
-###ctypes CDLL with automatic errno checking
+## ctypes CDLL with automatic errno checking
 
 Originally published: 2017-01-03 10:31:25
 Last updated: 2017-01-03 10:31:26

@@ -1,4 +1,4 @@
-###fmap(): a kind of inverse of the built-in Python map() function
+## fmap(): a kind of inverse of the built-in Python map() function
 
 Originally published: 2012-10-06 22:15:16
 Last updated: 2012-10-06 22:15:17

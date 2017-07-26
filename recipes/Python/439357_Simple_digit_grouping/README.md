@@ -1,4 +1,4 @@
-###Simple digit grouping
+## Simple digit grouping
 
 Originally published: 2005-08-17 18:38:27
 Last updated: 2005-08-22 20:53:15

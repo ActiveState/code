@@ -1,4 +1,4 @@
-###Enforce __all__ outside the 'import *' antipattern.
+## Enforce __all__ outside the 'import *' antipattern.
 
 Originally published: 2011-05-12 03:27:54
 Last updated: 2011-05-12 03:30:41

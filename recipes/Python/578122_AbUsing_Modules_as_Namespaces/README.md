@@ -1,4 +1,4 @@
-###(Ab)Using Modules as Namespaces
+## (Ab)Using Modules as Namespaces
 
 Originally published: 2012-05-10 03:58:33
 Last updated: 2012-05-10 04:14:06

@@ -1,4 +1,4 @@
-###Install bound methods in an instance
+## Install bound methods in an instance
 
 Originally published: 2003-09-19 02:05:17
 Last updated: 2003-09-19 02:05:17

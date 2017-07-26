@@ -1,4 +1,4 @@
-###check_svn_number_for_all_modules
+## check_svn_number_for_all_modules
 
 Originally published: 2014-04-14 07:41:43
 Last updated: 2014-04-14 07:41:43

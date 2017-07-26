@@ -1,4 +1,4 @@
-###Nagios plugin for monitoring database servers
+## Nagios plugin for monitoring database servers
 
 Originally published: 2011-03-07 04:04:00
 Last updated: 2011-08-23 22:12:20

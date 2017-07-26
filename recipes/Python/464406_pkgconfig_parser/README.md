@@ -1,4 +1,4 @@
-###pkgconfig parser
+## pkgconfig parser
 
 Originally published: 2005-12-10 06:17:32
 Last updated: 2005-12-10 06:17:32

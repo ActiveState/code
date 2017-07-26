@@ -1,4 +1,4 @@
-###Filter a string and only keep a given set of characters
+## Filter a string and only keep a given set of characters
 
 Originally published: 2001-05-24 18:52:23
 Last updated: 2001-05-24 18:52:23

@@ -1,4 +1,4 @@
-###timeout decorator (with multiprocessing)
+## timeout decorator (with multiprocessing)
 
 Originally published: 2011-08-23 05:25:09
 Last updated: 2011-08-23 05:25:09

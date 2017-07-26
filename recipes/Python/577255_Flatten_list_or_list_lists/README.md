@@ -1,4 +1,4 @@
-###Flatten a list (or list of lists, etc.)
+## Flatten a list (or list of lists, etc.)
 
 Originally published: 2010-06-05 17:38:24
 Last updated: 2011-03-01 03:46:26

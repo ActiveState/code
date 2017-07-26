@@ -1,4 +1,4 @@
-###button-tip for Tkinter buttons
+## button-tip for Tkinter buttons
 
 Originally published: 2005-02-03 08:03:05
 Last updated: 2005-02-04 08:22:45

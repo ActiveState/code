@@ -1,4 +1,4 @@
-###Capitalizing ISO 3166 country names correctly
+## Capitalizing ISO 3166 country names correctly
 
 Originally published: 2009-05-20 16:22:37
 Last updated: 2009-05-20 16:22:37

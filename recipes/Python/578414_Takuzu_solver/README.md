@@ -1,4 +1,4 @@
-###Takuzu solver
+## Takuzu solver
 
 Originally published: 2013-01-12 05:16:43
 Last updated: 2013-01-12 05:26:55

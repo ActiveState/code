@@ -1,4 +1,4 @@
-###Simple graph algorithms with a modular design
+## Simple graph algorithms with a modular design
 
 Originally published: 2011-04-20 01:11:45
 Last updated: 2011-04-21 13:40:32

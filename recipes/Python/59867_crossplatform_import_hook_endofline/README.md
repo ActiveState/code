@@ -1,4 +1,4 @@
-###cross-platform import hook for end-of-line conversion
+## cross-platform import hook for end-of-line conversion
 
 Originally published: 2001-05-29 20:32:47
 Last updated: 2001-05-29 20:32:47

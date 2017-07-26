@@ -1,4 +1,4 @@
-###Geocoding via Google Maps
+## Geocoding via Google Maps
 
 Originally published: 2006-09-22 22:59:22
 Last updated: 2006-09-23 06:12:29

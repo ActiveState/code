@@ -1,4 +1,4 @@
-###Pivot/Crosstab/Denormalization of a Normalized List
+## Pivot/Crosstab/Denormalization of a Normalized List
 
 Originally published: 2004-11-07 23:14:14
 Last updated: 2004-11-08 07:15:41

@@ -1,4 +1,4 @@
-###Total ordering class decorator
+## Total ordering class decorator
 
 Originally published: 2009-03-10 18:39:14
 Last updated: 2010-09-07 05:47:25

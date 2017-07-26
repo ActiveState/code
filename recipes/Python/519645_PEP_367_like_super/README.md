@@ -1,4 +1,4 @@
-###PEP 367 like super
+## PEP 367 like super
 
 Originally published: 2007-05-16 09:57:37
 Last updated: 2007-05-16 09:57:37

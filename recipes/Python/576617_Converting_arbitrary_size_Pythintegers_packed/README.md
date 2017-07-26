@@ -1,4 +1,4 @@
-###Converting arbitrary size Python integers to packed binary data strings
+## Converting arbitrary size Python integers to packed binary data strings
 
 Originally published: 2009-01-16 13:27:29
 Last updated: 2009-01-16 13:27:29

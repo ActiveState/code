@@ -1,4 +1,4 @@
-###sin, cos, tan for Decimal
+## sin, cos, tan for Decimal
 
 Originally published: 2007-07-04 14:18:54
 Last updated: 2007-07-05 19:49:49

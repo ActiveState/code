@@ -1,4 +1,4 @@
-###Komodo JS Macro: smart quotes and smart braces
+## Komodo JS Macro: smart quotes and smart braces
 
 Originally published: 2011-07-14 17:16:37
 Last updated: 2013-06-24 13:38:55

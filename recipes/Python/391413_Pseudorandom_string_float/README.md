@@ -1,4 +1,4 @@
-###Pseudo-random string to float conversion
+## Pseudo-random string to float conversion
 
 Originally published: 2005-03-11 15:46:51
 Last updated: 2005-03-11 15:46:51

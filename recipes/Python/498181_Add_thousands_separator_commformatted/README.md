@@ -1,4 +1,4 @@
-###Add thousands separator commas to formatted numbers
+## Add thousands separator commas to formatted numbers
 
 Originally published: 2006-10-07 15:49:28
 Last updated: 2006-10-07 15:49:28

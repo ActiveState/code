@@ -1,4 +1,4 @@
-###Replace embedded Python code in a string with the results of executing that code
+## Replace embedded Python code in a string with the results of executing that code
 
 Originally published: 2001-03-09 05:30:56
 Last updated: 2001-03-09 05:30:56

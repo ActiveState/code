@@ -1,4 +1,4 @@
-###2D polygon area
+## 2D polygon area
 
 Originally published: 2012-10-01 16:20:08
 Last updated: 2012-10-01 16:22:13

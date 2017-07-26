@@ -1,4 +1,4 @@
-###"safely" defining __setattr__
+## "safely" defining __setattr__
 
 Originally published: 2006-08-31 12:40:07
 Last updated: 2006-09-01 08:06:29

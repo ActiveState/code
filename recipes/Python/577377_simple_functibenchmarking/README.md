@@ -1,4 +1,4 @@
-###A simple function benchmarking module
+## A simple function benchmarking module
 
 Originally published: 2010-08-27 09:26:47
 Last updated: 2010-08-27 09:26:48

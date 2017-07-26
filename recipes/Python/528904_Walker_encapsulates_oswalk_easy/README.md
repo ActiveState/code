@@ -1,4 +1,4 @@
-###Walker encapsulates os.walk for easy reuse
+## Walker encapsulates os.walk for easy reuse
 
 Originally published: 2007-08-28 15:50:15
 Last updated: 2007-08-29 15:07:29

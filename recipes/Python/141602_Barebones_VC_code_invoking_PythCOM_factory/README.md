@@ -1,4 +1,4 @@
-###Barebones VC++ code: invoking Python COM factory and factory-made COM object
+## Barebones VC++ code: invoking Python COM factory and factory-made COM object
 
 Originally published: 2002-07-27 11:44:45
 Last updated: 2002-07-27 11:44:45

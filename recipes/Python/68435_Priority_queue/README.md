@@ -1,4 +1,4 @@
-###Priority queue
+## Priority queue
 
 Originally published: 2001-09-24 10:03:00
 Last updated: 2001-09-24 10:03:00

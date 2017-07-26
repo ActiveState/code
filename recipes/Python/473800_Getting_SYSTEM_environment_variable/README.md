@@ -1,4 +1,4 @@
-###Getting SYSTEM environment variable under Windows
+## Getting SYSTEM environment variable under Windows
 
 Originally published: 2006-01-28 04:46:27
 Last updated: 2009-02-10 07:24:02

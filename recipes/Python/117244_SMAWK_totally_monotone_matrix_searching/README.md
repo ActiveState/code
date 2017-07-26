@@ -1,4 +1,4 @@
-###SMAWK totally monotone matrix searching algorithm
+## SMAWK totally monotone matrix searching algorithm
 
 Originally published: 2002-03-17 18:04:31
 Last updated: 2002-03-17 18:04:31

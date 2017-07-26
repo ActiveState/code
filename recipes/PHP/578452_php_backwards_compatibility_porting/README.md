@@ -1,4 +1,4 @@
-###php backwards compatibility porting tips
+## php backwards compatibility porting tips
 
 Originally published: 2013-02-10 00:38:31
 Last updated: 2013-02-10 00:40:26

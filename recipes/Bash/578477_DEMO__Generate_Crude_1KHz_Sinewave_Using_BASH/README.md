@@ -1,4 +1,4 @@
-###DEMO - Generate A Crude 1KHz Sinewave Using A BASH Script.
+## DEMO - Generate A Crude 1KHz Sinewave Using A BASH Script.
 
 Originally published: 2013-03-01 19:41:46
 Last updated: 2013-03-01 19:41:47

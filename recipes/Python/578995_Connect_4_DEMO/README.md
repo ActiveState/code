@@ -1,4 +1,4 @@
-###Connect 4 (DEMO)
+## Connect 4 (DEMO)
 
 Originally published: 2014-12-27 23:20:12
 Last updated: 2014-12-27 23:20:13

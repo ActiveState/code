@@ -1,4 +1,4 @@
-###Directory Pruner 3
+## Directory Pruner 3
 
 Originally published: 2011-04-05 23:15:56
 Last updated: 2011-04-05 23:15:58

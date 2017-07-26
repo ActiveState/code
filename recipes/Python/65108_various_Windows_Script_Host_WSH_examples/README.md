@@ -1,4 +1,4 @@
-###various Windows Script Host (WSH) examples converted to Python
+## various Windows Script Host (WSH) examples converted to Python
 
 Originally published: 2001-06-08 10:49:34
 Last updated: 2001-06-08 10:49:34

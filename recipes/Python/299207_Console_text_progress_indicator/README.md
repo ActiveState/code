@@ -1,4 +1,4 @@
-###Console (text) progress indicator class
+## Console (text) progress indicator class
 
 Originally published: 2004-08-11 06:25:36
 Last updated: 2004-08-11 06:25:36

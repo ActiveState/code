@@ -1,4 +1,4 @@
-###Get external IP & geolocation in bash.
+## Get external IP & geolocation in bash.
 
 Originally published: 2014-11-30 00:37:29
 Last updated: 2014-11-30 00:46:28

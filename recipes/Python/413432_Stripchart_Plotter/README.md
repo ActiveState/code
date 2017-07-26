@@ -1,4 +1,4 @@
-###Stripchart Plotter
+## Stripchart Plotter
 
 Originally published: 2005-05-06 06:04:05
 Last updated: 2005-05-06 06:04:05

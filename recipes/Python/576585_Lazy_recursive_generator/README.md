@@ -1,4 +1,4 @@
-###Lazy, recursive generator function
+## Lazy, recursive generator function
 
 Originally published: 2008-12-14 09:56:13
 Last updated: 2008-12-14 10:04:29

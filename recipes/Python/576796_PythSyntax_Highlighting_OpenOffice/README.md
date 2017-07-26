@@ -1,4 +1,4 @@
-###Python Syntax Highlighting in OpenOffice Impress
+## Python Syntax Highlighting in OpenOffice Impress
 
 Originally published: 2009-06-04 12:24:04
 Last updated: 2009-06-04 12:24:04

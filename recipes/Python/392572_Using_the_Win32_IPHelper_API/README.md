@@ -1,4 +1,4 @@
-###Using the Win32 IPHelper API
+## Using the Win32 IPHelper API
 
 Originally published: 2005-03-23 12:13:33
 Last updated: 2005-03-23 12:13:33

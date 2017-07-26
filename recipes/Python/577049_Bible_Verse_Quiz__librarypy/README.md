@@ -1,4 +1,4 @@
-###Bible Verse Quiz - library.py
+## Bible Verse Quiz - library.py
 
 Originally published: 2010-02-11 20:01:24
 Last updated: 2010-02-12 04:22:19

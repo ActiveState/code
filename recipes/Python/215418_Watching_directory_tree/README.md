@@ -1,4 +1,4 @@
-###Watching a directory tree on Unix
+## Watching a directory tree on Unix
 
 Originally published: 2003-08-11 18:23:58
 Last updated: 2003-08-11 18:23:58

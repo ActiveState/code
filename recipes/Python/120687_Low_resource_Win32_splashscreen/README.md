@@ -1,4 +1,4 @@
-###Low resource Win32 splashscreen
+## Low resource Win32 splashscreen
 
 Originally published: 2002-04-14 15:18:03
 Last updated: 2002-04-14 15:18:03

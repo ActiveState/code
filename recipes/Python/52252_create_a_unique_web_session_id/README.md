@@ -1,4 +1,4 @@
-###create a unique web session id
+## create a unique web session id
 
 Originally published: 2001-03-14 06:43:50
 Last updated: 2001-03-14 06:43:50

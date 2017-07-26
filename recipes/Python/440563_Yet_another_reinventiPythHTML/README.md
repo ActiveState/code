@@ -1,4 +1,4 @@
-###Yet another reinvention of a Python HTML generation mechanism
+## Yet another reinvention of a Python HTML generation mechanism
 
 Originally published: 2005-09-16 00:14:45
 Last updated: 2005-11-22 07:25:44

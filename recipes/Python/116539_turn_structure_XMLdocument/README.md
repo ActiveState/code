@@ -1,4 +1,4 @@
-###turn the structure of a XML-document into a combination of dictionaries and lists
+## turn the structure of a XML-document into a combination of dictionaries and lists
 
 Originally published: 2002-02-26 10:33:40
 Last updated: 2002-02-26 10:33:40

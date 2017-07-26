@@ -1,4 +1,4 @@
-###Genreate x digits prime number in python, version 1
+## Genreate x digits prime number in python, version 1
 
 Originally published: 2013-01-06 20:25:14
 Last updated: 2013-01-06 20:25:20

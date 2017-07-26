@@ -1,4 +1,4 @@
-###n-dimensional loop iterator object
+## n-dimensional loop iterator object
 
 Originally published: 2001-11-01 13:58:56
 Last updated: 2001-11-01 13:58:56

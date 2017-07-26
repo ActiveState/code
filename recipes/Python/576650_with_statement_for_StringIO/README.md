@@ -1,4 +1,4 @@
-###'with' statement for StringIO
+## 'with' statement for StringIO
 
 Originally published: 2009-02-10 21:06:47
 Last updated: 2009-02-24 00:01:16

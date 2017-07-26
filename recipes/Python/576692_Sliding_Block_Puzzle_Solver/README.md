@@ -1,4 +1,4 @@
-###Sliding Block Puzzle Solver
+## Sliding Block Puzzle Solver
 
 Originally published: 2009-03-16 13:35:05
 Last updated: 2009-03-16 13:35:05

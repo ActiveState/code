@@ -1,4 +1,4 @@
-###Safe unicode representation
+## Safe unicode representation
 
 Originally published: 2011-03-17 23:28:39
 Last updated: 2011-03-17 23:28:40

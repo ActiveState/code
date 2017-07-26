@@ -1,4 +1,4 @@
-###Functional dictionary and list types for Python 2.1+
+## Functional dictionary and list types for Python 2.1+
 
 Originally published: 2002-11-07 10:52:04
 Last updated: 2002-11-26 20:56:19

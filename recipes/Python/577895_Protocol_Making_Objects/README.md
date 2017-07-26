@@ -1,4 +1,4 @@
-###A Protocol for Making Objects Immutable
+## A Protocol for Making Objects Immutable
 
 Originally published: 2011-10-07 01:52:39
 Last updated: 2011-10-07 03:59:45

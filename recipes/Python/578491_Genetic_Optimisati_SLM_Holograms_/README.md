@@ -1,4 +1,4 @@
-###Genetic Optimisation  of SLM Holograms 
+## Genetic Optimisation  of SLM Holograms 
 
 Originally published: 2013-03-13 22:13:37
 Last updated: 2013-03-13 22:13:37

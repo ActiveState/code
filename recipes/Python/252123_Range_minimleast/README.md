@@ -1,4 +1,4 @@
-###Range minima and least common ancestors
+## Range minima and least common ancestors
 
 Originally published: 2003-11-13 23:10:41
 Last updated: 2003-11-13 23:10:41

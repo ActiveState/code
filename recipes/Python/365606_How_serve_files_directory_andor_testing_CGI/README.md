@@ -1,4 +1,4 @@
-###How to serve files from a directory (and/or testing CGI scripts)
+## How to serve files from a directory (and/or testing CGI scripts)
 
 Originally published: 2005-02-02 22:34:33
 Last updated: 2005-02-02 22:34:33

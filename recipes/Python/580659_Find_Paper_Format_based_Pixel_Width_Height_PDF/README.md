@@ -1,4 +1,4 @@
-###Find Paper Format of based on Pixel Width and Height of a (PDF) Page
+## Find Paper Format of based on Pixel Width and Height of a (PDF) Page
 
 Originally published: 2016-05-05 23:47:48
 Last updated: 2016-05-05 23:47:49

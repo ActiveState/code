@@ -1,4 +1,4 @@
-###Find all subclasses of a given class
+## Find all subclasses of a given class
 
 Originally published: 2009-11-04 20:00:22
 Last updated: 2009-11-04 20:26:08

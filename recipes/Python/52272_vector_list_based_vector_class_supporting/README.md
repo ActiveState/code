@@ -1,4 +1,4 @@
-###vector: A list based vector class supporting elementwise operations
+## vector: A list based vector class supporting elementwise operations
 
 Originally published: 2001-03-16 07:30:45
 Last updated: 2002-04-15 18:22:16

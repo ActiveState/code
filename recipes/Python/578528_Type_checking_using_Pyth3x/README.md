@@ -1,4 +1,4 @@
-###Type checking using Python 3.x annotations
+## Type checking using Python 3.x annotations
 
 Originally published: 2013-05-23 22:36:18
 Last updated: 2013-05-23 22:46:19

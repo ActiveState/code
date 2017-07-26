@@ -1,4 +1,4 @@
-###The Markov Chain Algorithm
+## The Markov Chain Algorithm
 
 Originally published: 2003-04-10 15:00:20
 Last updated: 2003-04-12 19:29:43

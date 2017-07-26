@@ -1,4 +1,4 @@
-###Dijkstra shortest path implementation
+## Dijkstra shortest path implementation
 
 Originally published: 2011-10-05 09:06:49
 Last updated: 2011-10-05 09:06:50

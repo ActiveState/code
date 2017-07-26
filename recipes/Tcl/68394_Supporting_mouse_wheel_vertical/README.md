@@ -1,4 +1,4 @@
-###Supporting mouse wheel on vertical scrollbars
+## Supporting mouse wheel on vertical scrollbars
 
 Originally published: 2001-09-10 22:24:11
 Last updated: 2001-09-10 22:24:11

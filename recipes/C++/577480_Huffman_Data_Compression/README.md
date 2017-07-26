@@ -1,4 +1,4 @@
-###Huffman Data Compression
+## Huffman Data Compression
 
 Originally published: 2010-12-01 01:15:22
 Last updated: 2010-12-01 02:47:09

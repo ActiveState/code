@@ -1,4 +1,4 @@
-###Convert HLS colorspace to RGB
+## Convert HLS colorspace to RGB
 
 Originally published: 2002-06-17 16:10:13
 Last updated: 2002-06-17 16:10:13

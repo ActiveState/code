@@ -1,4 +1,4 @@
-###extract emails from a mbox read on stdin
+## extract emails from a mbox read on stdin
 
 Originally published: 2008-11-03 10:39:14
 Last updated: 2013-09-07 10:24:17

@@ -1,4 +1,4 @@
-###Simple python thread manager
+## Simple python thread manager
 
 Originally published: 2012-11-17 23:18:16
 Last updated: 2012-11-17 23:18:17

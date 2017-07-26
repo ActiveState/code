@@ -1,4 +1,4 @@
-###An interval mapping data structure
+## An interval mapping data structure
 
 Originally published: 2010-12-23 12:51:26
 Last updated: 2010-12-23 12:51:27

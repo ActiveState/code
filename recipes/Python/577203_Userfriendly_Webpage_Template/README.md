@@ -1,4 +1,4 @@
-###Userfriendly Webpage Template
+## Userfriendly Webpage Template
 
 Originally published: 2010-04-20 21:53:17
 Last updated: 2010-05-04 07:38:03

@@ -1,4 +1,4 @@
-###Mixing features of "tree" and of "md5sum" : tree_md5 :)
+## Mixing features of "tree" and of "md5sum" : tree_md5 :)
 
 Originally published: 2008-03-29 09:12:09
 Last updated: 2008-03-29 09:12:09

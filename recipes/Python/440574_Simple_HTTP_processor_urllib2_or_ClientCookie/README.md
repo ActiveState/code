@@ -1,4 +1,4 @@
-###Simple HTTP processor for urllib2, or ClientCookie to track HTTP request and responses similar to the Firefox extension LiveHTTPHeaders
+## Simple HTTP processor for urllib2, or ClientCookie to track HTTP request and responses similar to the Firefox extension LiveHTTPHeaders
 
 Originally published: 2005-09-19 11:53:35
 Last updated: 2005-09-19 23:51:30

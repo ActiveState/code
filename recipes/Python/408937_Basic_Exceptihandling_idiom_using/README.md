@@ -1,4 +1,4 @@
-###Basic Exception handling idiom using decorators
+## Basic Exception handling idiom using decorators
 
 Originally published: 2005-04-03 01:06:47
 Last updated: 2005-04-06 04:25:10

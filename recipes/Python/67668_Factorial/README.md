@@ -1,4 +1,4 @@
-###Factorial
+## Factorial
 
 Originally published: 2001-08-27 05:44:55
 Last updated: 2002-04-04 08:24:10

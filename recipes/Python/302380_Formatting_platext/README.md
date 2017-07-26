@@ -1,4 +1,4 @@
-###Formatting plain text into columns
+## Formatting plain text into columns
 
 Originally published: 2004-08-27 18:19:37
 Last updated: 2011-02-27 23:55:26

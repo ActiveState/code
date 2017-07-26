@@ -1,4 +1,4 @@
-###Directory & File Counter
+## Directory & File Counter
 
 Originally published: 2012-07-07 22:07:51
 Last updated: 2012-07-07 22:07:51

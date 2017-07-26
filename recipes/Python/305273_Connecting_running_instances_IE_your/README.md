@@ -1,4 +1,4 @@
-###Connecting to running instances of IE on your computer
+## Connecting to running instances of IE on your computer
 
 Originally published: 2004-09-14 00:22:23
 Last updated: 2004-09-16 08:55:39

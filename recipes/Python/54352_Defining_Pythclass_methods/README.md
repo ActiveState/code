@@ -1,4 +1,4 @@
-###Defining Python class methods in C
+## Defining Python class methods in C
 
 Originally published: 2001-04-25 10:22:15
 Last updated: 2001-04-25 10:22:15

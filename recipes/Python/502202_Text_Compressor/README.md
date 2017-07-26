@@ -1,4 +1,4 @@
-###Text Compressor
+## Text Compressor
 
 Originally published: 2007-02-01 21:41:29
 Last updated: 2007-02-01 21:41:29

@@ -1,4 +1,4 @@
-###Convert text/enriched MIME to text/html
+## Convert text/enriched MIME to text/html
 
 Originally published: 2009-06-09 15:08:40
 Last updated: 2009-06-09 15:08:40

@@ -1,4 +1,4 @@
-###Python robocopier - Advanced Directory Synchronization module
+## Python robocopier - Advanced Directory Synchronization module
 
 Originally published: 2003-10-30 00:06:47
 Last updated: 2003-12-04 08:04:57

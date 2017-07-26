@@ -1,4 +1,4 @@
-###A numarray set complement
+## A numarray set complement
 
 Originally published: 2004-11-09 09:07:31
 Last updated: 2004-11-13 00:59:19

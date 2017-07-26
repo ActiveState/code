@@ -1,4 +1,4 @@
-###Windows Registry: Search & Destroy
+## Windows Registry: Search & Destroy
 
 Originally published: 2012-07-12 12:23:05
 Last updated: 2012-07-12 12:23:05

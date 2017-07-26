@@ -1,4 +1,4 @@
-###CMS page range validator.
+## CMS page range validator.
 
 Originally published: 2009-08-21 11:14:13
 Last updated: 2009-08-21 11:14:13

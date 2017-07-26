@@ -1,4 +1,4 @@
-###Distributed Interactive Simulation
+## Distributed Interactive Simulation
 
 Originally published: 2008-11-22 08:40:37
 Last updated: 2012-06-15 00:14:10

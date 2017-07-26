@@ -1,4 +1,4 @@
-###isMoney
+## isMoney
 
 Originally published: 2004-12-31 01:44:05
 Last updated: 2004-12-31 01:44:05

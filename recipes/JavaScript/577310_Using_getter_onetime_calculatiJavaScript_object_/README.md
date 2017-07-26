@@ -1,4 +1,4 @@
-###Using a getter for a one-time calculation of a JavaScript object attribute
+## Using a getter for a one-time calculation of a JavaScript object attribute
 
 Originally published: 2010-07-16 18:10:50
 Last updated: 2010-07-16 18:10:51

@@ -1,4 +1,4 @@
-###Easy State Pattern - support for implementing state machines
+## Easy State Pattern - support for implementing state machines
 
 Originally published: 2009-01-13 14:24:36
 Last updated: 2009-06-15 11:25:17

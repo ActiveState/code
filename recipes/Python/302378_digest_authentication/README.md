@@ -1,4 +1,4 @@
-###digest authentication
+## digest authentication
 
 Originally published: 2004-08-27 16:25:08
 Last updated: 2004-08-30 21:28:11

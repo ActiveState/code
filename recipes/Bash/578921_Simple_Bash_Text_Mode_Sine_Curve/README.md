@@ -1,4 +1,4 @@
-###Simple Bash Text Mode Sine Curve Generator.
+## Simple Bash Text Mode Sine Curve Generator.
 
 Originally published: 2014-08-10 10:26:19
 Last updated: 2014-08-12 20:57:39

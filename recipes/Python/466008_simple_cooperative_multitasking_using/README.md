@@ -1,4 +1,4 @@
-###simple, cooperative multitasking using generators
+## simple, cooperative multitasking using generators
 
 Originally published: 2006-01-05 12:44:52
 Last updated: 2006-01-16 12:18:27

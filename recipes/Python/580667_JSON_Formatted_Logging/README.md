@@ -1,4 +1,4 @@
-###JSON Formatted Logging
+## JSON Formatted Logging
 
 Originally published: 2016-05-27 01:07:41
 Last updated: 2016-05-27 01:07:42

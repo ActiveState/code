@@ -1,4 +1,4 @@
-###Finding out an argument default
+## Finding out an argument default
 
 Originally published: 2006-04-19 14:41:46
 Last updated: 2006-04-19 14:41:46

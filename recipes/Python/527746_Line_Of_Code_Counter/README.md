@@ -1,4 +1,4 @@
-###Line Of Code Counter
+## Line Of Code Counter
 
 Originally published: 2007-08-09 16:42:45
 Last updated: 2007-08-09 16:42:45

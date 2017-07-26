@@ -1,4 +1,4 @@
-###A tidy property idiom
+## A tidy property idiom
 
 Originally published: 2003-06-12 10:15:39
 Last updated: 2003-08-01 14:57:43

@@ -1,4 +1,4 @@
-###Download and rename RIDGE radar images
+## Download and rename RIDGE radar images
 
 Originally published: 2007-01-03 07:51:18
 Last updated: 2007-01-03 07:51:18

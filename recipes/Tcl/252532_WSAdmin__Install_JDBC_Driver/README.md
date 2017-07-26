@@ -1,4 +1,4 @@
-###WSAdmin - Install JDBC Driver
+## WSAdmin - Install JDBC Driver
 
 Originally published: 2003-12-14 23:37:51
 Last updated: 2003-12-14 23:37:51

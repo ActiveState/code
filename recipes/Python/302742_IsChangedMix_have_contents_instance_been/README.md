@@ -1,4 +1,4 @@
-###IsChangedMixin - have the contents of an instance been modified?
+## IsChangedMixin - have the contents of an instance been modified?
 
 Originally published: 2004-08-31 03:53:28
 Last updated: 2004-08-31 03:53:28

@@ -1,4 +1,4 @@
-###Retrieving a line at random from a file of unknown size
+## Retrieving a line at random from a file of unknown size
 
 Originally published: 2001-05-29 09:35:03
 Last updated: 2001-05-29 09:35:03

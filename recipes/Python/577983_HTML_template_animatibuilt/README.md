@@ -1,4 +1,4 @@
-###HTML template animation built on PyQuery
+## HTML template animation built on PyQuery
 
 Originally published: 2011-12-13 18:48:31
 Last updated: 2011-12-13 18:49:46

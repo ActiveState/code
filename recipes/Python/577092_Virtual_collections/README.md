@@ -1,4 +1,4 @@
-###Virtual collections
+## Virtual collections
 
 Originally published: 2010-03-09 03:43:10
 Last updated: 2010-03-09 03:43:13

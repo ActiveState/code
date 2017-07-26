@@ -1,4 +1,4 @@
-###Logging asserts
+## Logging asserts
 
 Originally published: 2010-02-28 13:15:40
 Last updated: 2010-03-01 03:22:43

@@ -1,4 +1,4 @@
-###Create replica of the existing directory structure with only specified extension files.
+## Create replica of the existing directory structure with only specified extension files.
 
 Originally published: 2012-10-24 01:07:05
 Last updated: 2012-11-16 08:30:31

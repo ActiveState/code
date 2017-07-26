@@ -1,4 +1,4 @@
-###Searching list box entries via entry box
+## Searching list box entries via entry box
 
 Originally published: 2002-04-29 09:32:18
 Last updated: 2002-04-29 09:32:18

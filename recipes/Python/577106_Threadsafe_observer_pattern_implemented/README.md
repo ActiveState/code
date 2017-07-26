@@ -1,4 +1,4 @@
-###Threadsafe observer pattern implemented as descriptor
+## Threadsafe observer pattern implemented as descriptor
 
 Originally published: 2010-03-13 12:17:10
 Last updated: 2010-03-13 12:17:11

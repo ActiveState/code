@@ -1,4 +1,4 @@
-###Matlab code for displaying 'struct' details
+## Matlab code for displaying 'struct' details
 
 Originally published: 2008-09-05 13:31:53
 Last updated: 2008-09-05 13:31:54

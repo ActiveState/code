@@ -1,4 +1,4 @@
-###Tweet Google+ posts
+## Tweet Google+ posts
 
 Originally published: 2012-10-22 07:33:33
 Last updated: 2012-10-31 10:29:32

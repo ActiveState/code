@@ -1,4 +1,4 @@
-###Integer square root function
+## Integer square root function
 
 Originally published: 2011-08-04 05:29:16
 Last updated: 2011-08-04 05:29:16

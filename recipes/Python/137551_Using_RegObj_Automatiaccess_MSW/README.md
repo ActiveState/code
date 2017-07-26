@@ -1,4 +1,4 @@
-###Using RegObj: Automation access to the MSW Registry
+## Using RegObj: Automation access to the MSW Registry
 
 Originally published: 2002-07-03 11:10:38
 Last updated: 2002-07-03 11:10:38

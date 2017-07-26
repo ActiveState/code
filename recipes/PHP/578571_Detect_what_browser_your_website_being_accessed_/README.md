@@ -1,4 +1,4 @@
-###Detect what browser your website is being accessed from using php
+## Detect what browser your website is being accessed from using php
 
 Originally published: 2013-06-19 20:09:20
 Last updated: 2013-06-19 20:09:55

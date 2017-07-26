@@ -1,4 +1,4 @@
-###object finalization without __del__ and without hassles
+## object finalization without __del__ and without hassles
 
 Originally published: 2007-05-07 07:59:59
 Last updated: 2007-05-11 09:32:33

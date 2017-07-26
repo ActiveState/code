@@ -1,4 +1,4 @@
-###A python replacement for java.util.Properties
+## A python replacement for java.util.Properties
 
 Originally published: 2006-06-13 00:56:20
 Last updated: 2006-07-28 08:52:19

@@ -1,4 +1,4 @@
-###tail -f for multiple log files in a given directory
+## tail -f for multiple log files in a given directory
 
 Originally published: 2005-05-20 08:12:01
 Last updated: 2005-05-20 16:23:54

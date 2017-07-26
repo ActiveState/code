@@ -1,4 +1,4 @@
-###Numerical type with units (dimensions.py)
+## Numerical type with units (dimensions.py)
 
 Originally published: 2010-07-24 17:19:27
 Last updated: 2010-07-24 17:24:13

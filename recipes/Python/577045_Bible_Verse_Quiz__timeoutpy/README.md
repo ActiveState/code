@@ -1,4 +1,4 @@
-###Bible Verse Quiz - timeout.py
+## Bible Verse Quiz - timeout.py
 
 Originally published: 2010-02-11 19:53:36
 Last updated: 2010-02-12 04:19:59

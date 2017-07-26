@@ -1,4 +1,4 @@
-###NondurableLogger class for use with concurrent.futures.ProcessPoolExecutor's submit and map methods
+## NondurableLogger class for use with concurrent.futures.ProcessPoolExecutor's submit and map methods
 
 Originally published: 2014-02-08 15:52:07
 Last updated: 2014-02-10 17:50:59

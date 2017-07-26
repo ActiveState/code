@@ -1,4 +1,4 @@
-###Bitsort algorithm
+## Bitsort algorithm
 
 Originally published: 2007-09-11 01:47:23
 Last updated: 2007-09-11 01:47:23

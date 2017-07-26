@@ -1,4 +1,4 @@
-###Creating fake data using numpy
+## Creating fake data using numpy
 
 Originally published: 2009-08-07 09:22:34
 Last updated: 2009-08-07 09:22:34

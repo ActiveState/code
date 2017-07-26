@@ -1,4 +1,4 @@
-###Align text string using spaces between words to fit specified width
+## Align text string using spaces between words to fit specified width
 
 Originally published: 2005-05-22 02:53:21
 Last updated: 2010-03-09 07:04:19

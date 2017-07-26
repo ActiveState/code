@@ -1,4 +1,4 @@
-###subprocess.terminate() not always implemented
+## subprocess.terminate() not always implemented
 
 Originally published: 2009-02-25 10:40:04
 Last updated: 2009-02-25 10:45:01

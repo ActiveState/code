@@ -1,4 +1,4 @@
-###download a URL with a console progress meter
+## download a URL with a console progress meter
 
 Originally published: 2008-10-08 05:05:12
 Last updated: 2008-10-08 05:05:12

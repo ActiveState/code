@@ -1,4 +1,4 @@
-###Helper subclass for win32pdhquery
+## Helper subclass for win32pdhquery
 
 Originally published: 2004-09-03 10:03:51
 Last updated: 2004-09-03 10:03:51

@@ -1,4 +1,4 @@
-###Interval Test Case
+## Interval Test Case
 
 Originally published: 2003-11-02 12:44:33
 Last updated: 2003-11-02 12:44:33

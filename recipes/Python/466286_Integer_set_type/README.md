@@ -1,4 +1,4 @@
-###Integer set type
+## Integer set type
 
 Originally published: 2006-01-12 07:28:50
 Last updated: 2006-01-23 15:07:55

@@ -1,4 +1,4 @@
-###Anonymous functions without lambda
+## Anonymous functions without lambda
 
 Originally published: 2004-12-31 15:16:43
 Last updated: 2004-12-31 15:16:43

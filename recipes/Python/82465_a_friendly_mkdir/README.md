@@ -1,4 +1,4 @@
-###a friendly mkdir()
+## a friendly mkdir()
 
 Originally published: 2001-10-18 10:53:13
 Last updated: 2009-12-18 15:33:58

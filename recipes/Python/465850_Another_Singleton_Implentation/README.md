@@ -1,4 +1,4 @@
-###Another Singleton Implentation
+## Another Singleton Implentation
 
 Originally published: 2006-01-03 21:01:02
 Last updated: 2006-01-03 21:01:02

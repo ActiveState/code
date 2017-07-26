@@ -1,4 +1,4 @@
-###Simpliest XML generator
+## Simpliest XML generator
 
 Originally published: 2006-09-14 15:43:17
 Last updated: 2006-09-22 21:02:11

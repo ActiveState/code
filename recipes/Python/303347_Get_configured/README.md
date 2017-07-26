@@ -1,4 +1,4 @@
-###Get configured!
+## Get configured!
 
 Originally published: 2004-09-03 14:41:32
 Last updated: 2004-09-03 14:41:32

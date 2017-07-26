@@ -1,4 +1,4 @@
-###8 Queens Problem
+## 8 Queens Problem
 
 Originally published: 2007-03-26 20:36:33
 Last updated: 2007-03-26 20:36:33

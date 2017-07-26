@@ -1,4 +1,4 @@
-###Converty decimal/integer number to binary string in Python
+## Converty decimal/integer number to binary string in Python
 
 Originally published: 2009-07-17 09:17:32
 Last updated: 2009-07-17 09:17:32

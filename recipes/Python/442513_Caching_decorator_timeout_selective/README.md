@@ -1,4 +1,4 @@
-###Caching decorator with timeout, selective invalidation
+## Caching decorator with timeout, selective invalidation
 
 Originally published: 2005-11-02 02:47:48
 Last updated: 2005-11-05 05:47:03

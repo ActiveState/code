@@ -1,4 +1,4 @@
-###safer serialization of simple python types, part two
+## safer serialization of simple python types, part two
 
 Originally published: 2005-06-02 01:34:03
 Last updated: 2005-06-13 07:00:35

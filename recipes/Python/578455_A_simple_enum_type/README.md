@@ -1,4 +1,4 @@
-###A simple enum type
+## A simple enum type
 
 Originally published: 2013-02-13 06:35:24
 Last updated: 2013-02-13 06:53:38

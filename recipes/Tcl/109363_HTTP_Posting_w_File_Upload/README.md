@@ -1,4 +1,4 @@
-###HTTP Posting w/ File Upload
+## HTTP Posting w/ File Upload
 
 Originally published: 2002-01-24 10:55:29
 Last updated: 2002-01-24 10:55:29

@@ -1,4 +1,4 @@
-###Java-Style Inner Classes
+## Java-Style Inner Classes
 
 Originally published: 2003-11-05 09:32:33
 Last updated: 2003-11-05 09:32:33

@@ -1,4 +1,4 @@
-###Text widget width and height in pixels (Tkinter)
+## Text widget width and height in pixels (Tkinter)
 
 Originally published: 2014-06-06 14:27:27
 Last updated: 2016-12-11 13:39:08

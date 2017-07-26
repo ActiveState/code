@@ -1,4 +1,4 @@
-###Display an Image from a specified file
+## Display an Image from a specified file
 
 Originally published: 2003-10-08 01:54:55
 Last updated: 2003-10-08 01:54:55

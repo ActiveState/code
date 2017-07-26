@@ -1,4 +1,4 @@
-###Infinite list of primes! Yay!
+## Infinite list of primes! Yay!
 
 Originally published: 2010-07-20 04:04:11
 Last updated: 2010-07-20 04:05:00

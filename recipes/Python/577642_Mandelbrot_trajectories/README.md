@@ -1,4 +1,4 @@
-###Mandelbrot trajectories
+## Mandelbrot trajectories
 
 Originally published: 2011-04-06 18:18:48
 Last updated: 2011-04-06 18:18:48

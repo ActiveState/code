@@ -1,4 +1,4 @@
-###Split Strings w/ Multiple Separators
+## Split Strings w/ Multiple Separators
 
 Originally published: 2011-03-20 20:18:54
 Last updated: 2011-03-20 20:33:13

@@ -1,4 +1,4 @@
-###Set executable mode where needed: directories, ELF files and scripts
+## Set executable mode where needed: directories, ELF files and scripts
 
 Originally published: 2011-08-18 17:41:07
 Last updated: 2011-08-19 20:38:20

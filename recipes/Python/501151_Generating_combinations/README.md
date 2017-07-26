@@ -1,4 +1,4 @@
-###Generating combinations in blocks
+## Generating combinations in blocks
 
 Originally published: 2007-01-23 23:44:31
 Last updated: 2007-01-26 02:30:08

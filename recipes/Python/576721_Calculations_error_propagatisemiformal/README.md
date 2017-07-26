@@ -1,4 +1,4 @@
-###Calculations with error propagation, and semi-formal expressions
+## Calculations with error propagation, and semi-formal expressions
 
 Originally published: 2009-04-18 02:29:00
 Last updated: 2010-01-15 06:08:56

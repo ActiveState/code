@@ -1,4 +1,4 @@
-###Knight's Tour Map using Warnsdorff's Algorithm
+## Knight's Tour Map using Warnsdorff's Algorithm
 
 Originally published: 2012-12-18 01:05:50
 Last updated: 2012-12-18 01:05:51

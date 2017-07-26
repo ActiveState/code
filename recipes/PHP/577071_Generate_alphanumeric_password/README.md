@@ -1,4 +1,4 @@
-###Generate an alpha-numeric password salt
+## Generate an alpha-numeric password salt
 
 Originally published: 2010-02-25 14:07:06
 Last updated: 2010-02-25 14:07:08

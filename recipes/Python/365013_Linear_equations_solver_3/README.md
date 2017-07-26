@@ -1,4 +1,4 @@
-###Linear equations solver in 3 lines
+## Linear equations solver in 3 lines
 
 Originally published: 2005-01-29 01:05:22
 Last updated: 2005-01-31 22:06:30

@@ -1,4 +1,4 @@
-###Combinations of a sequence without replacement using dynamic programming
+## Combinations of a sequence without replacement using dynamic programming
 
 Originally published: 2011-06-20 20:09:24
 Last updated: 2011-06-20 20:09:24

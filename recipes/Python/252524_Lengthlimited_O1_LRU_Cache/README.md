@@ -1,4 +1,4 @@
-###Length-limited O(1) LRU Cache implementation
+## Length-limited O(1) LRU Cache implementation
 
 Originally published: 2003-12-10 18:04:36
 Last updated: 2006-08-07 03:37:32

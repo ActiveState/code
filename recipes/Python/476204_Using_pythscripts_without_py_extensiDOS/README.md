@@ -1,4 +1,4 @@
-###Using python scripts without .py extension in DOS shells
+## Using python scripts without .py extension in DOS shells
 
 Originally published: 2006-03-30 07:30:05
 Last updated: 2006-03-30 07:30:05

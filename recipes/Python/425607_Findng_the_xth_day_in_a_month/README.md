@@ -1,4 +1,4 @@
-###Findng the x'th day in a month
+## Findng the x'th day in a month
 
 Originally published: 2005-06-13 23:43:42
 Last updated: 2005-06-13 23:43:42

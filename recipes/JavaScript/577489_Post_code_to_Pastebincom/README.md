@@ -1,4 +1,4 @@
-###Post code to Pastebin.com
+## Post code to Pastebin.com
 
 Originally published: 2010-12-06 17:56:40
 Last updated: 2010-12-06 17:56:41

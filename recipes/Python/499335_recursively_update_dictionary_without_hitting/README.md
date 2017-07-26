@@ -1,4 +1,4 @@
-###recursively update a dictionary without hitting "Python recursion limit"
+## recursively update a dictionary without hitting "Python recursion limit"
 
 Originally published: 2006-12-19 04:41:35
 Last updated: 2006-12-21 10:28:56

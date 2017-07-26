@@ -1,4 +1,4 @@
-###longest common substring
+## longest common substring
 
 Originally published: 2013-02-19 09:47:48
 Last updated: 2013-03-05 19:22:31

@@ -1,4 +1,4 @@
-###Generic filter logic strategy
+## Generic filter logic strategy
 
 Originally published: 2003-09-18 23:35:35
 Last updated: 2003-09-18 23:35:35

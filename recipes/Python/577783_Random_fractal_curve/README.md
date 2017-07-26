@@ -1,4 +1,4 @@
-###Random fractal curve
+## Random fractal curve
 
 Originally published: 2011-07-09 22:09:22
 Last updated: 2011-07-09 22:09:23

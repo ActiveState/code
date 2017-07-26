@@ -1,4 +1,4 @@
-###puts_tabular
+## puts_tabular
 
 Originally published: 2005-01-23 19:50:19
 Last updated: 2005-01-23 19:50:19

@@ -1,4 +1,4 @@
-###Simple XML serlializer/de-serializer using Python dictionaries and marshalling
+## Simple XML serlializer/de-serializer using Python dictionaries and marshalling
 
 Originally published: 2005-06-03 12:59:49
 Last updated: 2005-06-07 09:13:40

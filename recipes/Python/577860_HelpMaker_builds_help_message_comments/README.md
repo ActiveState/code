@@ -1,4 +1,4 @@
-###HelpMaker: builds help message from comments in the code
+## HelpMaker: builds help message from comments in the code
 
 Originally published: 2011-08-28 09:59:57
 Last updated: 2011-08-28 14:34:58

@@ -1,4 +1,4 @@
-###Eight queens.  Six lines.
+## Eight queens.  Six lines.
 
 Originally published: 2009-02-10 10:45:57
 Last updated: 2009-02-10 14:59:07

@@ -1,4 +1,4 @@
-###Zenity Chunk Editor, creating an hashing to preserve Code Integrity.
+## Zenity Chunk Editor, creating an hashing to preserve Code Integrity.
 
 Originally published: 2013-10-22 01:30:41
 Last updated: 2013-10-22 01:30:42

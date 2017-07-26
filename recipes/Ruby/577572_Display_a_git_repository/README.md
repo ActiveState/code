@@ -1,4 +1,4 @@
-###Display a git repository
+## Display a git repository
 
 Originally published: 2011-02-11 18:57:26
 Last updated: 2012-07-05 17:01:53

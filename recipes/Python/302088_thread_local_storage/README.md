@@ -1,4 +1,4 @@
-###thread local storage in Python 2.4
+## thread local storage in Python 2.4
 
 Originally published: 2004-08-26 07:33:07
 Last updated: 2004-08-26 07:33:07

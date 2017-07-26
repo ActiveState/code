@@ -1,4 +1,4 @@
-###A binary file split utility in Python
+## A binary file split utility in Python
 
 Originally published: 2016-04-07 18:19:34
 Last updated: 2016-04-07 18:19:35

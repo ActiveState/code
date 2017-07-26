@@ -1,4 +1,4 @@
-###A class which keeps a (weak) reference to it's instances.
+## A class which keeps a (weak) reference to it's instances.
 
 Originally published: 2005-12-10 22:14:37
 Last updated: 2005-12-11 06:15:49

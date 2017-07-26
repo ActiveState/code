@@ -1,4 +1,4 @@
-###function composition
+## function composition
 
 Originally published: 2001-04-17 22:31:28
 Last updated: 2001-04-17 22:31:28

@@ -1,4 +1,4 @@
-###Remove duplicates from a sequence
+## Remove duplicates from a sequence
 
 Originally published: 2001-04-06 00:54:02
 Last updated: 2001-04-06 00:54:02

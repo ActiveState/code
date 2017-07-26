@@ -1,4 +1,4 @@
-###Strip tags and Javascript from HTML page, leaving only safe tags
+## Strip tags and Javascript from HTML page, leaving only safe tags
 
 Originally published: 2001-03-19 12:58:08
 Last updated: 2001-03-19 12:58:08

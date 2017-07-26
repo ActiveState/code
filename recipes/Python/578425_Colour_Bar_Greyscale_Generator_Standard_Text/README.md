@@ -1,4 +1,4 @@
-###Colour Bar And Greyscale Generator For Standard Text Mode Python.
+## Colour Bar And Greyscale Generator For Standard Text Mode Python.
 
 Originally published: 2013-01-18 21:08:20
 Last updated: 2013-01-18 21:08:21

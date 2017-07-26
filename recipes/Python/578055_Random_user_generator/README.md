@@ -1,4 +1,4 @@
-###Random user generator
+## Random user generator
 
 Originally published: 2012-02-27 16:45:42
 Last updated: 2012-02-27 16:58:33

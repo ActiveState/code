@@ -1,4 +1,4 @@
-###curry -- associating parameters with a function
+## curry -- associating parameters with a function
 
 Originally published: 2001-04-05 00:39:28
 Last updated: 2001-04-18 03:32:32

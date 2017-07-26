@@ -1,4 +1,4 @@
-###Merging two sorted iterators into a single iterator
+## Merging two sorted iterators into a single iterator
 
 Originally published: 2003-04-30 15:46:02
 Last updated: 2003-04-30 23:04:43

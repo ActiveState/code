@@ -1,4 +1,4 @@
-###python metakit example for safe reading and writing
+## python metakit example for safe reading and writing
 
 Originally published: 2003-12-04 08:50:29
 Last updated: 2003-12-04 08:50:29

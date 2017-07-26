@@ -1,4 +1,4 @@
-###Pythologic -- Prolog syntax in Python
+## Pythologic -- Prolog syntax in Python
 
 Originally published: 2004-09-01 21:11:14
 Last updated: 2004-09-01 21:11:14

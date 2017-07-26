@@ -1,4 +1,4 @@
-###simple mx.ODBC example
+## simple mx.ODBC example
 
 Originally published: 2005-02-25 07:16:43
 Last updated: 2005-02-25 07:16:43

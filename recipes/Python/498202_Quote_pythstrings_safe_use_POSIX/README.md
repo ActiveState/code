@@ -1,4 +1,4 @@
-###Quote python strings for safe use in POSIX shells
+## Quote python strings for safe use in POSIX shells
 
 Originally published: 2006-10-16 10:30:58
 Last updated: 2006-10-16 10:30:58

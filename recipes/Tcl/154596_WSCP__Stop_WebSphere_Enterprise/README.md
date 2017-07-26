@@ -1,4 +1,4 @@
-###WSCP - Stop WebSphere Enterprise App
+## WSCP - Stop WebSphere Enterprise App
 
 Originally published: 2002-10-01 22:44:21
 Last updated: 2002-10-01 22:44:21

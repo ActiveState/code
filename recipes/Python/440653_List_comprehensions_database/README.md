@@ -1,4 +1,4 @@
-###List comprehensions for database requests
+## List comprehensions for database requests
 
 Originally published: 2005-10-04 12:44:32
 Last updated: 2005-10-04 12:44:32

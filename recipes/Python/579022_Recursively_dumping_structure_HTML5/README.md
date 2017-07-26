@@ -1,4 +1,4 @@
-###Recursively dumping the structure of an HTML5 document
+## Recursively dumping the structure of an HTML5 document
 
 Originally published: 2015-02-09 20:09:29
 Last updated: 2015-02-09 20:09:30

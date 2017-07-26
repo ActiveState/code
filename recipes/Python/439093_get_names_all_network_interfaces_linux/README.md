@@ -1,4 +1,4 @@
-###get names of all "up" network interfaces (linux only)
+## get names of all "up" network interfaces (linux only)
 
 Originally published: 2005-08-11 13:17:36
 Last updated: 2005-08-11 13:17:36

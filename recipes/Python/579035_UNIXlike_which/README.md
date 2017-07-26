@@ -1,4 +1,4 @@
-###A UNIX-like "which" command for Python
+## A UNIX-like "which" command for Python
 
 Originally published: 2015-03-20 19:23:44
 Last updated: 2015-03-20 19:23:45

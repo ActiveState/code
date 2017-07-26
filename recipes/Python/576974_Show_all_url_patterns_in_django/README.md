@@ -1,4 +1,4 @@
-###Show all url patterns in django
+## Show all url patterns in django
 
 Originally published: 2009-12-02 18:17:50
 Last updated: 2010-03-26 20:04:08

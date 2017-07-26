@@ -1,4 +1,4 @@
-###Components and Abilities (different implementation of Component architecture)
+## Components and Abilities (different implementation of Component architecture)
 
 Originally published: 2009-07-23 10:58:51
 Last updated: 2009-07-23 13:26:32

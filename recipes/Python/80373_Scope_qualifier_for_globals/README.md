@@ -1,4 +1,4 @@
-###Scope qualifier for globals
+## Scope qualifier for globals
 
 Originally published: 2001-10-08 04:01:01
 Last updated: 2001-10-08 04:01:01

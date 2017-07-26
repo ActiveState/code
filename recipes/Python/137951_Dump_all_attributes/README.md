@@ -1,4 +1,4 @@
-###Dump all the attributes of an object
+## Dump all the attributes of an object
 
 Originally published: 2002-07-05 23:05:49
 Last updated: 2002-07-05 23:05:49

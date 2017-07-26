@@ -1,4 +1,4 @@
-###Ghoster - Windows program to create 0kb clone of folder or drive
+## Ghoster - Windows program to create 0kb clone of folder or drive
 
 Originally published: 2012-09-02 13:30:28
 Last updated: 2012-09-02 13:30:29

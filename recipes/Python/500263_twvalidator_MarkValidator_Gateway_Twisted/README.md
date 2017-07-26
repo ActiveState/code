@@ -1,4 +1,4 @@
-###twvalidator: a Markup Validator Gateway for Twisted Web
+## twvalidator: a Markup Validator Gateway for Twisted Web
 
 Originally published: 2007-01-17 04:00:20
 Last updated: 2007-01-17 04:00:20

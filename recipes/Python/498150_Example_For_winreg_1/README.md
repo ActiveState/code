@@ -1,4 +1,4 @@
-###Example For winreg (1)
+## Example For winreg (1)
 
 Originally published: 2006-10-02 15:08:51
 Last updated: 2007-03-02 03:57:10

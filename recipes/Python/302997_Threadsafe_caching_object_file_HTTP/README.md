@@ -1,4 +1,4 @@
-###Thread-safe caching object with file and HTTP implementations
+## Thread-safe caching object with file and HTTP implementations
 
 Originally published: 2004-09-01 13:26:41
 Last updated: 2006-02-08 10:04:16

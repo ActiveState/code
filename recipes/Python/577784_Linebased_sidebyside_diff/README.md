@@ -1,4 +1,4 @@
-###Line-based side-by-side diff
+## Line-based side-by-side diff
 
 Originally published: 2011-07-10 20:38:22
 Last updated: 2011-07-10 20:38:23

@@ -1,4 +1,4 @@
-###Simple calls to Python functions from command line or shortcut
+## Simple calls to Python functions from command line or shortcut
 
 Originally published: 2007-08-21 11:51:35
 Last updated: 2008-07-22 02:17:06

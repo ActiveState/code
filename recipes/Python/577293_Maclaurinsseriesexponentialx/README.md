@@ -1,4 +1,4 @@
-###Maclaurin's_series_exponential(x)
+## Maclaurin's_series_exponential(x)
 
 Originally published: 2010-07-07 12:50:21
 Last updated: 2010-07-07 12:52:28

@@ -1,4 +1,4 @@
-###Simple function base Genetic Algorithm
+## Simple function base Genetic Algorithm
 
 Originally published: 2006-11-09 18:53:29
 Last updated: 2006-11-09 18:53:29

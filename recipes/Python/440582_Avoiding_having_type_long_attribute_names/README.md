@@ -1,4 +1,4 @@
-###Avoiding having to type long attribute names in interactive use
+## Avoiding having to type long attribute names in interactive use
 
 Originally published: 2005-09-20 05:13:20
 Last updated: 2005-10-24 09:43:15

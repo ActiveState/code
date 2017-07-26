@@ -1,4 +1,4 @@
-###Split string sample
+## Split string sample
 
 Originally published: 2013-08-13 11:29:44
 Last updated: 2013-08-13 11:29:44

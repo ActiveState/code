@@ -1,4 +1,4 @@
-###Refining an FTP Site List
+## Refining an FTP Site List
 
 Originally published: 2002-02-22 17:10:48
 Last updated: 2002-02-23 01:22:36

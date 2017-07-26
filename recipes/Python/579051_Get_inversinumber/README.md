@@ -1,4 +1,4 @@
-###Get the inversion number of a permutation
+## Get the inversion number of a permutation
 
 Originally published: 2015-05-05 00:40:12
 Last updated: 2016-02-21 06:00:46

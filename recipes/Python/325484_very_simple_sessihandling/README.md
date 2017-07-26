@@ -1,4 +1,4 @@
-###A very simple session handling example
+## A very simple session handling example
 
 Originally published: 2004-10-28 02:07:02
 Last updated: 2004-10-28 10:38:30

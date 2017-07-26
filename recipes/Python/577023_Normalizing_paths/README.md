@@ -1,4 +1,4 @@
-###Normalizing paths
+## Normalizing paths
 
 Originally published: 2010-01-26 14:35:12
 Last updated: 2010-01-26 14:39:00

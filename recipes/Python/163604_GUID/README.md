@@ -1,4 +1,4 @@
-###GUID
+## GUID
 
 Originally published: 2002-11-21 16:08:37
 Last updated: 2006-01-05 19:53:25

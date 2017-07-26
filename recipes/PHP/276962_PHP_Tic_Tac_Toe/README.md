@@ -1,4 +1,4 @@
-###PHP Tic Tac Toe
+## PHP Tic Tac Toe
 
 Originally published: 2004-04-06 08:28:47
 Last updated: 2004-04-06 08:28:47

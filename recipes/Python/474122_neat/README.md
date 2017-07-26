@@ -1,4 +1,4 @@
-###neat notation for python closures
+## neat notation for python closures
 
 Originally published: 2006-03-07 04:53:21
 Last updated: 2006-03-07 04:53:21

@@ -1,4 +1,4 @@
-###Turn a Function Into a Class
+## Turn a Function Into a Class
 
 Originally published: 2011-08-04 05:32:17
 Last updated: 2011-10-05 18:38:43

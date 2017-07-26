@@ -1,4 +1,4 @@
-###Using PyXPCOM to handle IDN
+## Using PyXPCOM to handle IDN
 
 Originally published: 2006-12-22 20:49:12
 Last updated: 2006-12-22 20:49:12

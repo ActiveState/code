@@ -1,4 +1,4 @@
-###A generator for an arbitrary number of 'for' loops
+## A generator for an arbitrary number of 'for' loops
 
 Originally published: 2007-01-30 09:16:34
 Last updated: 2007-01-30 09:16:34

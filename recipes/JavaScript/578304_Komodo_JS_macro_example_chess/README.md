@@ -1,4 +1,4 @@
-###Komodo JS macro: example chess match
+## Komodo JS macro: example chess match
 
 Originally published: 2012-10-24 16:59:51
 Last updated: 2012-10-24 16:59:51

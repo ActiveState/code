@@ -1,4 +1,4 @@
-###Merge unique items from multiple lists into a new list
+## Merge unique items from multiple lists into a new list
 
 Originally published: 2016-04-05 18:06:43
 Last updated: 2016-04-05 18:11:49

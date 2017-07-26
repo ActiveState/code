@@ -1,4 +1,4 @@
-###iPHP:  Semi-interactive PHP debugging using your browser
+## iPHP:  Semi-interactive PHP debugging using your browser
 
 Originally published: 2002-09-09 07:50:09
 Last updated: 2002-09-09 07:50:09

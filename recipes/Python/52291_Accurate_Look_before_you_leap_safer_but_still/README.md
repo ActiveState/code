@@ -1,4 +1,4 @@
-###Accurate "Look before you leap" for safer (but still full) polymorphism
+## Accurate "Look before you leap" for safer (but still full) polymorphism
 
 Originally published: 2001-03-21 06:11:12
 Last updated: 2001-03-21 06:11:12

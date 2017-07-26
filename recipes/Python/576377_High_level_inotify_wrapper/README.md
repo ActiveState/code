@@ -1,4 +1,4 @@
-###High level inotify wrapper
+## High level inotify wrapper
 
 Originally published: 2008-07-25 07:04:55
 Last updated: 2008-09-21 05:17:23

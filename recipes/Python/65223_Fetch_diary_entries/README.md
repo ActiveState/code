@@ -1,4 +1,4 @@
-###Fetch diary entries from Advogato
+## Fetch diary entries from Advogato
 
 Originally published: 2001-06-18 04:43:33
 Last updated: 2001-06-18 04:43:33

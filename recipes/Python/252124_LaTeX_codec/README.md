@@ -1,4 +1,4 @@
-###LaTeX codec
+## LaTeX codec
 
 Originally published: 2003-11-13 23:19:20
 Last updated: 2003-11-13 23:19:20

@@ -1,4 +1,4 @@
-###How a Python function can find the name of its caller
+## How a Python function can find the name of its caller
 
 Originally published: 2015-09-30 15:12:16
 Last updated: 2015-09-30 15:12:17

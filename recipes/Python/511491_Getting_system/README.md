@@ -1,4 +1,4 @@
-###Getting system information under Windows
+## Getting system information under Windows
 
 Originally published: 2007-04-22 11:47:15
 Last updated: 2007-04-22 11:47:15

@@ -1,4 +1,4 @@
-###Generating get/set methods using a metaclass
+## Generating get/set methods using a metaclass
 
 Originally published: 2004-10-11 09:59:33
 Last updated: 2004-10-11 09:59:33

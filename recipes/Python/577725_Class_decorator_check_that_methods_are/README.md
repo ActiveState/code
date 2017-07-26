@@ -1,4 +1,4 @@
-###Class decorator to check that methods are implemented.
+## Class decorator to check that methods are implemented.
 
 Originally published: 2011-05-27 22:56:45
 Last updated: 2011-05-27 23:52:28

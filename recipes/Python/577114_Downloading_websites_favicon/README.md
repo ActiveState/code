@@ -1,4 +1,4 @@
-###Downloading website's favicon
+## Downloading website's favicon
 
 Originally published: 2010-03-15 10:41:27
 Last updated: 2010-03-15 13:40:29

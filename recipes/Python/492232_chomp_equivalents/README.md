@@ -1,4 +1,4 @@
-###chomp equivalents
+## chomp equivalents
 
 Originally published: 2006-05-01 14:33:35
 Last updated: 2006-05-01 14:33:35

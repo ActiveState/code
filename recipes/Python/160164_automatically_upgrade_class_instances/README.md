@@ -1,4 +1,4 @@
-###automatically upgrade class instances on reload()
+## automatically upgrade class instances on reload()
 
 Originally published: 2002-10-31 07:45:20
 Last updated: 2004-10-27 16:51:20

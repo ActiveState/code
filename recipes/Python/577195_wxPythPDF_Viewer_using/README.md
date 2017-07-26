@@ -1,4 +1,4 @@
-###wxPython PDF Viewer using Poppler
+## wxPython PDF Viewer using Poppler
 
 Originally published: 2010-04-15 17:42:48
 Last updated: 2010-04-15 17:43:27

@@ -1,4 +1,4 @@
-###Python prompt from explorer
+## Python prompt from explorer
 
 Originally published: 2004-08-30 01:29:03
 Last updated: 2004-08-30 01:29:03

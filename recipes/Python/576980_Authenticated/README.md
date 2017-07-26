@@ -1,4 +1,4 @@
-###Authenticated encryption with PyCrypto
+## Authenticated encryption with PyCrypto
 
 Originally published: 2009-12-09 13:43:56
 Last updated: 2010-01-26 16:05:50

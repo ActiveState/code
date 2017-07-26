@@ -1,4 +1,4 @@
-###Generalized delegates and proxies
+## Generalized delegates and proxies
 
 Originally published: 2003-11-18 18:24:40
 Last updated: 2003-11-18 18:24:40

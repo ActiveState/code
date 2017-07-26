@@ -1,4 +1,4 @@
-###Clean preceeding and trailing whitespace in complex list dictionary tuple structures
+## Clean preceeding and trailing whitespace in complex list dictionary tuple structures
 
 Originally published: 2008-08-06 15:15:31
 Last updated: 2008-08-06 15:16:54

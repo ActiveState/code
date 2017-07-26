@@ -1,4 +1,4 @@
-###The simple but handy "collector of a bunch of named stuff" class
+## The simple but handy "collector of a bunch of named stuff" class
 
 Originally published: 2001-03-26 11:48:07
 Last updated: 2001-04-08 19:08:56

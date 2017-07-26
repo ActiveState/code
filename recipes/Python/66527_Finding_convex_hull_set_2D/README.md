@@ -1,4 +1,4 @@
-###Finding the convex hull of a set of 2D points
+## Finding the convex hull of a set of 2D points
 
 Originally published: 2001-08-17 00:50:23
 Last updated: 2001-08-17 00:50:23

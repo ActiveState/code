@@ -1,4 +1,4 @@
-###Some prime generation algorithms.
+## Some prime generation algorithms.
 
 Originally published: 2010-07-23 19:10:57
 Last updated: 2010-08-06 11:20:34

@@ -1,4 +1,4 @@
-###Simple Permutations
+## Simple Permutations
 
 Originally published: 2010-02-07 06:19:30
 Last updated: 2010-02-07 06:47:14

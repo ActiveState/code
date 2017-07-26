@@ -1,4 +1,4 @@
-###Fibonacci Object
+## Fibonacci Object
 
 Originally published: 2002-05-24 08:23:09
 Last updated: 2002-05-24 08:23:09

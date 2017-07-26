@@ -1,4 +1,4 @@
-###ConfigObj - Lightweight Config File Parser
+## ConfigObj - Lightweight Config File Parser
 
 Originally published: 2004-01-09 06:10:29
 Last updated: 2004-01-09 06:10:29

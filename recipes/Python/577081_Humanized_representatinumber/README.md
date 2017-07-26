@@ -1,4 +1,4 @@
-###Humanized representation of a number of bytes
+## Humanized representation of a number of bytes
 
 Originally published: 2010-03-02 14:26:17
 Last updated: 2010-03-05 17:18:13

@@ -1,4 +1,4 @@
-###Format version numbers
+## Format version numbers
 
 Originally published: 2002-02-04 14:09:35
 Last updated: 2002-02-04 14:09:35

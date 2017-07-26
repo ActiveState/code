@@ -1,4 +1,4 @@
-###3 Point Area Finder
+## 3 Point Area Finder
 
 Originally published: 2009-09-08 14:08:14
 Last updated: 2009-09-08 14:08:14

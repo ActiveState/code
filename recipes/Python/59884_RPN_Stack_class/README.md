@@ -1,4 +1,4 @@
-###RPN Stack class
+## RPN Stack class
 
 Originally published: 2001-06-02 23:12:06
 Last updated: 2001-07-26 15:43:31

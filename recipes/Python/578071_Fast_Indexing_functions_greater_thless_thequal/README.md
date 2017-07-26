@@ -1,4 +1,4 @@
-###Fast Indexing functions (greater than, less than, equal to, and not equal to)
+## Fast Indexing functions (greater than, less than, equal to, and not equal to)
 
 Originally published: 2012-03-13 16:18:10
 Last updated: 2012-03-13 16:21:36

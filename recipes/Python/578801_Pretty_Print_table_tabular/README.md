@@ -1,4 +1,4 @@
-###Pretty Print table in tabular format
+## Pretty Print table in tabular format
 
 Originally published: 2013-12-30 23:05:54
 Last updated: 2013-12-30 23:05:55

@@ -1,4 +1,4 @@
-###Thread Syncronizer
+## Thread Syncronizer
 
 Originally published: 2006-03-19 12:06:33
 Last updated: 2006-03-19 20:16:47

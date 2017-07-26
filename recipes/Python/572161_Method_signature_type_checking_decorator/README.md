@@ -1,4 +1,4 @@
-###Method signature type checking decorator for Python 3
+## Method signature type checking decorator for Python 3
 
 Originally published: 2008-04-22 01:25:26
 Last updated: 2015-05-15 09:25:08

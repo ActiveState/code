@@ -1,4 +1,4 @@
-###DLA Fractals
+## DLA Fractals
 
 Originally published: 2010-04-04 06:09:55
 Last updated: 2010-04-04 06:09:56

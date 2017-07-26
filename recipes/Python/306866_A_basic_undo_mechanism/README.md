@@ -1,4 +1,4 @@
-###A basic undo mechanism
+## A basic undo mechanism
 
 Originally published: 2004-10-02 14:47:56
 Last updated: 2004-10-02 14:47:56

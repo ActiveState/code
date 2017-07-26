@@ -1,4 +1,4 @@
-###SIGIO handler
+## SIGIO handler
 
 Originally published: 2003-08-25 01:40:50
 Last updated: 2003-08-25 01:40:50

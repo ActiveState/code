@@ -1,4 +1,4 @@
-###extending xrange to support slicing and indexing
+## extending xrange to support slicing and indexing
 
 Originally published: 2012-03-13 16:13:15
 Last updated: 2012-03-13 16:13:16

@@ -1,4 +1,4 @@
-###Dynamic Classes
+## Dynamic Classes
 
 Originally published: 2003-05-22 15:24:23
 Last updated: 2003-05-22 15:24:23

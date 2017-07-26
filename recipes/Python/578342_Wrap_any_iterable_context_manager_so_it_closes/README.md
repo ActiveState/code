@@ -1,4 +1,4 @@
-###Wrap any iterable context manager so it closes when consumed
+## Wrap any iterable context manager so it closes when consumed
 
 Originally published: 2012-11-19 20:06:05
 Last updated: 2012-11-19 20:10:35

@@ -1,4 +1,4 @@
-###TwitterCmd - Interactive console for twittering
+## TwitterCmd - Interactive console for twittering
 
 Originally published: 2009-10-06 21:39:35
 Last updated: 2009-10-08 02:15:19

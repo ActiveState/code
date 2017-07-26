@@ -1,4 +1,4 @@
-###Persistent, lazy, caching, dictionary
+## Persistent, lazy, caching, dictionary
 
 Originally published: 2006-04-28 21:27:26
 Last updated: 2006-04-28 21:27:26

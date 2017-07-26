@@ -1,4 +1,4 @@
-###Use PyAudio to play a list of WAV files
+## Use PyAudio to play a list of WAV files
 
 Originally published: 2015-10-22 18:24:07
 Last updated: 2015-10-22 18:24:08

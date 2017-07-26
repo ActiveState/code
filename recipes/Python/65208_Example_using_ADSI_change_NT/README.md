@@ -1,4 +1,4 @@
-###Example of using ADSI to change a NT password
+## Example of using ADSI to change a NT password
 
 Originally published: 2001-06-14 13:04:21
 Last updated: 2001-06-14 13:04:21

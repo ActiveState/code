@@ -1,4 +1,4 @@
-###How to read millions of hexadecimal numbers into a numpy array quickly
+## How to read millions of hexadecimal numbers into a numpy array quickly
 
 Originally published: 2012-06-27 06:03:39
 Last updated: 2012-06-27 06:03:40

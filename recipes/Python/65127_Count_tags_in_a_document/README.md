@@ -1,4 +1,4 @@
-###Count tags in a document
+## Count tags in a document
 
 Originally published: 2001-06-12 19:18:41
 Last updated: 2001-06-13 02:30:27

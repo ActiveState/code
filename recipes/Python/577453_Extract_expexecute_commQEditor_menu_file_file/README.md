@@ -1,4 +1,4 @@
-###Extract, expand and execute command from QEditor menu file in file association
+## Extract, expand and execute command from QEditor menu file in file association
 
 Originally published: 2010-11-05 22:01:38
 Last updated: 2010-11-05 22:01:40

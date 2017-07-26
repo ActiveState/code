@@ -1,4 +1,4 @@
-###Print letters with different case
+## Print letters with different case
 
 Originally published: 2012-11-19 08:38:31
 Last updated: 2012-11-19 08:38:31

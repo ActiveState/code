@@ -1,4 +1,4 @@
-###Extract Multiple TAR Files & Directories
+## Extract Multiple TAR Files & Directories
 
 Originally published: 2012-07-04 00:57:36
 Last updated: 2012-07-04 00:57:37

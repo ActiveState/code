@@ -1,4 +1,4 @@
-###Browser history data structure
+## Browser history data structure
 
 Originally published: 2009-12-25 02:00:58
 Last updated: 2009-12-25 17:26:57

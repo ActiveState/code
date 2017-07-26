@@ -1,4 +1,4 @@
-###Align text filter
+## Align text filter
 
 Originally published: 2010-03-09 06:40:36
 Last updated: 2010-03-09 07:34:43

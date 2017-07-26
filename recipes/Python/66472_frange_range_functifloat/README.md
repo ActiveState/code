@@ -1,4 +1,4 @@
-###frange(), a range function with float increments
+## frange(), a range function with float increments
 
 Originally published: 2001-08-07 05:00:48
 Last updated: 2001-08-07 05:00:48

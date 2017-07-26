@@ -1,4 +1,4 @@
-###extend textwrap.TextWrapper to handle multiple paragraphs
+## extend textwrap.TextWrapper to handle multiple paragraphs
 
 Originally published: 2004-12-11 02:04:02
 Last updated: 2004-12-11 02:04:02

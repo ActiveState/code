@@ -1,4 +1,4 @@
-###Prevent automated contact form submissions from spammers
+## Prevent automated contact form submissions from spammers
 
 Originally published: 2007-12-26 09:47:21
 Last updated: 2007-12-26 09:47:21

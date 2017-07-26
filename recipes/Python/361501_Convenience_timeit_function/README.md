@@ -1,4 +1,4 @@
-###Convenience 'timeit' function
+## Convenience 'timeit' function
 
 Originally published: 2005-01-01 12:39:04
 Last updated: 2005-01-12 15:12:04

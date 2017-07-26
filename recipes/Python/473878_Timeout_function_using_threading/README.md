@@ -1,4 +1,4 @@
-###Timeout function using threading
+## Timeout function using threading
 
 Originally published: 2006-02-09 14:30:29
 Last updated: 2006-02-09 14:30:29

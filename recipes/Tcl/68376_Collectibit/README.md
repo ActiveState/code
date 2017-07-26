@@ -1,4 +1,4 @@
-###Collection of bit manipulation functions.
+## Collection of bit manipulation functions.
 
 Originally published: 2001-09-08 10:01:37
 Last updated: 2001-09-08 10:01:37

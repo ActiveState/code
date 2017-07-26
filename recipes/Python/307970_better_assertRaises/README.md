@@ -1,4 +1,4 @@
-###a better assertRaises() for unittest.py
+## a better assertRaises() for unittest.py
 
 Originally published: 2004-10-11 13:43:54
 Last updated: 2008-07-30 10:39:19

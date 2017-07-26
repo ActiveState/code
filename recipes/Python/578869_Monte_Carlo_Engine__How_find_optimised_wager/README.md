@@ -1,4 +1,4 @@
-###Monte Carlo Engine : How to find the optimised wager for next bet, following a recent loss.
+## Monte Carlo Engine : How to find the optimised wager for next bet, following a recent loss.
 
 Originally published: 2014-04-28 08:40:35
 Last updated: 2014-04-28 08:41:49

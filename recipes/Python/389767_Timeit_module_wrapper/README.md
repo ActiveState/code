@@ -1,4 +1,4 @@
-###Timeit module wrapper
+## Timeit module wrapper
 
 Originally published: 2005-02-28 01:05:56
 Last updated: 2005-02-28 09:34:34

@@ -1,4 +1,4 @@
-###winnowing data with a heap.
+## winnowing data with a heap.
 
 Originally published: 2004-08-10 09:02:25
 Last updated: 2004-08-11 05:52:17

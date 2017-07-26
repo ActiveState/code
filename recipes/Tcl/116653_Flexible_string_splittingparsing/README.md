@@ -1,4 +1,4 @@
-###Flexible string splitting/parsing routine
+## Flexible string splitting/parsing routine
 
 Originally published: 2002-02-26 23:12:30
 Last updated: 2005-07-06 06:44:26

@@ -1,4 +1,4 @@
-###A SAX filter for normalizing text events
+## A SAX filter for normalizing text events
 
 Originally published: 2004-01-14 17:00:10
 Last updated: 2005-04-10 06:06:10

@@ -1,4 +1,4 @@
-###Concurrent buffer for generators
+## Concurrent buffer for generators
 
 Originally published: 2010-01-10 17:48:11
 Last updated: 2010-05-05 22:47:33

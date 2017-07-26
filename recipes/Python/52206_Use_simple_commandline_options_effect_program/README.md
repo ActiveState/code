@@ -1,4 +1,4 @@
-###Use simple command-line options to effect program runtime.
+## Use simple command-line options to effect program runtime.
 
 Originally published: 2001-03-03 10:37:03
 Last updated: 2001-03-03 10:37:03

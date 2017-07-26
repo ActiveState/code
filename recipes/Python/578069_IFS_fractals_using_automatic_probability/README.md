@@ -1,4 +1,4 @@
-###IFS fractals using automatic probability distribution
+## IFS fractals using automatic probability distribution
 
 Originally published: 2012-03-11 21:50:31
 Last updated: 2012-03-11 21:50:31

@@ -1,4 +1,4 @@
-###Simple File Splitter/Combiner module
+## Simple File Splitter/Combiner module
 
 Originally published: 2003-09-25 05:49:13
 Last updated: 2003-11-06 07:14:42

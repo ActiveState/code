@@ -1,4 +1,4 @@
-###Finding out the number of values the caller is expecting
+## Finding out the number of values the caller is expecting
 
 Originally published: 2004-05-19 11:43:44
 Last updated: 2004-05-21 13:13:35

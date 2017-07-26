@@ -1,4 +1,4 @@
-###Mandelbrot fractal using PIL
+## Mandelbrot fractal using PIL
 
 Originally published: 2010-03-14 17:05:08
 Last updated: 2010-03-26 04:39:46

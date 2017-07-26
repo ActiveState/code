@@ -1,4 +1,4 @@
-###inline java code into jython
+## inline java code into jython
 
 Originally published: 2004-12-27 12:35:17
 Last updated: 2004-12-27 12:35:17

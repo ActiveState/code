@@ -1,4 +1,4 @@
-###Recover files from damaged media
+## Recover files from damaged media
 
 Originally published: 2006-06-27 08:37:53
 Last updated: 2006-06-27 08:37:53

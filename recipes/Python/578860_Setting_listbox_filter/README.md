@@ -1,4 +1,4 @@
-###Setting up a listbox filter in Tkinter(python 2.7)
+## Setting up a listbox filter in Tkinter(python 2.7)
 
 Originally published: 2014-04-10 01:14:34
 Last updated: 2014-04-10 10:25:38

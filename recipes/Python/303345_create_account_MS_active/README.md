@@ -1,4 +1,4 @@
-###create an account in MS active directory
+## create an account in MS active directory
 
 Originally published: 2004-09-03 13:58:34
 Last updated: 2004-09-03 13:58:34

@@ -1,4 +1,4 @@
-###Distributed publish/subscribe middleware architecture.
+## Distributed publish/subscribe middleware architecture.
 
 Originally published: 2001-10-14 01:18:27
 Last updated: 2001-10-14 01:18:27

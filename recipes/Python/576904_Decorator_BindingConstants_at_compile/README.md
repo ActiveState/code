@@ -1,4 +1,4 @@
-###Decorator for BindingConstants at compile time
+## Decorator for BindingConstants at compile time
 
 Originally published: 2009-09-15 00:34:37
 Last updated: 2009-09-15 00:34:37

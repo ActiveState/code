@@ -1,4 +1,4 @@
-###Position The Cursor Almost Anywhere Inside Standard Text Mode Python Terminal.
+## Position The Cursor Almost Anywhere Inside Standard Text Mode Python Terminal.
 
 Originally published: 2012-06-17 17:10:28
 Last updated: 2012-06-17 17:10:29

@@ -1,4 +1,4 @@
-###Generate a human readable 'random' password (nicepass.py)
+## Generate a human readable 'random' password (nicepass.py)
 
 Originally published: 2005-04-16 03:19:20
 Last updated: 2005-04-26 07:13:28

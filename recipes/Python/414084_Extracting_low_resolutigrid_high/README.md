@@ -1,4 +1,4 @@
-###Extracting a low resolution grid from a high resolution grid
+## Extracting a low resolution grid from a high resolution grid
 
 Originally published: 2005-05-12 16:36:28
 Last updated: 2005-05-23 15:28:15

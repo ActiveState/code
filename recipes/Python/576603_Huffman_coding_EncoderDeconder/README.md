@@ -1,4 +1,4 @@
-###Huffman coding, Encoder/Deconder
+## Huffman coding, Encoder/Deconder
 
 Originally published: 2009-01-03 01:35:51
 Last updated: 2009-01-04 04:11:37

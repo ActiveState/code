@@ -1,4 +1,4 @@
-###2 very basic text games.
+## 2 very basic text games.
 
 Originally published: 2013-07-09 03:08:47
 Last updated: 2013-07-09 03:08:47

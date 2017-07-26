@@ -1,4 +1,4 @@
-###Improve dictionary lookup performance
+## Improve dictionary lookup performance
 
 Originally published: 2003-05-04 23:55:04
 Last updated: 2003-05-06 09:36:03

@@ -1,4 +1,4 @@
-###Extended Euclidean Algorithm
+## Extended Euclidean Algorithm
 
 Originally published: 2013-08-09 06:06:58
 Last updated: 2016-03-03 07:12:28

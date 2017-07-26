@@ -1,4 +1,4 @@
-###Size of Python objects.
+## Size of Python objects.
 
 Originally published: 2008-02-01 16:24:52
 Last updated: 2008-08-27 15:38:41

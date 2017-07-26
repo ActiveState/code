@@ -1,4 +1,4 @@
-###Grouping objects into disjoint sets
+## Grouping objects into disjoint sets
 
 Originally published: 2005-02-17 06:35:34
 Last updated: 2005-05-09 19:59:13

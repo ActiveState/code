@@ -1,4 +1,4 @@
-###Buffered Stream with Multiple Forward-Only Readers
+## Buffered Stream with Multiple Forward-Only Readers
 
 Originally published: 2005-03-18 07:40:04
 Last updated: 2005-03-18 07:40:04

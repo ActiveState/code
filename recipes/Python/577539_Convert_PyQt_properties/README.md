@@ -1,4 +1,4 @@
-###Convert PyQt properties to Python properties
+## Convert PyQt properties to Python properties
 
 Originally published: 2011-01-09 01:51:28
 Last updated: 2011-01-09 02:02:30

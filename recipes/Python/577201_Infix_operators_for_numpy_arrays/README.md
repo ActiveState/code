@@ -1,4 +1,4 @@
-###Infix operators for numpy arrays
+## Infix operators for numpy arrays
 
 Originally published: 2010-04-19 05:20:50
 Last updated: 2010-06-07 05:57:07

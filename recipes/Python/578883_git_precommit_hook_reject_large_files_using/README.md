@@ -1,4 +1,4 @@
-###git pre-commit hook to reject large files using Python
+## git pre-commit hook to reject large files using Python
 
 Originally published: 2014-05-23 21:05:04
 Last updated: 2015-03-10 09:36:28

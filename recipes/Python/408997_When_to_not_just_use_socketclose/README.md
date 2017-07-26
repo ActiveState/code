@@ -1,4 +1,4 @@
-###When to not just use socket.close()
+## When to not just use socket.close()
 
 Originally published: 2005-04-06 07:04:41
 Last updated: 2005-04-08 17:31:14

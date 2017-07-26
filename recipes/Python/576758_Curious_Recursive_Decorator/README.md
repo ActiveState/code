@@ -1,4 +1,4 @@
-###Curious Recursive Decorator Pattern
+## Curious Recursive Decorator Pattern
 
 Originally published: 2009-05-16 09:57:26
 Last updated: 2009-05-16 10:00:22

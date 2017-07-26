@@ -1,4 +1,4 @@
-###Go to nth character
+## Go to nth character
 
 Originally published: 2010-05-27 13:43:59
 Last updated: 2010-05-27 13:44:00

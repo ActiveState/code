@@ -1,4 +1,4 @@
-###kd-tree for nearest neighbor search in a k-dimensional space
+## kd-tree for nearest neighbor search in a k-dimensional space
 
 Originally published: 2010-12-11 08:11:44
 Last updated: 2010-12-17 15:49:08

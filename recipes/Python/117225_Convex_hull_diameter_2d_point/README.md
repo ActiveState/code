@@ -1,4 +1,4 @@
-###Convex hull and diameter of 2d point sets
+## Convex hull and diameter of 2d point sets
 
 Originally published: 2002-03-07 17:56:08
 Last updated: 2003-10-16 18:44:57

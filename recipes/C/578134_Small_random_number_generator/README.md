@@ -1,4 +1,4 @@
-###Small random number generator
+## Small random number generator
 
 Originally published: 2012-05-15 19:49:33
 Last updated: 2012-05-15 19:49:34

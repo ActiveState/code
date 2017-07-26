@@ -1,4 +1,4 @@
-###wxPython LED control
+## wxPython LED control
 
 Originally published: 2007-09-30 14:39:03
 Last updated: 2007-09-30 14:39:03

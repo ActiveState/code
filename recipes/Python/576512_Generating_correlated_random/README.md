@@ -1,4 +1,4 @@
-###Generating correlated random numbers
+## Generating correlated random numbers
 
 Originally published: 2008-09-21 21:21:52
 Last updated: 2008-09-21 21:21:52

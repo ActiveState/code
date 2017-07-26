@@ -1,4 +1,4 @@
-###Design by contract on python vanilla
+## Design by contract on python vanilla
 
 Originally published: 2013-11-05 19:23:57
 Last updated: 2013-11-05 20:50:30

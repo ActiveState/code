@@ -1,4 +1,4 @@
-###Compare passed day of week to today's day of week
+## Compare passed day of week to today's day of week
 
 Originally published: 2009-01-17 20:51:26
 Last updated: 2009-01-17 20:51:26

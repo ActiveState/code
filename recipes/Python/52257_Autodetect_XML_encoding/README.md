@@ -1,4 +1,4 @@
-###Auto-detect XML encoding
+## Auto-detect XML encoding
 
 Originally published: 2001-03-14 08:33:16
 Last updated: 2001-03-14 08:33:16

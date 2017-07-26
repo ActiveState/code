@@ -1,4 +1,4 @@
-###M2Crypto-compatible root certificate list generator
+## M2Crypto-compatible root certificate list generator
 
 Originally published: 2010-08-24 19:22:25
 Last updated: 2010-08-25 00:49:48

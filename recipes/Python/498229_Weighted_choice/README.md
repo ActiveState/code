@@ -1,4 +1,4 @@
-###Weighted choice
+## Weighted choice
 
 Originally published: 2006-10-30 13:48:55
 Last updated: 2006-10-30 13:48:55

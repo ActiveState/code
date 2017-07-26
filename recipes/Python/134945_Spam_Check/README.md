@@ -1,4 +1,4 @@
-###Spam Check
+## Spam Check
 
 Originally published: 2002-06-21 16:39:50
 Last updated: 2002-06-21 23:46:45

@@ -1,4 +1,4 @@
-###Python Mandelbrot Fractal with Tkinter
+## Python Mandelbrot Fractal with Tkinter
 
 Originally published: 2015-04-23 09:31:00
 Last updated: 2015-05-06 09:57:27

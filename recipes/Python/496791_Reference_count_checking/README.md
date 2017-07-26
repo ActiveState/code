@@ -1,4 +1,4 @@
-###Reference count checking
+## Reference count checking
 
 Originally published: 2006-06-11 01:15:56
 Last updated: 2006-06-11 01:15:56

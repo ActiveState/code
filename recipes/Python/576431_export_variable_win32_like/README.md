@@ -1,4 +1,4 @@
-###export variable on win32 like *nix
+## export variable on win32 like *nix
 
 Originally published: 2008-08-19 03:06:49
 Last updated: 2008-08-18 20:10:34

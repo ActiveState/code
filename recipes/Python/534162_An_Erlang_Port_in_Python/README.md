@@ -1,4 +1,4 @@
-###An Erlang Port in Python
+## An Erlang Port in Python
 
 Originally published: 2007-11-14 17:16:19
 Last updated: 2010-02-18 06:47:09

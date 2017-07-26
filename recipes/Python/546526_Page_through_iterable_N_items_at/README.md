@@ -1,4 +1,4 @@
-###Page through iterable N items at a time
+## Page through iterable N items at a time
 
 Originally published: 2008-02-19 04:39:10
 Last updated: 2008-02-20 18:57:43

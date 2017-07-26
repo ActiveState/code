@@ -1,4 +1,4 @@
-###Strongly connected components of a directed graph.
+## Strongly connected components of a directed graph.
 
 Originally published: 2013-04-02 19:33:16
 Last updated: 2013-04-03 19:30:32

@@ -1,4 +1,4 @@
-###Delta Debug - DDMin 
+## Delta Debug - DDMin 
 
 Originally published: 2012-05-25 07:07:04
 Last updated: 2012-05-25 07:07:04

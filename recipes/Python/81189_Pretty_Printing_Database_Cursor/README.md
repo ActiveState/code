@@ -1,4 +1,4 @@
-###Pretty Printing of Database Cursor Contents
+## Pretty Printing of Database Cursor Contents
 
 Originally published: 2001-10-11 19:48:37
 Last updated: 2003-01-28 15:29:03

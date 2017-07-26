@@ -1,4 +1,4 @@
-###Blocking, Polling, Pipes, Queues in multiprocessing and how they are affected by the OS's time-slicing schedule
+## Blocking, Polling, Pipes, Queues in multiprocessing and how they are affected by the OS's time-slicing schedule
 
 Originally published: 2010-05-08 18:18:00
 Last updated: 2010-05-08 18:18:01

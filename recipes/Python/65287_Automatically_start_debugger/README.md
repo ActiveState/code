@@ -1,4 +1,4 @@
-###Automatically start the debugger on an exception
+## Automatically start the debugger on an exception
 
 Originally published: 2001-06-22 02:47:43
 Last updated: 2001-07-13 08:39:47

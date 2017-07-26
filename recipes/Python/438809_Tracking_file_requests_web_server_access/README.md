@@ -1,4 +1,4 @@
-###Tracking file requests in web server access logs
+## Tracking file requests in web server access logs
 
 Originally published: 2005-08-02 18:18:33
 Last updated: 2005-08-02 18:18:33

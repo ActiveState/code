@@ -1,4 +1,4 @@
-###A Date module.
+## A Date module.
 
 Originally published: 2002-03-02 14:06:38
 Last updated: 2002-10-25 23:31:47

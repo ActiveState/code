@@ -1,4 +1,4 @@
-###Padding variable length sequences
+## Padding variable length sequences
 
 Originally published: 2005-03-24 20:20:54
 Last updated: 2005-03-25 04:27:43

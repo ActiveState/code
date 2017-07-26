@@ -1,4 +1,4 @@
-###Continued fractions
+## Continued fractions
 
 Originally published: 2013-08-22 06:59:44
 Last updated: 2013-08-22 07:15:47

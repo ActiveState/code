@@ -1,4 +1,4 @@
-###Threads, Tkinter and asynchronous I/O
+## Threads, Tkinter and asynchronous I/O
 
 Originally published: 2001-10-21 07:14:35
 Last updated: 2001-10-21 07:14:35

@@ -1,4 +1,4 @@
-###DB2 - Check TableSpace Status
+## DB2 - Check TableSpace Status
 
 Originally published: 2003-07-01 00:06:47
 Last updated: 2003-07-01 00:06:47

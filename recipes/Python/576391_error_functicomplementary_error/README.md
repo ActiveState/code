@@ -1,4 +1,4 @@
-###error function and complementary error function
+## error function and complementary error function
 
 Originally published: 2008-07-29 13:24:33
 Last updated: 2008-07-29 13:24:33

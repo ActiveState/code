@@ -1,4 +1,4 @@
-###Composition of classes instead of multiple inheritance
+## Composition of classes instead of multiple inheritance
 
 Originally published: 2011-04-16 03:40:19
 Last updated: 2011-04-16 03:40:19

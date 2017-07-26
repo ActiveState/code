@@ -1,4 +1,4 @@
-###comixGetter
+## comixGetter
 
 Originally published: 2007-06-22 09:57:21
 Last updated: 2007-06-24 13:24:47

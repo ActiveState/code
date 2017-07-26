@@ -1,4 +1,4 @@
-###Language detection using character trigrams
+## Language detection using character trigrams
 
 Originally published: 2004-11-04 17:37:46
 Last updated: 2004-11-07 01:08:26

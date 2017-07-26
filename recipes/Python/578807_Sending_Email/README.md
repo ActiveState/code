@@ -1,4 +1,4 @@
-###Sending Email From A Python Program
+## Sending Email From A Python Program
 
 Originally published: 2014-01-10 20:11:20
 Last updated: 2014-01-10 20:13:45

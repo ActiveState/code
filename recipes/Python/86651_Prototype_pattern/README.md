@@ -1,4 +1,4 @@
-###Prototype pattern
+## Prototype pattern
 
 Originally published: 2001-11-03 06:51:26
 Last updated: 2001-11-03 06:51:26

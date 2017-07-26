@@ -1,4 +1,4 @@
-###A read procedure that allows background event processing
+## A read procedure that allows background event processing
 
 Originally published: 2001-09-18 15:35:38
 Last updated: 2001-09-18 15:35:38

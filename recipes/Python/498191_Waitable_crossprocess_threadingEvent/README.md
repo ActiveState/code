@@ -1,4 +1,4 @@
-###Waitable, cross-process threading.Event class.
+## Waitable, cross-process threading.Event class.
 
 Originally published: 2006-10-10 11:18:34
 Last updated: 2006-10-10 11:18:34

@@ -1,4 +1,4 @@
-###Python one-liner to compare two files
+## Python one-liner to compare two files
 
 Originally published: 2016-03-28 21:36:31
 Last updated: 2016-03-28 21:36:31

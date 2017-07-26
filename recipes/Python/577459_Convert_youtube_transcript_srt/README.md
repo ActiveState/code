@@ -1,4 +1,4 @@
-###Convert a youtube transcript in srt subtitle
+## Convert a youtube transcript in srt subtitle
 
 Originally published: 2010-11-12 01:59:52
 Last updated: 2010-11-12 01:59:53

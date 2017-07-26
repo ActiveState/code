@@ -1,4 +1,4 @@
-###Instantiating pickled instances transparently
+## Instantiating pickled instances transparently
 
 Originally published: 2005-09-19 22:26:08
 Last updated: 2005-09-19 22:26:08

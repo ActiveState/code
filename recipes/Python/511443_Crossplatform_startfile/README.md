@@ -1,4 +1,4 @@
-###Cross-platform startfile and mailto functions
+## Cross-platform startfile and mailto functions
 
 Originally published: 2007-04-01 07:35:42
 Last updated: 2008-09-20 04:39:16

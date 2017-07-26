@@ -1,4 +1,4 @@
-###Displaying Page Processsing Time
+## Displaying Page Processsing Time
 
 Originally published: 2003-06-30 14:15:50
 Last updated: 2003-06-30 14:15:50

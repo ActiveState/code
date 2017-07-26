@@ -1,4 +1,4 @@
-###a simple pycrypto-Blowfish encryption script
+## a simple pycrypto-Blowfish encryption script
 
 Originally published: 2006-06-01 13:52:04
 Last updated: 2006-06-01 21:46:24

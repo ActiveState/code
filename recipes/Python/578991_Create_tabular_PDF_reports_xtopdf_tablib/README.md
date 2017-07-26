@@ -1,4 +1,4 @@
-###Create tabular PDF reports with xtopdf and tablib in Python
+## Create tabular PDF reports with xtopdf and tablib in Python
 
 Originally published: 2014-12-25 17:48:53
 Last updated: 2014-12-25 17:48:53

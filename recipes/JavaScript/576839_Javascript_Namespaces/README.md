@@ -1,4 +1,4 @@
-###Javascript Namespaces
+## Javascript Namespaces
 
 Originally published: 2009-07-12 07:16:52
 Last updated: 2009-07-12 07:21:40

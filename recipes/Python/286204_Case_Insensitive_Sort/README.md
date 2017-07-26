@@ -1,4 +1,4 @@
-###Case Insensitive Sort
+## Case Insensitive Sort
 
 Originally published: 2004-07-07 06:09:12
 Last updated: 2004-07-07 06:09:12

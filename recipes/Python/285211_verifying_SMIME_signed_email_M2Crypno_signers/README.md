@@ -1,4 +1,4 @@
-###verifying SMIME signed email with M2Crypto and no signer's certificate
+## verifying SMIME signed email with M2Crypto and no signer's certificate
 
 Originally published: 2004-05-30 04:39:36
 Last updated: 2004-06-03 23:00:36

@@ -1,4 +1,4 @@
-###"public" decorator, adds an item to __all__
+## "public" decorator, adds an item to __all__
 
 Originally published: 2009-12-30 12:53:29
 Last updated: 2009-12-30 12:53:29

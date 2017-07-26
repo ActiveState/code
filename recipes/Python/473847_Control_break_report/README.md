@@ -1,4 +1,4 @@
-###Control break report generation example
+## Control break report generation example
 
 Originally published: 2006-02-06 04:02:32
 Last updated: 2006-02-06 04:02:32

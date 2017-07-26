@@ -1,4 +1,4 @@
-###radix.str(N,R) -- reverse function to int(S,R) and long(S,R)
+## radix.str(N,R) -- reverse function to int(S,R) and long(S,R)
 
 Originally published: 2003-09-16 21:34:51
 Last updated: 2003-09-16 21:34:51

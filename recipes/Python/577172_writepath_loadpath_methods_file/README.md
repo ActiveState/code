@@ -1,4 +1,4 @@
-###write_path and load_path methods for file generation scripts
+## write_path and load_path methods for file generation scripts
 
 Originally published: 2010-03-31 21:13:03
 Last updated: 2010-07-27 06:45:51

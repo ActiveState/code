@@ -1,4 +1,4 @@
-###gprof2dot.py
+## gprof2dot.py
 
 Originally published: 2012-05-18 14:34:06
 Last updated: 2012-05-18 14:34:13

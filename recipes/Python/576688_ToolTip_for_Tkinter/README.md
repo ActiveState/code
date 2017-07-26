@@ -1,4 +1,4 @@
-###ToolTip for Tkinter
+## ToolTip for Tkinter
 
 Originally published: 2009-03-11 15:58:45
 Last updated: 2009-03-11 15:58:45

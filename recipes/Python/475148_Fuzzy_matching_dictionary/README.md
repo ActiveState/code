@@ -1,4 +1,4 @@
-###Fuzzy matching dictionary
+## Fuzzy matching dictionary
 
 Originally published: 2006-03-18 11:23:25
 Last updated: 2006-03-18 11:23:25

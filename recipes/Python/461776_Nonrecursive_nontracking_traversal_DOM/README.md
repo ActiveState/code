@@ -1,4 +1,4 @@
-###Non-recursive (and non-tracking) traversal of a (DOM) tree
+## Non-recursive (and non-tracking) traversal of a (DOM) tree
 
 Originally published: 2005-12-08 08:25:14
 Last updated: 2005-12-14 16:57:54

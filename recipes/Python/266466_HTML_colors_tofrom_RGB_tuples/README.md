@@ -1,4 +1,4 @@
-###HTML colors to/from RGB tuples
+## HTML colors to/from RGB tuples
 
 Originally published: 2004-01-22 23:00:47
 Last updated: 2004-01-23 07:25:22

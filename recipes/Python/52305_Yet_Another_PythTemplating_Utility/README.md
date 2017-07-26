@@ -1,4 +1,4 @@
-###Yet Another Python Templating Utility (YAPTU)
+## Yet Another Python Templating Utility (YAPTU)
 
 Originally published: 2001-03-26 07:13:46
 Last updated: 2001-08-31 15:17:32

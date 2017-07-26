@@ -1,4 +1,4 @@
-###Coding Standard Adaptor
+## Coding Standard Adaptor
 
 Originally published: 2006-02-16 20:17:17
 Last updated: 2006-02-16 20:17:17

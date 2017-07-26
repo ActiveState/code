@@ -1,4 +1,4 @@
-###A real lockfile implementation
+## A real lockfile implementation
 
 Originally published: 2008-11-26 00:58:40
 Last updated: 2008-11-26 00:58:40

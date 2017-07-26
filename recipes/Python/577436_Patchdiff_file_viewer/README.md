@@ -1,4 +1,4 @@
-###Patch/diff file viewer with highlighting
+## Patch/diff file viewer with highlighting
 
 Originally published: 2010-10-22 13:20:52
 Last updated: 2010-10-29 10:48:15

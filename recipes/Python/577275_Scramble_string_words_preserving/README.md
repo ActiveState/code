@@ -1,4 +1,4 @@
-###Scramble a string of words, preserving spaces
+## Scramble a string of words, preserving spaces
 
 Originally published: 2010-06-25 20:44:04
 Last updated: 2010-06-25 20:44:04

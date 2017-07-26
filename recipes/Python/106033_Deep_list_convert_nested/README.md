@@ -1,4 +1,4 @@
-###Deep list() to convert a nested tuple-of-tuples
+## Deep list() to convert a nested tuple-of-tuples
 
 Originally published: 2002-01-06 13:22:59
 Last updated: 2002-01-06 13:22:59

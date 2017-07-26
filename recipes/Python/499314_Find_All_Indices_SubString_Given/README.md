@@ -1,4 +1,4 @@
-###Find All Indices of a SubString in a Given String
+## Find All Indices of a SubString in a Given String
 
 Originally published: 2006-12-14 02:07:30
 Last updated: 2006-12-14 10:08:37

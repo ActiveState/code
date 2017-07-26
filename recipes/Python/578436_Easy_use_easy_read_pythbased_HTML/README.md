@@ -1,4 +1,4 @@
-###Easy to use, easy to read, python based HTML generation
+## Easy to use, easy to read, python based HTML generation
 
 Originally published: 2013-01-28 09:47:44
 Last updated: 2013-06-21 14:47:21

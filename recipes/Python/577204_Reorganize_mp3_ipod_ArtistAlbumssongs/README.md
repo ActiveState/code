@@ -1,4 +1,4 @@
-###Reorganize mp3 from an ipod to a Artist/Album{s}/songs structure
+## Reorganize mp3 from an ipod to a Artist/Album{s}/songs structure
 
 Originally published: 2010-04-20 23:24:56
 Last updated: 2010-04-20 23:24:57

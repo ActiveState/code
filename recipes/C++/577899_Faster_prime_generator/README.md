@@ -1,4 +1,4 @@
-###Faster prime generator
+## Faster prime generator
 
 Originally published: 2011-10-08 23:25:45
 Last updated: 2011-10-08 23:26:24

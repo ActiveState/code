@@ -1,4 +1,4 @@
-###Decorator to expose local variables of a function after execution [alternative implementation]
+## Decorator to expose local variables of a function after execution [alternative implementation]
 
 Originally published: 2010-07-07 16:41:16
 Last updated: 2010-07-08 09:44:28

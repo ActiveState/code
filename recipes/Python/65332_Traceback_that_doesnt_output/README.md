@@ -1,4 +1,4 @@
-###Traceback that does'nt output on sys.stderr
+## Traceback that does'nt output on sys.stderr
 
 Originally published: 2001-06-25 04:25:48
 Last updated: 2001-06-25 04:25:48

@@ -1,4 +1,4 @@
-###Declaring properties and checking typos
+## Declaring properties and checking typos
 
 Originally published: 2001-11-08 13:30:07
 Last updated: 2001-11-08 13:30:07

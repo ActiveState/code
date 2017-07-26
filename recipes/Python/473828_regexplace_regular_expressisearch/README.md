@@ -1,4 +1,4 @@
-###regexplace: regular expression search and replace
+## regexplace: regular expression search and replace
 
 Originally published: 2006-02-03 17:10:50
 Last updated: 2006-02-08 00:44:06

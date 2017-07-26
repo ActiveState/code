@@ -1,4 +1,4 @@
-###Scripting iTunes (for Windows) with Python
+## Scripting iTunes (for Windows) with Python
 
 Originally published: 2006-11-03 01:23:57
 Last updated: 2006-11-03 01:23:57

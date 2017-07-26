@@ -1,4 +1,4 @@
-###Unroll a single-dimension sequence into an HTML unordered list
+## Unroll a single-dimension sequence into an HTML unordered list
 
 Originally published: 2001-06-19 08:48:56
 Last updated: 2001-06-23 03:44:54

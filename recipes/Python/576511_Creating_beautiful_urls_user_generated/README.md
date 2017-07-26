@@ -1,4 +1,4 @@
-###Creating beautiful urls from user generated text
+## Creating beautiful urls from user generated text
 
 Originally published: 2008-09-21 00:20:25
 Last updated: 2008-09-21 07:22:06

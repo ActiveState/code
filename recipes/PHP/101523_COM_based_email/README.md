@@ -1,4 +1,4 @@
-###COM based email
+## COM based email
 
 Originally published: 2001-12-07 10:55:16
 Last updated: 2001-12-07 10:55:16

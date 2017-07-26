@@ -1,4 +1,4 @@
-###GCD of an arbitrary list
+## GCD of an arbitrary list
 
 Originally published: 2010-12-22 00:05:45
 Last updated: 2010-12-22 00:05:45

@@ -1,4 +1,4 @@
-###Averaging Literal Numbers
+## Averaging Literal Numbers
 
 Originally published: 2012-12-06 13:44:41
 Last updated: 2012-12-06 13:44:42

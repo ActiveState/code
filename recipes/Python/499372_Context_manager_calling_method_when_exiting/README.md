@@ -1,4 +1,4 @@
-###Context manager for calling a method when exiting a 'with' statement
+## Context manager for calling a method when exiting a 'with' statement
 
 Originally published: 2007-01-11 10:58:46
 Last updated: 2007-01-11 10:58:46

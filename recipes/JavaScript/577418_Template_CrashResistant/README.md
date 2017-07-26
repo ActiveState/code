@@ -1,4 +1,4 @@
-###A Template for Crash-Resistant Toggle-Macros
+## A Template for Crash-Resistant Toggle-Macros
 
 Originally published: 2010-10-07 00:51:41
 Last updated: 2010-10-07 00:51:42

@@ -1,4 +1,4 @@
-###Destroying Directories
+## Destroying Directories
 
 Originally published: 2011-04-20 23:37:55
 Last updated: 2011-04-21 02:55:31

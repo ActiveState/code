@@ -1,4 +1,4 @@
-###Flattening an arbitrarily deep list (or any iterator)
+## Flattening an arbitrarily deep list (or any iterator)
 
 Originally published: 2012-04-03 16:21:31
 Last updated: 2012-04-03 17:13:35

@@ -1,4 +1,4 @@
-###Python helper to open SciTe .session files in Windows Explorer
+## Python helper to open SciTe .session files in Windows Explorer
 
 Originally published: 2008-04-19 07:49:14
 Last updated: 2008-04-19 07:49:14

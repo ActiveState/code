@@ -1,4 +1,4 @@
-###Build a white list of email address from "Sent Items" mailbox.
+## Build a white list of email address from "Sent Items" mailbox.
 
 Originally published: 2003-04-16 17:48:52
 Last updated: 2003-04-16 17:48:52

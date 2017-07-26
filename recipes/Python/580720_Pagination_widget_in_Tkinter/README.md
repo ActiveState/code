@@ -1,4 +1,4 @@
-###Pagination widget in Tkinter
+## Pagination widget in Tkinter
 
 Originally published: 2016-11-20 11:54:55
 Last updated: 2017-05-01 20:34:49

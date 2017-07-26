@@ -1,4 +1,4 @@
-###Quick Test If Strings Are Identifiers
+## Quick Test If Strings Are Identifiers
 
 Originally published: 2005-05-06 12:30:53
 Last updated: 2005-05-08 10:42:59

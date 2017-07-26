@@ -1,4 +1,4 @@
-###A simple text file pager in Python
+## A simple text file pager in Python
 
 Originally published: 2017-02-10 21:34:44
 Last updated: 2017-02-10 21:34:45

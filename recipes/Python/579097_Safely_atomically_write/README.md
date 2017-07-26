@@ -1,4 +1,4 @@
-###Safely and atomically write to a file
+## Safely and atomically write to a file
 
 Originally published: 2015-09-02 17:06:29
 Last updated: 2016-03-23 14:14:26

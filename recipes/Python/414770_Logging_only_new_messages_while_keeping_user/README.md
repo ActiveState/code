@@ -1,4 +1,4 @@
-###Logging only new messages while keeping user aware of progress
+## Logging only new messages while keeping user aware of progress
 
 Originally published: 2005-05-20 05:58:20
 Last updated: 2005-05-20 05:58:20

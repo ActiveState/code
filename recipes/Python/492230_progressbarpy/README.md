@@ -1,4 +1,4 @@
-###progress_bar.py
+## progress_bar.py
 
 Originally published: 2006-04-30 20:33:49
 Last updated: 2006-04-30 20:33:49

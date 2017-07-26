@@ -1,4 +1,4 @@
-###Simple Tkinter strip chart (Python 3)
+## Simple Tkinter strip chart (Python 3)
 
 Originally published: 2014-05-04 21:53:29
 Last updated: 2017-03-10 16:34:49

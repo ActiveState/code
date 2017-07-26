@@ -1,4 +1,4 @@
-###dunderdoc, a simple Python introspection tool
+## dunderdoc, a simple Python introspection tool
 
 Originally published: 2015-03-30 20:22:19
 Last updated: 2015-03-30 20:22:20

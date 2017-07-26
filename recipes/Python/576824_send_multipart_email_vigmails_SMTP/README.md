@@ -1,4 +1,4 @@
-###send a multipart email via gmail's SMTP server
+## send a multipart email via gmail's SMTP server
 
 Originally published: 2009-07-01 23:44:39
 Last updated: 2009-12-21 14:29:41

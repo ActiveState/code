@@ -1,4 +1,4 @@
-###Elegant Tkinter Splash Screen
+## Elegant Tkinter Splash Screen
 
 Originally published: 2007-10-19 19:16:01
 Last updated: 2007-10-23 11:38:31

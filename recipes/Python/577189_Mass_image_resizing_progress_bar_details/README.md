@@ -1,4 +1,4 @@
-###Mass image resizing (with progress bar and details in console)
+## Mass image resizing (with progress bar and details in console)
 
 Originally published: 2010-04-12 08:22:42
 Last updated: 2010-04-13 07:06:09

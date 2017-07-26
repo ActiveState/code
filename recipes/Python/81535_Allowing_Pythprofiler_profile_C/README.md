@@ -1,4 +1,4 @@
-###Allowing the Python profiler to profile C modules
+## Allowing the Python profiler to profile C modules
 
 Originally published: 2001-10-13 07:39:30
 Last updated: 2001-10-14 09:01:29

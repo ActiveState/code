@@ -1,4 +1,4 @@
-###Authenticating Twisted with Zope/Plone
+## Authenticating Twisted with Zope/Plone
 
 Originally published: 2006-02-04 08:51:00
 Last updated: 2006-02-08 00:19:44

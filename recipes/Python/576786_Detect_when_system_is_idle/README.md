@@ -1,4 +1,4 @@
-###Detect when system is idle
+## Detect when system is idle
 
 Originally published: 2009-05-31 01:18:03
 Last updated: 2009-05-31 01:18:03

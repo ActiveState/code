@@ -1,4 +1,4 @@
-###Komodo JS Macro - delete marked lines
+## Komodo JS Macro - delete marked lines
 
 Originally published: 2010-08-30 17:32:24
 Last updated: 2010-08-30 17:32:24

@@ -1,4 +1,4 @@
-###Multiple unique class instances - a tentative design pattern
+## Multiple unique class instances - a tentative design pattern
 
 Originally published: 2013-02-23 14:11:43
 Last updated: 2013-02-23 14:11:44

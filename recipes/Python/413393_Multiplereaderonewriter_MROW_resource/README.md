@@ -1,4 +1,4 @@
-###Multiple-reader-one-writer (MROW) resource locking
+## Multiple-reader-one-writer (MROW) resource locking
 
 Originally published: 2005-05-05 20:12:59
 Last updated: 2005-05-07 04:23:52

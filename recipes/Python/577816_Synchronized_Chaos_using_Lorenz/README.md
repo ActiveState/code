@@ -1,4 +1,4 @@
-###Synchronized Chaos using Lorenz Attractor
+## Synchronized Chaos using Lorenz Attractor
 
 Originally published: 2011-08-02 03:53:03
 Last updated: 2011-08-02 03:53:03

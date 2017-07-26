@@ -1,4 +1,4 @@
-###Predicate tests across sequences
+## Predicate tests across sequences
 
 Originally published: 2001-04-19 16:12:44
 Last updated: 2002-06-05 09:45:38

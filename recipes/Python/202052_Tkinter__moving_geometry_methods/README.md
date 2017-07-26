@@ -1,4 +1,4 @@
-###Tkinter : moving geometry methods
+## Tkinter : moving geometry methods
 
 Originally published: 2003-05-24 14:21:31
 Last updated: 2003-06-16 21:34:05

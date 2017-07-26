@@ -1,4 +1,4 @@
-###Permutations using generators
+## Permutations using generators
 
 Originally published: 2002-01-05 12:59:47
 Last updated: 2002-01-05 12:59:47

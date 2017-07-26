@@ -1,4 +1,4 @@
-###For Characters in a String, Replace with Character
+## For Characters in a String, Replace with Character
 
 Originally published: 2012-03-23 20:16:12
 Last updated: 2012-03-23 20:44:23

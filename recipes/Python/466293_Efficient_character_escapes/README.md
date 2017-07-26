@@ -1,4 +1,4 @@
-###Efficient character escapes decoding
+## Efficient character escapes decoding
 
 Originally published: 2006-01-13 13:38:51
 Last updated: 2006-01-14 01:55:59

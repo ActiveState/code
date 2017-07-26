@@ -1,4 +1,4 @@
-###Dynamically added methods to a class
+## Dynamically added methods to a class
 
 Originally published: 2001-10-15 02:49:01
 Last updated: 2001-10-15 02:49:01

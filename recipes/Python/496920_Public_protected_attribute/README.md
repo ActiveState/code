@@ -1,4 +1,4 @@
-###Public and protected attribute access
+## Public and protected attribute access
 
 Originally published: 2006-07-27 08:53:17
 Last updated: 2006-08-02 09:53:47

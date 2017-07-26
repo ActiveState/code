@@ -1,4 +1,4 @@
-###Fixed keys mapping type
+## Fixed keys mapping type
 
 Originally published: 2007-01-11 15:49:53
 Last updated: 2007-01-12 00:29:57

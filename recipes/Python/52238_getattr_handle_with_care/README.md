@@ -1,4 +1,4 @@
-###__getattr__: handle with care
+## __getattr__: handle with care
 
 Originally published: 2001-03-12 10:05:37
 Last updated: 2001-03-12 10:05:37

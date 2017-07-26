@@ -1,4 +1,4 @@
-###Query Access using ADO in win32 platform
+## Query Access using ADO in win32 platform
 
 Originally published: 2003-04-24 22:38:00
 Last updated: 2003-04-24 22:38:00

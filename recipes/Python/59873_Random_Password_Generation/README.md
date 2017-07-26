@@ -1,4 +1,4 @@
-###Random Password Generation
+## Random Password Generation
 
 Originally published: 2001-05-31 08:10:02
 Last updated: 2001-05-31 08:10:02

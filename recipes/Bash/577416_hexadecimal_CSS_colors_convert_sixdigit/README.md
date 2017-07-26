@@ -1,4 +1,4 @@
-###hexadecimal CSS colors, convert the six-digit to the three-digit notation
+## hexadecimal CSS colors, convert the six-digit to the three-digit notation
 
 Originally published: 2010-10-02 14:07:22
 Last updated: 2010-10-02 14:07:23

@@ -1,4 +1,4 @@
-###Singleton Base Class
+## Singleton Base Class
 
 Originally published: 2007-05-10 04:27:30
 Last updated: 2007-05-10 04:27:30

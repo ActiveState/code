@@ -1,4 +1,4 @@
-###Create a restricted python function from a string
+## Create a restricted python function from a string
 
 Originally published: 2008-03-01 13:08:11
 Last updated: 2008-08-05 22:15:18

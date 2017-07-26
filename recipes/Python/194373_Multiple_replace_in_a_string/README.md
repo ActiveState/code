@@ -1,4 +1,4 @@
-###Multiple replace in a string
+## Multiple replace in a string
 
 Originally published: 2003-04-17 09:01:48
 Last updated: 2003-04-17 09:01:48

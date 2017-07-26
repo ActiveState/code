@@ -1,4 +1,4 @@
-###Generic throttling for string/sequence functions
+## Generic throttling for string/sequence functions
 
 Originally published: 2002-12-11 12:34:55
 Last updated: 2002-12-11 12:34:55

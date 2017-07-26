@@ -1,4 +1,4 @@
-###OpenKinect Mouse Control Using Python
+## OpenKinect Mouse Control Using Python
 
 Originally published: 2012-04-14 21:00:12
 Last updated: 2012-04-15 18:49:00

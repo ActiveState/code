@@ -1,4 +1,4 @@
-###Using sorting order of your country/culture when sorting (collate,locale)
+## Using sorting order of your country/culture when sorting (collate,locale)
 
 Originally published: 2005-10-29 02:45:49
 Last updated: 2005-10-29 02:45:49

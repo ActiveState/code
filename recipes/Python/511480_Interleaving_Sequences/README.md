@@ -1,4 +1,4 @@
-###Interleaving Sequences
+## Interleaving Sequences
 
 Originally published: 2007-04-18 23:23:26
 Last updated: 2007-04-18 23:23:26

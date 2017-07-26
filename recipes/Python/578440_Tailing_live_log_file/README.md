@@ -1,4 +1,4 @@
-###Tailing a live log file with Python.
+## Tailing a live log file with Python.
 
 Originally published: 2013-01-29 16:25:33
 Last updated: 2013-01-29 16:25:33

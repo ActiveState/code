@@ -1,4 +1,4 @@
-###dictproperty: properties for dictionary attributes
+## dictproperty: properties for dictionary attributes
 
 Originally published: 2005-09-02 18:28:10
 Last updated: 2009-09-10 15:48:26

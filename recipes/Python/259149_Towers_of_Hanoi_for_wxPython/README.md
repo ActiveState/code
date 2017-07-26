@@ -1,4 +1,4 @@
-###Towers of Hanoi for wxPython
+## Towers of Hanoi for wxPython
 
 Originally published: 2004-01-02 19:20:20
 Last updated: 2004-01-02 19:20:20

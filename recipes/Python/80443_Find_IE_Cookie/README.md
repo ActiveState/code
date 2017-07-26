@@ -1,4 +1,4 @@
-###Find IE Cookie
+## Find IE Cookie
 
 Originally published: 2001-10-08 10:07:37
 Last updated: 2001-10-12 15:16:05

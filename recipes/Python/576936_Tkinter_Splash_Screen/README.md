@@ -1,4 +1,4 @@
-###Tkinter Splash Screen
+## Tkinter Splash Screen
 
 Originally published: 2009-10-26 17:24:25
 Last updated: 2009-11-09 04:26:52

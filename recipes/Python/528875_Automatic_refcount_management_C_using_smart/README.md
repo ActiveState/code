@@ -1,4 +1,4 @@
-###Automatic ref-count management in C++ using a smart ptr
+## Automatic ref-count management in C++ using a smart ptr
 
 Originally published: 2007-08-14 15:41:44
 Last updated: 2007-08-14 15:41:44

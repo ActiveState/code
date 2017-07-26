@@ -1,4 +1,4 @@
-###A Python decorator that re-executes the function on condition
+## A Python decorator that re-executes the function on condition
 
 Originally published: 2012-07-24 08:23:41
 Last updated: 2012-07-24 09:51:48

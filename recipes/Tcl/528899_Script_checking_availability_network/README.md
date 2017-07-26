@@ -1,4 +1,4 @@
-###Script checking availability of network servers
+## Script checking availability of network servers
 
 Originally published: 2007-08-27 01:58:17
 Last updated: 2007-08-27 23:57:08

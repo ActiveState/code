@@ -1,4 +1,4 @@
-###format a number as an ordinal
+## format a number as an ordinal
 
 Originally published: 2009-08-19 10:21:14
 Last updated: 2010-02-04 12:54:27

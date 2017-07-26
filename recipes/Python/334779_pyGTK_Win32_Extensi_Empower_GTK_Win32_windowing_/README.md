@@ -1,4 +1,4 @@
-###pyGTK Win32 Extension - Empower GTK with Win32 windowing features.
+## pyGTK Win32 Extension - Empower GTK with Win32 windowing features.
 
 Originally published: 2004-11-08 11:37:14
 Last updated: 2004-11-15 06:28:28

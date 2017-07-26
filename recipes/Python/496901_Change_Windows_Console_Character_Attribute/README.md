@@ -1,4 +1,4 @@
-###Change Windows Console Character Attribute (Color)
+## Change Windows Console Character Attribute (Color)
 
 Originally published: 2006-07-20 10:14:55
 Last updated: 2006-07-20 18:25:17

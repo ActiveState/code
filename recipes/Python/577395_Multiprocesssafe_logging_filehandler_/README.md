@@ -1,4 +1,4 @@
-###Multiprocess-safe logging file-handler + interprocess RLock
+## Multiprocess-safe logging file-handler + interprocess RLock
 
 Originally published: 2010-09-19 01:34:53
 Last updated: 2010-09-22 17:30:10

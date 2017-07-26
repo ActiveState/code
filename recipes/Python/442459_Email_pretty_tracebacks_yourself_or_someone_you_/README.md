@@ -1,4 +1,4 @@
-###Email pretty tracebacks to yourself (or someone you love)
+## Email pretty tracebacks to yourself (or someone you love)
 
 Originally published: 2005-10-19 08:13:27
 Last updated: 2005-10-19 08:13:27

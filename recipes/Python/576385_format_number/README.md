@@ -1,4 +1,4 @@
-###format a number for human consumption
+## format a number for human consumption
 
 Originally published: 2008-07-29 07:06:58
 Last updated: 2008-07-29 07:06:58

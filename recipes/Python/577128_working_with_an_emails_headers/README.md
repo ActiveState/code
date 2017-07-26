@@ -1,4 +1,4 @@
-###working with an email's headers
+## working with an email's headers
 
 Originally published: 2010-03-19 09:32:04
 Last updated: 2010-03-19 09:32:05

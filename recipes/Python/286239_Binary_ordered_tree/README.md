@@ -1,4 +1,4 @@
-###Binary ordered tree
+## Binary ordered tree
 
 Originally published: 2004-07-13 16:00:26
 Last updated: 2004-07-20 07:59:27

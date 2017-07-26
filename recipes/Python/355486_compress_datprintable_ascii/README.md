@@ -1,4 +1,4 @@
-###compress data to printable ascii data
+## compress data to printable ascii data
 
 Originally published: 2004-12-03 11:33:48
 Last updated: 2004-12-03 20:26:22

@@ -1,4 +1,4 @@
-###Finding the location of the taskbar in wxPython
+## Finding the location of the taskbar in wxPython
 
 Originally published: 2005-07-05 14:36:28
 Last updated: 2005-07-05 14:36:28

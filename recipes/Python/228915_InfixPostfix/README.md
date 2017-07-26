@@ -1,4 +1,4 @@
-###Infix~Postfix
+## Infix~Postfix
 
 Originally published: 2003-10-15 23:14:46
 Last updated: 2003-10-15 23:14:46

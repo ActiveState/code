@@ -1,4 +1,4 @@
-###K fold cross validation partition
+## K fold cross validation partition
 
 Originally published: 2007-06-14 00:59:57
 Last updated: 2007-06-16 08:57:51

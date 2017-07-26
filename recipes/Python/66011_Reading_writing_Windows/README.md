@@ -1,4 +1,4 @@
-###Reading from and writing to the Windows Registry
+## Reading from and writing to the Windows Registry
 
 Originally published: 2001-07-09 12:47:30
 Last updated: 2001-07-09 12:47:30

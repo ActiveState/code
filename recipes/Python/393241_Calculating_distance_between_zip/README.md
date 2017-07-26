@@ -1,4 +1,4 @@
-###Calculating the distance between zip codes
+## Calculating the distance between zip codes
 
 Originally published: 2005-03-29 19:14:04
 Last updated: 2006-04-25 20:40:00

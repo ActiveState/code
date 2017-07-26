@@ -1,4 +1,4 @@
-###Progress Bar for Console Programs as Iterator
+## Progress Bar for Console Programs as Iterator
 
 Originally published: 2009-12-23 10:46:45
 Last updated: 2010-03-26 20:04:02

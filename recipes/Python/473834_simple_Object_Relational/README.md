@@ -1,4 +1,4 @@
-###A simple Object Relational Mapper
+## A simple Object Relational Mapper
 
 Originally published: 2006-02-04 02:26:39
 Last updated: 2006-02-04 02:26:39

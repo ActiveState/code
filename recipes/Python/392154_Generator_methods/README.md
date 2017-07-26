@@ -1,4 +1,4 @@
-###Generator methods
+## Generator methods
 
 Originally published: 2005-03-21 04:49:59
 Last updated: 2005-03-25 15:58:44

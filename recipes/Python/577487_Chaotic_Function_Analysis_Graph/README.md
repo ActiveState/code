@@ -1,4 +1,4 @@
-###Chaotic Function Analysis Graph
+## Chaotic Function Analysis Graph
 
 Originally published: 2010-12-05 06:51:47
 Last updated: 2010-12-10 03:31:50

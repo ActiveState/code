@@ -1,4 +1,4 @@
-###Checking hashes of files
+## Checking hashes of files
 
 Originally published: 2012-11-19 08:45:50
 Last updated: 2012-11-19 08:45:51

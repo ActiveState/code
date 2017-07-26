@@ -1,4 +1,4 @@
-###search file extensions in directory
+## search file extensions in directory
 
 Originally published: 2014-04-17 22:33:38
 Last updated: 2014-04-17 22:33:39

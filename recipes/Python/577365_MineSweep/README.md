@@ -1,4 +1,4 @@
-###MineSweep
+## MineSweep
 
 Originally published: 2010-08-21 19:20:46
 Last updated: 2010-09-16 14:45:36

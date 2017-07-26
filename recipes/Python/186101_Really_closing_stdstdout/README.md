@@ -1,4 +1,4 @@
-###Really closing stdin, stdout, stderr
+## Really closing stdin, stdout, stderr
 
 Originally published: 2003-03-01 17:58:30
 Last updated: 2003-03-01 17:58:30

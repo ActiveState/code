@@ -1,4 +1,4 @@
-###Check HTTP Content Type
+## Check HTTP Content Type
 
 Originally published: 2002-11-12 17:43:45
 Last updated: 2002-11-12 17:43:45

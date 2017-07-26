@@ -1,4 +1,4 @@
-###Martin Gardner's "The Monkey and the Coconuts" Problem
+## Martin Gardner's "The Monkey and the Coconuts" Problem
 
 Originally published: 2010-07-26 16:32:07
 Last updated: 2010-07-26 16:32:08

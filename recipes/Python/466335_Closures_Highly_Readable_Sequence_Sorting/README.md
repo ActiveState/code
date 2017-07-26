@@ -1,4 +1,4 @@
-###Closures For Highly Readable Sequence Sorting Customization
+## Closures For Highly Readable Sequence Sorting Customization
 
 Originally published: 2006-01-22 11:22:40
 Last updated: 2006-01-25 03:25:24

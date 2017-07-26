@@ -1,4 +1,4 @@
-###Calculation of total number of lines
+## Calculation of total number of lines
 
 Originally published: 2011-05-23 10:55:44
 Last updated: 2011-05-23 10:55:45

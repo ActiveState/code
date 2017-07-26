@@ -1,4 +1,4 @@
-###Validate ACNs (Australian Company Numbers)
+## Validate ACNs (Australian Company Numbers)
 
 Originally published: 2011-05-13 03:15:35
 Last updated: 2011-05-13 03:15:35

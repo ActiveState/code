@@ -1,4 +1,4 @@
-###Generate Password and Bit Rank
+## Generate Password and Bit Rank
 
 Originally published: 2013-01-02 14:33:42
 Last updated: 2013-01-02 14:33:42

@@ -1,4 +1,4 @@
-###Journal Dictionary and Mixin for Transactions
+## Journal Dictionary and Mixin for Transactions
 
 Originally published: 2007-06-03 13:52:14
 Last updated: 2007-06-03 13:52:14

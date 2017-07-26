@@ -1,4 +1,4 @@
-###compare(), making filter() fun again
+## compare(), making filter() fun again
 
 Originally published: 2008-10-04 14:27:27
 Last updated: 2008-10-04 12:40:42

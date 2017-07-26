@@ -1,4 +1,4 @@
-###Retrieve Dell Warranty Information for all machines in AD Domain
+## Retrieve Dell Warranty Information for all machines in AD Domain
 
 Originally published: 2010-02-18 15:51:26
 Last updated: 2010-02-18 15:51:28

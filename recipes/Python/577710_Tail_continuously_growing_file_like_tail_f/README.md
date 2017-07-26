@@ -1,4 +1,4 @@
-###Tail a continuously growing file (like tail -f filename)
+## Tail a continuously growing file (like tail -f filename)
 
 Originally published: 2011-05-20 16:25:54
 Last updated: 2011-05-20 16:32:59

@@ -1,4 +1,4 @@
-###Speeding up computations using a lookup table part I
+## Speeding up computations using a lookup table part I
 
 Originally published: 2011-07-02 15:14:33
 Last updated: 2011-07-02 15:14:33

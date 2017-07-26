@@ -1,4 +1,4 @@
-###Ruby like syntactic sugar
+## Ruby like syntactic sugar
 
 Originally published: 2004-03-02 13:44:07
 Last updated: 2004-03-02 13:44:07

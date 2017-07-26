@@ -1,4 +1,4 @@
-###Use 'Google Maps Elevation Service' to get elevation data for any location on Earth. 
+## Use 'Google Maps Elevation Service' to get elevation data for any location on Earth. 
 
 Originally published: 2012-08-12 20:45:57
 Last updated: 2012-08-12 20:47:29

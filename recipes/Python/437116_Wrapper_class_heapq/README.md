@@ -1,4 +1,4 @@
-###Wrapper class for the heapq module
+## Wrapper class for the heapq module
 
 Originally published: 2005-07-19 06:36:56
 Last updated: 2005-07-19 06:36:56

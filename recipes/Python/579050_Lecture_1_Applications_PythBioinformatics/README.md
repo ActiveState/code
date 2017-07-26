@@ -1,4 +1,4 @@
-###Lecture 1: Applications of Python in Bioinformatics: Visualizing Protein
+## Lecture 1: Applications of Python in Bioinformatics: Visualizing Protein
 
 Originally published: 2015-04-29 07:09:33
 Last updated: 2015-04-29 07:09:33

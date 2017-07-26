@@ -1,4 +1,4 @@
-###accent2htmlcode.py - convert accents and special characters to html code
+## accent2htmlcode.py - convert accents and special characters to html code
 
 Originally published: 2008-02-13 11:30:03
 Last updated: 2008-02-13 11:30:03

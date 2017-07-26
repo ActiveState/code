@@ -1,4 +1,4 @@
-###Modfying a local __dict__
+## Modfying a local __dict__
 
 Originally published: 2008-06-25 10:00:10
 Last updated: 2008-06-25 10:00:10

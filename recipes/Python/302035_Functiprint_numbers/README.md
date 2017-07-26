@@ -1,4 +1,4 @@
-###Function for print numbers by parts
+## Function for print numbers by parts
 
 Originally published: 2004-08-26 00:31:04
 Last updated: 2004-08-27 13:39:32

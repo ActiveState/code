@@ -1,4 +1,4 @@
-###print qrcode to usb termal RP80 printer from web base app
+## print qrcode to usb termal RP80 printer from web base app
 
 Originally published: 2014-09-09 09:35:32
 Last updated: 2014-09-09 09:35:32

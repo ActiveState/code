@@ -1,4 +1,4 @@
-###Increment numbers in a string
+## Increment numbers in a string
 
 Originally published: 2005-10-19 08:42:40
 Last updated: 2005-10-19 08:42:40

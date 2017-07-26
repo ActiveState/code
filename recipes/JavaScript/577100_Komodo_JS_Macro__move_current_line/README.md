@@ -1,4 +1,4 @@
-###Komodo JS Macro - move current line up one
+## Komodo JS Macro - move current line up one
 
 Originally published: 2010-03-10 12:23:51
 Last updated: 2010-03-10 12:24:43

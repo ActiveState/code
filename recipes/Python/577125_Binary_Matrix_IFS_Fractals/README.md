@@ -1,4 +1,4 @@
-###Binary Matrix IFS Fractals
+## Binary Matrix IFS Fractals
 
 Originally published: 2010-03-17 18:15:52
 Last updated: 2010-03-17 18:15:53

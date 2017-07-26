@@ -1,4 +1,4 @@
-###hash a string (preferably your name) to an alter ego description
+## hash a string (preferably your name) to an alter ego description
 
 Originally published: 2001-10-23 16:32:04
 Last updated: 2001-10-23 16:32:04

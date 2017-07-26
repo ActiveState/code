@@ -1,4 +1,4 @@
-###Verify a Single User Name and Password in Python
+## Verify a Single User Name and Password in Python
 
 Originally published: 2013-01-31 02:09:58
 Last updated: 2013-01-31 02:09:58

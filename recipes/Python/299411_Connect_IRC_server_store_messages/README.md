@@ -1,4 +1,4 @@
-###Connect to an IRC server and store messages into a file
+## Connect to an IRC server and store messages into a file
 
 Originally published: 2004-08-12 05:08:32
 Last updated: 2004-08-12 05:08:32

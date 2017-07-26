@@ -1,4 +1,4 @@
-###import foldernames from a txt file , and take ownership over these folders and subfolder , and delete them - Windows
+## import foldernames from a txt file , and take ownership over these folders and subfolder , and delete them - Windows
 
 Originally published: 2009-07-16 06:58:26
 Last updated: 2009-07-16 06:58:26

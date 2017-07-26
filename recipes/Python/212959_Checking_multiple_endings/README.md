@@ -1,4 +1,4 @@
-###Checking multiple endings
+## Checking multiple endings
 
 Originally published: 2003-07-29 10:31:45
 Last updated: 2003-07-30 12:37:30

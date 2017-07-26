@@ -1,4 +1,4 @@
-###Converting MySQL database to an Amazon Simple DB database
+## Converting MySQL database to an Amazon Simple DB database
 
 Originally published: 2008-10-31 11:55:16
 Last updated: 2008-10-31 11:55:16

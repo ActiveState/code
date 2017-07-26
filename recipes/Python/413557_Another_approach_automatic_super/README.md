@@ -1,4 +1,4 @@
-###Another approach to the "automatic super" issue
+## Another approach to the "automatic super" issue
 
 Originally published: 2005-05-07 15:36:38
 Last updated: 2005-05-08 03:10:21

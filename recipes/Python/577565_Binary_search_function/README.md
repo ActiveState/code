@@ -1,4 +1,4 @@
-###Binary search function.
+## Binary search function.
 
 Originally published: 2011-02-07 05:44:44
 Last updated: 2011-02-07 06:37:52

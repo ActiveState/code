@@ -1,4 +1,4 @@
-###Sort sections and keys in .ini file
+## Sort sections and keys in .ini file
 
 Originally published: 2008-12-17 23:06:01
 Last updated: 2008-12-19 05:46:05

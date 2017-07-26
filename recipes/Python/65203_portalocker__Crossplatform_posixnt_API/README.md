@@ -1,4 +1,4 @@
-###portalocker - Cross-platform (posix/nt) API for flock-style file locking.
+## portalocker - Cross-platform (posix/nt) API for flock-style file locking.
 
 Originally published: 2001-06-14 11:18:48
 Last updated: 2008-05-16 21:12:08

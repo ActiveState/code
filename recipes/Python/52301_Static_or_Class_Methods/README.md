@@ -1,4 +1,4 @@
-###Static or Class Methods
+## Static or Class Methods
 
 Originally published: 2001-03-24 15:09:39
 Last updated: 2001-03-24 15:09:39

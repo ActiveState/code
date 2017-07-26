@@ -1,4 +1,4 @@
-###Auto Insert CSS Image Width/Height Macro:
+## Auto Insert CSS Image Width/Height Macro:
 
 Originally published: 2011-11-16 15:23:03
 Last updated: 2011-11-16 15:23:03
