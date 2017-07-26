@@ -1,4 +1,5 @@
-## Monte Carlo Engine : Simple Head Tail ModelOriginally published: 2014-04-27 17:24:30 
+## Monte Carlo Engine : Simple Head Tail Model 
+Originally published: 2014-04-27 17:24:30 
 Last updated: 2014-04-27 17:25:25 
 Author: alexander baker 
  

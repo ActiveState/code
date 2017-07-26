@@ -1,4 +1,5 @@
-## Cache function/method resultOriginally published: 2004-08-03 05:54:55 
+## Cache function/method result 
+Originally published: 2004-08-03 05:54:55 
 Last updated: 2004-08-03 05:54:55 
 Author: Sakesun Roykiattisak 
  

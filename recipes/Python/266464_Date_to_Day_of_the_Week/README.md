@@ -1,4 +1,5 @@
-## Date to Day of the WeekOriginally published: 2004-01-22 05:51:44 
+## Date to Day of the Week 
+Originally published: 2004-01-22 05:51:44 
 Last updated: 2004-01-22 05:51:44 
 Author: Michael Foord 
  

@@ -1,4 +1,5 @@
-## Send an HTML email with embedded image and plain text alternateOriginally published: 2011-06-12 18:38:47 
+## Send an HTML email with embedded image and plain text alternate 
+Originally published: 2011-06-12 18:38:47 
 Last updated: 2011-06-12 18:38:47 
 Author: soham vaghela 
  

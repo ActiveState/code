@@ -1,4 +1,5 @@
-## Merging XBEL Bookmark filesOriginally published: 2002-06-23 14:46:14 
+## Merging XBEL Bookmark files 
+Originally published: 2002-06-23 14:46:14 
 Last updated: 2002-06-23 14:46:14 
 Author: Uche Ogbuji 
  

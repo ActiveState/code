@@ -1,4 +1,5 @@
-## Compose HTML Mail with embedded images from URL or local fileOriginally published: 2006-02-06 12:10:55 
+## Compose HTML Mail with embedded images from URL or local file 
+Originally published: 2006-02-06 12:10:55 
 Last updated: 2006-02-06 12:10:55 
 Author: Catalin Constantin 
  

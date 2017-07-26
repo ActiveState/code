@@ -1,4 +1,5 @@
-## send a multipart emailOriginally published: 2009-10-15 13:55:31 
+## send a multipart email 
+Originally published: 2009-10-15 13:55:31 
 Last updated: 2009-10-15 13:56:10 
 Author: Trent Mick 
  

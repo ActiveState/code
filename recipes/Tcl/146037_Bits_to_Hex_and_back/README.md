@@ -1,4 +1,5 @@
-## Bits to Hex, and backOriginally published: 2002-08-21 16:48:53 
+## Bits to Hex, and back 
+Originally published: 2002-08-21 16:48:53 
 Last updated: 2002-08-21 16:48:53 
 Author: andreas kupries 
  

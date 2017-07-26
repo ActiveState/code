@@ -1,4 +1,5 @@
-## A higher level struct moduleOriginally published: 2006-09-30 03:47:36 
+## A higher level struct module 
+Originally published: 2006-09-30 03:47:36 
 Last updated: 2006-10-26 14:47:57 
 Author: Brian McErlean 
  

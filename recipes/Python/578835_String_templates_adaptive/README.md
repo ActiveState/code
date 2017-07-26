@@ -1,4 +1,5 @@
-## String templates with adaptive indentingOriginally published: 2014-02-19 12:35:46 
+## String templates with adaptive indenting 
+Originally published: 2014-02-19 12:35:46 
 Last updated: 2014-02-19 12:53:03 
 Author: Sander Evers 
  

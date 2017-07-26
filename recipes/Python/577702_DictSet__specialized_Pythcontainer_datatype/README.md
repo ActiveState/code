@@ -1,4 +1,5 @@
-## DictSet - A specialized Python container datatype for managing collections of sets.Originally published: 2011-05-18 21:18:54 
+## DictSet - A specialized Python container datatype for managing collections of sets. 
+Originally published: 2011-05-18 21:18:54 
 Last updated: 2011-05-18 21:18:54 
 Author: Roger Lew 
  

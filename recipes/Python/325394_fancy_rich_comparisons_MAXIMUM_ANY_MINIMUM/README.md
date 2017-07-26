@@ -1,4 +1,5 @@
-## fancy rich comparisons and MAXIMUM ANY and MINIMUM objects...Originally published: 2004-10-27 13:41:48 
+## fancy rich comparisons and MAXIMUM ANY and MINIMUM objects... 
+Originally published: 2004-10-27 13:41:48 
 Last updated: 2004-10-28 00:37:49 
 Author: Alex Naanou 
  

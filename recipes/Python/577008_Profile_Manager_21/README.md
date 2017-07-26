@@ -1,4 +1,5 @@
-## Profile Manager 2.1Originally published: 2010-01-15 18:11:28 
+## Profile Manager 2.1 
+Originally published: 2010-01-15 18:11:28 
 Last updated: 2010-01-15 18:11:28 
 Author: Stephen Chappell 
  

@@ -1,4 +1,5 @@
-## Count lines and words in a text fileOriginally published: 2017-04-27 16:21:51 
+## Count lines and words in a text file 
+Originally published: 2017-04-27 16:21:51 
 Last updated: 2017-04-28 08:22:08 
 Author: Antoni Gual 
  

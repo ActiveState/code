@@ -1,4 +1,5 @@
-## More strict unittests using a validatorOriginally published: 2013-12-20 10:35:15 
+## More strict unittests using a validator 
+Originally published: 2013-12-20 10:35:15 
 Last updated: 2014-03-01 12:37:47 
 Author: Thomas Lehmann 
  

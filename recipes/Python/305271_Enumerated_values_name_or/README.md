@@ -1,4 +1,5 @@
-## Enumerated values by name or numberOriginally published: 2004-09-13 16:10:21 
+## Enumerated values by name or number 
+Originally published: 2004-09-13 16:10:21 
 Last updated: 2004-09-13 16:10:21 
 Author: Samuel Reynolds 
  

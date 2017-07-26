@@ -1,4 +1,5 @@
-## Extracting *.tar.gz files in Windows ...Originally published: 2005-11-01 10:36:05 
+## Extracting *.tar.gz files in Windows ... 
+Originally published: 2005-11-01 10:36:05 
 Last updated: 2005-11-01 10:36:05 
 Author: Stephen Chappell 
  

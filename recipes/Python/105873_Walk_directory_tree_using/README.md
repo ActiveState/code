@@ -1,4 +1,5 @@
-## Walk a directory tree using a generatorOriginally published: 2002-01-04 16:54:27 
+## Walk a directory tree using a generator 
+Originally published: 2002-01-04 16:54:27 
 Last updated: 2002-01-05 01:01:38 
 Author: Tom Good 
  

@@ -1,4 +1,5 @@
-## Get the Windows service name from the long nameOriginally published: 2001-07-21 09:41:16 
+## Get the Windows service name from the long name 
+Originally published: 2001-07-21 09:41:16 
 Last updated: 2001-09-20 22:03:15 
 Author: andy mckay 
  

@@ -1,4 +1,5 @@
-## Convert a nested Python data structure to XMLOriginally published: 2011-09-28 13:14:14 
+## Convert a nested Python data structure to XML 
+Originally published: 2011-09-28 13:14:14 
 Last updated: 2011-10-17 12:48:59 
 Author: Graham Poulter 
  

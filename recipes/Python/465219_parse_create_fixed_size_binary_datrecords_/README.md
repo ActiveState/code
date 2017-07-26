@@ -1,4 +1,5 @@
-## parse and create fixed size binary data (records / structs)Originally published: 2005-12-21 11:52:06 
+## parse and create fixed size binary data (records / structs) 
+Originally published: 2005-12-21 11:52:06 
 Last updated: 2005-12-21 11:52:06 
 Author: Maciej Obarski 
  

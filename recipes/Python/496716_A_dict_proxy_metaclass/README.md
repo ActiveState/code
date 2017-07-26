@@ -1,4 +1,5 @@
-## A dict proxy metaclass.Originally published: 2006-05-17 04:05:43 
+## A dict proxy metaclass. 
+Originally published: 2006-05-17 04:05:43 
 Last updated: 2006-05-17 04:05:43 
 Author: Sundance Greydragon 
  

@@ -1,4 +1,5 @@
-## DiceOriginally published: 2014-06-12 22:01:19 
+## Dice 
+Originally published: 2014-06-12 22:01:19 
 Last updated: 2014-06-12 22:03:16 
 Author: Drew Stanly Koluk 
  

@@ -1,4 +1,5 @@
-## input_demo.pyOriginally published: 2006-02-06 17:59:58 
+## input_demo.py 
+Originally published: 2006-02-06 17:59:58 
 Last updated: 2006-02-06 17:59:58 
 Author: Stephen Chappell 
  

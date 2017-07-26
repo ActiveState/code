@@ -1,4 +1,5 @@
-## bookmarks browser for firefox Originally published: 2015-07-06 23:15:31 
+## bookmarks browser for firefox  
+Originally published: 2015-07-06 23:15:31 
 Last updated: 2015-07-06 23:15:31 
 Author: Anton Vredegoor 
  

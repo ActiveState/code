@@ -1,4 +1,5 @@
-## min/max "peaks" with NumericOriginally published: 2006-03-27 02:12:32 
+## min/max "peaks" with Numeric 
+Originally published: 2006-03-27 02:12:32 
 Last updated: 2006-03-27 02:12:32 
 Author: Maxim Krikun 
  

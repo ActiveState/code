@@ -1,4 +1,5 @@
-## RPN Stack classOriginally published: 2001-06-02 23:12:06 
+## RPN Stack class 
+Originally published: 2001-06-02 23:12:06 
 Last updated: 2001-07-26 15:43:31 
 Author: Gordon Worley 
  

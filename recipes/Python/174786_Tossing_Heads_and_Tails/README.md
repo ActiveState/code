@@ -1,4 +1,5 @@
-## Tossing Heads and TailsOriginally published: 2003-01-23 22:53:09 
+## Tossing Heads and Tails 
+Originally published: 2003-01-23 22:53:09 
 Last updated: 2003-01-23 22:53:09 
 Author: Souman Deb 
  

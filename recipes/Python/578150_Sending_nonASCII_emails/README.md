@@ -1,4 +1,5 @@
-## Sending non-ASCII emails from Python 3Originally published: 2012-06-04 20:51:44 
+## Sending non-ASCII emails from Python 3 
+Originally published: 2012-06-04 20:51:44 
 Last updated: 2012-09-16 07:50:17 
 Author: Krystian Rosiński 
  

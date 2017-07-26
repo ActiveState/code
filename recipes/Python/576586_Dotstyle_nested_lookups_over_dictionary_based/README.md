@@ -1,4 +1,5 @@
-## Dot-style nested lookups over dictionary based data structuresOriginally published: 2008-12-14 22:30:40 
+## Dot-style nested lookups over dictionary based data structures 
+Originally published: 2008-12-14 22:30:40 
 Last updated: 2008-12-14 14:32:59 
 Author: David Moss 
  

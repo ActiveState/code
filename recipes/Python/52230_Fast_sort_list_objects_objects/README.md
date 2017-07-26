@@ -1,4 +1,5 @@
-## Fast sort the list of objects by object's attributeOriginally published: 2001-03-11 07:57:45 
+## Fast sort the list of objects by object's attribute 
+Originally published: 2001-03-11 07:57:45 
 Last updated: 2001-03-11 07:57:45 
 Author: Yakov Markovitch 
  

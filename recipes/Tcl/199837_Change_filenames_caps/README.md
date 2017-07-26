@@ -1,4 +1,5 @@
-## Change filenames from caps to lowercaseOriginally published: 2003-05-14 21:23:20 
+## Change filenames from caps to lowercase 
+Originally published: 2003-05-14 21:23:20 
 Last updated: 2003-05-14 21:23:20 
 Author: saif.abrar  
  

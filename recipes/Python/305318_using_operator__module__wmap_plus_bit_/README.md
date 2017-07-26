@@ -1,4 +1,5 @@
-## using the operator  module  w/map (plus a bit on  itertools and  generator exp)Originally published: 2004-09-21 15:58:52 
+## using the operator  module  w/map (plus a bit on  itertools and  generator exp) 
+Originally published: 2004-09-21 15:58:52 
 Last updated: 2004-09-22 12:39:17 
 Author: John Nielsen 
  

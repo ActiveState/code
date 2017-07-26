@@ -1,4 +1,5 @@
-## logging support for python daemonOriginally published: 2010-10-25 15:22:17 
+## logging support for python daemon 
+Originally published: 2010-10-25 15:22:17 
 Last updated: 2010-10-25 15:22:18 
 Author: Bud P. Bruegger 
  

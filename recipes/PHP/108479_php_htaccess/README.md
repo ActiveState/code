@@ -1,4 +1,5 @@
-## php htaccessOriginally published: 2002-01-19 04:44:27 
+## php htaccess 
+Originally published: 2002-01-19 04:44:27 
 Last updated: 2002-04-25 13:33:27 
 Author: Sven Wagener 
  

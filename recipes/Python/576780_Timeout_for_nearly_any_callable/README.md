@@ -1,4 +1,5 @@
-## Timeout for (nearly) any callableOriginally published: 2009-05-27 15:50:29 
+## Timeout for (nearly) any callable 
+Originally published: 2009-05-27 15:50:29 
 Last updated: 2010-12-20 06:51:35 
 Author: Jean Brouwers 
  

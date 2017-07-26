@@ -1,4 +1,5 @@
-## Pluggable Python generatorsOriginally published: 2016-03-18 19:11:47 
+## Pluggable Python generators 
+Originally published: 2016-03-18 19:11:47 
 Last updated: 2016-03-18 19:11:48 
 Author: Vasudev Ram 
  

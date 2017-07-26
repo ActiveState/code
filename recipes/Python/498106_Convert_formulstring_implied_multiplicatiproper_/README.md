@@ -1,4 +1,5 @@
-## Convert a formula string with implied multiplication to proper formOriginally published: 2006-09-16 06:50:04 
+## Convert a formula string with implied multiplication to proper form 
+Originally published: 2006-09-16 06:50:04 
 Last updated: 2006-09-16 06:50:04 
 Author: Ernesto Adorio 
  

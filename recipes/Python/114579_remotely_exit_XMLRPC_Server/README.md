@@ -1,4 +1,5 @@
-## remotely exit a XMLRPC Server cleanlyOriginally published: 2002-02-15 12:52:29 
+## remotely exit a XMLRPC Server cleanly 
+Originally published: 2002-02-15 12:52:29 
 Last updated: 2002-02-15 12:52:29 
 Author: Christoph Dietze 
  

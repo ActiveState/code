@@ -1,4 +1,5 @@
-## Ask a question with Yahoo! Answers and YQLOriginally published: 2010-11-02 12:55:00 
+## Ask a question with Yahoo! Answers and YQL 
+Originally published: 2010-11-02 12:55:00 
 Last updated: 2010-11-02 12:55:01 
 Author: Anand B Pillai 
  

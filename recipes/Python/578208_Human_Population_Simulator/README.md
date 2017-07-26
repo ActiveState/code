@@ -1,4 +1,5 @@
-## Human Population SimulatorOriginally published: 2012-07-12 04:45:42 
+## Human Population Simulator 
+Originally published: 2012-07-12 04:45:42 
 Last updated: 2012-07-13 14:37:26 
 Author: Stephen Chappell 
  

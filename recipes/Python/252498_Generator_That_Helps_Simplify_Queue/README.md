@@ -1,4 +1,5 @@
-## A Generator That Helps Simplify Queue ConsumersOriginally published: 2003-12-04 17:29:35 
+## A Generator That Helps Simplify Queue Consumers 
+Originally published: 2003-12-04 17:29:35 
 Last updated: 2003-12-04 17:29:35 
 Author: Jimmy Retzlaff 
  

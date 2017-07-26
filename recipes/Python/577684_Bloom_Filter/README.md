@@ -1,4 +1,5 @@
-## Bloom FilterOriginally published: 2011-05-04 09:53:01 
+## Bloom Filter 
+Originally published: 2011-05-04 09:53:01 
 Last updated: 2011-06-04 17:44:21 
 Author: Raymond Hettinger 
  

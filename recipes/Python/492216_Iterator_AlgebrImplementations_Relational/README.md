@@ -1,4 +1,5 @@
-## Iterator Algebra Implementations of Relational Join AlgorithmsOriginally published: 2006-04-26 10:55:01 
+## Iterator Algebra Implementations of Relational Join Algorithms 
+Originally published: 2006-04-26 10:55:01 
 Last updated: 2006-04-26 10:55:01 
 Author: Jim Baker 
  

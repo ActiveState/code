@@ -1,4 +1,5 @@
-## Querying an online dictionaryOriginally published: 2002-06-11 15:29:11 
+## Querying an online dictionary 
+Originally published: 2002-06-11 15:29:11 
 Last updated: 2002-06-11 15:29:11 
 Author: andreas kupries 
  

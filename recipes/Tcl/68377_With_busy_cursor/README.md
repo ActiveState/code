@@ -1,4 +1,5 @@
-## With busy cursorOriginally published: 2001-09-08 10:33:55 
+## With busy cursor 
+Originally published: 2001-09-08 10:33:55 
 Last updated: 2001-09-08 10:33:55 
 Author: Joe English 
  

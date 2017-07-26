@@ -1,4 +1,5 @@
-## KR(MKv3) - uninstall.pyOriginally published: 2007-03-20 18:39:22 
+## KR(MKv3) - uninstall.py 
+Originally published: 2007-03-20 18:39:22 
 Last updated: 2007-03-20 18:39:22 
 Author: Stephen Chappell 
  

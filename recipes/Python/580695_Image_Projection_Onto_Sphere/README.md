@@ -1,4 +1,5 @@
-## Image Projection Onto SphereOriginally published: 2016-07-31 22:50:27 
+## Image Projection Onto Sphere 
+Originally published: 2016-07-31 22:50:27 
 Last updated: 2016-07-31 22:50:28 
 Author: FB36  
  

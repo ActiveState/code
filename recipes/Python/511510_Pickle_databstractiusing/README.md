@@ -1,4 +1,5 @@
-## Pickle data abstraction using `with' statementOriginally published: 2007-05-02 04:18:33 
+## Pickle data abstraction using `with' statement 
+Originally published: 2007-05-02 04:18:33 
 Last updated: 2007-05-02 04:18:33 
 Author: srid  
  

@@ -1,4 +1,5 @@
-## Decorator for appending author info to the function docstring (Python 2.4)Originally published: 2004-08-26 01:17:58 
+## Decorator for appending author info to the function docstring (Python 2.4) 
+Originally published: 2004-08-26 01:17:58 
 Last updated: 2004-08-26 01:17:58 
 Author: Dmitry Vasiliev 
  

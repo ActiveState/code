@@ -1,4 +1,5 @@
-## Python distutils + pkg-configOriginally published: 2007-02-26 23:14:40 
+## Python distutils + pkg-config 
+Originally published: 2007-02-26 23:14:40 
 Last updated: 2007-02-26 23:14:40 
 Author: Micah Dowty 
  

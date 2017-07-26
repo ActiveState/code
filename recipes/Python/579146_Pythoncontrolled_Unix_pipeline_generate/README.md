@@ -1,4 +1,5 @@
-## Python-controlled Unix pipeline to generate PDFOriginally published: 2016-01-07 18:02:51 
+## Python-controlled Unix pipeline to generate PDF 
+Originally published: 2016-01-07 18:02:51 
 Last updated: 2016-01-07 18:02:52 
 Author: Vasudev Ram 
  

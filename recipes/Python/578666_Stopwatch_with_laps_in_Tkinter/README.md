@@ -1,4 +1,5 @@
-## Stopwatch with laps in TkinterOriginally published: 2013-09-19 14:28:52 
+## Stopwatch with laps in Tkinter 
+Originally published: 2013-09-19 14:28:52 
 Last updated: 2013-09-19 18:42:10 
 Author: Frederico  
  

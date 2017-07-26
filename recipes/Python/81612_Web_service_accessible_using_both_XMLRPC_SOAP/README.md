@@ -1,4 +1,5 @@
-## Web service accessible using both XML-RPC and SOAP protocols.Originally published: 2001-10-14 00:24:12 
+## Web service accessible using both XML-RPC and SOAP protocols. 
+Originally published: 2001-10-14 00:24:12 
 Last updated: 2001-11-01 00:48:32 
 Author: Graham Dumpleton 
  

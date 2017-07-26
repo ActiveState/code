@@ -1,4 +1,5 @@
-## Hopcroft-Karp bipartite matchingOriginally published: 2002-04-27 16:53:22 
+## Hopcroft-Karp bipartite matching 
+Originally published: 2002-04-27 16:53:22 
 Last updated: 2002-04-27 16:53:22 
 Author: David Eppstein 
  

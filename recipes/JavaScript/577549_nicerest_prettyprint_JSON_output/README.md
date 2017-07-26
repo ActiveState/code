@@ -1,4 +1,5 @@
-## nicerest: pretty-print JSON outputOriginally published: 2011-01-18 22:54:41 
+## nicerest: pretty-print JSON output 
+Originally published: 2011-01-18 22:54:41 
 Last updated: 2011-01-18 22:59:12 
 Author: Trent Mick 
  

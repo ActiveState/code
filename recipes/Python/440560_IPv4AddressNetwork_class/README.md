@@ -1,4 +1,5 @@
-## IPv4Address/Network classOriginally published: 2005-09-15 07:53:15 
+## IPv4Address/Network class 
+Originally published: 2005-09-15 07:53:15 
 Last updated: 2005-09-15 07:53:15 
 Author: Edvard Majakari 
  

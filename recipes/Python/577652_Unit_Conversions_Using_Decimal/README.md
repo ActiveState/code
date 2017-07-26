@@ -1,4 +1,5 @@
-## Unit Conversions Using DecimalOriginally published: 2011-04-13 06:55:04 
+## Unit Conversions Using Decimal 
+Originally published: 2011-04-13 06:55:04 
 Last updated: 2011-04-13 06:55:05 
 Author: Dave Bailey 
  

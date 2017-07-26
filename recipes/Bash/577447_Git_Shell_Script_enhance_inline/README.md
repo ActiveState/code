@@ -1,4 +1,5 @@
-## Git Shell Script to enhance inline automation script...Originally published: 2010-11-01 00:43:02 
+## Git Shell Script to enhance inline automation script... 
+Originally published: 2010-11-01 00:43:02 
 Last updated: 2010-11-01 00:43:03 
 Author: Patrick Riendeau 
  

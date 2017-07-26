@@ -1,4 +1,5 @@
-## Create a nested dictionary from os.walkOriginally published: 2011-09-26 23:37:07 
+## Create a nested dictionary from os.walk 
+Originally published: 2011-09-26 23:37:07 
 Last updated: 2011-09-26 23:38:24 
 Author: Andrew Clark 
  

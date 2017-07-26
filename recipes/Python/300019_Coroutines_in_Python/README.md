@@ -1,4 +1,5 @@
-## Coroutines in PythonOriginally published: 2004-08-17 08:17:46 
+## Coroutines in Python 
+Originally published: 2004-08-17 08:17:46 
 Last updated: 2004-08-23 06:47:19 
 Author: Bernhard Mulder 
  

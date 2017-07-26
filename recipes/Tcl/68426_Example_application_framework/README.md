@@ -1,4 +1,5 @@
-## Example application frameworkOriginally published: 2001-09-20 12:50:25 
+## Example application framework 
+Originally published: 2001-09-20 12:50:25 
 Last updated: 2001-09-20 12:50:25 
 Author: Paul Obermeier 
  

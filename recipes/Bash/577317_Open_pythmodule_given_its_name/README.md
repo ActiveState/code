@@ -1,4 +1,5 @@
-## Open a python module given it's name in EmacsOriginally published: 2010-07-19 10:17:19 
+## Open a python module given it's name in Emacs 
+Originally published: 2010-07-19 10:17:19 
 Last updated: 2010-07-19 10:25:06 
 Author: Noufal Ibrahim 
  

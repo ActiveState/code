@@ -1,4 +1,5 @@
-## RecursionError exception: concise and informative outputOriginally published: 2013-09-17 00:23:58 
+## RecursionError exception: concise and informative output 
+Originally published: 2013-09-17 00:23:58 
 Last updated: 2015-07-05 23:46:59 
 Author: elazar  
  

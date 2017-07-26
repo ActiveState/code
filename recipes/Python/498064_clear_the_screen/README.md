@@ -1,4 +1,5 @@
-## clear the screenOriginally published: 2006-09-04 14:52:58 
+## clear the screen 
+Originally published: 2006-09-04 14:52:58 
 Last updated: 2006-09-04 14:52:58 
 Author: Ori Peleg 
  

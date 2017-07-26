@@ -1,4 +1,5 @@
-## self-logging exceptionsOriginally published: 2009-05-27 17:42:05 
+## self-logging exceptions 
+Originally published: 2009-05-27 17:42:05 
 Last updated: 2009-05-27 17:43:56 
 Author: geremy condra 
  

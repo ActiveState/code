@@ -1,4 +1,5 @@
-## Creating a single instance application (Linux version)Originally published: 2008-02-12 10:03:10 
+## Creating a single instance application (Linux version) 
+Originally published: 2008-02-12 10:03:10 
 Last updated: 2008-02-12 10:03:10 
 Author: Larry Bates 
  

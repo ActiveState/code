@@ -1,4 +1,5 @@
-## Automate CATIA V5 with Python and Pywin32Originally published: 2004-11-23 04:12:57 
+## Automate CATIA V5 with Python and Pywin32 
+Originally published: 2004-11-23 04:12:57 
 Last updated: 2008-04-02 22:22:46 
 Author: Mustafa Görmezer 
  

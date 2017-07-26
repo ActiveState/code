@@ -1,4 +1,5 @@
-## Tkinter entry with placeholderOriginally published: 2017-03-31 20:03:57 
+## Tkinter entry with placeholder 
+Originally published: 2017-03-31 20:03:57 
 Last updated: 2017-04-06 14:21:03 
 Author: Miguel Martínez López 
  

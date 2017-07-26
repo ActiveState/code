@@ -1,4 +1,5 @@
-## DoDefaultMixinOriginally published: 2004-04-22 12:30:10 
+## DoDefaultMixin 
+Originally published: 2004-04-22 12:30:10 
 Last updated: 2004-04-22 20:04:19 
 Author: Paul McNett 
  

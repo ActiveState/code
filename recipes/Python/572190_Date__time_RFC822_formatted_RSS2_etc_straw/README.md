@@ -1,4 +1,5 @@
-## Date & time RFC822 formatted for RSS2, etc (straw man)Originally published: 2008-05-07 17:33:26 
+## Date & time RFC822 formatted for RSS2, etc (straw man) 
+Originally published: 2008-05-07 17:33:26 
 Last updated: 2008-05-07 17:33:26 
 Author: Bill Bell 
  

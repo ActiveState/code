@@ -1,4 +1,5 @@
-## Simple directory list command with filename wildcard supportOriginally published: 2016-12-02 20:52:55 
+## Simple directory list command with filename wildcard support 
+Originally published: 2016-12-02 20:52:55 
 Last updated: 2016-12-02 20:52:56 
 Author: Vasudev Ram 
  

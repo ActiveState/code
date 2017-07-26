@@ -1,4 +1,5 @@
-## Ping Technocrati with your blog URLOriginally published: 2006-10-30 21:43:38 
+## Ping Technocrati with your blog URL 
+Originally published: 2006-10-30 21:43:38 
 Last updated: 2006-10-31 07:42:07 
 Author: Mayuresh Phadke 
  

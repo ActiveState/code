@@ -1,4 +1,5 @@
-## Pure Python strptimeOriginally published: 2001-05-23 18:42:48 
+## Pure Python strptime 
+Originally published: 2001-05-23 18:42:48 
 Last updated: 2003-09-15 18:01:45 
 Author: Brett Cannon 
  

@@ -1,4 +1,5 @@
-## PHP Dollarfy FunctionOriginally published: 2003-05-24 14:41:07 
+## PHP Dollarfy Function 
+Originally published: 2003-05-24 14:41:07 
 Last updated: 2003-05-24 22:03:47 
 Author: Alvin Estevez 
  

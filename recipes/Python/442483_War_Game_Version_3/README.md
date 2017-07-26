@@ -1,4 +1,5 @@
-## War Game (Version 3)Originally published: 2005-10-26 14:53:12 
+## War Game (Version 3) 
+Originally published: 2005-10-26 14:53:12 
 Last updated: 2005-12-15 00:16:47 
 Author: Stephen Chappell 
  

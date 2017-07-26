@@ -1,4 +1,5 @@
-## Package / Module Versioning Bootstrap Loader & ManagerOriginally published: 2004-06-01 09:51:02 
+## Package / Module Versioning Bootstrap Loader & Manager 
+Originally published: 2004-06-01 09:51:02 
 Last updated: 2004-06-01 09:51:02 
 Author: Clayton Brown 
  

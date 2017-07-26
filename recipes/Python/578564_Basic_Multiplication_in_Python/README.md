@@ -1,4 +1,5 @@
-## Basic Multiplication in PythonOriginally published: 2013-06-18 15:19:33 
+## Basic Multiplication in Python 
+Originally published: 2013-06-18 15:19:33 
 Last updated: 2013-06-18 15:21:08 
 Author: Captain DeadBones 
  

@@ -1,4 +1,5 @@
-## Choose a random k-subset of {1,2, ..., n}Originally published: 2002-10-13 09:37:05 
+## Choose a random k-subset of {1,2, ..., n} 
+Originally published: 2002-10-13 09:37:05 
 Last updated: 2002-10-13 09:37:05 
 Author: Bill Bell 
  

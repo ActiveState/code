@@ -1,4 +1,5 @@
-## shell - Easily call executables from PythonOriginally published: 2005-07-22 05:47:12 
+## shell - Easily call executables from Python 
+Originally published: 2005-07-22 05:47:12 
 Last updated: 2005-07-22 05:47:12 
 Author: Peter Butler 
  

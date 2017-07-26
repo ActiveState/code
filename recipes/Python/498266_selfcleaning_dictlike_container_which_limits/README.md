@@ -1,4 +1,5 @@
-## A self-cleaning dict-like container which limits the number and lifetime of its itemsOriginally published: 2006-11-15 15:16:55 
+## A self-cleaning dict-like container which limits the number and lifetime of its items 
+Originally published: 2006-11-15 15:16:55 
 Last updated: 2006-11-15 23:51:50 
 Author: Michael Palmer 
  

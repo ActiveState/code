@@ -1,4 +1,5 @@
-## File ExtractorOriginally published: 2005-11-21 09:05:45 
+## File Extractor 
+Originally published: 2005-11-21 09:05:45 
 Last updated: 2005-11-21 09:05:45 
 Author: Stephen Chappell 
  

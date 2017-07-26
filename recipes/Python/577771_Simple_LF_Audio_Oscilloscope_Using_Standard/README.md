@@ -1,4 +1,5 @@
-## Simple LF Audio Oscilloscope Using Standard Text Mode Python.Originally published: 2011-06-26 21:42:55 
+## Simple LF Audio Oscilloscope Using Standard Text Mode Python. 
+Originally published: 2011-06-26 21:42:55 
 Last updated: 2011-06-26 21:42:55 
 Author: Barry Walker 
  

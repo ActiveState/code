@@ -1,4 +1,5 @@
-## Funny text generatorOriginally published: 2011-12-18 07:31:13 
+## Funny text generator 
+Originally published: 2011-12-18 07:31:13 
 Last updated: 2011-12-25 11:14:39 
 Author: Pierre Quentel 
  

@@ -1,4 +1,5 @@
-## Splitting iteratorsOriginally published: 2003-07-29 18:14:41 
+## Splitting iterators 
+Originally published: 2003-07-29 18:14:41 
 Last updated: 2003-07-29 18:14:41 
 Author: Heiko Wundram 
  

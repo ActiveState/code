@@ -1,4 +1,5 @@
-## File comparison utility in PythonOriginally published: 2016-03-26 18:31:09 
+## File comparison utility in Python 
+Originally published: 2016-03-26 18:31:09 
 Last updated: 2016-03-26 18:31:11 
 Author: Vasudev Ram 
  

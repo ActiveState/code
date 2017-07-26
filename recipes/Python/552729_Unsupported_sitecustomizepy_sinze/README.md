@@ -1,4 +1,5 @@
-## Unsupported sitecustomize.py sinze Python 2.5Originally published: 2008-03-26 12:23:19 
+## Unsupported sitecustomize.py sinze Python 2.5 
+Originally published: 2008-03-26 12:23:19 
 Last updated: 2008-03-26 12:23:19 
 Author: Dirk Holtwick 
  

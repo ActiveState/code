@@ -1,4 +1,5 @@
-## Metropolis-Hastings SamplerOriginally published: 2005-05-13 15:58:00 
+## Metropolis-Hastings Sampler 
+Originally published: 2005-05-13 15:58:00 
 Last updated: 2005-05-13 15:58:00 
 Author: Flávio Codeço Coelho 
  

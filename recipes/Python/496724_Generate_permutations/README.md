@@ -1,4 +1,5 @@
-## Generate the permutations of a bagOriginally published: 2006-05-19 07:29:16 
+## Generate the permutations of a bag 
+Originally published: 2006-05-19 07:29:16 
 Last updated: 2006-05-20 02:15:17 
 Author: Anton Vredegoor 
  

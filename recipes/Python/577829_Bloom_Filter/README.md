@@ -1,4 +1,5 @@
-## Bloom FilterOriginally published: 2011-08-08 00:14:35 
+## Bloom Filter 
+Originally published: 2011-08-08 00:14:35 
 Last updated: 2011-08-08 00:14:35 
 Author: sivarama sarma 
  

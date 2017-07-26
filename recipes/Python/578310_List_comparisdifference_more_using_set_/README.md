@@ -1,4 +1,5 @@
-## List comparison, difference and more using set & frozensetOriginally published: 2012-11-01 10:30:58 
+## List comparison, difference and more using set & frozenset 
+Originally published: 2012-11-01 10:30:58 
 Last updated: 2012-11-01 10:30:58 
 Author: Scott S-Allen 
  

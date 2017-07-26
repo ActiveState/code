@@ -1,4 +1,5 @@
-## Samuel F. B. Morse's CodeOriginally published: 2012-12-06 04:20:31 
+## Samuel F. B. Morse's Code 
+Originally published: 2012-12-06 04:20:31 
 Last updated: 2012-12-06 04:20:31 
 Author: Stephen Chappell 
  

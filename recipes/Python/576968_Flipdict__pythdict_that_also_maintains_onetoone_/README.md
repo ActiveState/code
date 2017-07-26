@@ -1,4 +1,5 @@
-## Flipdict -- python dict that also maintains a one-to-one inverse mappingOriginally published: 2009-11-27 09:56:48 
+## Flipdict -- python dict that also maintains a one-to-one inverse mapping 
+Originally published: 2009-11-27 09:56:48 
 Last updated: 2009-12-03 14:43:52 
 Author: Francis Carr 
  

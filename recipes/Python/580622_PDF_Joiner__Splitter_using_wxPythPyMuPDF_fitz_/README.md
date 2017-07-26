@@ -1,4 +1,5 @@
-## PDF Joiner / Splitter using wxPython, PyMuPDF (fitz / MuPDF)Originally published: 2016-03-15 19:07:34 
+## PDF Joiner / Splitter using wxPython, PyMuPDF (fitz / MuPDF) 
+Originally published: 2016-03-15 19:07:34 
 Last updated: 2016-03-15 19:07:35 
 Author: Harald Lieder 
  

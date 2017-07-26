@@ -1,4 +1,5 @@
-## Stack-based indentation of formatted loggingOriginally published: 2005-04-28 16:13:06 
+## Stack-based indentation of formatted logging 
+Originally published: 2005-04-28 16:13:06 
 Last updated: 2005-04-28 23:27:16 
 Author: Christopher Dunn 
  

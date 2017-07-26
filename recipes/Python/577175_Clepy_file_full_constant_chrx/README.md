@@ -1,4 +1,5 @@
-## Clean a .py file full of constant chr(x) callsOriginally published: 2010-04-02 08:20:49 
+## Clean a .py file full of constant chr(x) calls 
+Originally published: 2010-04-02 08:20:49 
 Last updated: 2010-04-02 08:20:50 
 Author: Marcelo Fernández 
  

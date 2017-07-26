@@ -1,4 +1,5 @@
-## A  script to automate  installing MTS Mblaze UI in linuxOriginally published: 2015-03-26 04:11:11 
+## A  script to automate  installing MTS Mblaze UI in linux 
+Originally published: 2015-03-26 04:11:11 
 Last updated: 2015-07-29 18:26:59 
 Author: Emil george james 
  

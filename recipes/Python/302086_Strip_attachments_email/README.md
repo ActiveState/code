@@ -1,4 +1,5 @@
-## Strip attachments from an email messageOriginally published: 2004-08-26 06:08:02 
+## Strip attachments from an email message 
+Originally published: 2004-08-26 06:08:02 
 Last updated: 2004-08-26 06:08:02 
 Author: anthony baxter 
  

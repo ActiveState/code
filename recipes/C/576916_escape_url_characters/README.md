@@ -1,4 +1,5 @@
-## escape url charactersOriginally published: 2009-09-28 20:41:05 
+## escape url characters 
+Originally published: 2009-09-28 20:41:05 
 Last updated: 2009-09-28 20:41:05 
 Author: J Y 
  

@@ -1,4 +1,5 @@
-## Set windows 7 to lock itself (upon timeout) if no internet connection found - security measureOriginally published: 2012-07-09 20:45:32 
+## Set windows 7 to lock itself (upon timeout) if no internet connection found - security measure 
+Originally published: 2012-07-09 20:45:32 
 Last updated: 2012-07-09 20:56:22 
 Author: commentator8  
  

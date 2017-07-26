@@ -1,4 +1,5 @@
-## Sorting a dict's items and keysOriginally published: 2012-02-03 23:08:25 
+## Sorting a dict's items and keys 
+Originally published: 2012-02-03 23:08:25 
 Last updated: 2012-02-04 04:23:01 
 Author: George V. Reilly 
  

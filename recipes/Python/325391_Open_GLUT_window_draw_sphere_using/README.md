@@ -1,4 +1,5 @@
-## Open a GLUT window and draw a sphere using Python/OpenGLOriginally published: 2004-10-27 09:55:45 
+## Open a GLUT window and draw a sphere using Python/OpenGL 
+Originally published: 2004-10-27 09:55:45 
 Last updated: 2004-10-27 09:55:45 
 Author: Rick Muller 
  

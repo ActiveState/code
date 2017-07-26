@@ -1,4 +1,5 @@
-## pdf-pages: Include only specified pages and arrange several on a sheet of paperOriginally published: 2006-06-20 13:16:00 
+## pdf-pages: Include only specified pages and arrange several on a sheet of paper 
+Originally published: 2006-06-20 13:16:00 
 Last updated: 2006-07-02 02:46:22 
 Author: Scott Tsai 
  

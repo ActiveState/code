@@ -1,4 +1,5 @@
-## Creating a single instance applicationOriginally published: 2014-11-20 11:46:51 
+## Creating a single instance application 
+Originally published: 2014-11-20 11:46:51 
 Last updated: 2014-11-20 11:59:46 
 Author: Matteo Bertini 
  

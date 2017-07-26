@@ -1,4 +1,5 @@
-## Control break report using a dictionaryOriginally published: 2006-04-28 05:00:24 
+## Control break report using a dictionary 
+Originally published: 2006-04-28 05:00:24 
 Last updated: 2006-04-28 05:00:24 
 Author: Ernesto Adorio 
  

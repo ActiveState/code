@@ -1,4 +1,5 @@
-## Lattice MultiplicationOriginally published: 2011-07-07 07:07:59 
+## Lattice Multiplication 
+Originally published: 2011-07-07 07:07:59 
 Last updated: 2011-07-07 07:07:59 
 Author: Thomas Lehmann 
  

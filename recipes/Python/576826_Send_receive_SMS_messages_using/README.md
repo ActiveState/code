@@ -1,4 +1,5 @@
-## Send and receive SMS messages using TextMagicOriginally published: 2009-07-02 13:59:56 
+## Send and receive SMS messages using TextMagic 
+Originally published: 2009-07-02 13:59:56 
 Last updated: 2015-05-01 19:03:46 
 Author: Dawie Strauss 
  

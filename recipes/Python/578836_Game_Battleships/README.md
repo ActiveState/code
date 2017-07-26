@@ -1,4 +1,5 @@
-## The Game of Battleships in PythonOriginally published: 2014-02-22 06:12:39 
+## The Game of Battleships in Python 
+Originally published: 2014-02-22 06:12:39 
 Last updated: 2014-02-22 06:13:41 
 Author: Captain DeadBones 
  

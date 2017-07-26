@@ -1,4 +1,5 @@
-## Cron-like TriggersOriginally published: 2010-11-20 04:14:07 
+## Cron-like Triggers 
+Originally published: 2010-11-20 04:14:07 
 Last updated: 2010-12-07 22:52:10 
 Author: Eric Pruitt 
  

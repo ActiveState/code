@@ -1,4 +1,5 @@
-## Pi_ApproximationOriginally published: 2010-02-24 04:44:09 
+## Pi_Approximation 
+Originally published: 2010-02-24 04:44:09 
 Last updated: 2011-01-27 12:50:56 
 Author: Fouad Teniou 
  

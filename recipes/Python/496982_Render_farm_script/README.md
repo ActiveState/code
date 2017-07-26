@@ -1,4 +1,5 @@
-## Render farm scriptOriginally published: 2006-08-22 09:10:49 
+## Render farm script 
+Originally published: 2006-08-22 09:10:49 
 Last updated: 2006-08-22 09:10:49 
 Author: Will Ware 
  

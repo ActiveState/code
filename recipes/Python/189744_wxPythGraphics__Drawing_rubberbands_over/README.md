@@ -1,4 +1,5 @@
-## wxPython Graphics - Drawing rubberbands over a canvasOriginally published: 2003-03-16 04:44:41 
+## wxPython Graphics - Drawing rubberbands over a canvas 
+Originally published: 2003-03-16 04:44:41 
 Last updated: 2003-12-30 05:43:10 
 Author: Anand  
  

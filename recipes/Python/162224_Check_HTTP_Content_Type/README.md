@@ -1,4 +1,5 @@
-## Check HTTP Content TypeOriginally published: 2002-11-12 17:43:45 
+## Check HTTP Content Type 
+Originally published: 2002-11-12 17:43:45 
 Last updated: 2002-11-12 17:43:45 
 Author: Bob Stockwell 
  

@@ -1,4 +1,5 @@
-## Manipulate simple polynomials in PythonOriginally published: 2005-01-06 15:13:17 
+## Manipulate simple polynomials in Python 
+Originally published: 2005-01-06 15:13:17 
 Last updated: 2005-01-07 11:45:06 
 Author: Rick Muller 
  

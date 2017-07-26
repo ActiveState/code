@@ -1,4 +1,5 @@
-## Safe HTML string and unicodeOriginally published: 2012-01-09 18:29:20 
+## Safe HTML string and unicode 
+Originally published: 2012-01-09 18:29:20 
 Last updated: 2012-01-10 08:14:14 
 Author: Garel Alex 
  

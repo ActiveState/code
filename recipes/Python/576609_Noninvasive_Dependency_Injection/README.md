@@ -1,4 +1,5 @@
-## Non-invasive Dependency InjectionOriginally published: 2009-01-11 10:21:51 
+## Non-invasive Dependency Injection 
+Originally published: 2009-01-11 10:21:51 
 Last updated: 2009-01-11 13:33:32 
 Author: Ivo Danihelka 
  

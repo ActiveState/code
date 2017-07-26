@@ -1,4 +1,5 @@
-## Copy gmail.com contacts onto your mobile phone via gnokiiOriginally published: 2006-01-08 12:28:48 
+## Copy gmail.com contacts onto your mobile phone via gnokii 
+Originally published: 2006-01-08 12:28:48 
 Last updated: 2007-05-23 05:51:27 
 Author: Scott Tsai 
  

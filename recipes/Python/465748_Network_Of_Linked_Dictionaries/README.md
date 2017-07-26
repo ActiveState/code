@@ -1,4 +1,5 @@
-## Network Of Linked DictionariesOriginally published: 2006-01-02 03:35:06 
+## Network Of Linked Dictionaries 
+Originally published: 2006-01-02 03:35:06 
 Last updated: 2006-01-02 12:34:10 
 Author: Wolfgang Lipp 
  

@@ -1,4 +1,5 @@
-## newaskstring DialogOriginally published: 2004-06-19 02:58:10 
+## newaskstring Dialog 
+Originally published: 2004-06-19 02:58:10 
 Last updated: 2004-06-19 02:58:10 
 Author: Michael Foord 
  

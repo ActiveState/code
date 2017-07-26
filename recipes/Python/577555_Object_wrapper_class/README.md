@@ -1,4 +1,5 @@
-## Object wrapper classOriginally published: 2011-01-28 12:40:57 
+## Object wrapper class 
+Originally published: 2011-01-28 12:40:57 
 Last updated: 2011-01-28 12:40:58 
 Author: Nichita Utiu 
  

@@ -1,4 +1,5 @@
-## Decorate an output stream with print-like methodsOriginally published: 2001-07-03 13:57:02 
+## Decorate an output stream with print-like methods 
+Originally published: 2001-07-03 13:57:02 
 Last updated: 2001-07-03 13:57:02 
 Author: Jürgen Hermann 
  

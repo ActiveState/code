@@ -1,4 +1,5 @@
-## Dialect for sort by... then by..Originally published: 2001-06-21 16:49:17 
+## Dialect for sort by... then by.. 
+Originally published: 2001-06-21 16:49:17 
 Last updated: 2001-06-21 16:49:17 
 Author: Jeff Hobbs 
  

@@ -1,4 +1,5 @@
-## Builtin i18n _() function in a multi-threaded environment.Originally published: 2006-01-02 10:57:10 
+## Builtin i18n _() function in a multi-threaded environment. 
+Originally published: 2006-01-02 10:57:10 
 Last updated: 2006-01-02 10:57:10 
 Author: Martin Blais 
  

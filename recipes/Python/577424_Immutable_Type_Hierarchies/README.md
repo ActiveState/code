@@ -1,4 +1,5 @@
-## Immutable Type HierarchiesOriginally published: 2010-10-11 23:23:17 
+## Immutable Type Hierarchies 
+Originally published: 2010-10-11 23:23:17 
 Last updated: 2010-10-11 23:32:31 
 Author: Aaron Sterling 
  

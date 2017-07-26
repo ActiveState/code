@@ -1,4 +1,5 @@
-## import ElementTree from everywhereOriginally published: 2006-03-13 22:59:31 
+## import ElementTree from everywhere 
+Originally published: 2006-03-13 22:59:31 
 Last updated: 2006-07-14 01:19:09 
 Author: Trent Mick 
  

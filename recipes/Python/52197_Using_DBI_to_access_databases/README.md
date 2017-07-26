@@ -1,4 +1,5 @@
-## Using DBI to access databasesOriginally published: 2001-02-23 19:03:43 
+## Using DBI to access databases 
+Originally published: 2001-02-23 19:03:43 
 Last updated: 2001-02-23 19:03:43 
 Author: Gisle Aas 
  

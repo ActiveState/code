@@ -1,4 +1,5 @@
-## Simple Prime Number Generator in PythonOriginally published: 2013-01-06 20:18:38 
+## Simple Prime Number Generator in Python 
+Originally published: 2013-01-06 20:18:38 
 Last updated: 2013-01-06 20:18:38 
 Author: Captain DeadBones 
  

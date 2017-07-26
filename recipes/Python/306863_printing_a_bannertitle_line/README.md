@@ -1,4 +1,5 @@
-## printing a banner/title lineOriginally published: 2004-10-02 12:28:30 
+## printing a banner/title line 
+Originally published: 2004-10-02 12:28:30 
 Last updated: 2010-07-07 17:20:35 
 Author: Trent Mick 
  

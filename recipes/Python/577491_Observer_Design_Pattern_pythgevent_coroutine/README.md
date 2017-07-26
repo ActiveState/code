@@ -1,4 +1,5 @@
-## Observer Design Pattern for python gevent coroutine packageOriginally published: 2010-12-08 08:32:43 
+## Observer Design Pattern for python gevent coroutine package 
+Originally published: 2010-12-08 08:32:43 
 Last updated: 2010-12-08 08:33:30 
 Author: Andrey Nikishaev 
  

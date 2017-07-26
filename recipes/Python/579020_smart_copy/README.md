@@ -1,4 +1,5 @@
-## smart copyOriginally published: 2015-02-06 09:44:10 
+## smart copy 
+Originally published: 2015-02-06 09:44:10 
 Last updated: 2015-02-06 09:45:12 
 Author: yota  
  

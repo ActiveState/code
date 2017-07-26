@@ -1,4 +1,5 @@
-## A command-line musical alarm clockOriginally published: 2016-12-30 19:06:31 
+## A command-line musical alarm clock 
+Originally published: 2016-12-30 19:06:31 
 Last updated: 2016-12-30 19:06:32 
 Author: Vasudev Ram 
  

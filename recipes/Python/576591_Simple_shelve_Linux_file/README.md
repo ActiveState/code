@@ -1,4 +1,5 @@
-## Simple shelve with Linux file lockingOriginally published: 2008-12-21 05:50:07 
+## Simple shelve with Linux file locking 
+Originally published: 2008-12-21 05:50:07 
 Last updated: 2008-12-21 05:50:07 
 Author: Michael Ihde 
  

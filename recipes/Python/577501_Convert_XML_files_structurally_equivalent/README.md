@@ -1,4 +1,5 @@
-## Convert XML files to structurally equivalent garbageOriginally published: 2010-12-15 18:57:41 
+## Convert XML files to structurally equivalent garbage 
+Originally published: 2010-12-15 18:57:41 
 Last updated: 2010-12-15 18:57:42 
 Author: Eric Promislow 
  

@@ -1,4 +1,5 @@
-## Replace occurrence off string in files under directory treeOriginally published: 2002-04-16 07:08:23 
+## Replace occurrence off string in files under directory tree 
+Originally published: 2002-04-16 07:08:23 
 Last updated: 2002-04-18 12:37:37 
 Author: Ivan Brkanac 
  

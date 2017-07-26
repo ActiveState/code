@@ -1,4 +1,5 @@
-## Generator Based Concurrency, with Real Threads when Needed.Originally published: 2005-10-07 01:52:34 
+## Generator Based Concurrency, with Real Threads when Needed. 
+Originally published: 2005-10-07 01:52:34 
 Last updated: 2005-12-12 00:49:44 
 Author: S W 
  

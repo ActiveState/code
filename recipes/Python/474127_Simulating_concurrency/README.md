@@ -1,4 +1,5 @@
-## Simulating concurrency with yieldOriginally published: 2006-03-08 07:52:06 
+## Simulating concurrency with yield 
+Originally published: 2006-03-08 07:52:06 
 Last updated: 2006-03-08 07:52:06 
 Author: Bernhard Mulder 
  

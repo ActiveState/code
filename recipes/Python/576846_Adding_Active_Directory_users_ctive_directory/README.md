@@ -1,4 +1,5 @@
-## Adding Active Directory users to a ctive directory group, importing the users from a txt file,Originally published: 2009-07-16 07:02:25 
+## Adding Active Directory users to a ctive directory group, importing the users from a txt file, 
+Originally published: 2009-07-16 07:02:25 
 Last updated: 2009-07-16 07:02:25 
 Author: mgarrana Garrana 
  

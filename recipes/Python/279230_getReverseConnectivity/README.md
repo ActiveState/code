@@ -1,4 +1,5 @@
-## getReverseConnectivityOriginally published: 2004-04-20 07:49:54 
+## getReverseConnectivity 
+Originally published: 2004-04-20 07:49:54 
 Last updated: 2004-04-20 07:49:54 
 Author: James Lockley 
  

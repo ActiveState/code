@@ -1,4 +1,5 @@
-## pyglet or cocos2d rich text labelOriginally published: 2008-07-29 21:31:28 
+## pyglet or cocos2d rich text label 
+Originally published: 2008-07-29 21:31:28 
 Last updated: 2008-07-31 12:32:43 
 Author: Thomas Woelz 
  

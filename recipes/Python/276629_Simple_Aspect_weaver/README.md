@@ -1,4 +1,5 @@
-## Simple Aspect weaverOriginally published: 2004-04-01 03:59:02 
+## Simple Aspect weaver 
+Originally published: 2004-04-01 03:59:02 
 Last updated: 2004-11-05 14:34:42 
 Author: Arjan Molenaar 
  

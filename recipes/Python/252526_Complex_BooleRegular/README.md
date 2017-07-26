@@ -1,4 +1,5 @@
-## Complex Boolean Regular Expression ClassOriginally published: 2003-12-11 00:56:07 
+## Complex Boolean Regular Expression Class 
+Originally published: 2003-12-11 00:56:07 
 Last updated: 2003-12-19 13:12:13 
 Author: Anand  
  

@@ -1,4 +1,5 @@
-## Series generator using generators & function decoratorsOriginally published: 2005-02-23 00:29:26 
+## Series generator using generators & function decorators 
+Originally published: 2005-02-23 00:29:26 
 Last updated: 2005-02-23 00:29:26 
 Author: Anand  
  

@@ -1,4 +1,5 @@
-## Parsing Excel XMLOriginally published: 2003-04-01 03:33:22 
+## Parsing Excel XML 
+Originally published: 2003-04-01 03:33:22 
 Last updated: 2003-04-01 03:33:22 
 Author: Thomas Guettler 
  

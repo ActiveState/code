@@ -1,4 +1,5 @@
-## First Script.....Anagram SolverOriginally published: 2013-01-20 13:40:53 
+## First Script.....Anagram Solver 
+Originally published: 2013-01-20 13:40:53 
 Last updated: 2013-01-20 13:40:53 
 Author: Garen  
  

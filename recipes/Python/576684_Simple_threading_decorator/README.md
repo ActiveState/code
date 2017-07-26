@@ -1,4 +1,5 @@
-## Simple threading decoratorOriginally published: 2009-03-08 15:46:56 
+## Simple threading decorator 
+Originally published: 2009-03-08 15:46:56 
 Last updated: 2009-03-10 01:38:51 
 Author: david.gaarenstroom  
  

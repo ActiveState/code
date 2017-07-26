@@ -1,4 +1,5 @@
-## Random selection of elements in a list, with no repeatsOriginally published: 2001-06-02 01:44:14 
+## Random selection of elements in a list, with no repeats 
+Originally published: 2001-06-02 01:44:14 
 Last updated: 2002-06-05 05:50:10 
 Author: Iuri Wickert 
  

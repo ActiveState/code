@@ -1,4 +1,5 @@
-## asskick.pyOriginally published: 2014-09-20 07:05:50 
+## asskick.py 
+Originally published: 2014-09-20 07:05:50 
 Last updated: 2014-09-20 08:16:57 
 Author: p@ntut$  
  

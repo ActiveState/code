@@ -1,4 +1,5 @@
-## Simple Wrapper for string.translateOriginally published: 2004-09-03 11:53:45 
+## Simple Wrapper for string.translate 
+Originally published: 2004-09-03 11:53:45 
 Last updated: 2004-09-03 11:53:45 
 Author: Chris Perkins 
  

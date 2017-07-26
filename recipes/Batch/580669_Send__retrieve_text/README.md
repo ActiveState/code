@@ -1,4 +1,5 @@
-## Send  and retrieve text to/from clipboardOriginally published: 2016-05-27 09:56:56 
+## Send  and retrieve text to/from clipboard 
+Originally published: 2016-05-27 09:56:56 
 Last updated: 2016-05-27 09:56:56 
 Author: Antoni Gual 
  

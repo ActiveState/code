@@ -1,4 +1,5 @@
-## SAX to DOM ChunkerOriginally published: 2004-08-06 08:48:59 
+## SAX to DOM Chunker 
+Originally published: 2004-08-06 08:48:59 
 Last updated: 2004-08-06 08:48:59 
 Author: Uche Ogbuji 
  

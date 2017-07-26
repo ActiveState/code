@@ -1,4 +1,5 @@
-## Midpoint of two GPS pointsOriginally published: 2011-05-21 22:05:02 
+## Midpoint of two GPS points 
+Originally published: 2011-05-21 22:05:02 
 Last updated: 2011-05-21 22:11:01 
 Author: Stijn de Graaf 
  

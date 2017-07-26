@@ -1,4 +1,5 @@
-## A Basic USe flag EDitor for Gentoo Linux supporting on-the-fly editingOriginally published: 2015-02-28 07:04:31 
+## A Basic USe flag EDitor for Gentoo Linux supporting on-the-fly editing 
+Originally published: 2015-02-28 07:04:31 
 Last updated: 2015-02-28 07:04:31 
 Author: Mike 'Fuzzy' Partin 
  

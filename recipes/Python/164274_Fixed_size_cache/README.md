@@ -1,4 +1,5 @@
-## Fixed size cacheOriginally published: 2002-11-26 03:13:07 
+## Fixed size cache 
+Originally published: 2002-11-26 03:13:07 
 Last updated: 2002-11-26 03:13:07 
 Author: Sébastien Keim 
  

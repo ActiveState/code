@@ -1,4 +1,5 @@
-## Brute-force sudoku solverOriginally published: 2009-04-23 15:09:29 
+## Brute-force sudoku solver 
+Originally published: 2009-04-23 15:09:29 
 Last updated: 2009-04-23 18:33:56 
 Author: Sylvain Fourmanoit 
  

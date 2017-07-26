@@ -1,4 +1,5 @@
-## Super Shorcuts for WindowsOriginally published: 2009-04-26 11:09:39 
+## Super Shorcuts for Windows 
+Originally published: 2009-04-26 11:09:39 
 Last updated: 2009-04-26 11:09:39 
 Author: Akira Fora 
  

@@ -1,4 +1,5 @@
-## getFilesByExtOriginally published: 2004-03-05 06:40:40 
+## getFilesByExt 
+Originally published: 2004-03-05 06:40:40 
 Last updated: 2004-03-05 06:40:40 
 Author: James Lockley 
  

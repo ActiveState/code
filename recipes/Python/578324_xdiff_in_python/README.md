@@ -1,4 +1,5 @@
-## xdiff in pythonOriginally published: 2012-11-12 20:56:58 
+## xdiff in python 
+Originally published: 2012-11-12 20:56:58 
 Last updated: 2012-11-12 20:59:54 
 Author: Hiro  
  

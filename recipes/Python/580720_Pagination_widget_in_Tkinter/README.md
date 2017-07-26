@@ -1,4 +1,5 @@
-## Pagination widget in TkinterOriginally published: 2016-11-20 11:54:55 
+## Pagination widget in Tkinter 
+Originally published: 2016-11-20 11:54:55 
 Last updated: 2017-05-01 20:34:49 
 Author: Miguel Martínez López 
  

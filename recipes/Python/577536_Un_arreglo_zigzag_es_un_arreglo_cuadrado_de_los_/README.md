@@ -1,4 +1,5 @@
-## Un arreglo zig-zag es un arreglo cuadrado de los primeros N2 enterosOriginally published: 2011-01-07 17:14:13 
+## Un arreglo zig-zag es un arreglo cuadrado de los primeros N2 enteros 
+Originally published: 2011-01-07 17:14:13 
 Last updated: 2011-01-11 23:56:55 
 Author: jrovegno  
  

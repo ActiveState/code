@@ -1,4 +1,5 @@
-## very poor man's xml parser and generatorOriginally published: 2006-04-04 06:06:07 
+## very poor man's xml parser and generator 
+Originally published: 2006-04-04 06:06:07 
 Last updated: 2006-04-18 13:53:33 
 Author: Ferdinand Jamitzky 
  

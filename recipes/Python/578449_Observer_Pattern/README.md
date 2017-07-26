@@ -1,4 +1,5 @@
-## Observer PatternOriginally published: 2013-02-04 20:55:10 
+## Observer Pattern 
+Originally published: 2013-02-04 20:55:10 
 Last updated: 2013-02-04 20:55:10 
 Author: Ilya Pashchenko 
  

@@ -1,4 +1,5 @@
-## Hidden Scanner functionality in re moduleOriginally published: 2005-11-27 07:40:39 
+## Hidden Scanner functionality in re module 
+Originally published: 2005-11-27 07:40:39 
 Last updated: 2005-12-02 07:33:16 
 Author: Dirk Holtwick 
  

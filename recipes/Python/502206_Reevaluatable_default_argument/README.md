@@ -1,4 +1,5 @@
-## Re-evaluatable default argument expressionsOriginally published: 2007-02-03 19:13:34 
+## Re-evaluatable default argument expressions 
+Originally published: 2007-02-03 19:13:34 
 Last updated: 2007-02-04 05:04:41 
 Author: George Sakkis 
  

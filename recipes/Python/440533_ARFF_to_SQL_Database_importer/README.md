@@ -1,4 +1,5 @@
-## ARFF to SQL Database importerOriginally published: 2005-09-06 21:19:42 
+## ARFF to SQL Database importer 
+Originally published: 2005-09-06 21:19:42 
 Last updated: 2007-03-12 06:11:03 
 Author: Pradeep Kishore Gowda 
  

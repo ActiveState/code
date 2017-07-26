@@ -1,4 +1,5 @@
-## Firefox MODOriginally published: 2007-03-28 14:45:50 
+## Firefox MOD 
+Originally published: 2007-03-28 14:45:50 
 Last updated: 2007-03-28 14:45:50 
 Author: Stephen Chappell 
  

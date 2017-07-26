@@ -1,4 +1,5 @@
-## Fuzzy Google truthOriginally published: 2002-06-11 15:40:48 
+## Fuzzy Google truth 
+Originally published: 2002-06-11 15:40:48 
 Last updated: 2002-06-11 15:40:48 
 Author: andreas kupries 
  

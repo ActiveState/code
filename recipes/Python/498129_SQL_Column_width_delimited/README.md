@@ -1,4 +1,5 @@
-## SQL Column width from delimited textOriginally published: 2006-09-22 23:12:52 
+## SQL Column width from delimited text 
+Originally published: 2006-09-22 23:12:52 
 Last updated: 2006-09-22 23:12:52 
 Author: Matt Keranen 
  

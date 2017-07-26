@@ -1,4 +1,5 @@
-## Automagically dispatch commands using regex token classesOriginally published: 2009-09-28 03:45:35 
+## Automagically dispatch commands using regex token classes 
+Originally published: 2009-09-28 03:45:35 
 Last updated: 2009-09-28 03:46:29 
 Author: Mick Krippendorf 
  

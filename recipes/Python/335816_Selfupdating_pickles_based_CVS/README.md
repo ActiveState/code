@@ -1,4 +1,5 @@
-## Self-updating pickles, based on CVS revision stringOriginally published: 2004-11-16 11:39:03 
+## Self-updating pickles, based on CVS revision string 
+Originally published: 2004-11-16 11:39:03 
 Last updated: 2004-11-16 11:39:03 
 Author: Lonnie Princehouse 
  

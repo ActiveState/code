@@ -1,4 +1,5 @@
-## Directory Pruner 2Originally published: 2011-04-05 01:37:11 
+## Directory Pruner 2 
+Originally published: 2011-04-05 01:37:11 
 Last updated: 2011-04-05 01:37:14 
 Author: Stephen Chappell 
  

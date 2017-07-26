@@ -1,4 +1,5 @@
-## Simplified Mutable InstancesOriginally published: 2004-08-15 04:26:41 
+## Simplified Mutable Instances 
+Originally published: 2004-08-15 04:26:41 
 Last updated: 2004-08-15 04:26:41 
 Author: Tim Fitz 
  

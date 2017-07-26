@@ -1,4 +1,5 @@
-## An object-oriented enum (Java-like)Originally published: 2007-06-02 17:24:11 
+## An object-oriented enum (Java-like) 
+Originally published: 2007-06-02 17:24:11 
 Last updated: 2007-06-02 17:24:11 
 Author: François Sarradin 
  

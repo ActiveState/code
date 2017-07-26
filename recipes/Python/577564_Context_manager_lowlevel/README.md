@@ -1,4 +1,5 @@
-## Context manager for low-level redirection of stdout/stderrOriginally published: 2011-02-06 02:36:32 
+## Context manager for low-level redirection of stdout/stderr 
+Originally published: 2011-02-06 02:36:32 
 Last updated: 2012-01-26 02:14:25 
 Author: Greg Haskins 
  

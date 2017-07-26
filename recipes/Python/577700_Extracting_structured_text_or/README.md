@@ -1,4 +1,5 @@
-## Extracting structured text or codeOriginally published: 2011-05-17 15:00:20 
+## Extracting structured text or code 
+Originally published: 2011-05-17 15:00:20 
 Last updated: 2011-05-18 13:04:01 
 Author: Mike Sweeney 
  

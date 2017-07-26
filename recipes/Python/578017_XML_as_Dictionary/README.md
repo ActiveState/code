@@ -1,4 +1,5 @@
-## XML as DictionaryOriginally published: 2012-01-17 18:10:29 
+## XML as Dictionary 
+Originally published: 2012-01-17 18:10:29 
 Last updated: 2012-01-17 18:10:29 
 Author: Vikram Baghel 
  

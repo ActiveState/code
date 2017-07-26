@@ -1,4 +1,5 @@
-## Storing a Single Username and Encrypted Password to a FileOriginally published: 2013-01-31 02:03:36 
+## Storing a Single Username and Encrypted Password to a File 
+Originally published: 2013-01-31 02:03:36 
 Last updated: 2013-01-31 02:07:25 
 Author: Captain DeadBones 
  

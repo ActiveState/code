@@ -1,4 +1,5 @@
-## IMAP mailwatcher program using TkinterOriginally published: 2001-03-22 20:35:29 
+## IMAP mailwatcher program using Tkinter 
+Originally published: 2001-03-22 20:35:29 
 Last updated: 2001-03-22 20:35:29 
 Author: Brent Burley 
  

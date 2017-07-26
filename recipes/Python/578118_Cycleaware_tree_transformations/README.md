@@ -1,4 +1,5 @@
-## Cycle-aware tree transformationsOriginally published: 2012-05-02 16:55:13 
+## Cycle-aware tree transformations 
+Originally published: 2012-05-02 16:55:13 
 Last updated: 2012-06-20 08:09:13 
 Author: Sander Evers 
  

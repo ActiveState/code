@@ -1,4 +1,5 @@
-## creating a share on windows with pythonOriginally published: 2004-09-03 11:30:26 
+## creating a share on windows with python 
+Originally published: 2004-09-03 11:30:26 
 Last updated: 2004-09-03 11:30:26 
 Author: John Nielsen 
  

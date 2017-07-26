@@ -1,4 +1,5 @@
-## Probably the fastest memoization decorator in the worldOriginally published: 2012-08-02 07:27:12 
+## Probably the fastest memoization decorator in the world 
+Originally published: 2012-08-02 07:27:12 
 Last updated: 2012-08-02 07:27:12 
 Author: Oren Tirosh 
  

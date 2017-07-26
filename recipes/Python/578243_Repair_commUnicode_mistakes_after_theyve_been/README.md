@@ -1,4 +1,5 @@
-## Repair common Unicode mistakes after they've been made (obsoleted by ftfy package)Originally published: 2012-08-17 17:30:22 
+## Repair common Unicode mistakes after they've been made (obsoleted by ftfy package) 
+Originally published: 2012-08-17 17:30:22 
 Last updated: 2016-09-28 02:33:32 
 Author: Rob Speer 
  

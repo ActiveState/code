@@ -1,4 +1,5 @@
-## PseudoStructOriginally published: 2012-11-25 03:43:05 
+## PseudoStruct 
+Originally published: 2012-11-25 03:43:05 
 Last updated: 2012-11-25 03:43:06 
 Author: Matthew Zipay 
  

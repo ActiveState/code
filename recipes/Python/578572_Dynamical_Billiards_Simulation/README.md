@@ -1,4 +1,5 @@
-## Dynamical Billiards SimulationOriginally published: 2013-06-20 06:57:56 
+## Dynamical Billiards Simulation 
+Originally published: 2013-06-20 06:57:56 
 Last updated: 2013-06-20 06:57:57 
 Author: Steve Wadley 
  

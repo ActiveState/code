@@ -1,4 +1,5 @@
-## Simplified, highly optimized LRU CacheOriginally published: 2011-11-30 00:50:54 
+## Simplified, highly optimized LRU Cache 
+Originally published: 2011-11-30 00:50:54 
 Last updated: 2011-12-01 00:57:38 
 Author: Raymond Hettinger 
  

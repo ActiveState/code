@@ -1,4 +1,5 @@
-## Dictionary of Methods/FunctionsOriginally published: 2001-06-12 18:44:04 
+## Dictionary of Methods/Functions 
+Originally published: 2001-06-12 18:44:04 
 Last updated: 2001-06-12 18:44:04 
 Author: Richard Wall 
  

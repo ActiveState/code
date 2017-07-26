@@ -1,4 +1,5 @@
-## Enable xmlrpclib to maintain a JSP sessionOriginally published: 2002-11-10 08:46:45 
+## Enable xmlrpclib to maintain a JSP session 
+Originally published: 2002-11-10 08:46:45 
 Last updated: 2002-11-10 08:46:45 
 Author: Danny Yoo 
  

@@ -1,4 +1,5 @@
-## Komodo JS Macro - move current line down oneOriginally published: 2010-03-10 12:25:05 
+## Komodo JS Macro - move current line down one 
+Originally published: 2010-03-10 12:25:05 
 Last updated: 2010-03-10 12:25:06 
 Author: Eric Promislow 
  

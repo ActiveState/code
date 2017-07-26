@@ -1,4 +1,5 @@
-## A wxPython GUI To Create Sqlite3 DatabasesOriginally published: 2013-09-18 22:54:33 
+## A wxPython GUI To Create Sqlite3 Databases 
+Originally published: 2013-09-18 22:54:33 
 Last updated: 2013-09-18 23:05:51 
 Author: toufic zaarour 
  

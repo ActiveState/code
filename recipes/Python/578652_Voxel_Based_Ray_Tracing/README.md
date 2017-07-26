@@ -1,4 +1,5 @@
-## Voxel Based Ray TracingOriginally published: 2013-08-29 06:11:40 
+## Voxel Based Ray Tracing 
+Originally published: 2013-08-29 06:11:40 
 Last updated: 2013-08-29 06:11:41 
 Author: FB36  
  

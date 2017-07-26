@@ -1,4 +1,5 @@
-## Another Singleton ImplentationOriginally published: 2006-01-03 21:01:02 
+## Another Singleton Implentation 
+Originally published: 2006-01-03 21:01:02 
 Last updated: 2006-01-03 21:01:02 
 Author: Ian Bollinger 
  

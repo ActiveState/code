@@ -1,4 +1,5 @@
-## Merge sorted sequencesOriginally published: 2004-09-13 14:06:39 
+## Merge sorted sequences 
+Originally published: 2004-09-13 14:06:39 
 Last updated: 2004-09-18 01:54:35 
 Author: Raymond Hettinger 
  

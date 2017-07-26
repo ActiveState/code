@@ -1,4 +1,5 @@
-## Y combinatorOriginally published: 2008-07-20 00:10:20 
+## Y combinator 
+Originally published: 2008-07-20 00:10:20 
 Last updated: 2008-07-31 23:57:07 
 Author: kay schluehr 
  

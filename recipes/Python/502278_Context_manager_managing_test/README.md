@@ -1,4 +1,5 @@
-## Context manager for managing a test fileOriginally published: 2007-03-05 17:53:14 
+## Context manager for managing a test file 
+Originally published: 2007-03-05 17:53:14 
 Last updated: 2007-03-05 17:53:14 
 Author: Brett Cannon 
  

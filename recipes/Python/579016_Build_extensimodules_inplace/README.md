@@ -1,4 +1,5 @@
-## Build extension modules inplace with a MakefileOriginally published: 2015-01-29 20:54:36 
+## Build extension modules inplace with a Makefile 
+Originally published: 2015-01-29 20:54:36 
 Last updated: 2015-01-29 20:54:38 
 Author: Zack Weinberg 
  

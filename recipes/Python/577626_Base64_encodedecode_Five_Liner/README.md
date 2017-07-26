@@ -1,4 +1,5 @@
-## Base64 encode-decode Five LinerOriginally published: 2011-03-29 20:57:25 
+## Base64 encode-decode Five Liner 
+Originally published: 2011-03-29 20:57:25 
 Last updated: 2013-04-26 09:37:21 
 Author: ccpizza  
  

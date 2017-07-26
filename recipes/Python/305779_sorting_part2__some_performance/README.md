@@ -1,4 +1,5 @@
-## sorting part2 -- some performance considerationsOriginally published: 2004-09-24 11:20:33 
+## sorting part2 -- some performance considerations 
+Originally published: 2004-09-24 11:20:33 
 Last updated: 2004-09-24 21:48:22 
 Author: John Nielsen 
  

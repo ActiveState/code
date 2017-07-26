@@ -1,4 +1,5 @@
-## multi_cmpOriginally published: 2007-09-10 15:00:38 
+## multi_cmp 
+Originally published: 2007-09-10 15:00:38 
 Last updated: 2007-09-10 15:00:38 
 Author: Richard Harris 
  

@@ -1,4 +1,5 @@
-## Trapping and Displaying ExceptionsOriginally published: 2004-01-12 00:57:35 
+## Trapping and Displaying Exceptions 
+Originally published: 2004-01-12 00:57:35 
 Last updated: 2004-05-04 11:47:39 
 Author: Michael Foord 
  

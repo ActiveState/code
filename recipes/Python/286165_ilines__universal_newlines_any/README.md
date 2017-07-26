@@ -1,4 +1,5 @@
-## ilines -- universal newlines from any data sourceOriginally published: 2004-06-23 11:33:52 
+## ilines -- universal newlines from any data source 
+Originally published: 2004-06-23 11:33:52 
 Last updated: 2004-06-23 11:33:52 
 Author: Scott David Daniels 
  

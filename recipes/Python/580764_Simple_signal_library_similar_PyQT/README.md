@@ -1,4 +1,5 @@
-## Simple signal library, similar to PyQT signalsOriginally published: 2017-03-21 22:11:55 
+## Simple signal library, similar to PyQT signals 
+Originally published: 2017-03-21 22:11:55 
 Last updated: 2017-04-01 21:11:50 
 Author: Miguel Martínez López 
  

@@ -1,4 +1,5 @@
-## checkCpuOriginally published: 2005-01-23 20:23:51 
+## checkCpu 
+Originally published: 2005-01-23 20:23:51 
 Last updated: 2005-01-23 20:23:51 
 Author: Patrick Finnegan 
  

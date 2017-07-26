@@ -1,4 +1,5 @@
-## List comprehensions for database requestsOriginally published: 2005-10-04 12:44:32 
+## List comprehensions for database requests 
+Originally published: 2005-10-04 12:44:32 
 Last updated: 2005-10-04 12:44:32 
 Author: Pierre Quentel 
  

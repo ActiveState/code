@@ -1,4 +1,5 @@
-## Youtap - Downloading YouTube video through Python command line scriptOriginally published: 2011-07-25 16:10:52 
+## Youtap - Downloading YouTube video through Python command line script 
+Originally published: 2011-07-25 16:10:52 
 Last updated: 2011-07-26 21:47:24 
 Author: Sundar Srinivasan 
  

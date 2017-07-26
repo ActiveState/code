@@ -1,4 +1,5 @@
-## Thread Control IdiomOriginally published: 2001-07-05 06:31:54 
+## Thread Control Idiom 
+Originally published: 2001-07-05 06:31:54 
 Last updated: 2001-07-05 06:31:54 
 Author: Doug Fort 
  

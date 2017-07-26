@@ -1,4 +1,5 @@
-## Comparing version infoOriginally published: 2007-06-05 08:09:47 
+## Comparing version info 
+Originally published: 2007-06-05 08:09:47 
 Last updated: 2007-06-05 08:09:47 
 Author: Alexander Belchenko 
  

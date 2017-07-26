@@ -1,4 +1,5 @@
-## Interruptible QueueOriginally published: 2008-08-28 03:37:37 
+## Interruptible Queue 
+Originally published: 2008-08-28 03:37:37 
 Last updated: 2008-12-04 23:27:13 
 Author: Carl Banks 
  

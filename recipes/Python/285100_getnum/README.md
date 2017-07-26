@@ -1,4 +1,5 @@
-## getnumOriginally published: 2004-05-21 11:03:48 
+## getnum 
+Originally published: 2004-05-21 11:03:48 
 Last updated: 2004-05-21 11:03:48 
 Author: Robb Tolliver 
  

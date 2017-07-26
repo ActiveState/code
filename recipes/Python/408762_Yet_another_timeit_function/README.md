@@ -1,4 +1,5 @@
-## Yet another timeit functionOriginally published: 2005-04-01 07:57:55 
+## Yet another timeit function 
+Originally published: 2005-04-01 07:57:55 
 Last updated: 2005-04-01 07:57:55 
 Author: Thomas Heller 
  

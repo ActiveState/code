@@ -1,4 +1,5 @@
-## Examples of algorithm composition with the observer pattern, using generator coroutinesOriginally published: 2006-11-10 17:05:53 
+## Examples of algorithm composition with the observer pattern, using generator coroutines 
+Originally published: 2006-11-10 17:05:53 
 Last updated: 2006-11-10 17:05:53 
 Author: Jim Baker 
  

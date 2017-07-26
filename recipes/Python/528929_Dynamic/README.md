@@ -1,4 +1,5 @@
-## Dynamic function composition decoratorOriginally published: 2007-09-06 02:36:53 
+## Dynamic function composition decorator 
+Originally published: 2007-09-06 02:36:53 
 Last updated: 2007-09-06 02:36:53 
 Author: kay schluehr 
  

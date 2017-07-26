@@ -1,4 +1,5 @@
-## Yaptoo (Yaptu outrageously obfuscated) - or yet yet another templating utilityOriginally published: 2005-12-27 10:19:59 
+## Yaptoo (Yaptu outrageously obfuscated) - or yet yet another templating utility 
+Originally published: 2005-12-27 10:19:59 
 Last updated: 2006-11-15 16:58:11 
 Author: Michael Palmer 
  

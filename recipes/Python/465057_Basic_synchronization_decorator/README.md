@@ -1,4 +1,5 @@
-## Basic synchronization decoratorOriginally published: 2005-12-19 22:29:46 
+## Basic synchronization decorator 
+Originally published: 2005-12-19 22:29:46 
 Last updated: 2005-12-19 22:29:46 
 Author: John Fouhy 
  

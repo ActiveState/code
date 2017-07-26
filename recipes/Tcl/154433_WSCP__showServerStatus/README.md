@@ -1,4 +1,5 @@
-## WSCP - showServerStatusOriginally published: 2002-10-01 04:42:31 
+## WSCP - showServerStatus 
+Originally published: 2002-10-01 04:42:31 
 Last updated: 2002-10-01 04:42:31 
 Author: Patrick Finnegan 
  

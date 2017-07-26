@@ -1,4 +1,5 @@
-## inputBoxOriginally published: 2002-12-17 23:12:40 
+## inputBox 
+Originally published: 2002-12-17 23:12:40 
 Last updated: 2002-12-17 23:12:40 
 Author: Stefano Porrino 
  

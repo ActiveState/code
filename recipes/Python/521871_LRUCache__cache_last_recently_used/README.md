@@ -1,4 +1,5 @@
-## LRUCache - A cache of the last recently used itemsOriginally published: 2007-05-28 22:34:55 
+## LRUCache - A cache of the last recently used items 
+Originally published: 2007-05-28 22:34:55 
 Last updated: 2007-05-28 22:34:55 
 Author: Charles Hixson 
  

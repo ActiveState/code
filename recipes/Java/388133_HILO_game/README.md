@@ -1,4 +1,5 @@
-## HI-LO gameOriginally published: 2005-02-20 10:07:41 
+## HI-LO game 
+Originally published: 2005-02-20 10:07:41 
 Last updated: 2010-02-23 15:56:05 
 Author: Ohm Patel 
  

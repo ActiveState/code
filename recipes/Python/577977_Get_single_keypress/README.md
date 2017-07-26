@@ -1,4 +1,5 @@
-## Get single keypressOriginally published: 2011-12-06 08:46:32 
+## Get single keypress 
+Originally published: 2011-12-06 08:46:32 
 Last updated: 2011-12-06 08:46:33 
 Author: Steven D'Aprano 
  

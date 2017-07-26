@@ -1,4 +1,5 @@
-## Generating get/set methods using closuresOriginally published: 2003-12-23 09:58:11 
+## Generating get/set methods using closures 
+Originally published: 2003-12-23 09:58:11 
 Last updated: 2003-12-23 09:58:11 
 Author: Arun Persad 
  

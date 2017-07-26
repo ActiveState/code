@@ -1,4 +1,5 @@
-## Password Request Code + Reading Password from FileOriginally published: 2013-01-19 04:06:44 
+## Password Request Code + Reading Password from File 
+Originally published: 2013-01-19 04:06:44 
 Last updated: 2013-01-19 04:06:45 
 Author: Captain DeadBones 
  

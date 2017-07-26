@@ -1,4 +1,5 @@
-## Selection Box formaterOriginally published: 2002-04-28 15:51:27 
+## Selection Box formater 
+Originally published: 2002-04-28 15:51:27 
 Last updated: 2002-04-28 15:51:27 
 Author: Stephen Bartholomew 
  

@@ -1,4 +1,5 @@
-## Bunch class created from attributes in classOriginally published: 2011-12-31 17:45:36 
+## Bunch class created from attributes in class 
+Originally published: 2011-12-31 17:45:36 
 Last updated: 2011-12-31 18:03:02 
 Author: Fabio Zadrozny 
  

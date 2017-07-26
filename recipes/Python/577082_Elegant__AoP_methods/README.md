@@ -1,4 +1,5 @@
-## Elegant (?) AoP for methods and functionsOriginally published: 2010-03-02 19:59:40 
+## Elegant (?) AoP for methods and functions 
+Originally published: 2010-03-02 19:59:40 
 Last updated: 2010-03-02 20:10:38 
 Author: Alec Thomas 
  

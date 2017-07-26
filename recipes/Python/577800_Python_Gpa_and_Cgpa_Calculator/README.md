@@ -1,4 +1,5 @@
-## Python Gpa and Cgpa CalculatorOriginally published: 2011-07-20 19:28:26 
+## Python Gpa and Cgpa Calculator 
+Originally published: 2011-07-20 19:28:26 
 Last updated: 2011-07-20 19:28:27 
 Author: abhijeet vaidya 
  

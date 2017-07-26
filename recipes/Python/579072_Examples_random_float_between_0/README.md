@@ -1,4 +1,5 @@
-## Examples for random float between 0 and 1Originally published: 2015-06-25 17:55:33 
+## Examples for random float between 0 and 1 
+Originally published: 2015-06-25 17:55:33 
 Last updated: 2015-06-25 17:55:33 
 Author: Stephen Chappell 
  

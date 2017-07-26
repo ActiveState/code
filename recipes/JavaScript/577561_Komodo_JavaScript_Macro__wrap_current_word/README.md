@@ -1,4 +1,5 @@
-## Komodo JavaScript Macro - wrap the current word under the cursorOriginally published: 2011-02-02 23:28:36 
+## Komodo JavaScript Macro - wrap the current word under the cursor 
+Originally published: 2011-02-02 23:28:36 
 Last updated: 2011-02-02 23:28:37 
 Author: Todd Whiteman 
  

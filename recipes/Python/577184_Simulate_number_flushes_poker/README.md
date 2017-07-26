@@ -1,4 +1,5 @@
-## Simulate number of flushes in a poker handOriginally published: 2010-04-08 05:24:11 
+## Simulate number of flushes in a poker hand 
+Originally published: 2010-04-08 05:24:11 
 Last updated: 2010-04-08 05:24:12 
 Author: Dudley G R Gentles 
  

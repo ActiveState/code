@@ -1,4 +1,5 @@
-## Strips XML/HTML Tags from stringOriginally published: 2005-08-26 07:55:04 
+## Strips XML/HTML Tags from string 
+Originally published: 2005-08-26 07:55:04 
 Last updated: 2005-08-26 07:55:04 
 Author: Micah Cochran 
  

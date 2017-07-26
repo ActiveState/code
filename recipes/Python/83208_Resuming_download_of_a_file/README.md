@@ -1,4 +1,5 @@
-## Resuming download of a fileOriginally published: 2001-10-24 11:31:38 
+## Resuming download of a file 
+Originally published: 2001-10-24 11:31:38 
 Last updated: 2001-10-24 19:42:47 
 Author: Chris Moffitt 
  

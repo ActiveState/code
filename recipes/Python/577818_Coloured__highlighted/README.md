@@ -1,4 +1,5 @@
-## Coloured / highlighted version of stringOriginally published: 2011-08-02 19:27:13 
+## Coloured / highlighted version of string 
+Originally published: 2011-08-02 19:27:13 
 Last updated: 2014-06-03 17:54:33 
 Author: Giampaolo Rodolà 
  

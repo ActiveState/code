@@ -1,4 +1,5 @@
-## Bible Verse Quiz - html.pyOriginally published: 2010-02-11 20:02:06 
+## Bible Verse Quiz - html.py 
+Originally published: 2010-02-11 20:02:06 
 Last updated: 2010-02-12 04:22:31 
 Author: Stephen Chappell 
  

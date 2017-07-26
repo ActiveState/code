@@ -1,4 +1,5 @@
-## Backwards compatibility...Originally published: 2011-09-16 18:36:13 
+## Backwards compatibility... 
+Originally published: 2011-09-16 18:36:13 
 Last updated: 2011-09-16 18:36:14 
 Author: Barry Walker 
  

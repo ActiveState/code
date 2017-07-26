@@ -1,4 +1,5 @@
-## WalkRecursiveGeneratorsOriginally published: 2007-11-28 18:59:10 
+## WalkRecursiveGenerators 
+Originally published: 2007-11-28 18:59:10 
 Last updated: 2007-11-29 19:20:33 
 Author: Shannon -jj Behrens 
  

@@ -1,4 +1,5 @@
-## Probability DictionaryOriginally published: 2010-11-12 20:13:33 
+## Probability Dictionary 
+Originally published: 2010-11-12 20:13:33 
 Last updated: 2010-11-14 08:52:51 
 Author: Felipe  
  

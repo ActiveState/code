@@ -1,4 +1,5 @@
-## Memoize decorator function with cache size limitOriginally published: 2006-07-11 00:31:12 
+## Memoize decorator function with cache size limit 
+Originally published: 2006-07-11 00:31:12 
 Last updated: 2006-07-11 00:31:12 
 Author: Foo Bar 
  

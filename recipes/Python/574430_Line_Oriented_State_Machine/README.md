@@ -1,4 +1,5 @@
-## Line Oriented State MachineOriginally published: 2008-06-27 22:38:00 
+## Line Oriented State Machine 
+Originally published: 2008-06-27 22:38:00 
 Last updated: 2008-06-30 05:13:27 
 Author: Jack Trainor 
  

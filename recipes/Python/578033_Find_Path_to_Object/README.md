@@ -1,4 +1,5 @@
-## Find Path to ObjectOriginally published: 2012-02-05 07:07:33 
+## Find Path to Object 
+Originally published: 2012-02-05 07:07:33 
 Last updated: 2012-02-05 07:07:33 
 Author: Stephen Chappell 
  

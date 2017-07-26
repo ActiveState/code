@@ -1,4 +1,5 @@
-## Finding the sizes of various Python data typesOriginally published: 2016-04-28 18:28:58 
+## Finding the sizes of various Python data types 
+Originally published: 2016-04-28 18:28:58 
 Last updated: 2016-04-28 18:28:59 
 Author: Vasudev Ram 
  

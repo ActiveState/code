@@ -1,4 +1,5 @@
-## Automated Stock Market Trading SimulationOriginally published: 2014-05-16 02:40:28 
+## Automated Stock Market Trading Simulation 
+Originally published: 2014-05-16 02:40:28 
 Last updated: 2014-05-16 02:40:28 
 Author: FB36  
  

@@ -1,4 +1,5 @@
-## dal_1.pyOriginally published: 2006-04-26 09:45:27 
+## dal_1.py 
+Originally published: 2006-04-26 09:45:27 
 Last updated: 2006-04-26 09:45:27 
 Author: Stephen Chappell 
  

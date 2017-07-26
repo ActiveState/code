@@ -1,4 +1,5 @@
-## Power Of TwoOriginally published: 2010-11-28 16:02:37 
+## Power Of Two 
+Originally published: 2010-11-28 16:02:37 
 Last updated: 2010-11-28 16:05:19 
 Author: Thomas Lehmann 
  

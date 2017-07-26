@@ -1,4 +1,5 @@
-## Case-insensitive string replacementOriginally published: 2008-03-26 01:57:19 
+## Case-insensitive string replacement 
+Originally published: 2008-03-26 01:57:19 
 Last updated: 2008-03-26 22:07:55 
 Author: Christopher Neugebauer 
  

@@ -1,4 +1,5 @@
-## with-open-file block in PythonOriginally published: 2005-03-10 15:05:19 
+## with-open-file block in Python 
+Originally published: 2005-03-10 15:05:19 
 Last updated: 2005-03-14 09:06:02 
 Author: Carl Banks 
  

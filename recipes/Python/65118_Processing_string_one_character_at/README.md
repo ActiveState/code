@@ -1,4 +1,5 @@
-## Processing a string one character at a timeOriginally published: 2001-06-10 15:44:26 
+## Processing a string one character at a time 
+Originally published: 2001-06-10 15:44:26 
 Last updated: 2001-06-10 15:44:26 
 Author: Hamish Lawson 
  

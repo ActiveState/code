@@ -1,4 +1,5 @@
-## Sieve of EratosthenesOriginally published: 2002-02-28 21:24:02 
+## Sieve of Eratosthenes 
+Originally published: 2002-02-28 21:24:02 
 Last updated: 2002-03-01 18:21:25 
 Author: David Eppstein 
  

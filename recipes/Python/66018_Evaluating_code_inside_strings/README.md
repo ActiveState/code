@@ -1,4 +1,5 @@
-## Evaluating code inside stringsOriginally published: 2001-07-12 00:45:34 
+## Evaluating code inside strings 
+Originally published: 2001-07-12 00:45:34 
 Last updated: 2001-07-12 00:45:34 
 Author: Joonas Paalasmaa 
  

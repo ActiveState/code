@@ -1,4 +1,5 @@
-## Simple PyObjC ExampleOriginally published: 2004-09-01 21:11:16 
+## Simple PyObjC Example 
+Originally published: 2004-09-01 21:11:16 
 Last updated: 2004-09-01 21:11:16 
 Author: Dethe Elza 
  

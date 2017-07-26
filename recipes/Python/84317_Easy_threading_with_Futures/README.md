@@ -1,4 +1,5 @@
-## Easy threading with FuturesOriginally published: 2001-10-30 10:15:20 
+## Easy threading with Futures 
+Originally published: 2001-10-30 10:15:20 
 Last updated: 2002-04-16 21:12:21 
 Author: David Perry 
  

@@ -1,4 +1,5 @@
-## A minimal debuggerOriginally published: 2001-06-21 16:47:46 
+## A minimal debugger 
+Originally published: 2001-06-21 16:47:46 
 Last updated: 2001-06-21 16:47:46 
 Author: Jeff Hobbs 
  

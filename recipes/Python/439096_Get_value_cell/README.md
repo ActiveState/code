@@ -1,4 +1,5 @@
-## Get the value of a cell from a closureOriginally published: 2005-08-11 14:46:42 
+## Get the value of a cell from a closure 
+Originally published: 2005-08-11 14:46:42 
 Last updated: 2005-08-11 14:46:42 
 Author: paul cannon 
  

@@ -1,4 +1,5 @@
-## script for calculating simple interestOriginally published: 2008-10-09 07:51:39 
+## script for calculating simple interest 
+Originally published: 2008-10-09 07:51:39 
 Last updated: 2008-10-09 07:51:39 
 Author: Mahmoud Hossam 
  

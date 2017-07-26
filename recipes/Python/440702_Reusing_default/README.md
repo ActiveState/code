@@ -1,4 +1,5 @@
-## Reusing default function argumentsOriginally published: 2005-10-12 11:30:21 
+## Reusing default function arguments 
+Originally published: 2005-10-12 11:30:21 
 Last updated: 2005-10-12 20:37:53 
 Author: George Sakkis 
  

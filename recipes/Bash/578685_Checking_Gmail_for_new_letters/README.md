@@ -1,4 +1,5 @@
-## Checking Gmail for new lettersOriginally published: 2013-10-11 08:11:38 
+## Checking Gmail for new letters 
+Originally published: 2013-10-11 08:11:38 
 Last updated: 2013-10-11 08:11:38 
 Author: greg zakharov 
  

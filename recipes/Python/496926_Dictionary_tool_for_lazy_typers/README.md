@@ -1,4 +1,5 @@
-## Dictionary tool for lazy typersOriginally published: 2006-08-01 13:10:36 
+## Dictionary tool for lazy typers 
+Originally published: 2006-08-01 13:10:36 
 Last updated: 2006-08-01 13:10:36 
 Author: runsun pan 
  

@@ -1,4 +1,5 @@
-## Group iterator into n-tuples with None paddingOriginally published: 2006-08-10 11:55:25 
+## Group iterator into n-tuples with None padding 
+Originally published: 2006-08-10 11:55:25 
 Last updated: 2006-08-10 11:55:25 
 Author: Brian Quinlan 
  

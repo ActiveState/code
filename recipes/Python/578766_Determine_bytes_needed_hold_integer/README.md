@@ -1,4 +1,5 @@
-## Determine bytes needed to hold integer (Python3)Originally published: 2013-11-03 18:35:17 
+## Determine bytes needed to hold integer (Python3) 
+Originally published: 2013-11-03 18:35:17 
 Last updated: 2013-11-03 18:35:18 
 Author: teddy_k  
  

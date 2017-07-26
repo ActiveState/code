@@ -1,4 +1,5 @@
-## Compile-time regex's and pattern-based dispatchingOriginally published: 2001-10-18 15:05:18 
+## Compile-time regex's and pattern-based dispatching 
+Originally published: 2001-10-18 15:05:18 
 Last updated: 2001-10-31 23:11:35 
 Author: Michael Robin 
  

@@ -1,4 +1,5 @@
-## Indexing text files with PythonOriginally published: 2014-02-08 22:12:23 
+## Indexing text files with Python 
+Originally published: 2014-02-08 22:12:23 
 Last updated: 2014-02-08 22:12:24 
 Author: Vasudev Ram 
  

@@ -1,4 +1,5 @@
-## "bothmethods": decorator that combines staticmethod and classmethodOriginally published: 2007-07-08 19:01:33 
+## "bothmethods": decorator that combines staticmethod and classmethod 
+Originally published: 2007-07-08 19:01:33 
 Last updated: 2007-07-08 19:01:33 
 Author: Samuel Cormier-Iijima 
  

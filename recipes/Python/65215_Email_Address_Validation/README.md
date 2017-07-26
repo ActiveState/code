@@ -1,4 +1,5 @@
-## E-mail Address ValidationOriginally published: 2001-06-15 12:03:42 
+## E-mail Address Validation 
+Originally published: 2001-06-15 12:03:42 
 Last updated: 2001-07-27 13:37:26 
 Author: Mark Nenadov 
  

@@ -1,4 +1,5 @@
-## subscriptable generatorOriginally published: 2007-07-07 21:34:19 
+## subscriptable generator 
+Originally published: 2007-07-07 21:34:19 
 Last updated: 2007-07-08 11:00:48 
 Author: Andrew Moffat 
  

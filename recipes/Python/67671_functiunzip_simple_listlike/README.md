@@ -1,4 +1,5 @@
-## A function to 'unzip' simple list-like objectsOriginally published: 2001-08-28 03:19:37 
+## A function to 'unzip' simple list-like objects 
+Originally published: 2001-08-28 03:19:37 
 Last updated: 2001-08-28 03:19:37 
 Author: gyro funch 
  

@@ -1,4 +1,5 @@
-## WSGI option parsing & type conversionOriginally published: 2009-05-28 16:29:06 
+## WSGI option parsing & type conversion 
+Originally published: 2009-05-28 16:29:06 
 Last updated: 2009-05-28 16:32:11 
 Author: Brendan O'Connor 
  

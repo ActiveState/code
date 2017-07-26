@@ -1,4 +1,5 @@
-## using xmlrpc with authenticated proxy serverOriginally published: 2007-07-03 23:42:04 
+## using xmlrpc with authenticated proxy server 
+Originally published: 2007-07-03 23:42:04 
 Last updated: 2007-07-03 23:42:04 
 Author: Vaibhav Bhatia 
  

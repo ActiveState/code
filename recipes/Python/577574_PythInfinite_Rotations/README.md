@@ -1,4 +1,5 @@
-## Python Infinite Rotations and TailsOriginally published: 2011-02-13 15:27:41 
+## Python Infinite Rotations and Tails 
+Originally published: 2011-02-13 15:27:41 
 Last updated: 2011-02-13 15:27:42 
 Author: Thomas Ahle 
  

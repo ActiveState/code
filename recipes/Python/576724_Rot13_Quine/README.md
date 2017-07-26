@@ -1,4 +1,5 @@
-## Rot13 QuineOriginally published: 2009-04-22 10:05:34 
+## Rot13 Quine 
+Originally published: 2009-04-22 10:05:34 
 Last updated: 2009-04-22 10:05:34 
 Author: Daniel Lepage 
  

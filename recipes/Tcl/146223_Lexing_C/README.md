@@ -1,4 +1,5 @@
-## Lexing COriginally published: 2002-08-22 16:34:35 
+## Lexing C 
+Originally published: 2002-08-22 16:34:35 
 Last updated: 2002-08-22 16:34:35 
 Author: andreas kupries 
  

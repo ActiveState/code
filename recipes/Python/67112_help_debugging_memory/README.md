@@ -1,4 +1,5 @@
-## help in debugging memory problemsOriginally published: 2001-08-23 18:25:12 
+## help in debugging memory problems 
+Originally published: 2001-08-23 18:25:12 
 Last updated: 2001-08-23 18:25:12 
 Author: Will Ware 
  

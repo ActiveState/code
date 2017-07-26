@@ -1,4 +1,5 @@
-## Just Another Password GeneratorOriginally published: 2012-06-21 15:41:10 
+## Just Another Password Generator 
+Originally published: 2012-06-21 15:41:10 
 Last updated: 2012-06-21 15:41:10 
 Author: Stephen Chappell 
  

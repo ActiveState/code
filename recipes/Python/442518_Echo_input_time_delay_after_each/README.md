@@ -1,4 +1,5 @@
-## Echo input with a time delay after each lineOriginally published: 2005-11-02 10:07:35 
+## Echo input with a time delay after each line 
+Originally published: 2005-11-02 10:07:35 
 Last updated: 2005-11-02 10:07:35 
 Author: Edi Hance 
  

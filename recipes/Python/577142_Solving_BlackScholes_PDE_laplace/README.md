@@ -1,4 +1,5 @@
-## Solving the Black-Scholes PDE with laplace inversion:RevisedOriginally published: 2010-03-25 06:51:32 
+## Solving the Black-Scholes PDE with laplace inversion:Revised 
+Originally published: 2010-03-25 06:51:32 
 Last updated: 2010-04-06 13:26:02 
 Author: Fernando Nieuwveldt 
  

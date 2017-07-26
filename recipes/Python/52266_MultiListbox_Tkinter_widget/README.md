@@ -1,4 +1,5 @@
-## MultiListbox Tkinter widgetOriginally published: 2001-03-14 17:42:44 
+## MultiListbox Tkinter widget 
+Originally published: 2001-03-14 17:42:44 
 Last updated: 2001-03-14 17:42:44 
 Author: Brent Burley 
  

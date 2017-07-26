@@ -1,4 +1,5 @@
-## Rebind class propertiesOriginally published: 2005-10-03 07:50:45 
+## Rebind class properties 
+Originally published: 2005-10-03 07:50:45 
 Last updated: 2005-12-17 09:26:20 
 Author: Shekhar Tiwatne 
  

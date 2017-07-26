@@ -1,4 +1,5 @@
-## Text ruler for console (record-oriented data processing utility)Originally published: 2016-04-17 19:32:25 
+## Text ruler for console (record-oriented data processing utility) 
+Originally published: 2016-04-17 19:32:25 
 Last updated: 2016-04-17 19:32:26 
 Author: Vasudev Ram 
  

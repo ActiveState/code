@@ -1,4 +1,5 @@
-## Directory Size Lister for WindowsOriginally published: 2001-11-02 19:59:19 
+## Directory Size Lister for Windows 
+Originally published: 2001-11-02 19:59:19 
 Last updated: 2001-11-02 19:59:19 
 Author: Frank Fejes 
  

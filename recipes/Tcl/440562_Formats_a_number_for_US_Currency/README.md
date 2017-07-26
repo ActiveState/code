@@ -1,4 +1,5 @@
-## Formats a number for US CurrencyOriginally published: 2005-09-15 14:52:09 
+## Formats a number for US Currency 
+Originally published: 2005-09-15 14:52:09 
 Last updated: 2005-09-15 14:52:09 
 Author: Richard Zimmerman 
  

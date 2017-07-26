@@ -1,4 +1,5 @@
-## edge-coloring of a bipartite graphOriginally published: 2015-07-30 13:40:41 
+## edge-coloring of a bipartite graph 
+Originally published: 2015-07-30 13:40:41 
 Last updated: 2015-07-30 13:40:41 
 Author: Praveen  
  

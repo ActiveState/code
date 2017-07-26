@@ -1,4 +1,5 @@
-## Using Pexpect and netrc to automate commands which prompt for a passwordOriginally published: 2008-05-16 21:44:21 
+## Using Pexpect and netrc to automate commands which prompt for a password 
+Originally published: 2008-05-16 21:44:21 
 Last updated: 2008-05-17 04:54:46 
 Author: John Landahl 
  

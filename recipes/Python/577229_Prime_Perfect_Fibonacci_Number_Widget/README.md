@@ -1,4 +1,5 @@
-## Prime, Perfect and Fibonacci Number Widget ClassOriginally published: 2010-05-17 20:40:09 
+## Prime, Perfect and Fibonacci Number Widget Class 
+Originally published: 2010-05-17 20:40:09 
 Last updated: 2010-05-19 17:02:28 
 Author: AJ. Mayorga 
  

@@ -1,4 +1,5 @@
-## Fast selectOriginally published: 2006-01-21 11:33:31 
+## Fast select 
+Originally published: 2006-01-21 11:33:31 
 Last updated: 2006-01-21 11:33:31 
 Author: bearophile - 
  

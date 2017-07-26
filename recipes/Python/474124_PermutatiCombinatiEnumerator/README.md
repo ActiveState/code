@@ -1,4 +1,5 @@
-## Permutation and Combination EnumeratorOriginally published: 2006-03-07 15:00:08 
+## Permutation and Combination Enumerator 
+Originally published: 2006-03-07 15:00:08 
 Last updated: 2006-03-20 23:23:53 
 Author: Guang Shen Huang 
  

@@ -1,4 +1,5 @@
-## Stop WebSphere AppServerOriginally published: 2002-10-01 20:08:43 
+## Stop WebSphere AppServer 
+Originally published: 2002-10-01 20:08:43 
 Last updated: 2002-10-01 20:08:43 
 Author: Patrick Finnegan 
  

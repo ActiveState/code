@@ -1,4 +1,5 @@
-## Transmitting exceptions through XML-RPCOriginally published: 2005-01-31 17:37:28 
+## Transmitting exceptions through XML-RPC 
+Originally published: 2005-01-31 17:37:28 
 Last updated: 2005-01-31 17:37:28 
 Author: A.M. Kuchling 
  

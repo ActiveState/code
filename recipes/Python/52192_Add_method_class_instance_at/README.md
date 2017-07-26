@@ -1,4 +1,5 @@
-## Add a method to a class instance at runtimeOriginally published: 2001-02-22 17:04:07 
+## Add a method to a class instance at runtime 
+Originally published: 2001-02-22 17:04:07 
 Last updated: 2001-02-22 17:04:07 
 Author: asdfsa asdfdsaf 
  

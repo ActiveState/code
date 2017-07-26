@@ -1,4 +1,5 @@
-## Barcodes - Convert UPC-E to UPC-AOriginally published: 2007-09-01 10:48:57 
+## Barcodes - Convert UPC-E to UPC-A 
+Originally published: 2007-09-01 10:48:57 
 Last updated: 2007-09-01 10:48:57 
 Author: greg p 
  

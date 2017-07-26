@@ -1,4 +1,5 @@
-## Markov Encryption Demonstration 2Originally published: 2012-03-14 17:39:17 
+## Markov Encryption Demonstration 2 
+Originally published: 2012-03-14 17:39:17 
 Last updated: 2012-03-14 17:39:17 
 Author: Stephen Chappell 
  

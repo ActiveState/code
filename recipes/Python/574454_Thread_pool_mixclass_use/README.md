@@ -1,4 +1,5 @@
-## Thread pool mixin class for use with SocketServer.TCPServerOriginally published: 2008-07-10 11:50:11 
+## Thread pool mixin class for use with SocketServer.TCPServer 
+Originally published: 2008-07-10 11:50:11 
 Last updated: 2008-07-10 18:52:58 
 Author: Michael Palmer 
  

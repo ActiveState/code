@@ -1,4 +1,5 @@
-## aebovl - Automatic Exposure Bracket Image OverlayOriginally published: 2007-05-12 19:19:44 
+## aebovl - Automatic Exposure Bracket Image Overlay 
+Originally published: 2007-05-12 19:19:44 
 Last updated: 2007-05-12 19:19:44 
 Author: Jim Eggleston 
  

@@ -1,4 +1,5 @@
-## Processor and performance matrix gatheringOriginally published: 2008-01-11 02:24:08 
+## Processor and performance matrix gathering 
+Originally published: 2008-01-11 02:24:08 
 Last updated: 2008-01-11 02:24:08 
 Author: trevellyon newell 
  

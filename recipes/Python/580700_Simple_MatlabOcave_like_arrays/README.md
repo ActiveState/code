@@ -1,4 +1,5 @@
-## Simple Matlab/Ocave like arrays conversion to numpy.arrays in python interpreterOriginally published: 2016-09-22 12:25:28 
+## Simple Matlab/Ocave like arrays conversion to numpy.arrays in python interpreter 
+Originally published: 2016-09-22 12:25:28 
 Last updated: 2016-09-22 12:25:30 
 Author: Przemyslaw Podczasi 
  

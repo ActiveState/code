@@ -1,4 +1,5 @@
-## Maclaurin's_series_binomial_seriesOriginally published: 2010-07-07 11:19:59 
+## Maclaurin's_series_binomial_series 
+Originally published: 2010-07-07 11:19:59 
 Last updated: 2011-02-03 12:31:50 
 Author: Fouad Teniou 
  

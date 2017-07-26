@@ -1,4 +1,5 @@
-## fileinput as a generatorOriginally published: 2002-02-05 22:21:47 
+## fileinput as a generator 
+Originally published: 2002-02-05 22:21:47 
 Last updated: 2002-02-09 23:25:26 
 Author: Brett Cannon 
  

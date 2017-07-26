@@ -1,4 +1,5 @@
-## Generate SQL for insertation into table from dictionary objectOriginally published: 2005-11-25 14:54:35 
+## Generate SQL for insertation into table from dictionary object 
+Originally published: 2005-11-25 14:54:35 
 Last updated: 2005-11-26 18:28:53 
 Author: Carson Reynolds 
  

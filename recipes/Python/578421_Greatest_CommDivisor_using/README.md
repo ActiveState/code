@@ -1,4 +1,5 @@
-## Greatest Common Divisor using Recursion in PythonOriginally published: 2013-01-16 16:44:45 
+## Greatest Common Divisor using Recursion in Python 
+Originally published: 2013-01-16 16:44:45 
 Last updated: 2013-01-16 16:44:46 
 Author: Captain DeadBones 
  

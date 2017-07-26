@@ -1,4 +1,5 @@
-## Tkinter Animated GIFOriginally published: 2016-10-24 16:32:52 
+## Tkinter Animated GIF 
+Originally published: 2016-10-24 16:32:52 
 Last updated: 2017-04-10 11:27:05 
 Author: Miguel Martínez López 
  

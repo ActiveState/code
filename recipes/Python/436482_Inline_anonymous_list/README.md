@@ -1,4 +1,5 @@
-## In-line anonymous list comprehension functionsOriginally published: 2005-07-12 15:05:24 
+## In-line anonymous list comprehension functions 
+Originally published: 2005-07-12 15:05:24 
 Last updated: 2005-07-12 15:05:24 
 Author: Frank P Mora 
  

@@ -1,4 +1,5 @@
-## Simplify Assignment to Member VariablesOriginally published: 2002-10-19 04:09:35 
+## Simplify Assignment to Member Variables 
+Originally published: 2002-10-19 04:09:35 
 Last updated: 2002-10-19 04:09:35 
 Author: Jimmy Retzlaff 
  

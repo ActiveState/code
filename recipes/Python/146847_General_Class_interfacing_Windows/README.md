@@ -1,4 +1,5 @@
-## General Class for interfacing with Windows .DLLsOriginally published: 2002-08-27 12:23:31 
+## General Class for interfacing with Windows .DLLs 
+Originally published: 2002-08-27 12:23:31 
 Last updated: 2002-08-27 12:23:31 
 Author: Larry Bates 
  

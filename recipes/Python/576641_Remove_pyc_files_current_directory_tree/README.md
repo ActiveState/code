@@ -1,4 +1,5 @@
-## Remove the .pyc files from current directory tree and from svnOriginally published: 2009-02-03 23:38:43 
+## Remove the .pyc files from current directory tree and from svn 
+Originally published: 2009-02-03 23:38:43 
 Last updated: 2009-02-03 23:38:43 
 Author: Senthil Kumaran 
  

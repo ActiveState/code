@@ -1,4 +1,5 @@
-## least square fittingOriginally published: 2015-10-03 15:27:23 
+## least square fitting 
+Originally published: 2015-10-03 15:27:23 
 Last updated: 2015-10-03 15:32:28 
 Author: yota  
  

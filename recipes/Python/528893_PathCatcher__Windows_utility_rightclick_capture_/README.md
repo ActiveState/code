@@ -1,4 +1,5 @@
-## PathCatcher - Windows utility for right-click capture of file or folder pathOriginally published: 2007-08-22 05:32:06 
+## PathCatcher - Windows utility for right-click capture of file or folder path 
+Originally published: 2007-08-22 05:32:06 
 Last updated: 2008-04-19 17:14:18 
 Author: Jack Trainor 
  

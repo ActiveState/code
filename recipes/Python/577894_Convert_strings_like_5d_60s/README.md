@@ -1,4 +1,5 @@
-## Convert strings like '5d' and '60s' to timedelta objectsOriginally published: 2011-10-06 14:06:10 
+## Convert strings like '5d' and '60s' to timedelta objects 
+Originally published: 2011-10-06 14:06:10 
 Last updated: 2011-10-06 14:06:54 
 Author: Dan McDougall 
  

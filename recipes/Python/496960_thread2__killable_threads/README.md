@@ -1,4 +1,5 @@
-## thread2 -- killable threadsOriginally published: 2006-08-11 03:01:10 
+## thread2 -- killable threads 
+Originally published: 2006-08-11 03:01:10 
 Last updated: 2012-08-09 20:14:33 
 Author: tomer filiba 
  

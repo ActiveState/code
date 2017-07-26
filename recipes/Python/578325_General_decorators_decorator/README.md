@@ -1,4 +1,5 @@
-## General decorators decoratorOriginally published: 2012-11-13 09:44:06 
+## General decorators decorator 
+Originally published: 2012-11-13 09:44:06 
 Last updated: 2012-11-13 09:44:07 
 Author: Hans Zauber 
  

@@ -1,4 +1,5 @@
-## high precision FPSOriginally published: 2015-05-12 12:02:10 
+## high precision FPS 
+Originally published: 2015-05-12 12:02:10 
 Last updated: 2015-05-12 12:04:38 
 Author: Jiri Justra 
  

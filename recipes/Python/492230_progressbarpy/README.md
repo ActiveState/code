@@ -1,4 +1,5 @@
-## progress_bar.pyOriginally published: 2006-04-30 20:33:49 
+## progress_bar.py 
+Originally published: 2006-04-30 20:33:49 
 Last updated: 2006-04-30 20:33:49 
 Author: Stephen Chappell 
  

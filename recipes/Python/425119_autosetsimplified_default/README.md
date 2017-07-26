@@ -1,4 +1,5 @@
-## autosetup for simplified default valuesOriginally published: 2005-06-08 04:19:20 
+## autosetup for simplified default values 
+Originally published: 2005-06-08 04:19:20 
 Last updated: 2005-06-08 04:19:20 
 Author: Taro Ogawa 
  

@@ -1,4 +1,5 @@
-## Case Insensitive StringsOriginally published: 2003-04-16 03:43:31 
+## Case Insensitive Strings 
+Originally published: 2003-04-16 03:43:31 
 Last updated: 2003-04-16 12:26:48 
 Author: Dale Strickland-Clark 
  

@@ -1,4 +1,5 @@
-## simple mx.ODBC exampleOriginally published: 2005-02-25 07:16:43 
+## simple mx.ODBC example 
+Originally published: 2005-02-25 07:16:43 
 Last updated: 2005-02-25 07:16:43 
 Author: John Nielsen 
  

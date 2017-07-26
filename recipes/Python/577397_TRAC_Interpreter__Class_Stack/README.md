@@ -1,4 +1,5 @@
-## TRAC Interpreter - Class and Stack versionOriginally published: 2010-09-20 01:16:07 
+## TRAC Interpreter - Class and Stack version 
+Originally published: 2010-09-20 01:16:07 
 Last updated: 2010-09-20 01:16:07 
 Author: Jack Trainor 
  

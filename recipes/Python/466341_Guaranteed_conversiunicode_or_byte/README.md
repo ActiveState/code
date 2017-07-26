@@ -1,4 +1,5 @@
-## Guaranteed conversion to unicode or byte stringOriginally published: 2006-01-23 22:14:48 
+## Guaranteed conversion to unicode or byte string 
+Originally published: 2006-01-23 22:14:48 
 Last updated: 2006-01-23 22:14:48 
 Author: Wai Yip Tung 
  

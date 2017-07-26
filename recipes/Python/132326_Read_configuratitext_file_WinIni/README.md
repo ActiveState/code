@@ -1,4 +1,5 @@
-## Read configuration from a text file in WinIni format!Originally published: 2002-06-10 12:23:59 
+## Read configuration from a text file in WinIni format! 
+Originally published: 2002-06-10 12:23:59 
 Last updated: 2002-06-10 12:23:59 
 Author: Farhad Fouladi 
  

@@ -1,4 +1,5 @@
-## JSON instead of pickle for memcachedOriginally published: 2012-01-10 22:31:36 
+## JSON instead of pickle for memcached 
+Originally published: 2012-01-10 22:31:36 
 Last updated: 2012-01-10 22:31:36 
 Author: pavel  
  

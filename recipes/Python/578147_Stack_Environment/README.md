@@ -1,4 +1,5 @@
-## Stack EnvironmentOriginally published: 2012-05-29 14:47:23 
+## Stack Environment 
+Originally published: 2012-05-29 14:47:23 
 Last updated: 2012-05-29 14:53:25 
 Author: Alfe  
  

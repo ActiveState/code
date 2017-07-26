@@ -1,4 +1,5 @@
-## nbitarrayOriginally published: 2016-04-21 14:12:33 
+## nbitarray 
+Originally published: 2016-04-21 14:12:33 
 Last updated: 2016-04-21 14:12:33 
 Author: yota  
  

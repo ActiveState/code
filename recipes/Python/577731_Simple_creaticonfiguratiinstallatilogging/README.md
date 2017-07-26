@@ -1,4 +1,5 @@
-## Simple creation, configuration and installation of logging handlersOriginally published: 2011-06-01 11:06:50 
+## Simple creation, configuration and installation of logging handlers 
+Originally published: 2011-06-01 11:06:50 
 Last updated: 2011-06-01 19:05:40 
 Author: Hank  
  

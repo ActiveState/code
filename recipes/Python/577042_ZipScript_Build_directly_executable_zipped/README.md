@@ -1,4 +1,5 @@
-## ZipScript: Build a directly executable zipped Python script setOriginally published: 2010-02-11 01:25:18 
+## ZipScript: Build a directly executable zipped Python script set 
+Originally published: 2010-02-11 01:25:18 
 Last updated: 2010-02-11 15:32:38 
 Author: Glenn  
  

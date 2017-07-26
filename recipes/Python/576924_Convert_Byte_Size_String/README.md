@@ -1,4 +1,5 @@
-## Convert Byte Size to String RepresentationOriginally published: 2009-10-08 10:51:29 
+## Convert Byte Size to String Representation 
+Originally published: 2009-10-08 10:51:29 
 Last updated: 2012-04-13 19:55:07 
 Author: Stephen Chappell 
  

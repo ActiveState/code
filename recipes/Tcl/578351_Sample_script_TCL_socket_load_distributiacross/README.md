@@ -1,4 +1,5 @@
-## Sample script for TCL socket load distribution across many CPUs / hosts Originally published: 2012-11-29 17:27:19 
+## Sample script for TCL socket load distribution across many CPUs / hosts  
+Originally published: 2012-11-29 17:27:19 
 Last updated: 2012-11-29 17:27:20 
 Author: John Brearley 
  

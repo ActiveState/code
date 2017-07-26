@@ -1,4 +1,5 @@
-## autosuper to the limitOriginally published: 2005-05-01 13:24:31 
+## autosuper to the limit 
+Originally published: 2005-05-01 13:24:31 
 Last updated: 2005-05-01 20:27:44 
 Author: Diego Novella 
  

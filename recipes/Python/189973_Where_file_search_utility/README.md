@@ -1,4 +1,5 @@
-## Where file search utilityOriginally published: 2003-03-17 19:27:19 
+## Where file search utility 
+Originally published: 2003-03-17 19:27:19 
 Last updated: 2003-03-18 03:31:21 
 Author: Bill McNeill 
  

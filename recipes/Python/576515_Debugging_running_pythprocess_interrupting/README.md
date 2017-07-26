@@ -1,4 +1,5 @@
-## Debugging a running python process by interrupting and providing an interactive promptOriginally published: 2008-09-25 18:04:58 
+## Debugging a running python process by interrupting and providing an interactive prompt 
+Originally published: 2008-09-25 18:04:58 
 Last updated: 2008-09-25 11:23:29 
 Author: Brian McErlean 
  

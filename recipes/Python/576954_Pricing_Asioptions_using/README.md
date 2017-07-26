@@ -1,4 +1,5 @@
-## Pricing Asian options using mpmathOriginally published: 2009-11-13 01:28:24 
+## Pricing Asian options using mpmath 
+Originally published: 2009-11-13 01:28:24 
 Last updated: 2009-11-13 01:28:24 
 Author: Fernando Nieuwveldt 
  

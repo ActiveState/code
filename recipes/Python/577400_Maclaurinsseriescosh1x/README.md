@@ -1,4 +1,5 @@
-## Maclaurin's_series_cosh-1(x)Originally published: 2010-09-21 11:34:40 
+## Maclaurin's_series_cosh-1(x) 
+Originally published: 2010-09-21 11:34:40 
 Last updated: 2010-09-28 11:53:08 
 Author: Fouad Teniou 
  

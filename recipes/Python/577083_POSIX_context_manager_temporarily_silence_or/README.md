@@ -1,4 +1,5 @@
-## POSIX context manager to temporarily silence, or filter lines from stdoutOriginally published: 2010-03-03 04:31:03 
+## POSIX context manager to temporarily silence, or filter lines from stdout 
+Originally published: 2010-03-03 04:31:03 
 Last updated: 2010-03-03 06:17:23 
 Author: pwaller  
  

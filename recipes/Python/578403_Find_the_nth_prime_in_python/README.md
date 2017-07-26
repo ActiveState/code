@@ -1,4 +1,5 @@
-## Find the nth prime in pythonOriginally published: 2013-01-06 20:23:21 
+## Find the nth prime in python 
+Originally published: 2013-01-06 20:23:21 
 Last updated: 2013-01-06 20:23:21 
 Author: Captain DeadBones 
  

@@ -1,4 +1,5 @@
-## Python XTEA EncryptionOriginally published: 2006-05-25 15:06:03 
+## Python XTEA Encryption 
+Originally published: 2006-05-25 15:06:03 
 Last updated: 2007-11-01 08:31:06 
 Author: Paul Chakravarti 
  

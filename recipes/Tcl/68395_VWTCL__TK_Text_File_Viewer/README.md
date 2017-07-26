@@ -1,4 +1,5 @@
-## VW.TCL -- TK Text File ViewerOriginally published: 2001-09-10 23:35:17 
+## VW.TCL -- TK Text File Viewer 
+Originally published: 2001-09-10 23:35:17 
 Last updated: 2001-09-10 23:35:17 
 Author: Tony Dycks 
  

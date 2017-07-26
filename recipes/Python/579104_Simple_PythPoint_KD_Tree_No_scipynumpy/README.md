@@ -1,4 +1,5 @@
-## Simple Python Point KD Tree (No scipy/numpy needed)Originally published: 2015-09-29 16:56:15 
+## Simple Python Point KD Tree (No scipy/numpy needed) 
+Originally published: 2015-09-29 16:56:15 
 Last updated: 2015-09-29 16:56:16 
 Author: webby1111  
  

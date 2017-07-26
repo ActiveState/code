@@ -1,4 +1,5 @@
-## Function that supports dividing timedelta by floatOriginally published: 2012-05-17 13:46:46 
+## Function that supports dividing timedelta by float 
+Originally published: 2012-05-17 13:46:46 
 Last updated: 2012-05-17 13:47:07 
 Author: Ben Hoyt 
  

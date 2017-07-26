@@ -1,4 +1,5 @@
-## A Script that Adds a Directory to sys.path PermanentlyOriginally published: 2012-02-16 23:15:10 
+## A Script that Adds a Directory to sys.path Permanently 
+Originally published: 2012-02-16 23:15:10 
 Last updated: 2012-02-16 23:15:11 
 Author: Eric Snow 
  

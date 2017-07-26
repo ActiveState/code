@@ -1,4 +1,5 @@
-## Comparing two imagesOriginally published: 2011-04-03 11:12:38 
+## Comparing two images 
+Originally published: 2011-04-03 11:12:38 
 Last updated: 2011-04-03 11:13:24 
 Author: Charlie Clark 
  

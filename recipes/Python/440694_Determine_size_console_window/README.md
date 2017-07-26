@@ -1,4 +1,5 @@
-## Determine size of console window on WindowsOriginally published: 2005-10-11 15:41:58 
+## Determine size of console window on Windows 
+Originally published: 2005-10-11 15:41:58 
 Last updated: 2006-04-29 20:26:33 
 Author: Alexander Belchenko 
  

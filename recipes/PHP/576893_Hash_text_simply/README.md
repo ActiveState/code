@@ -1,4 +1,5 @@
-## Hash text simplyOriginally published: 2009-09-01 18:29:36 
+## Hash text simply 
+Originally published: 2009-09-01 18:29:36 
 Last updated: 2012-04-30 21:43:00 
 Author: Xavier L. 
  

@@ -1,4 +1,5 @@
-## Python code minifierOriginally published: 2009-03-31 14:20:30 
+## Python code minifier 
+Originally published: 2009-03-31 14:20:30 
 Last updated: 2014-05-25 16:23:55 
 Author: Dan McDougall 
  

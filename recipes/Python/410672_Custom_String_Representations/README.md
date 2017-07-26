@@ -1,4 +1,5 @@
-## Custom String Representations of BasesOriginally published: 2005-04-22 17:06:16 
+## Custom String Representations of Bases 
+Originally published: 2005-04-22 17:06:16 
 Last updated: 2005-05-10 23:15:37 
 Author: Duncan McGreggor 
  

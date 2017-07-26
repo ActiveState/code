@@ -1,4 +1,5 @@
-## Stripchart PlotterOriginally published: 2005-05-06 06:04:05 
+## Stripchart Plotter 
+Originally published: 2005-05-06 06:04:05 
 Last updated: 2005-05-06 06:04:05 
 Author: Flávio Codeço Coelho 
  

@@ -1,4 +1,5 @@
-## Put Peewee ORM data to PDF with xtopdfOriginally published: 2016-09-29 18:04:56 
+## Put Peewee ORM data to PDF with xtopdf 
+Originally published: 2016-09-29 18:04:56 
 Last updated: 2016-09-29 18:04:57 
 Author: Vasudev Ram 
  

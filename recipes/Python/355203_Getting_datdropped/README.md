@@ -1,4 +1,5 @@
-## Getting the data dropped on a windowOriginally published: 2004-12-01 16:00:16 
+## Getting the data dropped on a window 
+Originally published: 2004-12-01 16:00:16 
 Last updated: 2004-12-01 16:00:16 
 Author: Valentino Volonghi 
  

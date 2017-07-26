@@ -1,4 +1,5 @@
-## de Polignac's FormulaOriginally published: 2013-08-09 06:19:13 
+## de Polignac's Formula 
+Originally published: 2013-08-09 06:19:13 
 Last updated: 2013-08-10 03:40:02 
 Author: Samuel James Erickson 
  

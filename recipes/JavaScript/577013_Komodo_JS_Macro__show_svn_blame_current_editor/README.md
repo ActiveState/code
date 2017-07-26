@@ -1,4 +1,5 @@
-## Komodo JS Macro - show svn blame for the current editor lineOriginally published: 2010-01-19 16:20:36 
+## Komodo JS Macro - show svn blame for the current editor line 
+Originally published: 2010-01-19 16:20:36 
 Last updated: 2013-05-02 22:28:50 
 Author: Todd Whiteman 
  

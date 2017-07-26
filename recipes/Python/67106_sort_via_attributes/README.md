@@ -1,4 +1,5 @@
-## sort via attributesOriginally published: 2001-08-23 14:45:30 
+## sort via attributes 
+Originally published: 2001-08-23 14:45:30 
 Last updated: 2001-08-23 14:45:30 
 Author: Matthew Wood 
  

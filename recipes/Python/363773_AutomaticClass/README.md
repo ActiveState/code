@@ -1,4 +1,5 @@
-## AutomaticClassOriginally published: 2005-01-19 09:42:06 
+## AutomaticClass 
+Originally published: 2005-01-19 09:42:06 
 Last updated: 2005-01-19 17:50:41 
 Author: Shannon -jj Behrens 
  

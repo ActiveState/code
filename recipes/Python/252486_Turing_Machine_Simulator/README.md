@@ -1,4 +1,5 @@
-## Turing Machine SimulatorOriginally published: 2003-12-03 16:12:17 
+## Turing Machine Simulator 
+Originally published: 2003-12-03 16:12:17 
 Last updated: 2003-12-03 16:12:17 
 Author: Ryan Phillips 
  

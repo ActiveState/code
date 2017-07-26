@@ -1,4 +1,5 @@
-## An Entry with autocompletion for the Tkinter GUIOriginally published: 2012-09-06 18:31:53 
+## An Entry with autocompletion for the Tkinter GUI 
+Originally published: 2012-09-06 18:31:53 
 Last updated: 2012-09-06 19:16:09 
 Author: Miguel Ángel Alarcos Torrecillas 
  

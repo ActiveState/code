@@ -1,4 +1,5 @@
-## various idioms for "call my superclass's __init__ IF it has one"Originally published: 2001-03-21 01:22:19 
+## various idioms for "call my superclass's __init__ IF it has one" 
+Originally published: 2001-03-21 01:22:19 
 Last updated: 2001-04-27 14:48:19 
 Author: Alex Martelli 
  

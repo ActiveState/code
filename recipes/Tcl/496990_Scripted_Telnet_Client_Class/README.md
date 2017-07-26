@@ -1,4 +1,5 @@
-## Scripted Telnet Client ClassOriginally published: 2006-08-25 12:35:34 
+## Scripted Telnet Client Class 
+Originally published: 2006-08-25 12:35:34 
 Last updated: 2006-09-12 21:13:56 
 Author: Flavio Salgueiro 
  

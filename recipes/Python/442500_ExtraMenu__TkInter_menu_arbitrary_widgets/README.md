@@ -1,4 +1,5 @@
-## ExtraMenu - a TkInter menu with arbitrary widgets as sub-menusOriginally published: 2005-10-31 11:46:10 
+## ExtraMenu - a TkInter menu with arbitrary widgets as sub-menus 
+Originally published: 2005-10-31 11:46:10 
 Last updated: 2005-10-31 11:46:10 
 Author: Jim Segrave 
  

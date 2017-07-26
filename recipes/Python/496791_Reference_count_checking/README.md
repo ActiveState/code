@@ -1,4 +1,5 @@
-## Reference count checkingOriginally published: 2006-06-11 01:15:56 
+## Reference count checking 
+Originally published: 2006-06-11 01:15:56 
 Last updated: 2006-06-11 01:15:56 
 Author: Robin Becker 
  

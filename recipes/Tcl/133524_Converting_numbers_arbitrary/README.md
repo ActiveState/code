@@ -1,4 +1,5 @@
-## Converting numbers from arbitrary basesOriginally published: 2002-06-17 15:12:58 
+## Converting numbers from arbitrary bases 
+Originally published: 2002-06-17 15:12:58 
 Last updated: 2002-06-17 15:12:58 
 Author: andreas kupries 
  

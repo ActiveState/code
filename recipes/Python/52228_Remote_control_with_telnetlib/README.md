@@ -1,4 +1,5 @@
-## Remote control with telnetlibOriginally published: 2001-03-11 11:29:37 
+## Remote control with telnetlib 
+Originally published: 2001-03-11 11:29:37 
 Last updated: 2001-03-11 11:29:37 
 Author: Jeff Bauer 
  

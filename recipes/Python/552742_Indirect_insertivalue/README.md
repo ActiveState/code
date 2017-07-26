@@ -1,4 +1,5 @@
-## Indirect insertion of value to a listOriginally published: 2008-03-29 21:20:52 
+## Indirect insertion of value to a list 
+Originally published: 2008-03-29 21:20:52 
 Last updated: 2008-03-29 21:20:52 
 Author: Ernesto Adorio 
  

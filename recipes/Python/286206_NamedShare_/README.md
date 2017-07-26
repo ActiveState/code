@@ -1,4 +1,5 @@
-## NamedShare -- Quasi-Singleton MetaclassOriginally published: 2004-07-07 08:49:10 
+## NamedShare -- Quasi-Singleton Metaclass 
+Originally published: 2004-07-07 08:49:10 
 Last updated: 2004-08-25 16:10:25 
 Author: Samuel Reynolds 
  

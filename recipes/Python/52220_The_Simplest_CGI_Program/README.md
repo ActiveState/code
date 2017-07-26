@@ -1,4 +1,5 @@
-## The Simplest CGI ProgramOriginally published: 2001-03-12 06:36:58 
+## The Simplest CGI Program 
+Originally published: 2001-03-12 06:36:58 
 Last updated: 2001-03-12 06:36:58 
 Author: Jeff Bauer 
  

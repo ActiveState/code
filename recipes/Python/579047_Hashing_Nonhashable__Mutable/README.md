@@ -1,4 +1,5 @@
-## Hashing Nonhashable / Mutable ObjectsOriginally published: 2015-04-16 12:08:23 
+## Hashing Nonhashable / Mutable Objects 
+Originally published: 2015-04-16 12:08:23 
 Last updated: 2015-04-16 12:11:34 
 Author: Max Moroz 
  

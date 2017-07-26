@@ -1,4 +1,5 @@
-## custom django login_required decoratorOriginally published: 2006-10-23 20:40:22 
+## custom django login_required decorator 
+Originally published: 2006-10-23 20:40:22 
 Last updated: 2006-10-24 08:54:07 
 Author: Jian Ding Chen 
  

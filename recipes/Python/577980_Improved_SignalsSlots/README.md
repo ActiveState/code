@@ -1,4 +1,5 @@
-## Improved Signals/Slots implementation in PythonOriginally published: 2011-12-12 22:47:25 
+## Improved Signals/Slots implementation in Python 
+Originally published: 2011-12-12 22:47:25 
 Last updated: 2011-12-12 22:47:25 
 Author: Christopher S. Case 
  

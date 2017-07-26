@@ -1,4 +1,5 @@
-## Nested contexts -- a chain of mapping objectsOriginally published: 2010-10-21 08:38:58 
+## Nested contexts -- a chain of mapping objects 
+Originally published: 2010-10-21 08:38:58 
 Last updated: 2010-10-25 02:13:37 
 Author: Raymond Hettinger 
  

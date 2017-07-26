@@ -1,4 +1,5 @@
-## how to implement kbhit() on LinuxOriginally published: 2008-05-02 21:19:24 
+## how to implement kbhit() on Linux 
+Originally published: 2008-05-02 21:19:24 
 Last updated: 2008-05-03 05:13:00 
 Author: Nelson Rush 
  

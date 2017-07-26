@@ -1,4 +1,5 @@
-## Drop shadows with PILOriginally published: 2006-03-04 15:28:32 
+## Drop shadows with PIL 
+Originally published: 2006-03-04 15:28:32 
 Last updated: 2006-03-06 03:26:54 
 Author: Kevin Schluff 
  

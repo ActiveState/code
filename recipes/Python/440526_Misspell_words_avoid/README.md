@@ -1,4 +1,5 @@
-## Misspell words to avoid detectionOriginally published: 2005-09-06 08:32:25 
+## Misspell words to avoid detection 
+Originally published: 2005-09-06 08:32:25 
 Last updated: 2005-09-06 15:39:26 
 Author: Robert McDermott 
  

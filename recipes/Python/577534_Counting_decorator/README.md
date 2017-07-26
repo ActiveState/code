@@ -1,4 +1,5 @@
-## Counting decoratorOriginally published: 2011-01-07 11:22:55 
+## Counting decorator 
+Originally published: 2011-01-07 11:22:55 
 Last updated: 2011-01-07 11:22:55 
 Author: Noufal Ibrahim 
  

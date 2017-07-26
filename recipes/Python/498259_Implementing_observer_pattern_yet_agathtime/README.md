@@ -1,4 +1,5 @@
-## Implementing the observer pattern yet again: this time with coroutines and the with statementOriginally published: 2006-11-10 16:38:01 
+## Implementing the observer pattern yet again: this time with coroutines and the with statement 
+Originally published: 2006-11-10 16:38:01 
 Last updated: 2006-11-10 16:38:01 
 Author: Jim Baker 
  

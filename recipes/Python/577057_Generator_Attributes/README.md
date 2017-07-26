@@ -1,4 +1,5 @@
-## Generator AttributesOriginally published: 2010-02-18 17:23:58 
+## Generator Attributes 
+Originally published: 2010-02-18 17:23:58 
 Last updated: 2010-02-18 17:23:59 
 Author: Longpoke  
  

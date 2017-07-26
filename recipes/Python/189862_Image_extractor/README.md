@@ -1,4 +1,5 @@
-## Image extractorOriginally published: 2003-03-17 07:12:17 
+## Image extractor 
+Originally published: 2003-03-17 07:12:17 
 Last updated: 2003-03-17 07:12:17 
 Author: Anand  
  

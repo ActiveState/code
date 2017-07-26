@@ -1,4 +1,5 @@
-## Poor man's WinzipOriginally published: 2001-12-27 08:14:15 
+## Poor man's Winzip 
+Originally published: 2001-12-27 08:14:15 
 Last updated: 2001-12-27 08:14:15 
 Author: Dirk Krause 
  

@@ -1,4 +1,5 @@
-## Maclaurin's_series_cos(2x)Originally published: 2010-08-03 11:50:57 
+## Maclaurin's_series_cos(2x) 
+Originally published: 2010-08-03 11:50:57 
 Last updated: 2010-08-03 12:23:33 
 Author: Fouad Teniou 
  

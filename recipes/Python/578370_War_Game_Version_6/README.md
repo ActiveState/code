@@ -1,4 +1,5 @@
-## War Game (Version 6)Originally published: 2012-12-07 01:49:18 
+## War Game (Version 6) 
+Originally published: 2012-12-07 01:49:18 
 Last updated: 2012-12-07 01:49:19 
 Author: Stephen Chappell 
  

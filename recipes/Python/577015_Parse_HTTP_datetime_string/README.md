@@ -1,4 +1,5 @@
-## Parse HTTP date-time stringOriginally published: 2010-01-20 13:47:50 
+## Parse HTTP date-time string 
+Originally published: 2010-01-20 13:47:50 
 Last updated: 2010-01-20 13:47:50 
 Author: Sridhar Ratnakumar 
  

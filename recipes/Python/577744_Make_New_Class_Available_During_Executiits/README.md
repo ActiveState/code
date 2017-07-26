@@ -1,4 +1,5 @@
-## Make the New Class Available During the Execution of its BodyOriginally published: 2011-06-10 04:25:04 
+## Make the New Class Available During the Execution of its Body 
+Originally published: 2011-06-10 04:25:04 
 Last updated: 2011-08-12 23:44:46 
 Author: Eric Snow 
  

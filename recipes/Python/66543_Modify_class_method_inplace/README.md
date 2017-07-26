@@ -1,4 +1,5 @@
-## Modify class method in-placeOriginally published: 2001-08-21 08:22:00 
+## Modify class method in-place 
+Originally published: 2001-08-21 08:22:00 
 Last updated: 2001-08-21 15:27:16 
 Author: Ken Seehof 
  

@@ -1,4 +1,5 @@
-## Storage for store information about prefixesOriginally published: 2004-11-15 00:51:38 
+## Storage for store information about prefixes 
+Originally published: 2004-11-15 00:51:38 
 Last updated: 2004-11-15 00:51:38 
 Author: Dmitry Vasiliev 
  

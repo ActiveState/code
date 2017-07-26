@@ -1,4 +1,5 @@
-## Dynamically determine execution path of a fileOriginally published: 2006-07-14 16:20:17 
+## Dynamically determine execution path of a file 
+Originally published: 2006-07-14 16:20:17 
 Last updated: 2006-07-14 16:20:17 
 Author: adam smith 
  

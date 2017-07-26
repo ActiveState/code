@@ -1,4 +1,5 @@
-## Bible Verse Quiz - database.pyOriginally published: 2010-02-11 20:03:42 
+## Bible Verse Quiz - database.py 
+Originally published: 2010-02-11 20:03:42 
 Last updated: 2010-02-12 04:22:59 
 Author: Stephen Chappell 
  

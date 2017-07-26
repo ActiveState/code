@@ -1,4 +1,5 @@
-## Area Under the Curve using Monte Carlo methodOriginally published: 2010-06-13 19:14:09 
+## Area Under the Curve using Monte Carlo method 
+Originally published: 2010-06-13 19:14:09 
 Last updated: 2010-06-17 03:54:27 
 Author: FB36  
  

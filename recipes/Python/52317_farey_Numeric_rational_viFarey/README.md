@@ -1,4 +1,5 @@
-## farey: Numeric to rational via Farey fractionsOriginally published: 2001-04-02 20:09:38 
+## farey: Numeric to rational via Farey fractions 
+Originally published: 2001-04-02 20:09:38 
 Last updated: 2001-04-02 20:09:38 
 Author: Scott David Daniels 
  

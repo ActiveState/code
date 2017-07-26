@@ -1,4 +1,5 @@
-## Validating classes and objects against an Abstract Base ClassOriginally published: 2011-05-20 22:38:59 
+## Validating classes and objects against an Abstract Base Class 
+Originally published: 2011-05-20 22:38:59 
 Last updated: 2011-05-21 19:14:19 
 Author: Eric Snow 
  

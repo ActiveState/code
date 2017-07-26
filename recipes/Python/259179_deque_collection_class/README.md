@@ -1,4 +1,5 @@
-## deque collection classOriginally published: 2004-01-12 00:13:36 
+## deque collection class 
+Originally published: 2004-01-12 00:13:36 
 Last updated: 2007-07-14 11:53:06 
 Author: Raymond Hettinger 
  

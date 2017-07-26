@@ -1,4 +1,5 @@
-## emingoo - Extract emails from google search resultsOriginally published: 2013-03-20 19:16:22 
+## emingoo - Extract emails from google search results 
+Originally published: 2013-03-20 19:16:22 
 Last updated: 2014-07-30 07:23:36 
 Author: p@ntut$  
  

@@ -1,4 +1,5 @@
-## sane tab completion in pdbOriginally published: 2006-10-07 16:22:00 
+## sane tab completion in pdb 
+Originally published: 2006-10-07 16:22:00 
 Last updated: 2009-07-06 04:35:33 
 Author: Stephen Emslie 
  

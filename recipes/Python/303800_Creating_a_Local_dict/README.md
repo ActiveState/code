@@ -1,4 +1,5 @@
-## Creating a Local __dict__Originally published: 2004-09-08 02:27:42 
+## Creating a Local __dict__ 
+Originally published: 2004-09-08 02:27:42 
 Last updated: 2004-09-08 14:40:27 
 Author: Derrick Wallace 
  

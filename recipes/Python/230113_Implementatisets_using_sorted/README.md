@@ -1,4 +1,5 @@
-## Implementation of sets using sorted listsOriginally published: 2003-10-21 23:24:22 
+## Implementation of sets using sorted lists 
+Originally published: 2003-10-21 23:24:22 
 Last updated: 2007-05-19 07:07:23 
 Author: Raymond Hettinger 
  

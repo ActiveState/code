@@ -1,4 +1,5 @@
-## State Machine for Text ProcessingOriginally published: 2009-01-21 14:01:23 
+## State Machine for Text Processing 
+Originally published: 2009-01-21 14:01:23 
 Last updated: 2009-01-21 14:01:23 
 Author: Jack Trainor 
  

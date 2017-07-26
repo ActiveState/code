@@ -1,4 +1,5 @@
-## Python Tkinter Canvas Rectangle Selection BoxOriginally published: 2010-09-27 01:36:40 
+## Python Tkinter Canvas Rectangle Selection Box 
+Originally published: 2010-09-27 01:36:40 
 Last updated: 2010-10-01 02:17:50 
 Author: Sunjay Varma 
  

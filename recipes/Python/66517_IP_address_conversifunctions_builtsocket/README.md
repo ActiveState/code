@@ -1,4 +1,5 @@
-## IP address conversion functions with the builtin socket moduleOriginally published: 2001-08-14 09:14:39 
+## IP address conversion functions with the builtin socket module 
+Originally published: 2001-08-14 09:14:39 
 Last updated: 2001-08-14 09:14:39 
 Author: Alex Martelli 
  

@@ -1,4 +1,5 @@
-## Deciphering Caesar codeOriginally published: 2002-08-05 04:44:15 
+## Deciphering Caesar code 
+Originally published: 2002-08-05 04:44:15 
 Last updated: 2002-10-18 15:24:50 
 Author: Sébastien Keim 
  

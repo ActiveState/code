@@ -1,4 +1,5 @@
-## Emacs-like hotkey support for wxPythonOriginally published: 2005-11-21 22:45:31 
+## Emacs-like hotkey support for wxPython 
+Originally published: 2005-11-21 22:45:31 
 Last updated: 2005-11-22 06:50:06 
 Author: Josiah Carlson 
  

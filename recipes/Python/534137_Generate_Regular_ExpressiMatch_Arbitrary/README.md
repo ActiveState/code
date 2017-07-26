@@ -1,4 +1,5 @@
-## Generate a Regular Expression to Match an Arbitrary Numeric RangeOriginally published: 2007-10-28 20:21:38 
+## Generate a Regular Expression to Match an Arbitrary Numeric Range 
+Originally published: 2007-10-28 20:21:38 
 Last updated: 2007-10-28 20:21:38 
 Author: greg p 
  

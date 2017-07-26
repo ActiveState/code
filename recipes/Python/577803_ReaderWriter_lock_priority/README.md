@@ -1,4 +1,5 @@
-## Reader-Writer lock with priority for writersOriginally published: 2011-07-22 18:47:52 
+## Reader-Writer lock with priority for writers 
+Originally published: 2011-07-22 18:47:52 
 Last updated: 2011-09-28 21:45:04 
 Author: Mateusz Kobos 
  

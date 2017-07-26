@@ -1,4 +1,5 @@
-## Synchronizing two listsOriginally published: 2001-10-15 20:19:32 
+## Synchronizing two lists 
+Originally published: 2001-10-15 20:19:32 
 Last updated: 2001-10-15 20:19:32 
 Author: Van Gale 
  

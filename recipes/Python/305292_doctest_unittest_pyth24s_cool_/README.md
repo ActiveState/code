@@ -1,4 +1,5 @@
-## doctest, unittest, and python 2.4's cool  doctest.DocFileSuiteOriginally published: 2004-09-16 08:59:32 
+## doctest, unittest, and python 2.4's cool  doctest.DocFileSuite 
+Originally published: 2004-09-16 08:59:32 
 Last updated: 2004-09-16 08:59:32 
 Author: John Nielsen 
  

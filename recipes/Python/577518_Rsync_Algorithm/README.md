@@ -1,4 +1,5 @@
-## Rsync AlgorithmOriginally published: 2010-12-26 01:33:37 
+## Rsync Algorithm 
+Originally published: 2010-12-26 01:33:37 
 Last updated: 2011-01-09 16:32:22 
 Author: Eric Pruitt 
  

@@ -1,4 +1,5 @@
-## Read/write object for pkg-config filesOriginally published: 2006-06-29 16:20:14 
+## Read/write object for pkg-config files 
+Originally published: 2006-06-29 16:20:14 
 Last updated: 2006-06-29 23:33:27 
 Author: Christopher Dunn 
  

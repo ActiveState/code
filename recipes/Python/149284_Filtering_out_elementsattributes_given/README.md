@@ -1,4 +1,5 @@
-## Filtering out elements/attributes from a given namespaceOriginally published: 2002-09-11 10:36:35 
+## Filtering out elements/attributes from a given namespace 
+Originally published: 2002-09-11 10:36:35 
 Last updated: 2002-09-11 10:36:35 
 Author: A.M. Kuchling 
  

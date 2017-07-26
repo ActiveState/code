@@ -1,4 +1,5 @@
-## Guess a number 2  (the computer attempts to guess your number)Originally published: 2014-11-15 12:05:15 
+## Guess a number 2  (the computer attempts to guess your number) 
+Originally published: 2014-11-15 12:05:15 
 Last updated: 2014-11-15 12:11:16 
 Author: Benoit  
  

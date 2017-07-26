@@ -1,4 +1,5 @@
-## ThreadSafeProxyOriginally published: 2005-01-19 10:16:49 
+## ThreadSafeProxy 
+Originally published: 2005-01-19 10:16:49 
 Last updated: 2005-01-19 10:16:49 
 Author: Shannon -jj Behrens 
  

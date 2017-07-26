@@ -1,4 +1,5 @@
-## Check that a string represents an integer numberOriginally published: 2004-09-05 06:50:04 
+## Check that a string represents an integer number 
+Originally published: 2004-09-05 06:50:04 
 Last updated: 2004-09-05 06:50:04 
 Author: Francesco Ricciardi 
  

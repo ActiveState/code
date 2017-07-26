@@ -1,4 +1,5 @@
-## IPv4 address set typeOriginally published: 2006-01-15 10:46:18 
+## IPv4 address set type 
+Originally published: 2006-01-15 10:46:18 
 Last updated: 2006-01-23 15:52:38 
 Author: Heiko Wundram 
  

@@ -1,4 +1,5 @@
-## passwd-file-compatible ($1$) MD5 cryptOriginally published: 2004-10-26 13:58:15 
+## passwd-file-compatible ($1$) MD5 crypt 
+Originally published: 2004-10-26 13:58:15 
 Last updated: 2004-10-26 13:58:15 
 Author: Mark Johnston 
  

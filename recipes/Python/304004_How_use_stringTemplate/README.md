@@ -1,4 +1,5 @@
-## How to use string.Template from python 2.4Originally published: 2004-09-09 06:23:32 
+## How to use string.Template from python 2.4 
+Originally published: 2004-09-09 06:23:32 
 Last updated: 2004-09-13 10:55:54 
 Author: John Nielsen 
  

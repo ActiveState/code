@@ -1,4 +1,5 @@
-## shift chars in stringOriginally published: 2002-01-09 05:10:57 
+## shift chars in string 
+Originally published: 2002-01-09 05:10:57 
 Last updated: 2002-04-10 10:59:39 
 Author: anurag uniyal 
  

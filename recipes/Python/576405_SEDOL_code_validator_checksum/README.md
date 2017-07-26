@@ -1,4 +1,5 @@
-## SEDOL code validator and checksum generatorOriginally published: 2008-08-03 01:00:51 
+## SEDOL code validator and checksum generator 
+Originally published: 2008-08-03 01:00:51 
 Last updated: 2008-08-03 01:00:51 
 Author: Paddy McCarthy 
  

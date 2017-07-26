@@ -1,4 +1,5 @@
-## soundex algorithmOriginally published: 2001-03-06 16:19:41 
+## soundex algorithm 
+Originally published: 2001-03-06 16:19:41 
 Last updated: 2001-03-06 16:19:41 
 Author: Greg Jorgensen 
  

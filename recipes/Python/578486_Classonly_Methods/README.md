@@ -1,4 +1,5 @@
-## Class-only MethodsOriginally published: 2013-03-07 19:55:04 
+## Class-only Methods 
+Originally published: 2013-03-07 19:55:04 
 Last updated: 2013-03-08 17:00:53 
 Author: Eric Snow 
  

@@ -1,4 +1,5 @@
-## Apache::ReadConfigOriginally published: 2015-11-17 00:14:45 
+## Apache::ReadConfig 
+Originally published: 2015-11-17 00:14:45 
 Last updated: 2015-11-17 00:14:45 
 Author: Roger Mbiama Assogo 
  

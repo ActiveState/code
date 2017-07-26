@@ -1,4 +1,5 @@
-## Function guards for Python 3Originally published: 2016-05-01 13:08:56 
+## Function guards for Python 3 
+Originally published: 2016-05-01 13:08:56 
 Last updated: 2016-05-01 13:11:05 
 Author: Dmitry Dvoinikov 
  

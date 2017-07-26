@@ -1,4 +1,5 @@
-## Directory CleanerOriginally published: 2012-12-05 20:56:05 
+## Directory Cleaner 
+Originally published: 2012-12-05 20:56:05 
 Last updated: 2012-12-05 20:56:05 
 Author: Stephen Chappell 
  

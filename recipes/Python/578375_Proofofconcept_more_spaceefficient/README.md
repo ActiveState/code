@@ -1,4 +1,5 @@
-## Proof-of-concept for a more space-efficient, faster-looping dictionaryOriginally published: 2012-12-10 00:39:57 
+## Proof-of-concept for a more space-efficient, faster-looping dictionary 
+Originally published: 2012-12-10 00:39:57 
 Last updated: 2013-01-17 09:28:24 
 Author: Raymond Hettinger 
  

@@ -1,4 +1,5 @@
-## Simple Example demonstrating Ajax Implementation using PerlOriginally published: 2007-03-11 07:37:16 
+## Simple Example demonstrating Ajax Implementation using Perl 
+Originally published: 2007-03-11 07:37:16 
 Last updated: 2007-03-11 07:37:16 
 Author: Rajkumar Jain 
  

@@ -1,4 +1,5 @@
-## Summarizing XHTMLOriginally published: 2006-12-19 05:19:49 
+## Summarizing XHTML 
+Originally published: 2006-12-19 05:19:49 
 Last updated: 2006-12-19 05:19:49 
 Author: Marek Baczynski 
  

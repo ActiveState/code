@@ -1,4 +1,5 @@
-## Long processing computation in Tkinter or long-running taskOriginally published: 2017-02-04 07:42:55 
+## Long processing computation in Tkinter or long-running task 
+Originally published: 2017-02-04 07:42:55 
 Last updated: 2017-02-06 18:30:18 
 Author: Miguel Martínez López 
  

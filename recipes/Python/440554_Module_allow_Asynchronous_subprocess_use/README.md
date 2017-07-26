@@ -1,4 +1,5 @@
-## Module to allow Asynchronous subprocess use on Windows and Posix platformsOriginally published: 2005-09-13 12:36:19 
+## Module to allow Asynchronous subprocess use on Windows and Posix platforms 
+Originally published: 2005-09-13 12:36:19 
 Last updated: 2006-12-01 17:30:02 
 Author: Josiah Carlson 
  

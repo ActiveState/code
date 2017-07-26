@@ -1,4 +1,5 @@
-## Yet another Design By Contract module for PythonOriginally published: 2005-07-14 00:04:35 
+## Yet another Design By Contract module for Python 
+Originally published: 2005-07-14 00:04:35 
 Last updated: 2006-09-02 08:18:47 
 Author: Dmitry Dvoinikov 
  

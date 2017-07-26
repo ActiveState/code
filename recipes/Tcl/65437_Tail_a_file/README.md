@@ -1,4 +1,5 @@
-## Tail a fileOriginally published: 2001-06-21 17:03:08 
+## Tail a file 
+Originally published: 2001-06-21 17:03:08 
 Last updated: 2001-06-21 17:03:08 
 Author: Jeff Hobbs 
  

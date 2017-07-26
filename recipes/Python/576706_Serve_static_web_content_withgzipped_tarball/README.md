@@ -1,4 +1,5 @@
-## Serve static web content from within a gzipped tarball to save space using CherryPyOriginally published: 2009-03-31 18:24:06 
+## Serve static web content from within a gzipped tarball to save space using CherryPy 
+Originally published: 2009-03-31 18:24:06 
 Last updated: 2009-03-31 18:24:06 
 Author: Dan McDougall 
  

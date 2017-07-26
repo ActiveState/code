@@ -1,4 +1,5 @@
-## BMI calculator MetricOriginally published: 2011-10-14 16:19:35 
+## BMI calculator Metric 
+Originally published: 2011-10-14 16:19:35 
 Last updated: 2011-10-14 16:20:04 
 Author: Alexander Thomas Cruz 
  

@@ -1,4 +1,5 @@
-## Encoding A StringOriginally published: 2005-10-02 19:02:00 
+## Encoding A String 
+Originally published: 2005-10-02 19:02:00 
 Last updated: 2005-10-02 19:02:00 
 Author: Stephen Chappell 
  

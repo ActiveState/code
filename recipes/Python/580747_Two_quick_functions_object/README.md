@@ -1,4 +1,5 @@
-## Two quick functions for object introspectionOriginally published: 2017-01-14 22:35:16 
+## Two quick functions for object introspection 
+Originally published: 2017-01-14 22:35:16 
 Last updated: 2017-01-14 22:35:17 
 Author: Vasudev Ram 
  

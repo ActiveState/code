@@ -1,4 +1,5 @@
-## Getting HTML from the Windows clipboardOriginally published: 2006-03-06 12:51:53 
+## Getting HTML from the Windows clipboard 
+Originally published: 2006-03-06 12:51:53 
 Last updated: 2006-03-06 12:51:53 
 Author: Phillip Piper 
  

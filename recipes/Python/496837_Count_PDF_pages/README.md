@@ -1,4 +1,5 @@
-## Count PDF pagesOriginally published: 2006-06-27 00:20:12 
+## Count PDF pages 
+Originally published: 2006-06-27 00:20:12 
 Last updated: 2013-07-11 06:15:27 
 Author: Dirk Holtwick 
  

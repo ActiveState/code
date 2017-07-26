@@ -1,4 +1,5 @@
-## Wrapping method calls (meta-class example)Originally published: 2003-05-04 08:23:52 
+## Wrapping method calls (meta-class example) 
+Originally published: 2003-05-04 08:23:52 
 Last updated: 2003-05-04 15:49:40 
 Author: Stephan Diehl 
  

@@ -1,4 +1,5 @@
-## Byte to Hex and Hex to Byte String ConversionOriginally published: 2007-03-21 06:35:40 
+## Byte to Hex and Hex to Byte String Conversion 
+Originally published: 2007-03-21 06:35:40 
 Last updated: 2007-03-21 06:35:40 
 Author: Simon Peverett 
  

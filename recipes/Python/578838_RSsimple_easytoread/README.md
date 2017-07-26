@@ -1,4 +1,5 @@
-## RSA: a simple and easy-to-read implementationOriginally published: 2014-03-01 18:56:19 
+## RSA: a simple and easy-to-read implementation 
+Originally published: 2014-03-01 18:56:19 
 Last updated: 2014-03-01 18:56:19 
 Author: Andrea Corbellini 
  

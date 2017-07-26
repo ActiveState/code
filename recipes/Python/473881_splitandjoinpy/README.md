@@ -1,4 +1,5 @@
-## split_and_join.pyOriginally published: 2006-02-12 20:44:38 
+## split_and_join.py 
+Originally published: 2006-02-12 20:44:38 
 Last updated: 2006-02-12 20:44:38 
 Author: Stephen Chappell 
  

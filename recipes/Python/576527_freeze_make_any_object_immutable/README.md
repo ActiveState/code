@@ -1,4 +1,5 @@
-## freeze(), make any object immutableOriginally published: 2008-10-04 12:38:48 
+## freeze(), make any object immutable 
+Originally published: 2008-10-04 12:38:48 
 Last updated: 2008-10-04 14:39:20 
 Author: Andreas Nilsson 
  

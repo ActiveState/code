@@ -1,4 +1,5 @@
-## Script for cache invalidation at Amazon CloudFrontOriginally published: 2011-07-05 14:34:41 
+## Script for cache invalidation at Amazon CloudFront 
+Originally published: 2011-07-05 14:34:41 
 Last updated: 2011-07-05 14:40:58 
 Author: Andrey Nikishaev 
  

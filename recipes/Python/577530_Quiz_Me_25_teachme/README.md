@@ -1,4 +1,5 @@
-## Quiz Me 2.5 (teach_me)Originally published: 2010-12-31 21:55:42 
+## Quiz Me 2.5 (teach_me) 
+Originally published: 2010-12-31 21:55:42 
 Last updated: 2011-01-10 13:45:13 
 Author: Stephen Chappell 
  

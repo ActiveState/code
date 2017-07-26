@@ -1,4 +1,5 @@
-## recvall corollary  to socket.sendallOriginally published: 2003-07-30 15:37:35 
+## recvall corollary  to socket.sendall 
+Originally published: 2003-07-30 15:37:35 
 Last updated: 2003-07-30 15:37:35 
 Author: John Nielsen 
  

@@ -1,4 +1,5 @@
-## Convert doc and docx files to pdfOriginally published: 2015-07-14 13:26:56 
+## Convert doc and docx files to pdf 
+Originally published: 2015-07-14 13:26:56 
 Last updated: 2015-07-14 13:26:57 
 Author: achim  
  

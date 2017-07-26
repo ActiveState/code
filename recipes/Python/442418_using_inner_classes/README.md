@@ -1,4 +1,5 @@
-## using inner classes for propertiesOriginally published: 2005-10-17 21:38:26 
+## using inner classes for properties 
+Originally published: 2005-10-17 21:38:26 
 Last updated: 2005-10-17 21:38:26 
 Author: Steven Bethard 
  

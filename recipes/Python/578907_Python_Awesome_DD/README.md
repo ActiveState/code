@@ -1,4 +1,5 @@
-## Python Awesome DDOriginally published: 2014-07-11 22:46:46 
+## Python Awesome DD 
+Originally published: 2014-07-11 22:46:46 
 Last updated: 2014-07-12 07:29:59 
 Author: Mike 'Fuzzy' Partin 
  

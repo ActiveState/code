@@ -1,4 +1,5 @@
-## Visualize unicode stringsOriginally published: 2005-07-13 22:56:28 
+## Visualize unicode strings 
+Originally published: 2005-07-13 22:56:28 
 Last updated: 2005-07-14 05:59:09 
 Author: Wai Yip Tung 
  

@@ -1,4 +1,5 @@
-## Maclaurin's_series_function(1/1-x²)Originally published: 2010-07-07 12:41:00 
+## Maclaurin's_series_function(1/1-x²) 
+Originally published: 2010-07-07 12:41:00 
 Last updated: 2010-07-07 12:44:17 
 Author: Fouad Teniou 
  

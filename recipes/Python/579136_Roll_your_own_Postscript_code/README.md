@@ -1,4 +1,5 @@
-## Roll your own Postscript code from scratchOriginally published: 2015-12-09 23:30:12 
+## Roll your own Postscript code from scratch 
+Originally published: 2015-12-09 23:30:12 
 Last updated: 2015-12-09 23:30:13 
 Author: Jack Trainor 
  

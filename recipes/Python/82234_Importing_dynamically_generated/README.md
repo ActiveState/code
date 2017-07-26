@@ -1,4 +1,5 @@
-## Importing a dynamically generated moduleOriginally published: 2001-10-17 07:31:20 
+## Importing a dynamically generated module 
+Originally published: 2001-10-17 07:31:20 
 Last updated: 2001-10-17 07:31:20 
 Author: Anders Hammarquist 
  

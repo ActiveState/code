@@ -1,4 +1,5 @@
-## SuperFly:  Separating class heirarchy from class definition.Originally published: 2009-02-15 20:43:57 
+## SuperFly:  Separating class heirarchy from class definition. 
+Originally published: 2009-02-15 20:43:57 
 Last updated: 2009-02-15 20:47:51 
 Author: Ted Skolnick 
  

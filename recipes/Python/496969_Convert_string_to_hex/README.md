@@ -1,4 +1,5 @@
-## Convert string to hexOriginally published: 2006-08-18 05:17:53 
+## Convert string to hex 
+Originally published: 2006-08-18 05:17:53 
 Last updated: 2006-08-18 05:17:53 
 Author: Mykola Kharechko 
  

@@ -1,4 +1,5 @@
-## Get user info on Windows, for current userOriginally published: 2001-07-22 08:29:04 
+## Get user info on Windows, for current user 
+Originally published: 2001-07-22 08:29:04 
 Last updated: 2001-07-22 08:29:04 
 Author: Wolfgang Strobl 
  

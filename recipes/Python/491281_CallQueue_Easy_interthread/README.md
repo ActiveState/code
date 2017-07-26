@@ -1,4 +1,5 @@
-## CallQueue: Easy inter-thread communicationOriginally published: 2006-04-21 05:25:27 
+## CallQueue: Easy inter-thread communication 
+Originally published: 2006-04-21 05:25:27 
 Last updated: 2006-04-22 08:52:08 
 Author: R K 
  

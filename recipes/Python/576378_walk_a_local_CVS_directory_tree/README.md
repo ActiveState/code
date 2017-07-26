@@ -1,4 +1,5 @@
-## walk a local CVS directory treeOriginally published: 2008-07-25 15:53:02 
+## walk a local CVS directory tree 
+Originally published: 2008-07-25 15:53:02 
 Last updated: 2008-07-28 17:34:37 
 Author: Alain Mellan 
  

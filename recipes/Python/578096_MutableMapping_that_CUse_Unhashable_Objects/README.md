@@ -1,4 +1,5 @@
-## A MutableMapping that Can Use Unhashable Objects as KeysOriginally published: 2012-04-04 20:36:59 
+## A MutableMapping that Can Use Unhashable Objects as Keys 
+Originally published: 2012-04-04 20:36:59 
 Last updated: 2012-04-04 20:36:59 
 Author: Eric Snow 
  

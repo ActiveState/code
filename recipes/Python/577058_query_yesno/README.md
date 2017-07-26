@@ -1,4 +1,5 @@
-## query yes/noOriginally published: 2010-02-19 06:41:57 
+## query yes/no 
+Originally published: 2010-02-19 06:41:57 
 Last updated: 2010-03-09 17:57:28 
 Author: Trent Mick 
  

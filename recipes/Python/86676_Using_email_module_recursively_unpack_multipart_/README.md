@@ -1,4 +1,5 @@
-## Using the email module to recursively unpack a multipart MIME message (simpler method)Originally published: 2001-11-03 14:16:16 
+## Using the email module to recursively unpack a multipart MIME message (simpler method) 
+Originally published: 2001-11-03 14:16:16 
 Last updated: 2001-11-03 14:16:16 
 Author: Matthew Cowles 
  

@@ -1,4 +1,5 @@
-## Shortest Common Supersequence algorithmsOriginally published: 2013-10-02 12:51:05 
+## Shortest Common Supersequence algorithms 
+Originally published: 2013-10-02 12:51:05 
 Last updated: 2013-10-02 12:52:23 
 Author: Rutger Saalmink 
  

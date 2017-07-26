@@ -1,4 +1,5 @@
-## Shared ClipboardOriginally published: 2009-08-19 09:58:51 
+## Shared Clipboard 
+Originally published: 2009-08-19 09:58:51 
 Last updated: 2009-08-19 09:58:51 
 Author: Joseph Reagle 
  

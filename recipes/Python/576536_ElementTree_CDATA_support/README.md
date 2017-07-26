@@ -1,4 +1,5 @@
-## ElementTree CDATA supportOriginally published: 2008-10-10 12:29:02 
+## ElementTree CDATA support 
+Originally published: 2008-10-10 12:29:02 
 Last updated: 2008-10-10 12:29:33 
 Author: Eli Golovinsky 
  

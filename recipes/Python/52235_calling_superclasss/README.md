@@ -1,4 +1,5 @@
-## calling a superclass's implementation of a methodOriginally published: 2001-03-12 08:06:55 
+## calling a superclass's implementation of a method 
+Originally published: 2001-03-12 08:06:55 
 Last updated: 2001-03-12 08:06:55 
 Author: Alex Martelli 
  

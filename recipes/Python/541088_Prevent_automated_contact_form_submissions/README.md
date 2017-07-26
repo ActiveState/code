@@ -1,4 +1,5 @@
-## Prevent automated contact form submissions from spammersOriginally published: 2007-12-26 09:47:21 
+## Prevent automated contact form submissions from spammers 
+Originally published: 2007-12-26 09:47:21 
 Last updated: 2007-12-26 09:47:21 
 Author: Davide Andrea 
  

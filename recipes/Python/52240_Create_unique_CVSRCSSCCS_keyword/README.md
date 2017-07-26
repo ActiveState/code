@@ -1,4 +1,5 @@
-## Create a unique CVS/RCS/SCCS keyword lineOriginally published: 2001-03-12 13:52:48 
+## Create a unique CVS/RCS/SCCS keyword line 
+Originally published: 2001-03-12 13:52:48 
 Last updated: 2001-03-12 13:52:48 
 Author: Ken Goldstein 
  

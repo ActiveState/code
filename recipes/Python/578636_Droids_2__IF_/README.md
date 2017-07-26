@@ -1,4 +1,5 @@
-## Droids 2 ( IF )Originally published: 2013-08-11 13:58:00 
+## Droids 2 ( IF ) 
+Originally published: 2013-08-11 13:58:00 
 Last updated: 2013-08-13 09:12:11 
 Author: jay  
  

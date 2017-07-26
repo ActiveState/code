@@ -1,4 +1,5 @@
-## Context manager to atomically replace a fileOriginally published: 2012-06-17 09:08:04 
+## Context manager to atomically replace a file 
+Originally published: 2012-06-17 09:08:04 
 Last updated: 2012-06-17 12:09:49 
 Author: Oren Tirosh 
  

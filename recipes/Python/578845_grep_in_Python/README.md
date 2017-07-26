@@ -1,4 +1,5 @@
-## grep in PythonOriginally published: 2014-03-05 19:47:49 
+## grep in Python 
+Originally published: 2014-03-05 19:47:49 
 Last updated: 2014-03-05 19:47:50 
 Author: Andy Dustman 
  

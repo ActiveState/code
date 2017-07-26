@@ -1,4 +1,5 @@
-## Sort objects using SQL ORDER BY SYNTAXOriginally published: 2001-09-06 12:21:25 
+## Sort objects using SQL ORDER BY SYNTAX 
+Originally published: 2001-09-06 12:21:25 
 Last updated: 2001-09-06 12:21:25 
 Author: Andrew Henshaw 
  

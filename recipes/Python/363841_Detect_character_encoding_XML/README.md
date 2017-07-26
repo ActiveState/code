@@ -1,4 +1,5 @@
-## Detect character encoding in an XML fileOriginally published: 2005-01-19 16:35:10 
+## Detect character encoding in an XML file 
+Originally published: 2005-01-19 16:35:10 
 Last updated: 2005-01-20 00:50:37 
 Author: Lars Tiede 
  

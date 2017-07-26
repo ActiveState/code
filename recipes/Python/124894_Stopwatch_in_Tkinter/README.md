@@ -1,4 +1,5 @@
-## Stopwatch in TkinterOriginally published: 2002-05-03 07:29:28 
+## Stopwatch in Tkinter 
+Originally published: 2002-05-03 07:29:28 
 Last updated: 2002-05-23 13:51:38 
 Author: Jørgen Cederberg 
  

@@ -1,4 +1,5 @@
-## Appending Encrypted Username and Passwords to a FileOriginally published: 2013-01-31 02:06:41 
+## Appending Encrypted Username and Passwords to a File 
+Originally published: 2013-01-31 02:06:41 
 Last updated: 2013-01-31 02:08:20 
 Author: Captain DeadBones 
  

@@ -1,4 +1,5 @@
-## Apache Client Cache-rate CalculatorOriginally published: 2001-07-27 06:31:55 
+## Apache Client Cache-rate Calculator 
+Originally published: 2001-07-27 06:31:55 
 Last updated: 2001-07-27 06:31:55 
 Author: Mark Nenadov 
  

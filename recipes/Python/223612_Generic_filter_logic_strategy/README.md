@@ -1,4 +1,5 @@
-## Generic filter logic strategyOriginally published: 2003-09-18 23:35:35 
+## Generic filter logic strategy 
+Originally published: 2003-09-18 23:35:35 
 Last updated: 2003-09-18 23:35:35 
 Author: Robert Brewer 
  

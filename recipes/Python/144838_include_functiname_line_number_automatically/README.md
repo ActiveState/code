@@ -1,4 +1,5 @@
-## include function name and line number automatically in debug statementsOriginally published: 2002-08-14 15:06:48 
+## include function name and line number automatically in debug statements 
+Originally published: 2002-08-14 15:06:48 
 Last updated: 2002-08-14 15:06:48 
 Author: Christian Bird 
  

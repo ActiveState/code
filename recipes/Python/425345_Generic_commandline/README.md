@@ -1,4 +1,5 @@
-## Generic command-line option parserOriginally published: 2005-06-10 06:16:18 
+## Generic command-line option parser 
+Originally published: 2005-06-10 06:16:18 
 Last updated: 2005-06-10 13:46:18 
 Author: Anand  
  

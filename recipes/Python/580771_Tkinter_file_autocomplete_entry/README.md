@@ -1,4 +1,5 @@
-## Tkinter file autocomplete entryOriginally published: 2017-04-02 22:05:38 
+## Tkinter file autocomplete entry 
+Originally published: 2017-04-02 22:05:38 
 Last updated: 2017-04-03 15:18:36 
 Author: Miguel Martínez López 
  

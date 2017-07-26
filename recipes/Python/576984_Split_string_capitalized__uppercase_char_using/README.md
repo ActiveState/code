@@ -1,4 +1,5 @@
-## Split a string on capitalized / uppercase char using PythonOriginally published: 2009-12-11 20:23:17 
+## Split a string on capitalized / uppercase char using Python 
+Originally published: 2009-12-11 20:23:17 
 Last updated: 2009-12-11 23:16:36 
 Author: activestate  
  

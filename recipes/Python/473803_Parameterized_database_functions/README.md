@@ -1,4 +1,5 @@
-## Parameterized database functionsOriginally published: 2006-01-29 00:39:51 
+## Parameterized database functions 
+Originally published: 2006-01-29 00:39:51 
 Last updated: 2006-01-29 00:39:51 
 Author: Raymond Hettinger 
  

@@ -1,4 +1,5 @@
-## permutationOriginally published: 2001-08-05 00:40:17 
+## permutation 
+Originally published: 2001-08-05 00:40:17 
 Last updated: 2001-08-05 00:40:17 
 Author: Gagan Saksena 
  

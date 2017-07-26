@@ -1,4 +1,5 @@
-## A Crude Baby Alarm For Standard Text Mode Python And Linux.Originally published: 2012-08-02 18:05:29 
+## A Crude Baby Alarm For Standard Text Mode Python And Linux. 
+Originally published: 2012-08-02 18:05:29 
 Last updated: 2012-08-02 18:05:29 
 Author: Barry Walker 
  

@@ -1,4 +1,5 @@
-## Grouping objects into disjoint setsOriginally published: 2005-02-17 06:35:34 
+## Grouping objects into disjoint sets 
+Originally published: 2005-02-17 06:35:34 
 Last updated: 2005-05-09 19:59:13 
 Author: Michael Droettboom 
  

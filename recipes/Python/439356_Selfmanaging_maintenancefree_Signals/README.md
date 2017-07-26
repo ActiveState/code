@@ -1,4 +1,5 @@
-## Self-managing, maintenance-free Signals implementationOriginally published: 2005-08-17 12:22:47 
+## Self-managing, maintenance-free Signals implementation 
+Originally published: 2005-08-17 12:22:47 
 Last updated: 2005-08-18 14:21:18 
 Author: Patrick Chasco 
  

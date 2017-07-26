@@ -1,4 +1,5 @@
-## get_date wrapper to datetime moduleOriginally published: 2004-09-04 07:35:42 
+## get_date wrapper to datetime module 
+Originally published: 2004-09-04 07:35:42 
 Last updated: 2004-09-04 07:35:42 
 Author: John Nielsen 
  

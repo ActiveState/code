@@ -1,4 +1,5 @@
-## Convert Image FormatOriginally published: 2011-09-30 10:39:30 
+## Convert Image Format 
+Originally published: 2011-09-30 10:39:30 
 Last updated: 2011-09-30 10:46:21 
 Author: s_h_a_i_o  
  

@@ -1,4 +1,5 @@
-## Stacked graphs using matplotlibOriginally published: 2009-01-26 08:11:59 
+## Stacked graphs using matplotlib 
+Originally published: 2009-01-26 08:11:59 
 Last updated: 2009-01-26 08:11:59 
 Author: Anand Patil 
  

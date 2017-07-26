@@ -1,4 +1,5 @@
-## Using IviScope Instrument driver with PythonOriginally published: 2012-03-29 17:14:09 
+## Using IviScope Instrument driver with Python 
+Originally published: 2012-03-29 17:14:09 
 Last updated: 2012-03-29 17:17:26 
 Author: Pierre Cladé 
  

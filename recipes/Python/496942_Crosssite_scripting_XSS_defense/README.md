@@ -1,4 +1,5 @@
-## Cross-site scripting (XSS) defenseOriginally published: 2006-08-05 10:45:10 
+## Cross-site scripting (XSS) defense 
+Originally published: 2006-08-05 10:45:10 
 Last updated: 2006-08-05 10:45:10 
 Author: Josh Goldfoot 
  

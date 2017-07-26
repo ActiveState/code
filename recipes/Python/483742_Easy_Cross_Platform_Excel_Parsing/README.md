@@ -1,4 +1,5 @@
-## Easy Cross Platform Excel Parsing With XlrdOriginally published: 2006-04-06 17:10:26 
+## Easy Cross Platform Excel Parsing With Xlrd 
+Originally published: 2006-04-06 17:10:26 
 Last updated: 2006-04-07 22:45:51 
 Author: Bryan Niederberger 
  

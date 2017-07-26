@@ -1,4 +1,5 @@
-## dynamically changing encoder (for json) with metaclass (class factory) Originally published: 2013-10-24 11:31:44 
+## dynamically changing encoder (for json) with metaclass (class factory)  
+Originally published: 2013-10-24 11:31:44 
 Last updated: 2013-10-24 11:31:44 
 Author: -  
  

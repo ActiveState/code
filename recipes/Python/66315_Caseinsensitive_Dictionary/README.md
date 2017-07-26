@@ -1,4 +1,5 @@
-## Case-insensitive DictionaryOriginally published: 2001-07-23 05:50:04 
+## Case-insensitive Dictionary 
+Originally published: 2001-07-23 05:50:04 
 Last updated: 2001-07-23 05:50:04 
 Author: Sami Hangaslammi 
  

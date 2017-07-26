@@ -1,4 +1,5 @@
-## Liturgical Calendar Year classOriginally published: 2008-09-30 16:57:29 
+## Liturgical Calendar Year class 
+Originally published: 2008-09-30 16:57:29 
 Last updated: 2008-09-30 16:57:29 
 Author: Martin Diers 
  

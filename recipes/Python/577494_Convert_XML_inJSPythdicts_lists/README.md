@@ -1,4 +1,5 @@
-## Convert XML into JSON (Python dicts and lists structure)Originally published: 2010-12-09 16:02:13 
+## Convert XML into JSON (Python dicts and lists structure) 
+Originally published: 2010-12-09 16:02:13 
 Last updated: 2011-08-22 13:30:33 
 Author: Nikola  
  

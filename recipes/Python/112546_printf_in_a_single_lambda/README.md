@@ -1,4 +1,5 @@
-## printf in a single lambdaOriginally published: 2002-02-06 06:22:19 
+## printf in a single lambda 
+Originally published: 2002-02-06 06:22:19 
 Last updated: 2002-02-06 06:22:19 
 Author: Tobias Klausmann 
  

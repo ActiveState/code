@@ -1,4 +1,5 @@
-## Priority Queue (with deletion)Originally published: 2013-12-05 23:48:09 
+## Priority Queue (with deletion) 
+Originally published: 2013-12-05 23:48:09 
 Last updated: 2013-12-08 21:12:55 
 Author: elazar  
  

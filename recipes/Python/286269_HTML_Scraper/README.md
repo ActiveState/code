@@ -1,4 +1,5 @@
-## HTML ScraperOriginally published: 2004-07-26 03:02:21 
+## HTML Scraper 
+Originally published: 2004-07-26 03:02:21 
 Last updated: 2004-09-06 08:18:49 
 Author: Michael Foord 
  

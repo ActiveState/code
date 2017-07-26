@@ -1,4 +1,5 @@
-## IronPython fade-in windowOriginally published: 2004-09-02 01:58:08 
+## IronPython fade-in window 
+Originally published: 2004-09-02 01:58:08 
 Last updated: 2004-09-02 01:58:08 
 Author: Brian Quinlan 
  

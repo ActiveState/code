@@ -1,4 +1,5 @@
-## Python VectorsOriginally published: 2009-09-22 12:45:11 
+## Python Vectors 
+Originally published: 2009-09-22 12:45:11 
 Last updated: 2009-11-25 04:50:10 
 Author: Stephen Chappell 
  

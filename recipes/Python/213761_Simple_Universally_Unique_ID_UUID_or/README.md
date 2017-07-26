@@ -1,4 +1,5 @@
-## Simple Universally Unique ID (UUID or GUID)Originally published: 2003-08-02 06:36:42 
+## Simple Universally Unique ID (UUID or GUID) 
+Originally published: 2003-08-02 06:36:42 
 Last updated: 2003-08-02 06:36:42 
 Author: Carl Free Jr 
  

@@ -1,4 +1,5 @@
-## extract email addresses from filesOriginally published: 2002-07-10 16:38:29 
+## extract email addresses from files 
+Originally published: 2002-07-10 16:38:29 
 Last updated: 2002-07-10 16:38:29 
 Author: carl scharenberg 
  

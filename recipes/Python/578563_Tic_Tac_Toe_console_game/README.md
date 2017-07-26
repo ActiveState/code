@@ -1,4 +1,5 @@
-## Tic Tac Toe console gameOriginally published: 2013-06-18 10:32:41 
+## Tic Tac Toe console game 
+Originally published: 2013-06-18 10:32:41 
 Last updated: 2013-06-18 10:52:27 
 Author: Russel Walker 
  

@@ -1,4 +1,5 @@
-## Prime Number Generator in Python (half effcient)Originally published: 2013-01-06 20:20:49 
+## Prime Number Generator in Python (half effcient) 
+Originally published: 2013-01-06 20:20:49 
 Last updated: 2013-01-06 20:20:49 
 Author: Captain DeadBones 
  

@@ -1,4 +1,5 @@
-## Recursively defined, Haskell-style infinite listsOriginally published: 2012-05-04 12:59:08 
+## Recursively defined, Haskell-style infinite lists 
+Originally published: 2012-05-04 12:59:08 
 Last updated: 2012-05-04 14:09:14 
 Author: John Crichton 
  

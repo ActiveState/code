@@ -1,4 +1,5 @@
-## Mandelbrot trajectoriesOriginally published: 2011-04-06 18:18:48 
+## Mandelbrot trajectories 
+Originally published: 2011-04-06 18:18:48 
 Last updated: 2011-04-06 18:18:48 
 Author: Kaushik Ghose 
  

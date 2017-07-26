@@ -1,4 +1,5 @@
-## Error reporting via decoratorOriginally published: 2005-03-10 16:13:58 
+## Error reporting via decorator 
+Originally published: 2005-03-10 16:13:58 
 Last updated: 2005-03-10 16:13:58 
 Author: Scott David Daniels 
  

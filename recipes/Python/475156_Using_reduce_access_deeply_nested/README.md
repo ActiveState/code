@@ -1,4 +1,5 @@
-## Using reduce to access deeply nested dictionariesOriginally published: 2006-03-20 08:47:48 
+## Using reduce to access deeply nested dictionaries 
+Originally published: 2006-03-20 08:47:48 
 Last updated: 2006-04-15 22:58:05 
 Author: Robin Bryce 
  

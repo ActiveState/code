@@ -1,4 +1,5 @@
-## How to Mutate a FloatOriginally published: 2012-05-14 16:47:53 
+## How to Mutate a Float 
+Originally published: 2012-05-14 16:47:53 
 Last updated: 2012-05-14 16:49:13 
 Author: Stephen Chappell 
  

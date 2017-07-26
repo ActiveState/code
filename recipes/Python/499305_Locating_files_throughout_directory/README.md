@@ -1,4 +1,5 @@
-## Locating files throughout a directory treeOriginally published: 2006-12-12 08:42:09 
+## Locating files throughout a directory tree 
+Originally published: 2006-12-12 08:42:09 
 Last updated: 2009-12-02 07:30:27 
 Author: Simon Brunning 
  

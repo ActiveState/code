@@ -1,4 +1,5 @@
-## Dijkstra's algorithm for shortest pathsOriginally published: 2010-08-02 13:03:44 
+## Dijkstra's algorithm for shortest paths 
+Originally published: 2010-08-02 13:03:44 
 Last updated: 2010-08-02 13:03:45 
 Author: poromenos  
  

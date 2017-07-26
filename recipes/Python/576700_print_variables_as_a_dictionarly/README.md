@@ -1,4 +1,5 @@
-## print variables as a dictionarlyOriginally published: 2009-03-27 07:27:41 
+## print variables as a dictionarly 
+Originally published: 2009-03-27 07:27:41 
 Last updated: 2009-03-27 07:39:13 
 Author: Maxim Khesin 
  

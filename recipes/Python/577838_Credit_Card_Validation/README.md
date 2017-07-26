@@ -1,4 +1,5 @@
-## Credit Card ValidationOriginally published: 2011-08-11 19:06:57 
+## Credit Card Validation 
+Originally published: 2011-08-11 19:06:57 
 Last updated: 2011-08-11 19:06:58 
 Author: Stijn de Graaf 
  

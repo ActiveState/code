@@ -1,4 +1,5 @@
-## get index of element in list using identityOriginally published: 2008-08-16 19:32:28 
+## get index of element in list using identity 
+Originally published: 2008-08-16 19:32:28 
 Last updated: 2008-08-16 19:41:37 
 Author: nosklo  
  

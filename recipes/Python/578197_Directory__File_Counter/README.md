@@ -1,4 +1,5 @@
-## Directory & File CounterOriginally published: 2012-07-07 22:07:51 
+## Directory & File Counter 
+Originally published: 2012-07-07 22:07:51 
 Last updated: 2012-07-07 22:07:51 
 Author: Stephen Chappell 
  

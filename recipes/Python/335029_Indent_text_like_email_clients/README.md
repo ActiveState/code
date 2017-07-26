@@ -1,4 +1,5 @@
-## Indent text like email clients doOriginally published: 2004-11-10 08:56:00 
+## Indent text like email clients do 
+Originally published: 2004-11-10 08:56:00 
 Last updated: 2004-11-10 08:56:00 
 Author: Peter Bengtsson 
  

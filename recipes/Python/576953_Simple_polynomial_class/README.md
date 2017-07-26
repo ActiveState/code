@@ -1,4 +1,5 @@
-## Simple polynomial classOriginally published: 2009-11-10 11:37:51 
+## Simple polynomial class 
+Originally published: 2009-11-10 11:37:51 
 Last updated: 2014-02-13 20:55:55 
 Author: Sam Denton 
  

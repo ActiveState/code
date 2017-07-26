@@ -1,4 +1,5 @@
-## XML to PDF book with ElementTree and xtopdfOriginally published: 2013-06-16 19:14:58 
+## XML to PDF book with ElementTree and xtopdf 
+Originally published: 2013-06-16 19:14:58 
 Last updated: 2013-06-16 19:14:58 
 Author: Vasudev Ram 
  

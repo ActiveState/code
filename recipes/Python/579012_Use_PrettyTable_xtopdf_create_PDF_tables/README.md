@@ -1,4 +1,5 @@
-## Use PrettyTable and xtopdf to create PDF tables with borders, alignment and paddingOriginally published: 2015-01-24 21:21:26 
+## Use PrettyTable and xtopdf to create PDF tables with borders, alignment and padding 
+Originally published: 2015-01-24 21:21:26 
 Last updated: 2015-01-24 21:21:27 
 Author: Vasudev Ram 
  

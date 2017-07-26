@@ -1,4 +1,5 @@
-## How to add cookies/headers to SOAPpy callsOriginally published: 2005-11-07 07:58:10 
+## How to add cookies/headers to SOAPpy calls 
+Originally published: 2005-11-07 07:58:10 
 Last updated: 2005-11-07 16:22:30 
 Author: Gopal Vijayaraghavan 
  

@@ -1,4 +1,5 @@
-## Generation of captcha without using any fontsOriginally published: 2009-03-20 13:06:00 
+## Generation of captcha without using any fonts 
+Originally published: 2009-03-20 13:06:00 
 Last updated: 2009-03-21 14:29:30 
 Author: Agnius Vasiliauskas 
  

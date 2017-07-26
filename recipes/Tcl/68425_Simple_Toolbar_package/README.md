@@ -1,4 +1,5 @@
-## Simple Toolbar packageOriginally published: 2001-09-20 12:45:52 
+## Simple Toolbar package 
+Originally published: 2001-09-20 12:45:52 
 Last updated: 2001-09-20 12:45:52 
 Author: Paul Obermeier 
  

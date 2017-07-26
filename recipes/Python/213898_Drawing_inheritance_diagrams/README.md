@@ -1,4 +1,5 @@
-## Drawing inheritance diagrams with "Dot"Originally published: 2003-08-03 07:54:55 
+## Drawing inheritance diagrams with "Dot" 
+Originally published: 2003-08-03 07:54:55 
 Last updated: 2003-08-03 07:54:55 
 Author: Michele Simionato 
  

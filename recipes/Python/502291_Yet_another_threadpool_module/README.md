@@ -1,4 +1,5 @@
-## Yet another threadpool moduleOriginally published: 2007-03-09 01:41:59 
+## Yet another threadpool module 
+Originally published: 2007-03-09 01:41:59 
 Last updated: 2007-03-25 05:37:06 
 Author: George Sakkis 
  

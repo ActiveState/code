@@ -1,4 +1,5 @@
-## resultset.pyOriginally published: 2002-11-21 16:13:55 
+## resultset.py 
+Originally published: 2002-11-21 16:13:55 
 Last updated: 2002-11-21 16:13:55 
 Author: Conan Albrecht 
  

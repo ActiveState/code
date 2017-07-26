@@ -1,4 +1,5 @@
-## Sort a string using numeric orderOriginally published: 2002-06-25 08:17:18 
+## Sort a string using numeric order 
+Originally published: 2002-06-25 08:17:18 
 Last updated: 2002-06-25 08:17:18 
 Author: Chui Tey 
  

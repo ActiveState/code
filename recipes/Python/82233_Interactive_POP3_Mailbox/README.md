@@ -1,4 +1,5 @@
-## Interactive POP3 Mailbox InspectorOriginally published: 2001-10-17 05:23:36 
+## Interactive POP3 Mailbox Inspector 
+Originally published: 2001-10-17 05:23:36 
 Last updated: 2001-10-17 05:23:36 
 Author: Xavier Defrang 
  

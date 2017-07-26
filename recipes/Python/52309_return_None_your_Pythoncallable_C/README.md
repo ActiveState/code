@@ -1,4 +1,5 @@
-## To 'return None' from your Python-callable C functionOriginally published: 2001-03-26 12:02:44 
+## To 'return None' from your Python-callable C function 
+Originally published: 2001-03-26 12:02:44 
 Last updated: 2001-03-26 12:02:44 
 Author: Alex Martelli 
  

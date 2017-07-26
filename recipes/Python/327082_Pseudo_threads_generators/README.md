@@ -1,4 +1,5 @@
-## Pseudo threads with generators and PyGTK/gnome-pythonOriginally published: 2004-11-05 06:33:06 
+## Pseudo threads with generators and PyGTK/gnome-python 
+Originally published: 2004-11-05 06:33:06 
 Last updated: 2004-11-05 06:33:06 
 Author: Arjan Molenaar 
  

@@ -1,4 +1,5 @@
-## Illustration: Writing a TappedIn.com calendar item from FeedDemon to Google CalendarOriginally published: 2009-01-03 17:13:46 
+## Illustration: Writing a TappedIn.com calendar item from FeedDemon to Google Calendar 
+Originally published: 2009-01-03 17:13:46 
 Last updated: 2009-01-03 17:13:46 
 Author: Bill Bell 
  

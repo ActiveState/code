@@ -1,4 +1,5 @@
-## How to use twisted pb pagerOriginally published: 2005-11-28 03:04:25 
+## How to use twisted pb pager 
+Originally published: 2005-11-28 03:04:25 
 Last updated: 2005-11-28 03:04:25 
 Author: Matthew Sherborne 
  

@@ -1,4 +1,5 @@
-## caselessDictOriginally published: 2004-05-10 04:48:05 
+## caselessDict 
+Originally published: 2004-05-10 04:48:05 
 Last updated: 2004-06-07 10:30:31 
 Author: Michael Foord 
  

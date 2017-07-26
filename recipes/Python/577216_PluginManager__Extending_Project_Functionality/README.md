@@ -1,4 +1,5 @@
-## PluginManager - Extending Project Functionality By Using Custom Modules/Plugins On The Fly.Originally published: 2010-05-05 21:16:46 
+## PluginManager - Extending Project Functionality By Using Custom Modules/Plugins On The Fly. 
+Originally published: 2010-05-05 21:16:46 
 Last updated: 2010-05-07 15:32:10 
 Author: AJ. Mayorga 
  

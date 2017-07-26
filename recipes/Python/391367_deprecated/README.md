@@ -1,4 +1,5 @@
-## @deprecatedOriginally published: 2005-03-11 14:38:27 
+## @deprecated 
+Originally published: 2005-03-11 14:38:27 
 Last updated: 2005-03-11 14:38:27 
 Author: Michael Chermside 
  

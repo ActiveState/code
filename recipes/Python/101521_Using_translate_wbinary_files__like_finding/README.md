@@ -1,4 +1,5 @@
-## Using translate w/binary files  (like finding Berkley copyrights in exe's)Originally published: 2001-12-07 09:44:48 
+## Using translate w/binary files  (like finding Berkley copyrights in exe's) 
+Originally published: 2001-12-07 09:44:48 
 Last updated: 2001-12-10 13:33:38 
 Author: John Nielsen 
  

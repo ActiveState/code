@@ -1,4 +1,5 @@
-## Whitespace Stack CalculatorOriginally published: 2010-03-14 18:03:23 
+## Whitespace Stack Calculator 
+Originally published: 2010-03-14 18:03:23 
 Last updated: 2010-03-14 18:03:24 
 Author: Stephen Chappell 
  

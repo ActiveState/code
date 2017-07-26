@@ -1,4 +1,5 @@
-## Set environment variables for using ssh in python from an ssh-agent callOriginally published: 2007-10-09 05:13:59 
+## Set environment variables for using ssh in python from an ssh-agent call 
+Originally published: 2007-10-09 05:13:59 
 Last updated: 2007-10-09 05:13:59 
 Author: Andrew MacCormack 
  

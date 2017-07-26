@@ -1,4 +1,5 @@
-## Simple stoppable server using socket timeoutOriginally published: 2005-06-09 00:35:47 
+## Simple stoppable server using socket timeout 
+Originally published: 2005-06-09 00:35:47 
 Last updated: 2005-06-09 00:35:47 
 Author: Dirk Holtwick 
  

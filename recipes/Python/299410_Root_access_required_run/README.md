@@ -1,4 +1,5 @@
-## Root access required to run a scriptOriginally published: 2004-08-12 05:07:58 
+## Root access required to run a script 
+Originally published: 2004-08-12 05:07:58 
 Last updated: 2004-08-12 17:21:25 
 Author: Gian Mario Tagliaretti 
  

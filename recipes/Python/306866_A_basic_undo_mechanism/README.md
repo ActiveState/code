@@ -1,4 +1,5 @@
-## A basic undo mechanismOriginally published: 2004-10-02 14:47:56 
+## A basic undo mechanism 
+Originally published: 2004-10-02 14:47:56 
 Last updated: 2004-10-02 14:47:56 
 Author: Bernhard Mulder 
  

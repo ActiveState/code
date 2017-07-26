@@ -1,4 +1,5 @@
-## Python 2.7 Linked List vs ListOriginally published: 2010-08-13 04:05:41 
+## Python 2.7 Linked List vs List 
+Originally published: 2010-08-13 04:05:41 
 Last updated: 2010-08-13 04:05:42 
 Author: Jack Trainor 
  

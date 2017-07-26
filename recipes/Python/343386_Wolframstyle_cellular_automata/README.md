@@ -1,4 +1,5 @@
-## Wolfram-style cellular automataOriginally published: 2004-11-22 08:34:11 
+## Wolfram-style cellular automata 
+Originally published: 2004-11-22 08:34:11 
 Last updated: 2004-11-23 20:52:41 
 Author: Rick Muller 
  

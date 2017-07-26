@@ -1,4 +1,5 @@
-## Auto-Initialisation with default attribute valuesOriginally published: 2010-07-20 15:00:49 
+## Auto-Initialisation with default attribute values 
+Originally published: 2010-07-20 15:00:49 
 Last updated: 2010-07-20 15:04:52 
 Author: Luke Dickens 
  

@@ -1,4 +1,5 @@
-## Pseudo-random string to float conversionOriginally published: 2005-03-11 15:46:51 
+## Pseudo-random string to float conversion 
+Originally published: 2005-03-11 15:46:51 
 Last updated: 2005-03-11 15:46:51 
 Author: Ori Peleg 
  

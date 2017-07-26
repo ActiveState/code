@@ -1,4 +1,5 @@
-## IFS fractals using iteration methodOriginally published: 2012-01-07 18:33:21 
+## IFS fractals using iteration method 
+Originally published: 2012-01-07 18:33:21 
 Last updated: 2012-01-07 18:33:21 
 Author: FB36  
  

@@ -1,4 +1,5 @@
-## Komodo JS Macro: colorize the output console with a different color schemeOriginally published: 2011-06-24 17:52:48 
+## Komodo JS Macro: colorize the output console with a different color scheme 
+Originally published: 2011-06-24 17:52:48 
 Last updated: 2011-06-24 17:52:48 
 Author: Todd Whiteman 
  

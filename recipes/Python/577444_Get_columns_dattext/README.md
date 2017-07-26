@@ -1,4 +1,5 @@
-## Get columns of data from text filesOriginally published: 2010-10-28 16:16:18 
+## Get columns of data from text files 
+Originally published: 2010-10-28 16:16:18 
 Last updated: 2010-10-28 16:18:19 
 Author: alinium  
  

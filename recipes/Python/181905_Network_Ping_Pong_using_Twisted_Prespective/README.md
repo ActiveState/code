@@ -1,4 +1,5 @@
-## Network Ping Pong using Twisted Prespective BrokerOriginally published: 2003-02-21 16:28:31 
+## Network Ping Pong using Twisted Prespective Broker 
+Originally published: 2003-02-21 16:28:31 
 Last updated: 2003-02-21 16:28:31 
 Author: Simon Foster 
  

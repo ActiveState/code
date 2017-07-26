@@ -1,4 +1,5 @@
-## Shutdown your computer via E-mail - PythonOriginally published: 2016-05-27 05:25:59 
+## Shutdown your computer via E-mail - Python 
+Originally published: 2016-05-27 05:25:59 
 Last updated: 2016-05-27 05:28:21 
 Author: Veysel Nantu 
  

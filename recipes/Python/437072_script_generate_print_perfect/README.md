@@ -1,4 +1,5 @@
-## A script to generate and print perfect numbersOriginally published: 2005-07-17 11:20:57 
+## A script to generate and print perfect numbers 
+Originally published: 2005-07-17 11:20:57 
 Last updated: 2005-07-17 11:20:57 
 Author: Aditya Gopalakrishnan 
  

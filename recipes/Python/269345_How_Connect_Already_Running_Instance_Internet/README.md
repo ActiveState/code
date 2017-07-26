@@ -1,4 +1,5 @@
-## How to Connect to an Already Running Instance of Internet ExplorerOriginally published: 2004-02-15 13:58:04 
+## How to Connect to an Already Running Instance of Internet Explorer 
+Originally published: 2004-02-15 13:58:04 
 Last updated: 2004-06-13 23:03:49 
 Author: Bill Bell 
  

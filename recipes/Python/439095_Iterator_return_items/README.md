@@ -1,4 +1,5 @@
-## Iterator to return items N-at-a-timeOriginally published: 2005-08-11 13:56:52 
+## Iterator to return items N-at-a-time 
+Originally published: 2005-08-11 13:56:52 
 Last updated: 2005-08-11 13:56:52 
 Author: paul cannon 
  

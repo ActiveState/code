@@ -1,4 +1,5 @@
-## Making telephone calls from your python program using Voicent GatewayOriginally published: 2005-10-13 16:28:19 
+## Making telephone calls from your python program using Voicent Gateway 
+Originally published: 2005-10-13 16:28:19 
 Last updated: 2005-10-13 16:28:19 
 Author: Andrew Kern 
  

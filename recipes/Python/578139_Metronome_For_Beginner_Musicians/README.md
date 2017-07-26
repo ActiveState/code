@@ -1,4 +1,5 @@
-## Metronome For Beginner Musicians...Originally published: 2012-05-18 19:26:29 
+## Metronome For Beginner Musicians... 
+Originally published: 2012-05-18 19:26:29 
 Last updated: 2012-05-18 19:30:04 
 Author: Barry Walker 
  

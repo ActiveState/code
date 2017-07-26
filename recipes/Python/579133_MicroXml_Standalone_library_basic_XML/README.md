@@ -1,4 +1,5 @@
-## MicroXml: Stand-alone library for basic XML featuresOriginally published: 2015-12-04 22:36:55 
+## MicroXml: Stand-alone library for basic XML features 
+Originally published: 2015-12-04 22:36:55 
 Last updated: 2015-12-04 22:36:56 
 Author: Jack Trainor 
  

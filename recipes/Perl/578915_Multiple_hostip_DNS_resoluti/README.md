@@ -1,4 +1,5 @@
-## Multiple host/ip DNS resolution - mass_nslookup.plOriginally published: 2014-07-31 17:11:03 
+## Multiple host/ip DNS resolution - mass_nslookup.pl 
+Originally published: 2014-07-31 17:11:03 
 Last updated: 2014-07-31 17:11:03 
 Author: Brett Carroll 
  

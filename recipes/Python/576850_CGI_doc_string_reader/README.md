@@ -1,4 +1,5 @@
-## CGI doc string readerOriginally published: 2009-07-20 07:09:51 
+## CGI doc string reader 
+Originally published: 2009-07-20 07:09:51 
 Last updated: 2010-04-13 14:06:06 
 Author: Timothy Makobu 
  

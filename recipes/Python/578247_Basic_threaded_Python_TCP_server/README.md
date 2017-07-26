@@ -1,4 +1,5 @@
-## Basic threaded Python TCP serverOriginally published: 2012-08-24 08:49:41 
+## Basic threaded Python TCP server 
+Originally published: 2012-08-24 08:49:41 
 Last updated: 2012-09-19 17:59:01 
 Author: Luis Martin Gil 
  

@@ -1,4 +1,5 @@
-## Red black treeOriginally published: 2009-06-20 03:11:59 
+## Red black tree 
+Originally published: 2009-06-20 03:11:59 
 Last updated: 2009-06-20 03:11:59 
 Author: John Reid 
  

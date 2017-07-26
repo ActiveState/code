@@ -1,4 +1,5 @@
-## FSM 2.5 ReaderOriginally published: 2011-04-06 03:02:56 
+## FSM 2.5 Reader 
+Originally published: 2011-04-06 03:02:56 
 Last updated: 2011-04-06 03:02:57 
 Author: Stephen Chappell 
  

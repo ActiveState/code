@@ -1,4 +1,5 @@
-## Invoking PowerShell script from batch fileOriginally published: 2012-11-01 18:39:55 
+## Invoking PowerShell script from batch file 
+Originally published: 2012-11-01 18:39:55 
 Last updated: 2012-11-01 18:39:55 
 Author: greg zakharov 
  

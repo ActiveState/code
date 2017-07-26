@@ -1,4 +1,5 @@
-## 8 Queens ProblemOriginally published: 2007-03-26 20:36:33 
+## 8 Queens Problem 
+Originally published: 2007-03-26 20:36:33 
 Last updated: 2007-03-26 20:36:33 
 Author: Calder Coalson 
  

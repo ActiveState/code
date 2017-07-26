@@ -1,4 +1,5 @@
-## Send SMS messages to ATTwireless phonesOriginally published: 2003-03-28 19:40:36 
+## Send SMS messages to ATTwireless phones 
+Originally published: 2003-03-28 19:40:36 
 Last updated: 2003-03-28 19:40:36 
 Author: Sam Hendley 
  

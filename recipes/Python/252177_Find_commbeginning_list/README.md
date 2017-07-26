@@ -1,4 +1,5 @@
-## Find the common beginning in a list of stringsOriginally published: 2003-11-28 07:56:36 
+## Find the common beginning in a list of strings 
+Originally published: 2003-11-28 07:56:36 
 Last updated: 2003-12-03 12:05:01 
 Author: Stephan Diehl 
  

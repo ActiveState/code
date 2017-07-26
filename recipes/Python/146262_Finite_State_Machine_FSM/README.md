@@ -1,4 +1,5 @@
-## Finite State Machine (FSM)Originally published: 2002-08-23 02:47:49 
+## Finite State Machine (FSM) 
+Originally published: 2002-08-23 02:47:49 
 Last updated: 2007-12-05 01:25:49 
 Author: Noah Spurrier 
  

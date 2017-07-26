@@ -1,4 +1,5 @@
-## Get additional group IDs for Unix user (pwd/grp modules)Originally published: 2011-06-03 02:14:17 
+## Get additional group IDs for Unix user (pwd/grp modules) 
+Originally published: 2011-06-03 02:14:17 
 Last updated: 2011-06-03 02:14:18 
 Author: realityexists  
  

@@ -1,4 +1,5 @@
-## Hopfield Artificial Neural NetworkOriginally published: 2010-11-14 06:17:29 
+## Hopfield Artificial Neural Network 
+Originally published: 2010-11-14 06:17:29 
 Last updated: 2010-11-14 06:32:53 
 Author: FB36  
  

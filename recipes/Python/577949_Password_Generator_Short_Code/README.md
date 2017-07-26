@@ -1,4 +1,5 @@
-## Password Generator (Short Code)Originally published: 2011-11-18 02:28:16 
+## Password Generator (Short Code) 
+Originally published: 2011-11-18 02:28:16 
 Last updated: 2011-11-18 03:02:13 
 Author: Alexander James Wallar 
  

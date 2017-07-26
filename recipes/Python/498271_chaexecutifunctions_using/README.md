@@ -1,4 +1,5 @@
-## chain execution of functions using generatorsOriginally published: 2006-11-17 21:52:55 
+## chain execution of functions using generators 
+Originally published: 2006-11-17 21:52:55 
 Last updated: 2006-11-21 11:18:38 
 Author: Vaibhav Bhatia 
  

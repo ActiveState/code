@@ -1,4 +1,5 @@
-## Calculate the MRO of a classOriginally published: 2011-06-11 08:31:09 
+## Calculate the MRO of a class 
+Originally published: 2011-06-11 08:31:09 
 Last updated: 2011-06-11 08:31:09 
 Author: Steven D'Aprano 
  

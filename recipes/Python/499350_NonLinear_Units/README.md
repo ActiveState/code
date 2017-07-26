@@ -1,4 +1,5 @@
-## Non-Linear UnitsOriginally published: 2007-01-02 20:50:18 
+## Non-Linear Units 
+Originally published: 2007-01-02 20:50:18 
 Last updated: 2007-01-05 04:29:20 
 Author: Justin Shaw 
  

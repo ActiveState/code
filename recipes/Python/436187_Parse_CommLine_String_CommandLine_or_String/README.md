@@ -1,4 +1,5 @@
-## Parse Command Line String from CommandLine or String given base on windows OSOriginally published: 2005-07-07 00:31:31 
+## Parse Command Line String from CommandLine or String given base on windows OS 
+Originally published: 2005-07-07 00:31:31 
 Last updated: 2007-05-18 02:01:32 
 Author: cheeng shu chin 
  

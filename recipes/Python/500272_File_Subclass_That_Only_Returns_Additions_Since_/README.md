@@ -1,4 +1,5 @@
-## File Subclass That Only Returns Additions Since Last AccessOriginally published: 2007-01-22 14:30:24 
+## File Subclass That Only Returns Additions Since Last Access 
+Originally published: 2007-01-22 14:30:24 
 Last updated: 2007-01-22 14:30:24 
 Author: Ed Gordon 
  

@@ -1,4 +1,5 @@
-## random 3 CNF problem generatorOriginally published: 2001-10-17 23:09:15 
+## random 3 CNF problem generator 
+Originally published: 2001-10-17 23:09:15 
 Last updated: 2001-10-17 23:09:15 
 Author: philip nunez 
  

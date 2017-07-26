@@ -1,4 +1,5 @@
-## Class AdoptionOriginally published: 2001-10-16 01:13:22 
+## Class Adoption 
+Originally published: 2001-10-16 01:13:22 
 Last updated: 2001-10-16 01:13:22 
 Author: Ken Seehof 
  

@@ -1,4 +1,5 @@
-## Image background for tkinterOriginally published: 2017-04-12 12:10:47 
+## Image background for tkinter 
+Originally published: 2017-04-12 12:10:47 
 Last updated: 2017-04-12 19:37:06 
 Author: Miguel Martínez López 
  

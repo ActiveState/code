@@ -1,4 +1,5 @@
-## Using Berkeley DB DatabaseOriginally published: 2003-03-12 01:25:46 
+## Using Berkeley DB Database 
+Originally published: 2003-03-12 01:25:46 
 Last updated: 2003-03-12 01:25:46 
 Author: Farhad Fouladi 
  

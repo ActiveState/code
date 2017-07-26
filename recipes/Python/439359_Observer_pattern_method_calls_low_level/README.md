@@ -1,4 +1,5 @@
-## Observer pattern for method calls (low level AOP)Originally published: 2005-08-18 00:43:51 
+## Observer pattern for method calls (low level AOP) 
+Originally published: 2005-08-18 00:43:51 
 Last updated: 2005-09-01 05:53:34 
 Author: Paolo Veronelli 
  

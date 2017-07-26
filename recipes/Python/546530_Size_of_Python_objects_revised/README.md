@@ -1,4 +1,5 @@
-## Size of Python objects (revised).Originally published: 2008-02-20 12:12:20 
+## Size of Python objects (revised). 
+Originally published: 2008-02-20 12:12:20 
 Last updated: 2016-07-15 23:23:40 
 Author: Jean Brouwers 
  

@@ -1,4 +1,5 @@
-## General dispatching mechanism for C#-style eventsOriginally published: 2005-07-03 17:34:34 
+## General dispatching mechanism for C#-style events 
+Originally published: 2005-07-03 17:34:34 
 Last updated: 2005-07-03 17:34:34 
 Author: Steven Cummings 
  

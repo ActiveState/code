@@ -1,4 +1,5 @@
-## base64 encoding prototypeOriginally published: 2005-06-16 22:33:50 
+## base64 encoding prototype 
+Originally published: 2005-06-16 22:33:50 
 Last updated: 2005-06-16 22:33:50 
 Author: phillip  
  

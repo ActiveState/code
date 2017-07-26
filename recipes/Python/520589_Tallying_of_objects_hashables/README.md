@@ -1,4 +1,5 @@
-## Tallying of objects (hashables)Originally published: 2007-05-21 03:01:31 
+## Tallying of objects (hashables) 
+Originally published: 2007-05-21 03:01:31 
 Last updated: 2007-05-21 03:01:31 
 Author: klausman-aspn  
  

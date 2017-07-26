@@ -1,4 +1,5 @@
-## Priority dict: a priority queue with updatable prioritiesOriginally published: 2007-06-26 09:20:06 
+## Priority dict: a priority queue with updatable priorities 
+Originally published: 2007-06-26 09:20:06 
 Last updated: 2007-06-26 09:20:06 
 Author: Matteo Dell'Amico 
  

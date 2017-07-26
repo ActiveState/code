@@ -1,4 +1,5 @@
-## Progress bar classOriginally published: 2002-12-11 12:53:21 
+## Progress bar class 
+Originally published: 2002-12-11 12:53:21 
 Last updated: 2002-12-11 12:53:21 
 Author: Randy Pargman 
  

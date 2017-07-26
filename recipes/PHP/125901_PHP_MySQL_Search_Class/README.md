@@ -1,4 +1,5 @@
-## PHP MySQL Search ClassOriginally published: 2002-05-09 10:46:09 
+## PHP MySQL Search Class 
+Originally published: 2002-05-09 10:46:09 
 Last updated: 2003-10-28 19:57:45 
 Author: Stephen Bartholomew 
  

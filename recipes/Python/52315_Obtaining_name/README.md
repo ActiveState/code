@@ -1,4 +1,5 @@
-## Obtaining the name of a function/methodOriginally published: 2001-03-28 04:30:24 
+## Obtaining the name of a function/method 
+Originally published: 2001-03-28 04:30:24 
 Last updated: 2001-03-28 04:30:24 
 Author: Richard Philips 
  

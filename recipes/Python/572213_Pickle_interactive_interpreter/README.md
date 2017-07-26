@@ -1,4 +1,5 @@
-## Pickle the interactive interpreter stateOriginally published: 2008-05-19 08:15:14 
+## Pickle the interactive interpreter state 
+Originally published: 2008-05-19 08:15:14 
 Last updated: 2008-05-20 10:36:50 
 Author: Oren Tirosh 
  

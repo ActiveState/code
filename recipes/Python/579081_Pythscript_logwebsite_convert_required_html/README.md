@@ -1,4 +1,5 @@
-## Python script to login to a website and convert required html page to pdfOriginally published: 2015-07-15 07:38:01 
+## Python script to login to a website and convert required html page to pdf 
+Originally published: 2015-07-15 07:38:01 
 Last updated: 2015-07-29 18:28:25 
 Author: Emil george james 
  

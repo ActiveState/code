@@ -1,4 +1,5 @@
-## A basic time profilerOriginally published: 2006-08-03 20:39:37 
+## A basic time profiler 
+Originally published: 2006-08-03 20:39:37 
 Last updated: 2006-08-03 20:39:37 
 Author: Anand  
  

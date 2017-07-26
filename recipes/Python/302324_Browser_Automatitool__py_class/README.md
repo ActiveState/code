@@ -1,4 +1,5 @@
-## Browser Automation tool - py class fileOriginally published: 2004-08-27 14:07:46 
+## Browser Automation tool - py class file 
+Originally published: 2004-08-27 14:07:46 
 Last updated: 2004-08-27 14:07:46 
 Author: Rob Marchetti 
  

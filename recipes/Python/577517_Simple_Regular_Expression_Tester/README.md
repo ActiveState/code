@@ -1,4 +1,5 @@
-## Simple Regular Expression TesterOriginally published: 2010-12-24 23:33:01 
+## Simple Regular Expression Tester 
+Originally published: 2010-12-24 23:33:01 
 Last updated: 2010-12-25 00:12:44 
 Author: Sunjay Varma 
  

@@ -1,4 +1,5 @@
-## Mousewheel binding to scrolling area Tkinter (multiplatform)Originally published: 2014-06-17 21:47:04 
+## Mousewheel binding to scrolling area Tkinter (multiplatform) 
+Originally published: 2014-06-17 21:47:04 
 Last updated: 2017-05-16 18:18:31 
 Author: Miguel Martínez López 
  

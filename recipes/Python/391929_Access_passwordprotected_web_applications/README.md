@@ -1,4 +1,5 @@
-## Access password-protected web applications for scraping.Originally published: 2005-03-16 13:59:02 
+## Access password-protected web applications for scraping. 
+Originally published: 2005-03-16 13:59:02 
 Last updated: 2005-04-05 20:29:34 
 Author: George Geller 
  

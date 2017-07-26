@@ -1,4 +1,5 @@
-## Apply decorators to all functions in a moduleOriginally published: 2011-06-08 04:53:03 
+## Apply decorators to all functions in a module 
+Originally published: 2011-06-08 04:53:03 
 Last updated: 2011-06-09 22:51:28 
 Author: Eric Snow 
  

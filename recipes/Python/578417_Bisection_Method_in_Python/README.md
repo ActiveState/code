@@ -1,4 +1,5 @@
-## Bisection Method in PythonOriginally published: 2013-01-16 16:37:33 
+## Bisection Method in Python 
+Originally published: 2013-01-16 16:37:33 
 Last updated: 2013-01-16 16:37:33 
 Author: Captain DeadBones 
  

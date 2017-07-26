@@ -1,4 +1,5 @@
-## Object id mask, against data spidersOriginally published: 2010-08-16 06:37:54 
+## Object id mask, against data spiders 
+Originally published: 2010-08-16 06:37:54 
 Last updated: 2010-08-16 07:18:43 
 Author: Chaobin Tang (唐超斌) 
  

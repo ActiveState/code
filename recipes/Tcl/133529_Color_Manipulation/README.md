@@ -1,4 +1,5 @@
-## Color ManipulationOriginally published: 2002-06-17 16:12:16 
+## Color Manipulation 
+Originally published: 2002-06-17 16:12:16 
 Last updated: 2002-06-17 16:12:16 
 Author: andreas kupries 
  

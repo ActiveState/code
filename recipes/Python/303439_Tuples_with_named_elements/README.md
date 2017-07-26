@@ -1,4 +1,5 @@
-## Tuples with named elementsOriginally published: 2004-09-04 04:24:00 
+## Tuples with named elements 
+Originally published: 2004-09-04 04:24:00 
 Last updated: 2004-09-05 08:01:16 
 Author: Andrew Durdin 
  

@@ -1,4 +1,5 @@
-## Range minima and least common ancestorsOriginally published: 2003-11-13 23:10:41 
+## Range minima and least common ancestors 
+Originally published: 2003-11-13 23:10:41 
 Last updated: 2003-11-13 23:10:41 
 Author: David Eppstein 
  

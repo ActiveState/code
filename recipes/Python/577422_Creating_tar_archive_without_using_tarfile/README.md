@@ -1,4 +1,5 @@
-## Creating a tar archive (without using the tarfile module)Originally published: 2010-10-11 06:12:13 
+## Creating a tar archive (without using the tarfile module) 
+Originally published: 2010-10-11 06:12:13 
 Last updated: 2010-10-11 06:18:42 
 Author: Benjamin Sergeant 
  

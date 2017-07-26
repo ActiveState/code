@@ -1,4 +1,5 @@
-## Context Manager for an Arbitrary Number of Files in PythonOriginally published: 2017-03-13 13:19:23 
+## Context Manager for an Arbitrary Number of Files in Python 
+Originally published: 2017-03-13 13:19:23 
 Last updated: 2017-03-13 13:27:50 
 Author: Alfe  
  

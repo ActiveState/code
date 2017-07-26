@@ -1,4 +1,5 @@
-## Restricted "safe" evalOriginally published: 2006-05-28 16:35:07 
+## Restricted "safe" eval 
+Originally published: 2006-05-28 16:35:07 
 Last updated: 2006-05-29 20:08:35 
 Author: Babar K. Zafar 
  

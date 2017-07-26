@@ -1,4 +1,5 @@
-## Copying and Pasting Directories (and Files)Originally published: 2005-10-02 18:54:25 
+## Copying and Pasting Directories (and Files) 
+Originally published: 2005-10-02 18:54:25 
 Last updated: 2005-10-02 18:54:25 
 Author: Stephen Chappell 
  

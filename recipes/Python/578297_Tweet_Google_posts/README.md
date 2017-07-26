@@ -1,4 +1,5 @@
-## Tweet Google+ postsOriginally published: 2012-10-22 07:33:33 
+## Tweet Google+ posts 
+Originally published: 2012-10-22 07:33:33 
 Last updated: 2012-10-31 10:29:32 
 Author: Timothy Makobu 
  

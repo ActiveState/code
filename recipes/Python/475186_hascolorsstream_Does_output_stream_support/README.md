@@ -1,4 +1,5 @@
-## has_colors(stream): Does an output stream support colors?Originally published: 2006-03-26 14:26:42 
+## has_colors(stream): Does an output stream support colors? 
+Originally published: 2006-03-26 14:26:42 
 Last updated: 2006-03-26 14:26:42 
 Author: Ori Peleg 
  

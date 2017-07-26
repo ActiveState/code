@@ -1,4 +1,5 @@
-## EZ DDX COWOriginally published: 2012-12-07 02:21:50 
+## EZ DDX COW 
+Originally published: 2012-12-07 02:21:50 
 Last updated: 2012-12-07 02:21:51 
 Author: Stephen Chappell 
  

@@ -1,4 +1,5 @@
-## Doomsday AlgorithmOriginally published: 2007-12-31 09:28:48 
+## Doomsday Algorithm 
+Originally published: 2007-12-31 09:28:48 
 Last updated: 2007-12-31 09:28:48 
 Author: Josh Price 
  

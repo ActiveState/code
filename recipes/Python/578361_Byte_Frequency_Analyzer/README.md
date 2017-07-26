@@ -1,4 +1,5 @@
-## Byte Frequency AnalyzerOriginally published: 2012-12-05 23:48:53 
+## Byte Frequency Analyzer 
+Originally published: 2012-12-05 23:48:53 
 Last updated: 2012-12-05 23:48:53 
 Author: Stephen Chappell 
  

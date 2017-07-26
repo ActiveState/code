@@ -1,4 +1,5 @@
-## Elisp code to insert super calls in EmacsOriginally published: 2007-06-24 11:49:28 
+## Elisp code to insert super calls in Emacs 
+Originally published: 2007-06-24 11:49:28 
 Last updated: 2007-06-24 11:49:28 
 Author: Carl Banks 
  

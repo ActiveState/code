@@ -1,4 +1,5 @@
-## Component architecture through data descriptors and function decoratorsOriginally published: 2009-07-21 16:21:03 
+## Component architecture through data descriptors and function decorators 
+Originally published: 2009-07-21 16:21:03 
 Last updated: 2009-07-23 11:13:48 
 Author: Danny G 
  

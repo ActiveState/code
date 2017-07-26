@@ -1,4 +1,5 @@
-## Py2.6+ and Py3.0+ backport of Python 3.3's LRU CacheOriginally published: 2012-03-17 05:06:09 
+## Py2.6+ and Py3.0+ backport of Python 3.3's LRU Cache 
+Originally published: 2012-03-17 05:06:09 
 Last updated: 2013-03-06 05:38:15 
 Author: Raymond Hettinger 
  

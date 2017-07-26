@@ -1,4 +1,5 @@
-## Convert to something objects from string argumentsOriginally published: 2003-04-18 02:04:59 
+## Convert to something objects from string arguments 
+Originally published: 2003-04-18 02:04:59 
 Last updated: 2003-04-19 16:59:41 
 Author: Keisuke URAGO 
  

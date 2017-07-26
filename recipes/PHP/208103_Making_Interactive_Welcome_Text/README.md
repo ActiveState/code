@@ -1,4 +1,5 @@
-## Making Interactive Welcome TextOriginally published: 2003-06-30 13:41:18 
+## Making Interactive Welcome Text 
+Originally published: 2003-06-30 13:41:18 
 Last updated: 2003-06-30 13:41:18 
 Author: imam ferianto 
  

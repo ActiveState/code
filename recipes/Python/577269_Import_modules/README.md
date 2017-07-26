@@ -1,4 +1,5 @@
-## Import modules in lambda functionsOriginally published: 2010-06-16 20:13:14 
+## Import modules in lambda functions 
+Originally published: 2010-06-16 20:13:14 
 Last updated: 2010-06-16 20:13:15 
 Author: roopeshv  
  

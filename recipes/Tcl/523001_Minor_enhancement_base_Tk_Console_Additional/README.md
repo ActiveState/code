@@ -1,4 +1,5 @@
-## Minor enhancement to the base Tk Console. Additional change.Originally published: 2007-06-27 22:27:48 
+## Minor enhancement to the base Tk Console. Additional change. 
+Originally published: 2007-06-27 22:27:48 
 Last updated: 2007-08-24 01:29:47 
 Author: Mike Collins 
  

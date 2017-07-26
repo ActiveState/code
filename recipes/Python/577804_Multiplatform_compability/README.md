@@ -1,4 +1,5 @@
-## Multiplatform compabilityOriginally published: 2011-07-24 05:10:03 
+## Multiplatform compability 
+Originally published: 2011-07-24 05:10:03 
 Last updated: 2011-07-24 05:10:04 
 Author: Yaşar Arabacı 
  

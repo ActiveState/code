@@ -1,4 +1,5 @@
-## Trimming stringsOriginally published: 2013-07-09 14:31:17 
+## Trimming strings 
+Originally published: 2013-07-09 14:31:17 
 Last updated: 2013-07-09 14:31:18 
 Author: greg zakharov 
  

@@ -1,4 +1,5 @@
-## Quick-and-dirty Windows drive detectorOriginally published: 2016-09-20 17:46:37 
+## Quick-and-dirty Windows drive detector 
+Originally published: 2016-09-20 17:46:37 
 Last updated: 2016-09-20 17:46:37 
 Author: Vasudev Ram 
  

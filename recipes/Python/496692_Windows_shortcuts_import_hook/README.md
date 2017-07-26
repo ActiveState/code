@@ -1,4 +1,5 @@
-## Windows shortcuts import hookOriginally published: 2006-05-10 02:57:05 
+## Windows shortcuts import hook 
+Originally published: 2006-05-10 02:57:05 
 Last updated: 2006-05-10 02:57:05 
 Author: Brian Quinlan 
  

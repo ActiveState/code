@@ -1,4 +1,5 @@
-## Gravity Simulation Fractal AppletOriginally published: 2010-03-26 17:49:12 
+## Gravity Simulation Fractal Applet 
+Originally published: 2010-03-26 17:49:12 
 Last updated: 2010-03-26 17:49:13 
 Author: FB36  
  

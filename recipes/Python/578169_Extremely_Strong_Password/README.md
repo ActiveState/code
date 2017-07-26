@@ -1,4 +1,5 @@
-## Extremely Strong Password GeneratorOriginally published: 2012-06-19 09:49:25 
+## Extremely Strong Password Generator 
+Originally published: 2012-06-19 09:49:25 
 Last updated: 2012-06-19 13:25:03 
 Author: ajaymenon.k  
  

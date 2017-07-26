@@ -1,4 +1,5 @@
-## Python script main line for graceful exception handling and loggingOriginally published: 2010-06-12 04:40:16 
+## Python script main line for graceful exception handling and logging 
+Originally published: 2010-06-12 04:40:16 
 Last updated: 2010-09-11 05:46:59 
 Author: Trent Mick 
  

@@ -1,4 +1,5 @@
-## sleep_min: Sleep for a minimum number of secondsOriginally published: 2011-02-08 16:44:36 
+## sleep_min: Sleep for a minimum number of seconds 
+Originally published: 2011-02-08 16:44:36 
 Last updated: 2011-02-08 16:44:36 
 Author: Drew Vogel 
  

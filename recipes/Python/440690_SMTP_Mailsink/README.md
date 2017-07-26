@@ -1,4 +1,5 @@
-## SMTP MailsinkOriginally published: 2005-10-11 11:00:32 
+## SMTP Mailsink 
+Originally published: 2005-10-11 11:00:32 
 Last updated: 2005-10-11 11:00:32 
 Author: Adam Feuer 
  

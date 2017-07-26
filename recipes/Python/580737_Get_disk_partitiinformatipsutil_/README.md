@@ -1,4 +1,5 @@
-## Get disk partition information with psutil  (cross-platform)Originally published: 2016-12-23 17:53:02 
+## Get disk partition information with psutil  (cross-platform) 
+Originally published: 2016-12-23 17:53:02 
 Last updated: 2016-12-23 18:05:41 
 Author: Vasudev Ram 
  

@@ -1,4 +1,5 @@
-## Tkinter search boxOriginally published: 2017-04-04 00:21:09 
+## Tkinter search box 
+Originally published: 2017-04-04 00:21:09 
 Last updated: 2017-04-08 12:27:36 
 Author: Miguel Martínez López 
  

@@ -1,4 +1,5 @@
-## Inserts thousand separators into a numberOriginally published: 2002-08-22 15:58:31 
+## Inserts thousand separators into a number 
+Originally published: 2002-08-22 15:58:31 
 Last updated: 2002-08-22 15:58:31 
 Author: andreas kupries 
  

@@ -1,4 +1,5 @@
-## Command line interface classOriginally published: 2010-05-26 22:14:12 
+## Command line interface class 
+Originally published: 2010-05-26 22:14:12 
 Last updated: 2010-05-26 22:14:13 
 Author: Carlos del Ojo 
  

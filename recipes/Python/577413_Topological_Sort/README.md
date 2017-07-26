@@ -1,4 +1,5 @@
-## Topological SortOriginally published: 2010-09-28 19:20:30 
+## Topological Sort 
+Originally published: 2010-09-28 19:20:30 
 Last updated: 2010-09-28 19:22:27 
 Author: Paddy McCarthy 
  

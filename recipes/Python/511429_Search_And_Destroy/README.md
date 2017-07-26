@@ -1,4 +1,5 @@
-## (S)earch (A)nd (D)estroyOriginally published: 2007-03-28 14:39:36 
+## (S)earch (A)nd (D)estroy 
+Originally published: 2007-03-28 14:39:36 
 Last updated: 2007-03-28 14:39:36 
 Author: Stephen Chappell 
  

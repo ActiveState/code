@@ -1,4 +1,5 @@
-## Rabin-Miller probabilistic prime testOriginally published: 2005-04-24 17:49:05 
+## Rabin-Miller probabilistic prime test 
+Originally published: 2005-04-24 17:49:05 
 Last updated: 2005-04-25 02:49:23 
 Author: Josiah Carlson 
  

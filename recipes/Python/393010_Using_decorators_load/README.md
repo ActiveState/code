@@ -1,4 +1,5 @@
-## Using decorators to load data structuresOriginally published: 2005-03-28 07:02:10 
+## Using decorators to load data structures 
+Originally published: 2005-03-28 07:02:10 
 Last updated: 2005-03-28 07:02:10 
 Author: Scott David Daniels 
  

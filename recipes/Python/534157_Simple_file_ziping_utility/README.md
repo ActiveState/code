@@ -1,4 +1,5 @@
-## Simple file ziping utilityOriginally published: 2007-11-06 04:45:50 
+## Simple file ziping utility 
+Originally published: 2007-11-06 04:45:50 
 Last updated: 2007-11-06 04:45:50 
 Author: trevellyon newell 
  

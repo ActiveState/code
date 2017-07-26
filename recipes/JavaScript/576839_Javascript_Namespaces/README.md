@@ -1,4 +1,5 @@
-## Javascript NamespacesOriginally published: 2009-07-12 07:16:52 
+## Javascript Namespaces 
+Originally published: 2009-07-12 07:16:52 
 Last updated: 2009-07-12 07:21:40 
 Author: Mike Koss 
  

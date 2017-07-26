@@ -1,4 +1,5 @@
-## Generate equally-spaced floatsOriginally published: 2011-09-24 18:13:12 
+## Generate equally-spaced floats 
+Originally published: 2011-09-24 18:13:12 
 Last updated: 2011-09-24 18:49:39 
 Author: Steven D'Aprano 
  

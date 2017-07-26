@@ -1,4 +1,5 @@
-## Get a posix timestamp from a type 1 uuidOriginally published: 2008-08-13 18:56:28 
+## Get a posix timestamp from a type 1 uuid 
+Originally published: 2008-08-13 18:56:28 
 Last updated: 2008-08-13 18:56:29 
 Author: Kent Tenney 
  

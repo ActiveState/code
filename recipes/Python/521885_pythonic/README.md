@@ -1,4 +1,5 @@
-## A pythonic implementation of xrangeOriginally published: 2007-06-04 18:34:55 
+## A pythonic implementation of xrange 
+Originally published: 2007-06-04 18:34:55 
 Last updated: 2007-06-04 18:34:55 
 Author: Eyal Lotem 
  

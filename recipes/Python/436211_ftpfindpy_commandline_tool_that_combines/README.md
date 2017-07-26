@@ -1,4 +1,5 @@
-## ftpfind.py: a command-line tool that combines the functionality 'find' and 'ftp'.Originally published: 2005-07-07 10:25:51 
+## ftpfind.py: a command-line tool that combines the functionality 'find' and 'ftp'. 
+Originally published: 2005-07-07 10:25:51 
 Last updated: 2005-07-07 10:25:51 
 Author: Guy Argo 
  

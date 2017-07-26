@@ -1,4 +1,5 @@
-## try ... catch ... finallyOriginally published: 2001-09-11 03:13:07 
+## try ... catch ... finally 
+Originally published: 2001-09-11 03:13:07 
 Last updated: 2001-09-11 03:13:07 
 Author: Donal Fellows 
  

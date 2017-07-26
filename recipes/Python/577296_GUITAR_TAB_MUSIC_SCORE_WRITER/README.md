@@ -1,4 +1,5 @@
-## GUITAR TAB MUSIC SCORE WRITEROriginally published: 2010-07-08 00:24:45 
+## GUITAR TAB MUSIC SCORE WRITER 
+Originally published: 2010-07-08 00:24:45 
 Last updated: 2010-07-08 00:24:46 
 Author: James Coliins 
  

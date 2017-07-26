@@ -1,4 +1,5 @@
-## Determining the current functions name (at the time it is called)Originally published: 2003-05-20 15:14:54 
+## Determining the current functions name (at the time it is called) 
+Originally published: 2003-05-20 15:14:54 
 Last updated: 2003-05-22 01:30:08 
 Author: Sean Ross 
  

@@ -1,4 +1,5 @@
-## Poker hand calculation and comparisonOriginally published: 2013-05-30 18:39:24 
+## Poker hand calculation and comparison 
+Originally published: 2013-05-30 18:39:24 
 Last updated: 2013-06-24 05:03:10 
 Author: Magnus Åhman 
  

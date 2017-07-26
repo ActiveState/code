@@ -1,4 +1,5 @@
-## Sort names and separate by last name initialOriginally published: 2004-09-02 11:05:30 
+## Sort names and separate by last name initial 
+Originally published: 2004-09-02 11:05:30 
 Last updated: 2004-09-02 11:05:30 
 Author: Brett Cannon 
  

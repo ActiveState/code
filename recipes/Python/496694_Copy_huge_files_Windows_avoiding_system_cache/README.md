@@ -1,4 +1,5 @@
-## Copy huge files on Windows avoiding system cache misbehaviourOriginally published: 2006-05-10 18:06:55 
+## Copy huge files on Windows avoiding system cache misbehaviour 
+Originally published: 2006-05-10 18:06:55 
 Last updated: 2006-05-10 18:06:55 
 Author: Christos Georgiou 
  

@@ -1,4 +1,5 @@
-## wrap unbounded generator to restrict its outputOriginally published: 2001-07-25 16:01:55 
+## wrap unbounded generator to restrict its output 
+Originally published: 2001-07-25 16:01:55 
 Last updated: 2001-07-25 16:01:55 
 Author: Tom Good 
  

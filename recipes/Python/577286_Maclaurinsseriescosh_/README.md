@@ -1,4 +1,5 @@
-## Maclaurin's_series_cosh Originally published: 2010-07-07 11:59:06 
+## Maclaurin's_series_cosh  
+Originally published: 2010-07-07 11:59:06 
 Last updated: 2010-07-07 12:01:34 
 Author: Fouad Teniou 
  

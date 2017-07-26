@@ -1,4 +1,5 @@
-## Unrestricted Grammar used like a dictionaryOriginally published: 2009-01-04 19:10:28 
+## Unrestricted Grammar used like a dictionary 
+Originally published: 2009-01-04 19:10:28 
 Last updated: 2009-01-04 19:10:28 
 Author: Shea Kauffman 
  

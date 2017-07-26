@@ -1,4 +1,5 @@
-## Wrap a string in a file-like object that calls a user callback whenever read() is called on the streamOriginally published: 2013-09-22 21:48:02 
+## Wrap a string in a file-like object that calls a user callback whenever read() is called on the stream 
+Originally published: 2013-09-22 21:48:02 
 Last updated: 2013-09-22 21:48:03 
 Author: Ben Hoyt 
  

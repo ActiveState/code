@@ -1,4 +1,5 @@
-## language decoratorOriginally published: 2013-10-02 07:59:03 
+## language decorator 
+Originally published: 2013-10-02 07:59:03 
 Last updated: 2013-10-02 08:00:29 
 Author: Dr. Trigon 
  

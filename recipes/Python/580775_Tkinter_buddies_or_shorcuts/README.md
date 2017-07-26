@@ -1,4 +1,5 @@
-## Tkinter buddies or shorcutsOriginally published: 2017-04-07 11:42:26 
+## Tkinter buddies or shorcuts 
+Originally published: 2017-04-07 11:42:26 
 Last updated: 2017-04-07 11:45:19 
 Author: Miguel Martínez López 
  

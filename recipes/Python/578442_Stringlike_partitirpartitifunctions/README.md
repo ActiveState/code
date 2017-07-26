@@ -1,4 +1,5 @@
-## String-like partition and rpartition functions for listsOriginally published: 2013-01-30 06:44:02 
+## String-like partition and rpartition functions for lists 
+Originally published: 2013-01-30 06:44:02 
 Last updated: 2013-01-30 06:44:03 
 Author: Sam Denton 
  

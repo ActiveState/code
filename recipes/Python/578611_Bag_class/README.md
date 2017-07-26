@@ -1,4 +1,5 @@
-## Bag classOriginally published: 2013-07-17 22:13:31 
+## Bag class 
+Originally published: 2013-07-17 22:13:31 
 Last updated: 2013-07-19 21:08:46 
 Author: user  
  

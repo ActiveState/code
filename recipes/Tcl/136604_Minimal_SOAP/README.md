@@ -1,4 +1,5 @@
-## Minimal SOAPOriginally published: 2002-06-27 16:55:02 
+## Minimal SOAP 
+Originally published: 2002-06-27 16:55:02 
 Last updated: 2002-06-27 16:55:02 
 Author: andreas kupries 
  

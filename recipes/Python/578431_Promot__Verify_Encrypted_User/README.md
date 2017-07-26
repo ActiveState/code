@@ -1,4 +1,5 @@
-## Promot & Verify Encrypted User PasswordOriginally published: 2013-01-19 04:10:12 
+## Promot & Verify Encrypted User Password 
+Originally published: 2013-01-19 04:10:12 
 Last updated: 2013-01-19 04:10:13 
 Author: Captain DeadBones 
  

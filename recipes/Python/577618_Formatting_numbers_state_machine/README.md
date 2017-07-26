@@ -1,4 +1,5 @@
-## Formatting numbers with a state machine (implementation of a regex pattern)Originally published: 2011-03-22 03:39:36 
+## Formatting numbers with a state machine (implementation of a regex pattern) 
+Originally published: 2011-03-22 03:39:36 
 Last updated: 2011-03-22 03:40:45 
 Author: James Mills 
  

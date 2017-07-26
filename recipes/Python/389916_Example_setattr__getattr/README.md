@@ -1,4 +1,5 @@
-## Example setattr & getattr overloadingOriginally published: 2005-03-01 02:08:45 
+## Example setattr & getattr overloading 
+Originally published: 2005-03-01 02:08:45 
 Last updated: 2005-03-01 02:08:45 
 Author: Michael Foord 
  

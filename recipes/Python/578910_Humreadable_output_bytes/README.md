@@ -1,4 +1,5 @@
-## Human readable output for bytes and secondsOriginally published: 2014-07-16 17:21:40 
+## Human readable output for bytes and seconds 
+Originally published: 2014-07-16 17:21:40 
 Last updated: 2014-07-16 17:21:41 
 Author: Mike 'Fuzzy' Partin 
  

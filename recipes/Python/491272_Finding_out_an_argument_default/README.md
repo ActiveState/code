@@ -1,4 +1,5 @@
-## Finding out an argument defaultOriginally published: 2006-04-19 14:41:46 
+## Finding out an argument default 
+Originally published: 2006-04-19 14:41:46 
 Last updated: 2006-04-19 14:41:46 
 Author: Ori Peleg 
  

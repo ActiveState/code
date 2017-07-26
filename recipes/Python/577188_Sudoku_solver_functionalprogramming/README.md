@@ -1,4 +1,5 @@
-## Sudoku solver in functional-programming styleOriginally published: 2010-04-12 07:51:51 
+## Sudoku solver in functional-programming style 
+Originally published: 2010-04-12 07:51:51 
 Last updated: 2010-04-23 12:35:13 
 Author: Arnau Sanchez 
  

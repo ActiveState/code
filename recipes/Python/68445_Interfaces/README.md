@@ -1,4 +1,5 @@
-## InterfacesOriginally published: 2001-09-28 05:41:25 
+## Interfaces 
+Originally published: 2001-09-28 05:41:25 
 Last updated: 2001-09-28 05:41:25 
 Author: Sébastien Keim 
  

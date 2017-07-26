@@ -1,4 +1,5 @@
-## Find duplicate file namesOriginally published: 2005-01-28 11:12:48 
+## Find duplicate file names 
+Originally published: 2005-01-28 11:12:48 
 Last updated: 2005-01-28 11:12:48 
 Author: Artur de Sousa Rocha 
  

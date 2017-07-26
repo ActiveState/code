@@ -1,4 +1,5 @@
-## Sharing-aware tree transformationsOriginally published: 2012-05-02 15:10:35 
+## Sharing-aware tree transformations 
+Originally published: 2012-05-02 15:10:35 
 Last updated: 2012-05-07 08:20:58 
 Author: Sander Evers 
  

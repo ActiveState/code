@@ -1,4 +1,5 @@
-## Automatic indentation of output based on frame stackOriginally published: 2005-04-26 13:27:42 
+## Automatic indentation of output based on frame stack 
+Originally published: 2005-04-26 13:27:42 
 Last updated: 2005-04-26 13:27:42 
 Author: Lonnie Princehouse 
  

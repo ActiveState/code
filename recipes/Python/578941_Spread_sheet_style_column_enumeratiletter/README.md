@@ -1,4 +1,5 @@
-## Spread sheet style column enumeration letter to numberOriginally published: 2014-09-20 18:45:09 
+## Spread sheet style column enumeration letter to number 
+Originally published: 2014-09-20 18:45:09 
 Last updated: 2014-09-20 18:45:09 
 Author: Tomas Nordin 
  

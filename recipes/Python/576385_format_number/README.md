@@ -1,4 +1,5 @@
-## format a number for human consumptionOriginally published: 2008-07-29 07:06:58 
+## format a number for human consumption 
+Originally published: 2008-07-29 07:06:58 
 Last updated: 2008-07-29 07:06:58 
 Author: Pádraig Brady 
  

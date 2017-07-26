@@ -1,4 +1,5 @@
-## Simple analogue anim and digital voltmeter with alarm DEMO...Originally published: 2011-03-04 19:47:36 
+## Simple analogue anim and digital voltmeter with alarm DEMO... 
+Originally published: 2011-03-04 19:47:36 
 Last updated: 2011-03-04 19:47:37 
 Author: Barry Walker 
  

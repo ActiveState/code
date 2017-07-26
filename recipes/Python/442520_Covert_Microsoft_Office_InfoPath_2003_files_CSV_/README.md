@@ -1,4 +1,5 @@
-## Covert Microsoft Office InfoPath 2003 files to CSV reportOriginally published: 2005-11-02 13:18:49 
+## Covert Microsoft Office InfoPath 2003 files to CSV report 
+Originally published: 2005-11-02 13:18:49 
 Last updated: 2005-11-02 13:18:49 
 Author: Anthony Barker 
  

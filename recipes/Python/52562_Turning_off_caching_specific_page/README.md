@@ -1,4 +1,5 @@
-## Turning off caching for a specific page in ZopeOriginally published: 2001-04-06 06:47:45 
+## Turning off caching for a specific page in Zope 
+Originally published: 2001-04-06 06:47:45 
 Last updated: 2001-04-06 06:47:45 
 Author: David Shaw 
  

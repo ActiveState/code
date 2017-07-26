@@ -1,4 +1,5 @@
-## Simple Cli Progress BarOriginally published: 2011-11-21 20:11:36 
+## Simple Cli Progress Bar 
+Originally published: 2011-11-21 20:11:36 
 Last updated: 2011-11-22 22:00:44 
 Author: Samuele Millevolte 
  

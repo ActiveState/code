@@ -1,4 +1,5 @@
-## Numbers to Words in Spanish / Numeros a cantidades en letra en EspañolOriginally published: 2002-12-23 11:28:43 
+## Numbers to Words in Spanish / Numeros a cantidades en letra en Español 
+Originally published: 2002-12-23 11:28:43 
 Last updated: 2002-12-23 11:28:43 
 Author: Felipe Barousse 
  

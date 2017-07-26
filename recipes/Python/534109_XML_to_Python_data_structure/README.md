@@ -1,4 +1,5 @@
-## XML to Python data structureOriginally published: 2007-10-13 14:22:29 
+## XML to Python data structure 
+Originally published: 2007-10-13 14:22:29 
 Last updated: 2009-05-31 16:10:38 
 Author: Wai Yip Tung 
  

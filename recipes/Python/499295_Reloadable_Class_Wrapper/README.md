@@ -1,4 +1,5 @@
-## Reloadable Class WrapperOriginally published: 2006-12-03 08:37:24 
+## Reloadable Class Wrapper 
+Originally published: 2006-12-03 08:37:24 
 Last updated: 2006-12-03 08:37:24 
 Author: Lee Harr 
  

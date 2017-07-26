@@ -1,4 +1,5 @@
-## Automation of unix shell or DOS shell programsOriginally published: 2007-11-12 20:22:43 
+## Automation of unix shell or DOS shell programs 
+Originally published: 2007-11-12 20:22:43 
 Last updated: 2007-11-14 02:31:49 
 Author: Peter Dilley 
  

@@ -1,4 +1,5 @@
-## iterator with contextOriginally published: 2008-02-04 15:10:05 
+## iterator with context 
+Originally published: 2008-02-04 15:10:05 
 Last updated: 2008-02-04 15:10:05 
 Author: Guillaume Coffin 
  

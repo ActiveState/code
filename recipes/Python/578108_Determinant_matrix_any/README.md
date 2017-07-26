@@ -1,4 +1,5 @@
-## Determinant of matrix of any orderOriginally published: 2012-04-24 10:48:59 
+## Determinant of matrix of any order 
+Originally published: 2012-04-24 10:48:59 
 Last updated: 2012-04-24 10:49:00 
 Author: Sachin Joglekar 
  

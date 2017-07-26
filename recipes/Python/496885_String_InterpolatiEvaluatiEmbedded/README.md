@@ -1,4 +1,5 @@
-## String Interpolation with Evaluation of Embedded ExpressionsOriginally published: 2006-07-13 15:52:59 
+## String Interpolation with Evaluation of Embedded Expressions 
+Originally published: 2006-07-13 15:52:59 
 Last updated: 2006-07-13 15:52:59 
 Author: Lonnie Princehouse 
  

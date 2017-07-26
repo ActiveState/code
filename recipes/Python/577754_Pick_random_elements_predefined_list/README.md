@@ -1,4 +1,5 @@
-## Pick random elements from a predefined list of choicesOriginally published: 2011-06-14 17:40:31 
+## Pick random elements from a predefined list of choices 
+Originally published: 2011-06-14 17:40:31 
 Last updated: 2011-06-14 17:46:41 
 Author: Patrick Dobbs 
  

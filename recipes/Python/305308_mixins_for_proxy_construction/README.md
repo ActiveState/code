@@ -1,4 +1,5 @@
-## mixins for proxy construction...Originally published: 2004-09-18 13:49:10 
+## mixins for proxy construction... 
+Originally published: 2004-09-18 13:49:10 
 Last updated: 2004-09-18 20:54:37 
 Author: Alex Naanou 
  

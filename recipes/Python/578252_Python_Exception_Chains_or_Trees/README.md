@@ -1,4 +1,5 @@
-## Python Exception Chains (or Trees)Originally published: 2012-09-04 15:57:51 
+## Python Exception Chains (or Trees) 
+Originally published: 2012-09-04 15:57:51 
 Last updated: 2013-02-04 15:15:22 
 Author: Alfe  
  

@@ -1,4 +1,5 @@
-## ascii anamation moduleOriginally published: 2013-08-02 18:22:59 
+## ascii anamation module 
+Originally published: 2013-08-02 18:22:59 
 Last updated: 2013-08-22 16:20:58 
 Author: Andrew Wayne Teesdale Jr. 
  

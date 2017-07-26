@@ -1,4 +1,5 @@
-## Dragon CurveOriginally published: 2002-06-11 15:39:26 
+## Dragon Curve 
+Originally published: 2002-06-11 15:39:26 
 Last updated: 2002-06-11 15:39:26 
 Author: andreas kupries 
  

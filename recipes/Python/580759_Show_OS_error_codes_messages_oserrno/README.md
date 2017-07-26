@@ -1,4 +1,5 @@
-## Show OS error codes and messages from the os.errno moduleOriginally published: 2017-03-01 17:16:45 
+## Show OS error codes and messages from the os.errno module 
+Originally published: 2017-03-01 17:16:45 
 Last updated: 2017-03-01 17:18:23 
 Author: Vasudev Ram 
  

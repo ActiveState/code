@@ -1,4 +1,5 @@
-## Grab a document from the webOriginally published: 2001-02-23 19:15:17 
+## Grab a document from the web 
+Originally published: 2001-02-23 19:15:17 
 Last updated: 2001-02-23 19:15:17 
 Author: Gisle Aas 
  

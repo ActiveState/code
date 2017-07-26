@@ -1,4 +1,5 @@
-## GeohashingOriginally published: 2009-04-28 18:59:18 
+## Geohashing 
+Originally published: 2009-04-28 18:59:18 
 Last updated: 2009-04-28 18:59:18 
 Author: Raymond Hettinger 
  

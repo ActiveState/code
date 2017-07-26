@@ -1,4 +1,5 @@
-## Automatically initializing instance variables from __init__ parametersOriginally published: 2004-07-01 05:26:09 
+## Automatically initializing instance variables from __init__ parameters 
+Originally published: 2004-07-01 05:26:09 
 Last updated: 2005-09-21 19:10:00 
 Author: Henry Crutcher 
  

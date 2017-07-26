@@ -1,4 +1,5 @@
-## Quick and easy FIFO queue classOriginally published: 2003-07-15 16:11:22 
+## Quick and easy FIFO queue class 
+Originally published: 2003-07-15 16:11:22 
 Last updated: 2003-07-15 23:28:25 
 Author: Danny Yoo 
  

@@ -1,4 +1,5 @@
-## Create PDF control break reports with itertools.groupby and xtopdfOriginally published: 2016-07-23 22:17:28 
+## Create PDF control break reports with itertools.groupby and xtopdf 
+Originally published: 2016-07-23 22:17:28 
 Last updated: 2016-07-23 22:17:29 
 Author: Vasudev Ram 
  

@@ -1,4 +1,5 @@
-## Pascal's triangleOriginally published: 2011-01-14 00:18:27 
+## Pascal's triangle 
+Originally published: 2011-01-14 00:18:27 
 Last updated: 2011-01-14 00:29:05 
 Author: Michael Puckett 
  

@@ -1,4 +1,5 @@
-## Garden Requirements CalculatorOriginally published: 2014-09-17 22:04:36 
+## Garden Requirements Calculator 
+Originally published: 2014-09-17 22:04:36 
 Last updated: 2014-09-17 22:04:36 
 Author: Ethan Hann 
  

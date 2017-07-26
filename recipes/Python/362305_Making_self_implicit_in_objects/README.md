@@ -1,4 +1,5 @@
-## Making self implicit in objectsOriginally published: 2005-01-07 13:18:07 
+## Making self implicit in objects 
+Originally published: 2005-01-07 13:18:07 
 Last updated: 2005-01-07 13:18:07 
 Author: Björn Lindqvist 
  

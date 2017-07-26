@@ -1,4 +1,5 @@
-## Generate a PDF invoice with xtopdf and PythonOriginally published: 2015-10-07 18:02:44 
+## Generate a PDF invoice with xtopdf and Python 
+Originally published: 2015-10-07 18:02:44 
 Last updated: 2015-10-07 18:02:46 
 Author: Vasudev Ram 
  

@@ -1,4 +1,5 @@
-## Hamming distanceOriginally published: 2006-12-11 10:22:15 
+## Hamming distance 
+Originally published: 2006-12-11 10:22:15 
 Last updated: 2006-12-11 10:22:15 
 Author: Michael Mayhew 
  

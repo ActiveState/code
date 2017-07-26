@@ -1,4 +1,5 @@
-## Pricing Asian options using mpmath with automatic precision controlOriginally published: 2009-11-24 01:20:56 
+## Pricing Asian options using mpmath with automatic precision control 
+Originally published: 2009-11-24 01:20:56 
 Last updated: 2009-11-24 01:20:56 
 Author: Dieter Kadelka 
  

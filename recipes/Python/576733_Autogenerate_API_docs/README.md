@@ -1,4 +1,5 @@
-## Autogenerate API docs in MarkdownOriginally published: 2009-04-28 23:07:57 
+## Autogenerate API docs in Markdown 
+Originally published: 2009-04-28 23:07:57 
 Last updated: 2009-04-28 23:11:26 
 Author: geremy condra 
  

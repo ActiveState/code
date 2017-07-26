@@ -1,4 +1,5 @@
-## Simple caching decoratorOriginally published: 2010-12-01 00:43:00 
+## Simple caching decorator 
+Originally published: 2010-12-01 00:43:00 
 Last updated: 2010-12-01 00:43:01 
 Author: Raymond Hettinger 
  

@@ -1,4 +1,5 @@
-## Creating methods of a class at construction timeOriginally published: 2005-02-28 07:44:19 
+## Creating methods of a class at construction time 
+Originally published: 2005-02-28 07:44:19 
 Last updated: 2005-02-28 07:44:19 
 Author: Jens Liebehenschel 
  

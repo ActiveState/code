@@ -1,4 +1,5 @@
-## A multithreaded, concurrent version of map()Originally published: 2010-08-16 22:48:17 
+## A multithreaded, concurrent version of map() 
+Originally published: 2010-08-16 22:48:17 
 Last updated: 2010-08-16 23:04:48 
 Author: Wai Yip Tung 
  

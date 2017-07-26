@@ -1,4 +1,5 @@
-## Safely morph a file in-placeOriginally published: 2001-05-24 03:25:36 
+## Safely morph a file in-place 
+Originally published: 2001-05-24 03:25:36 
 Last updated: 2001-05-24 03:25:36 
 Author: Jürgen Hermann 
  

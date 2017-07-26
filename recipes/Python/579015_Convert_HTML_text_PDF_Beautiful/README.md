@@ -1,4 +1,5 @@
-## Convert HTML text to PDF with Beautiful Soup and xtopdfOriginally published: 2015-01-28 22:32:41 
+## Convert HTML text to PDF with Beautiful Soup and xtopdf 
+Originally published: 2015-01-28 22:32:41 
 Last updated: 2015-01-28 22:32:41 
 Author: Vasudev Ram 
  

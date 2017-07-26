@@ -1,4 +1,5 @@
-## Dependencies graph of a script or moduleOriginally published: 2007-11-24 01:27:39 
+## Dependencies graph of a script or module 
+Originally published: 2007-11-24 01:27:39 
 Last updated: 2007-11-24 01:27:39 
 Author: Oliver Schoenborn 
  

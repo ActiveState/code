@@ -1,4 +1,5 @@
-## queryOriginally published: 2010-03-09 17:55:44 
+## query 
+Originally published: 2010-03-09 17:55:44 
 Last updated: 2010-03-09 18:34:05 
 Author: Trent Mick 
  

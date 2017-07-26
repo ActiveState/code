@@ -1,4 +1,5 @@
-## First Class Enums in PythonOriginally published: 2013-03-07 13:10:28 
+## First Class Enums in Python 
+Originally published: 2013-03-07 13:10:28 
 Last updated: 2013-03-07 13:10:29 
 Author: James Mills 
  

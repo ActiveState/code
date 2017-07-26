@@ -1,4 +1,5 @@
-## Create objects from variable class namesOriginally published: 2004-06-10 05:19:47 
+## Create objects from variable class names 
+Originally published: 2004-06-10 05:19:47 
 Last updated: 2004-06-23 12:40:01 
 Author: Peter van Kampen 
  

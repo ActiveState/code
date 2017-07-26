@@ -1,4 +1,5 @@
-## Yielding out of nested routines by metaclass transformationOriginally published: 2006-11-16 20:04:07 
+## Yielding out of nested routines by metaclass transformation 
+Originally published: 2006-11-16 20:04:07 
 Last updated: 2006-11-17 04:16:35 
 Author: Bernhard Mulder 
  

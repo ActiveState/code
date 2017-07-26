@@ -1,4 +1,5 @@
-## Quiz Me 2.5 (gui_logs)Originally published: 2010-12-31 21:51:31 
+## Quiz Me 2.5 (gui_logs) 
+Originally published: 2010-12-31 21:51:31 
 Last updated: 2011-01-10 03:43:42 
 Author: Stephen Chappell 
  

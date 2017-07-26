@@ -1,4 +1,5 @@
-## TicTacToe for python (1 or 2 players)Originally published: 2005-09-25 22:25:23 
+## TicTacToe for python (1 or 2 players) 
+Originally published: 2005-09-25 22:25:23 
 Last updated: 2005-09-25 22:25:23 
 Author: acestorage001  
  

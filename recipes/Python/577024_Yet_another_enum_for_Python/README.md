@@ -1,4 +1,5 @@
-## Yet another 'enum' for PythonOriginally published: 2010-01-28 17:46:12 
+## Yet another 'enum' for Python 
+Originally published: 2010-01-28 17:46:12 
 Last updated: 2010-01-28 18:23:11 
 Author: Gabriel Genellina 
  

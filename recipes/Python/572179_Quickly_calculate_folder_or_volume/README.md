@@ -1,4 +1,5 @@
-## Quickly calculate folder or volume sizeOriginally published: 2008-05-01 11:45:38 
+## Quickly calculate folder or volume size 
+Originally published: 2008-05-01 11:45:38 
 Last updated: 2008-05-01 19:41:45 
 Author: Higinio Cachola 
  

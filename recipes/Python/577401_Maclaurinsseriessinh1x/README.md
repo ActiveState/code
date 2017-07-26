@@ -1,4 +1,5 @@
-## Maclaurin's_series_sinh-1(x)Originally published: 2010-09-21 11:40:30 
+## Maclaurin's_series_sinh-1(x) 
+Originally published: 2010-09-21 11:40:30 
 Last updated: 2010-09-28 11:52:21 
 Author: Fouad Teniou 
  

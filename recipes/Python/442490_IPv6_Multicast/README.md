@@ -1,4 +1,5 @@
-## IPv6 MulticastOriginally published: 2005-10-28 11:43:52 
+## IPv6 Multicast 
+Originally published: 2005-10-28 11:43:52 
 Last updated: 2005-10-28 11:43:52 
 Author: Shane Holloway 
  

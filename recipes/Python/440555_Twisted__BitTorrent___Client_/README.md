@@ -1,4 +1,5 @@
-## Twisted / BitTorrent ::  Client / ServerOriginally published: 2005-09-13 22:05:20 
+## Twisted / BitTorrent ::  Client / Server 
+Originally published: 2005-09-13 22:05:20 
 Last updated: 2005-10-30 01:24:39 
 Author: Jonathan Kolyer 
  

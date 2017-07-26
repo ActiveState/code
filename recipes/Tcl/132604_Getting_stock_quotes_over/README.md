@@ -1,4 +1,5 @@
-## Getting stock quotes over the internetOriginally published: 2002-06-11 15:33:05 
+## Getting stock quotes over the internet 
+Originally published: 2002-06-11 15:33:05 
 Last updated: 2002-06-11 15:33:05 
 Author: andreas kupries 
  

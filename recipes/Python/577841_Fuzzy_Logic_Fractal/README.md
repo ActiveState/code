@@ -1,4 +1,5 @@
-## Fuzzy Logic FractalOriginally published: 2011-08-14 23:09:08 
+## Fuzzy Logic Fractal 
+Originally published: 2011-08-14 23:09:08 
 Last updated: 2011-08-14 23:09:08 
 Author: FB36  
  

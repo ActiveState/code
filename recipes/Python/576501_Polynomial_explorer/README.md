@@ -1,4 +1,5 @@
-## Polynomial explorerOriginally published: 2008-09-11 14:19:42 
+## Polynomial explorer 
+Originally published: 2008-09-11 14:19:42 
 Last updated: 2008-09-11 07:21:11 
 Author: Kaushik Ghose 
  

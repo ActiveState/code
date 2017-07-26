@@ -1,4 +1,5 @@
-## Publish SQLite data to PDF using named tuplesOriginally published: 2015-02-24 22:08:08 
+## Publish SQLite data to PDF using named tuples 
+Originally published: 2015-02-24 22:08:08 
 Last updated: 2015-02-24 22:08:11 
 Author: Vasudev Ram 
  

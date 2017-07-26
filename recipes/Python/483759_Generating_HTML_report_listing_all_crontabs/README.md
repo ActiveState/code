@@ -1,4 +1,5 @@
-## Generating an HTML report listing all crontabs from several hostsOriginally published: 2006-04-12 10:11:01 
+## Generating an HTML report listing all crontabs from several hosts 
+Originally published: 2006-04-12 10:11:01 
 Last updated: 2006-04-12 10:11:01 
 Author: Walter Dörwald 
  

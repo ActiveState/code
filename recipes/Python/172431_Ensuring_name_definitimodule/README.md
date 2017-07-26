@@ -1,4 +1,5 @@
-## Ensuring a name definition in a module namespaceOriginally published: 2003-01-06 13:47:23 
+## Ensuring a name definition in a module namespace 
+Originally published: 2003-01-06 13:47:23 
 Last updated: 2008-07-31 09:32:27 
 Author: Steven Cummings 
  

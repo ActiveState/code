@@ -1,4 +1,5 @@
-## Automatic argument type conversion.Originally published: 2004-12-07 00:45:59 
+## Automatic argument type conversion. 
+Originally published: 2004-12-07 00:45:59 
 Last updated: 2004-12-08 00:37:52 
 Author: S W 
  

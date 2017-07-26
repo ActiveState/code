@@ -1,4 +1,5 @@
-## dualmethod descriptorOriginally published: 2010-02-04 16:06:33 
+## dualmethod descriptor 
+Originally published: 2010-02-04 16:06:33 
 Last updated: 2010-02-06 20:54:45 
 Author: Steven D'Aprano 
  

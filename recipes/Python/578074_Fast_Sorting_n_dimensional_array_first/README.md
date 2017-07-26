@@ -1,4 +1,5 @@
-## Fast Sorting of n dimensional array by first dimension Originally published: 2012-03-14 15:14:11 
+## Fast Sorting of n dimensional array by first dimension  
+Originally published: 2012-03-14 15:14:11 
 Last updated: 2012-03-14 15:14:11 
 Author: Garrett  
  

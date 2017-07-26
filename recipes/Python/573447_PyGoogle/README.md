@@ -1,4 +1,5 @@
-## PyGoogleOriginally published: 2008-06-06 16:46:38 
+## PyGoogle 
+Originally published: 2008-06-06 16:46:38 
 Last updated: 2008-06-06 16:46:38 
 Author: Erik Anderson 
  

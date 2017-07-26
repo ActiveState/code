@@ -1,4 +1,5 @@
-## Winamp Tiny  Implementation - using ctypesOriginally published: 2006-12-24 00:42:18 
+## Winamp Tiny  Implementation - using ctypes 
+Originally published: 2006-12-24 00:42:18 
 Last updated: 2007-03-31 08:13:59 
 Author: Wei Lin 
  

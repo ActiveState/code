@@ -1,4 +1,5 @@
-## Yet another object browser (text based)Originally published: 2006-03-17 08:29:10 
+## Yet another object browser (text based) 
+Originally published: 2006-03-17 08:29:10 
 Last updated: 2006-08-22 15:48:56 
 Author: Will Ware 
  

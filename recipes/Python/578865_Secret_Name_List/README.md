@@ -1,4 +1,5 @@
-## The Secret Name of List ComprehensionsOriginally published: 2014-04-21 20:09:42 
+## The Secret Name of List Comprehensions 
+Originally published: 2014-04-21 20:09:42 
 Last updated: 2014-04-21 20:09:43 
 Author: He Gu 
  

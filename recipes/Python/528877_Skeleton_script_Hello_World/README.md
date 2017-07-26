@@ -1,4 +1,5 @@
-## Skeleton script Hello WorldOriginally published: 2007-08-15 18:39:20 
+## Skeleton script Hello World 
+Originally published: 2007-08-15 18:39:20 
 Last updated: 2007-12-07 15:32:02 
 Author: Noah Spurrier 
  

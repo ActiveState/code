@@ -1,4 +1,5 @@
-## XML Lexing ("shallow parsing")Originally published: 2001-06-12 15:00:49 
+## XML Lexing ("shallow parsing") 
+Originally published: 2001-06-12 15:00:49 
 Last updated: 2001-06-13 21:24:21 
 Author: Paul Prescod 
  

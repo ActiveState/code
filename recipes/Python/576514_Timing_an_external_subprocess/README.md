@@ -1,4 +1,5 @@
-## Timing an external subprocessOriginally published: 2008-09-24 11:34:52 
+## Timing an external subprocess 
+Originally published: 2008-09-24 11:34:52 
 Last updated: 2008-09-24 11:34:52 
 Author: Benjamin Hall 
  

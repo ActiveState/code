@@ -1,4 +1,5 @@
-## Fallout 3 "terminal hacking" minigame crackerOriginally published: 2008-12-20 11:18:35 
+## Fallout 3 "terminal hacking" minigame cracker 
+Originally published: 2008-12-20 11:18:35 
 Last updated: 2008-12-20 11:18:35 
 Author: Bill Sharer 
  

@@ -1,4 +1,5 @@
-## How to handle PDF embedded files with PyMuPDFOriginally published: 2017-05-04 15:54:22 
+## How to handle PDF embedded files with PyMuPDF 
+Originally published: 2017-05-04 15:54:22 
 Last updated: 2017-05-04 15:54:58 
 Author: Jorj X. McKie 
  

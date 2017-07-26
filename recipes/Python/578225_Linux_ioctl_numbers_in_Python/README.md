@@ -1,4 +1,5 @@
-## Linux ioctl numbers in PythonOriginally published: 2012-07-25 12:25:25 
+## Linux ioctl numbers in Python 
+Originally published: 2012-07-25 12:25:25 
 Last updated: 2012-07-25 12:25:26 
 Author: Dima Tisnek 
  

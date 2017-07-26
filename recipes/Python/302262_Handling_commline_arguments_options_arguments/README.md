@@ -1,4 +1,5 @@
-## Handling of command line arguments: options, arguments, file(s) content iteratorOriginally published: 2004-08-27 08:46:10 
+## Handling of command line arguments: options, arguments, file(s) content iterator 
+Originally published: 2004-08-27 08:46:10 
 Last updated: 2004-08-28 21:02:14 
 Author: Peter Kleiweg 
  

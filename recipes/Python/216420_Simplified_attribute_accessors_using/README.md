@@ -1,4 +1,5 @@
-## Simplified attribute accessors using overloadingOriginally published: 2003-08-17 00:57:14 
+## Simplified attribute accessors using overloading 
+Originally published: 2003-08-17 00:57:14 
 Last updated: 2003-08-17 00:57:14 
 Author: Ulrich Hoffmann 
  

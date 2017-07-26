@@ -1,4 +1,5 @@
-## mthread.py (version 2)Originally published: 2006-01-24 16:25:12 
+## mthread.py (version 2) 
+Originally published: 2006-01-24 16:25:12 
 Last updated: 2006-01-25 00:28:44 
 Author: Stephen Chappell 
  

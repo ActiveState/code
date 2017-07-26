@@ -1,4 +1,5 @@
-## string multi-partitioningOriginally published: 2010-01-21 18:01:34 
+## string multi-partitioning 
+Originally published: 2010-01-21 18:01:34 
 Last updated: 2010-03-26 20:03:59 
 Author: Michael Grünewald 
  

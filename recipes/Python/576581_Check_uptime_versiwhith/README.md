@@ -1,4 +1,5 @@
-## Check uptime and version whith ftplibOriginally published: 2008-12-06 23:53:08 
+## Check uptime and version whith ftplib 
+Originally published: 2008-12-06 23:53:08 
 Last updated: 2008-12-06 23:53:08 
 Author: h-kan  
  

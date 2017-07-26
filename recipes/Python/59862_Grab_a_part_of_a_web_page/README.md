@@ -1,4 +1,5 @@
-## Grab a part of a web pageOriginally published: 2001-05-26 05:21:46 
+## Grab a part of a web page 
+Originally published: 2001-05-26 05:21:46 
 Last updated: 2001-05-26 05:21:46 
 Author: Oliver Dissars 
  

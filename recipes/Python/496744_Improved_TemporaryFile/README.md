@@ -1,4 +1,5 @@
-## Improved TemporaryFileOriginally published: 2006-05-28 02:52:01 
+## Improved TemporaryFile 
+Originally published: 2006-05-28 02:52:01 
 Last updated: 2006-09-29 08:20:47 
 Author: Andy Chambers 
  

@@ -1,4 +1,5 @@
-## Use Candygram to communicate among threads.Originally published: 2004-08-27 12:14:37 
+## Use Candygram to communicate among threads. 
+Originally published: 2004-08-27 12:14:37 
 Last updated: 2004-08-27 12:14:37 
 Author: Michael Hobbs 
  

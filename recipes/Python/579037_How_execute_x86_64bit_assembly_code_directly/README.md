@@ -1,4 +1,5 @@
-## How to execute x86 64-bit assembly code directly from Python on Linux (requires Nasm)Originally published: 2015-03-24 17:35:49 
+## How to execute x86 64-bit assembly code directly from Python on Linux (requires Nasm) 
+Originally published: 2015-03-24 17:35:49 
 Last updated: 2015-03-24 18:23:19 
 Author: Simon Harrison 
  

@@ -1,4 +1,5 @@
-## Basic Linear Algebra MatrixOriginally published: 2003-03-17 18:30:15 
+## Basic Linear Algebra Matrix 
+Originally published: 2003-03-17 18:30:15 
 Last updated: 2003-03-18 02:41:42 
 Author: Bill McNeill 
  

@@ -1,4 +1,5 @@
-## Persistently monitored collection classOriginally published: 2005-09-01 08:23:11 
+## Persistently monitored collection class 
+Originally published: 2005-09-01 08:23:11 
 Last updated: 2005-09-21 20:45:19 
 Author: Robert McDermott 
  

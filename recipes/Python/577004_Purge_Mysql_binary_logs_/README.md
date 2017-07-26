@@ -1,4 +1,5 @@
-## Purge Mysql binary logs Originally published: 2010-01-12 14:43:44 
+## Purge Mysql binary logs  
+Originally published: 2010-01-12 14:43:44 
 Last updated: 2010-01-12 15:14:10 
 Author: Umang Gopani 
  

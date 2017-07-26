@@ -1,4 +1,5 @@
-## Converting DBI results to a list of dictionariesOriginally published: 2007-09-09 17:59:17 
+## Converting DBI results to a list of dictionaries 
+Originally published: 2007-09-09 17:59:17 
 Last updated: 2007-09-09 17:59:17 
 Author: Andrew Smith 
  

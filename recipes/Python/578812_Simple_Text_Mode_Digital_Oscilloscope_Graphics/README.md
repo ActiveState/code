@@ -1,4 +1,5 @@
-## Simple Text Mode Digital Oscilloscope Graphics DEMO.Originally published: 2014-01-21 19:07:48 
+## Simple Text Mode Digital Oscilloscope Graphics DEMO. 
+Originally published: 2014-01-21 19:07:48 
 Last updated: 2014-01-21 19:07:49 
 Author: Barry Walker 
  

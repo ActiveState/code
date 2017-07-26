@@ -1,4 +1,5 @@
-## Remove control character ^M from opened html filesOriginally published: 2004-07-12 18:51:02 
+## Remove control character ^M from opened html files 
+Originally published: 2004-07-12 18:51:02 
 Last updated: 2004-07-12 18:51:02 
 Author: Liang Guo 
  

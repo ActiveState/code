@@ -1,4 +1,5 @@
-## Color-cycling Plasma Fractal AppletOriginally published: 2010-03-26 05:06:51 
+## Color-cycling Plasma Fractal Applet 
+Originally published: 2010-03-26 05:06:51 
 Last updated: 2010-03-26 05:06:53 
 Author: FB36  
  

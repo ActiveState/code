@@ -1,4 +1,5 @@
-## Mathematica with a GNU readline inputOriginally published: 2005-01-17 19:07:49 
+## Mathematica with a GNU readline input 
+Originally published: 2005-01-17 19:07:49 
 Last updated: 2005-01-17 19:07:49 
 Author: George Bertsch 
  

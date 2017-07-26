@@ -1,4 +1,5 @@
-## MS SQL Server Database MoverOriginally published: 2004-09-16 12:23:54 
+## MS SQL Server Database Mover 
+Originally published: 2004-09-16 12:23:54 
 Last updated: 2004-09-16 12:23:54 
 Author: Matt Keranen 
  

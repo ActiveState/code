@@ -1,4 +1,5 @@
-## Conjunction select using foreign keysOriginally published: 2011-06-11 02:43:21 
+## Conjunction select using foreign keys 
+Originally published: 2011-06-11 02:43:21 
 Last updated: 2011-06-11 02:43:22 
 Author: Kaushik Ghose 
  

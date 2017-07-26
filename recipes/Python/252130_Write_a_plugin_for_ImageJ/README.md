@@ -1,4 +1,5 @@
-## Write a plugin for ImageJOriginally published: 2003-11-17 06:01:09 
+## Write a plugin for ImageJ 
+Originally published: 2003-11-17 06:01:09 
 Last updated: 2003-11-17 06:01:09 
 Author: Ferdinand Jamitzky 
  

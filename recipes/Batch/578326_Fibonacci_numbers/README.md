@@ -1,4 +1,5 @@
-## Fibonacci numbersOriginally published: 2012-11-14 19:02:03 
+## Fibonacci numbers 
+Originally published: 2012-11-14 19:02:03 
 Last updated: 2012-11-14 19:03:11 
 Author: greg zakharov 
  

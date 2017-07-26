@@ -1,4 +1,5 @@
-## Multi-Regex: Single pass replace of multiple regexesOriginally published: 2009-04-03 07:59:27 
+## Multi-Regex: Single pass replace of multiple regexes 
+Originally published: 2009-04-03 07:59:27 
 Last updated: 2009-04-03 13:38:39 
 Author: Michael Palmer 
  

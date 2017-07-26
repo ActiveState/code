@@ -1,4 +1,5 @@
-## Validate XML Files.Originally published: 2003-06-26 22:40:30 
+## Validate XML Files. 
+Originally published: 2003-06-26 22:40:30 
 Last updated: 2003-06-26 22:40:30 
 Author: Patrick Finnegan 
  

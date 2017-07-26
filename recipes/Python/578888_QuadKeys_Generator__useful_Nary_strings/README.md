@@ -1,4 +1,5 @@
-## QuadKeys Generator - useful for N'ary strings generationOriginally published: 2014-06-12 10:29:34 
+## QuadKeys Generator - useful for N'ary strings generation 
+Originally published: 2014-06-12 10:29:34 
 Last updated: 2014-06-12 10:29:35 
 Author: Narayana Chikkam 
  

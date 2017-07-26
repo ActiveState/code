@@ -1,4 +1,5 @@
-## Highly branched TreesOriginally published: 2014-05-14 18:23:41 
+## Highly branched Trees 
+Originally published: 2014-05-14 18:23:41 
 Last updated: 2014-05-14 19:16:04 
 Author: Chris Ecker 
  

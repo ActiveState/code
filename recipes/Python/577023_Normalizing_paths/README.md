@@ -1,4 +1,5 @@
-## Normalizing pathsOriginally published: 2010-01-26 14:35:12 
+## Normalizing paths 
+Originally published: 2010-01-26 14:35:12 
 Last updated: 2010-01-26 14:39:00 
 Author: Gustavo Narea 
  

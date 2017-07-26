@@ -1,4 +1,5 @@
-## Decoding a Shift (or Rotation, or Caesar) Cipher (or Code)Originally published: 2005-10-14 12:23:51 
+## Decoding a Shift (or Rotation, or Caesar) Cipher (or Code) 
+Originally published: 2005-10-14 12:23:51 
 Last updated: 2005-10-14 12:23:51 
 Author: Peter Norvig 
  

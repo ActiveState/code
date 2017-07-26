@@ -1,4 +1,5 @@
-## Chess Notation PlayerOriginally published: 2011-05-25 18:41:32 
+## Chess Notation Player 
+Originally published: 2011-05-25 18:41:32 
 Last updated: 2011-05-25 18:41:33 
 Author: Stijn de Graaf 
  

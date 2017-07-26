@@ -1,4 +1,5 @@
-## Determine function execution time in a Pythonic mannerOriginally published: 2005-10-04 21:40:17 
+## Determine function execution time in a Pythonic manner 
+Originally published: 2005-10-04 21:40:17 
 Last updated: 2005-10-07 03:33:29 
 Author: Connelly Barnes 
  

@@ -1,4 +1,5 @@
-## Dependency resolutionOriginally published: 2016-04-14 12:58:40 
+## Dependency resolution 
+Originally published: 2016-04-14 12:58:40 
 Last updated: 2016-04-14 12:58:40 
 Author: Mike 'Fuzzy' Partin 
  

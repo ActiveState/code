@@ -1,4 +1,5 @@
-## Numeric base converter that accepts arbitrary digitsOriginally published: 2002-01-31 13:11:37 
+## Numeric base converter that accepts arbitrary digits 
+Originally published: 2002-01-31 13:11:37 
 Last updated: 2002-01-31 13:11:37 
 Author: Drew Perttula 
  

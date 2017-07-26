@@ -1,4 +1,5 @@
-## Generate create table statements for MS Access tables.Originally published: 2006-01-02 13:51:06 
+## Generate create table statements for MS Access tables. 
+Originally published: 2006-01-02 13:51:06 
 Last updated: 2006-01-02 13:51:06 
 Author: Bob Gailer 
  

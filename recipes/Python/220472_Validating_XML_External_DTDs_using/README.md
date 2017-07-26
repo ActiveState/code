@@ -1,4 +1,5 @@
-## Validating XML with External DTDs using xmlprocOriginally published: 2003-09-08 18:34:20 
+## Validating XML with External DTDs using xmlproc 
+Originally published: 2003-09-08 18:34:20 
 Last updated: 2003-09-08 18:34:20 
 Author: Paul Sholtz 
  

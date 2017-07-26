@@ -1,4 +1,5 @@
-## Find a line of text in another fileOriginally published: 2012-06-10 18:27:55 
+## Find a line of text in another file 
+Originally published: 2012-06-10 18:27:55 
 Last updated: 2012-06-15 15:45:18 
 Author: sami jan 
  

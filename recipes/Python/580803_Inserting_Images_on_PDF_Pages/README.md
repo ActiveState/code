@@ -1,4 +1,5 @@
-## Inserting Images on PDF PagesOriginally published: 2017-05-17 21:10:26 
+## Inserting Images on PDF Pages 
+Originally published: 2017-05-17 21:10:26 
 Last updated: 2017-05-17 21:10:26 
 Author: Jorj X. McKie 
  

@@ -1,4 +1,5 @@
-## unix subprocess wrapperOriginally published: 2008-07-29 07:09:46 
+## unix subprocess wrapper 
+Originally published: 2008-07-29 07:09:46 
 Last updated: 2008-07-29 07:11:17 
 Author: Pádraig Brady 
  

@@ -1,4 +1,5 @@
-## simple ado exampleOriginally published: 2008-08-26 01:47:34 
+## simple ado example 
+Originally published: 2008-08-26 01:47:34 
 Last updated: 2008-08-26 01:47:34 
 Author: alexander baker 
  

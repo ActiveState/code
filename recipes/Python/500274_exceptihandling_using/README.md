@@ -1,4 +1,5 @@
-## exception handling using decoratorsOriginally published: 2007-01-22 21:25:50 
+## exception handling using decorators 
+Originally published: 2007-01-22 21:25:50 
 Last updated: 2007-01-22 21:25:50 
 Author: Vaibhav Bhatia 
  

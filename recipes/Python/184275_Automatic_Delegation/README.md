@@ -1,4 +1,5 @@
-## Automatic DelegationOriginally published: 2003-02-24 07:25:24 
+## Automatic Delegation 
+Originally published: 2003-02-24 07:25:24 
 Last updated: 2003-02-24 15:31:44 
 Author: Atsushi Odagiri 
  

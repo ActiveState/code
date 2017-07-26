@@ -1,4 +1,5 @@
-## Daemon to create a wifi hotspot on linuxOriginally published: 2014-07-08 04:45:27 
+## Daemon to create a wifi hotspot on linux 
+Originally published: 2014-07-08 04:45:27 
 Last updated: 2014-07-08 04:45:27 
 Author: Prahlad Yeri 
  

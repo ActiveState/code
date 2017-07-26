@@ -1,4 +1,5 @@
-## qemu-nbd Python wrapperOriginally published: 2011-03-01 20:11:45 
+## qemu-nbd Python wrapper 
+Originally published: 2011-03-01 20:11:45 
 Last updated: 2011-03-01 20:11:45 
 Author: Slava Yanson 
  

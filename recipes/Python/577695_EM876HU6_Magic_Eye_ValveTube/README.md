@@ -1,4 +1,5 @@
-## An EM87/6HU6 Magic Eye Valve/Tube Animation DEMO...Originally published: 2011-05-15 10:21:09 
+## An EM87/6HU6 Magic Eye Valve/Tube Animation DEMO... 
+Originally published: 2011-05-15 10:21:09 
 Last updated: 2011-05-15 10:21:10 
 Author: Barry Walker 
  

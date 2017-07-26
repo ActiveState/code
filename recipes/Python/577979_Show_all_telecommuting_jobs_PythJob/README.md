@@ -1,4 +1,5 @@
-## Show all the telecommuting jobs from the Python Job BoardOriginally published: 2011-12-09 07:37:21 
+## Show all the telecommuting jobs from the Python Job Board 
+Originally published: 2011-12-09 07:37:21 
 Last updated: 2011-12-09 07:38:28 
 Author: Victor Yang 
  

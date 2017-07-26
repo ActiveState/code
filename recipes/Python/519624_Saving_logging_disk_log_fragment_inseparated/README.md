@@ -1,4 +1,5 @@
-## Saving [logging.] disk log fragment into separated fileOriginally published: 2007-05-08 07:26:44 
+## Saving [logging.] disk log fragment into separated file 
+Originally published: 2007-05-08 07:26:44 
 Last updated: 2007-05-08 07:26:44 
 Author: Denis Barmenkov 
  

@@ -1,4 +1,5 @@
-## Exception Handling in an ExpressionOriginally published: 2003-12-13 08:42:13 
+## Exception Handling in an Expression 
+Originally published: 2003-12-13 08:42:13 
 Last updated: 2003-12-13 08:42:13 
 Author: Chris Perkins 
  

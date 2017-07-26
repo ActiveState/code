@@ -1,4 +1,5 @@
-## simplest useful HTTPS with basic proxy authenticationOriginally published: 2004-08-24 07:01:07 
+## simplest useful HTTPS with basic proxy authentication 
+Originally published: 2004-08-24 07:01:07 
 Last updated: 2005-12-28 17:27:47 
 Author: John Nielsen 
  

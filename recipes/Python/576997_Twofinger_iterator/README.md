@@ -1,4 +1,5 @@
-## Two-finger iteratorOriginally published: 2010-01-09 15:06:51 
+## Two-finger iterator 
+Originally published: 2010-01-09 15:06:51 
 Last updated: 2010-01-09 15:06:51 
 Author: Karl Dickman 
  

@@ -1,4 +1,5 @@
-## file path generator from path patternsOriginally published: 2010-05-18 03:39:00 
+## file path generator from path patterns 
+Originally published: 2010-05-18 03:39:00 
 Last updated: 2010-07-09 19:10:59 
 Author: Trent Mick 
  

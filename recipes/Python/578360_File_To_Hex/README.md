@@ -1,4 +1,5 @@
-## File To HexOriginally published: 2012-12-05 23:45:05 
+## File To Hex 
+Originally published: 2012-12-05 23:45:05 
 Last updated: 2012-12-05 23:45:05 
 Author: Stephen Chappell 
  

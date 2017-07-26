@@ -1,4 +1,5 @@
-## Sorting a list of dictionary based on a key valueOriginally published: 2008-08-20 03:30:37 
+## Sorting a list of dictionary based on a key value 
+Originally published: 2008-08-20 03:30:37 
 Last updated: 2008-08-20 03:30:37 
 Author: riteshn  
  

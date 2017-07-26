@@ -1,4 +1,5 @@
-## Changing a closed-over value (in a "cell")Originally published: 2005-09-02 18:40:43 
+## Changing a closed-over value (in a "cell") 
+Originally published: 2005-09-02 18:40:43 
 Last updated: 2005-09-02 18:40:43 
 Author: paul cannon 
  

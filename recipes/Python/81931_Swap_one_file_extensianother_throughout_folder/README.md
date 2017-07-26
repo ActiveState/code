@@ -1,4 +1,5 @@
-## Swap one file extension for another throughout a folder treeOriginally published: 2001-10-15 15:25:15 
+## Swap one file extension for another throughout a folder tree 
+Originally published: 2001-10-15 15:25:15 
 Last updated: 2002-07-23 06:02:34 
 Author: Julius Welby 
  

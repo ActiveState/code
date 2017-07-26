@@ -1,4 +1,5 @@
-## Logpyl - basic logfile objects for PythonOriginally published: 2001-07-31 07:43:10 
+## Logpyl - basic logfile objects for Python 
+Originally published: 2001-07-31 07:43:10 
 Last updated: 2001-08-07 01:03:38 
 Author: john cole 
  

@@ -1,4 +1,5 @@
-## socket.recv -- three ways to turn it into recvallOriginally published: 2005-04-01 18:07:29 
+## socket.recv -- three ways to turn it into recvall 
+Originally published: 2005-04-01 18:07:29 
 Last updated: 2005-04-05 13:47:57 
 Author: John Nielsen 
  

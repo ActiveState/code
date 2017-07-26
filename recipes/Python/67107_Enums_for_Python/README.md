@@ -1,4 +1,5 @@
-## Enums for PythonOriginally published: 2001-08-23 14:57:17 
+## Enums for Python 
+Originally published: 2001-08-23 14:57:17 
 Last updated: 2001-08-23 14:57:17 
 Author: Will Ware 
  

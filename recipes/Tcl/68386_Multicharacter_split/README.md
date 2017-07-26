@@ -1,4 +1,5 @@
-## Multi-character splitOriginally published: 2001-09-10 10:07:20 
+## Multi-character split 
+Originally published: 2001-09-10 10:07:20 
 Last updated: 2001-09-10 10:07:20 
 Author: Jeff Hobbs 
  

@@ -1,4 +1,5 @@
-## Perl Script to obtain data file in a desired formatOriginally published: 2007-03-11 07:30:50 
+## Perl Script to obtain data file in a desired format 
+Originally published: 2007-03-11 07:30:50 
 Last updated: 2007-03-11 07:30:50 
 Author: Rajkumar Jain 
  

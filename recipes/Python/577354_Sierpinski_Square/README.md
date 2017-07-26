@@ -1,4 +1,5 @@
-## Sierpinski Square combination fractalOriginally published: 2010-08-11 20:06:41 
+## Sierpinski Square combination fractal 
+Originally published: 2010-08-11 20:06:41 
 Last updated: 2010-08-11 20:06:42 
 Author: FB36  
  

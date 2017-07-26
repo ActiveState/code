@@ -1,4 +1,5 @@
-## Type-checking decoratorOriginally published: 2005-11-15 14:00:59 
+## Type-checking decorator 
+Originally published: 2005-11-15 14:00:59 
 Last updated: 2005-11-17 12:23:59 
 Author: Per Vognsen 
  

@@ -1,4 +1,5 @@
-## Coordinates of numpy array from index and shapeOriginally published: 2012-10-23 19:51:54 
+## Coordinates of numpy array from index and shape 
+Originally published: 2012-10-23 19:51:54 
 Last updated: 2012-10-23 19:51:55 
 Author: Garrett  
  

@@ -1,4 +1,5 @@
-## Chat server & client using select.selectOriginally published: 2007-09-24 07:31:21 
+## Chat server & client using select.select 
+Originally published: 2007-09-24 07:31:21 
 Last updated: 2007-09-28 08:57:53 
 Author: Anand  
  

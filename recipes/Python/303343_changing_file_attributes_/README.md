@@ -1,4 +1,5 @@
-## changing file attributes on  windowsOriginally published: 2004-09-03 11:54:59 
+## changing file attributes on  windows 
+Originally published: 2004-09-03 11:54:59 
 Last updated: 2004-09-03 11:54:59 
 Author: John Nielsen 
  

@@ -1,4 +1,5 @@
-## Words to Numbers (English)Originally published: 2008-03-05 12:44:43 
+## Words to Numbers (English) 
+Originally published: 2008-03-05 12:44:43 
 Last updated: 2008-03-10 04:13:46 
 Author: Pat Blair 
  

@@ -1,4 +1,5 @@
-## Alphametics solverOriginally published: 2009-01-14 19:22:46 
+## Alphametics solver 
+Originally published: 2009-01-14 19:22:46 
 Last updated: 2010-10-09 00:28:52 
 Author: Raymond Hettinger 
  

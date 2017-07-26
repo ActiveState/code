@@ -1,4 +1,5 @@
-## Tracking and Manipulating the Python Import StateOriginally published: 2012-04-22 07:27:28 
+## Tracking and Manipulating the Python Import State 
+Originally published: 2012-04-22 07:27:28 
 Last updated: 2012-04-22 07:27:29 
 Author: Eric Snow 
  

@@ -1,4 +1,5 @@
-## Format number functionOriginally published: 2007-01-03 04:07:33 
+## Format number function 
+Originally published: 2007-01-03 04:07:33 
 Last updated: 2007-01-03 18:54:35 
 Author: Clodoaldo Pinto Neto 
  

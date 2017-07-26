@@ -1,4 +1,5 @@
-## quick 3-column grid CSSOriginally published: 2010-09-15 17:13:25 
+## quick 3-column grid CSS 
+Originally published: 2010-09-15 17:13:25 
 Last updated: 2010-09-15 17:13:26 
 Author: Trent Mick 
  

@@ -1,4 +1,5 @@
-## Linux Terminal Color SetterOriginally published: 2008-09-11 17:08:30 
+## Linux Terminal Color Setter 
+Originally published: 2008-09-11 17:08:30 
 Last updated: 2008-09-11 17:08:30 
 Author: Collin Stocks 
  

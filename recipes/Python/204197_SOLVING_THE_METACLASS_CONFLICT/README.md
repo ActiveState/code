@@ -1,4 +1,5 @@
-## SOLVING THE METACLASS CONFLICTOriginally published: 2003-06-07 04:38:25 
+## SOLVING THE METACLASS CONFLICT 
+Originally published: 2003-06-07 04:38:25 
 Last updated: 2014-09-29 07:15:33 
 Author: Michele Simionato 
  

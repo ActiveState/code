@@ -1,4 +1,5 @@
-## Listing the package/patches dependencies of a binary on SolarisOriginally published: 2008-07-30 04:28:26 
+## Listing the package/patches dependencies of a binary on Solaris 
+Originally published: 2008-07-30 04:28:26 
 Last updated: 2008-07-30 04:30:44 
 Author: Benjamin Sergeant 
  

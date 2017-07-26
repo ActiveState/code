@@ -1,4 +1,5 @@
-## Tkinter beautiful handler for pannedwindow (Similar to jQuery Layout)Originally published: 2016-12-09 01:36:15 
+## Tkinter beautiful handler for pannedwindow (Similar to jQuery Layout) 
+Originally published: 2016-12-09 01:36:15 
 Last updated: 2017-01-28 00:28:56 
 Author: Miguel Martínez López 
  

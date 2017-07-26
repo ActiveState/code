@@ -1,4 +1,5 @@
-## "Real" class methods in PythonOriginally published: 2001-03-27 11:40:20 
+## "Real" class methods in Python 
+Originally published: 2001-03-27 11:40:20 
 Last updated: 2001-03-27 11:40:20 
 Author: Thomas Heller 
  

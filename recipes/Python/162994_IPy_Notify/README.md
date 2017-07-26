@@ -1,4 +1,5 @@
-## IPy NotifyOriginally published: 2002-11-17 22:44:19 
+## IPy Notify 
+Originally published: 2002-11-17 22:44:19 
 Last updated: 2002-11-19 17:28:45 
 Author: Charles Nichols 
  

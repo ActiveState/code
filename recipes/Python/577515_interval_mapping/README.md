@@ -1,4 +1,5 @@
-## An interval mapping data structureOriginally published: 2010-12-23 12:51:26 
+## An interval mapping data structure 
+Originally published: 2010-12-23 12:51:26 
 Last updated: 2010-12-23 12:51:27 
 Author: Matteo Dell'Amico 
  

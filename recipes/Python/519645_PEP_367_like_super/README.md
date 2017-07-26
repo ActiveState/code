@@ -1,4 +1,5 @@
-## PEP 367 like superOriginally published: 2007-05-16 09:57:37 
+## PEP 367 like super 
+Originally published: 2007-05-16 09:57:37 
 Last updated: 2007-05-16 09:57:37 
 Author: Dmitry Vasiliev 
  

@@ -1,4 +1,5 @@
-## Simultaneous topdown and bottomup variant of os.walk() (alt. title: "Delete .pyc files and empty directories recursively")Originally published: 2010-04-21 20:16:08 
+## Simultaneous topdown and bottomup variant of os.walk() (alt. title: "Delete .pyc files and empty directories recursively") 
+Originally published: 2010-04-21 20:16:08 
 Last updated: 2010-04-21 20:16:09 
 Author: George Sakkis 
  

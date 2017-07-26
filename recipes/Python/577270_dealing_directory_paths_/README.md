@@ -1,4 +1,5 @@
-## dealing with directory paths with ~Originally published: 2010-06-16 22:45:18 
+## dealing with directory paths with ~ 
+Originally published: 2010-06-16 22:45:18 
 Last updated: 2010-06-16 23:17:20 
 Author: roopeshv  
  

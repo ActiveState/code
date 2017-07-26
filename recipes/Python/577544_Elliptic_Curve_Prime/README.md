@@ -1,4 +1,5 @@
-## Elliptic Curve Prime FactorisationOriginally published: 2011-01-14 18:43:33 
+## Elliptic Curve Prime Factorisation 
+Originally published: 2011-01-14 18:43:33 
 Last updated: 2011-01-17 18:42:06 
 Author: Mukesh Tiwari 
  

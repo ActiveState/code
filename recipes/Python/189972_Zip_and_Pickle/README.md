@@ -1,4 +1,5 @@
-## Zip and PickleOriginally published: 2003-03-17 19:06:15 
+## Zip and Pickle 
+Originally published: 2003-03-17 19:06:15 
 Last updated: 2003-03-18 03:30:47 
 Author: Bill McNeill 
  

@@ -1,4 +1,5 @@
-## Very basic example of nevow capabilitiesOriginally published: 2004-07-08 05:31:51 
+## Very basic example of nevow capabilities 
+Originally published: 2004-07-08 05:31:51 
 Last updated: 2004-07-08 05:31:51 
 Author: Valentino Volonghi 
  

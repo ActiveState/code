@@ -1,4 +1,5 @@
-## PyChecker postprocessorOriginally published: 2008-02-20 12:32:05 
+## PyChecker postprocessor 
+Originally published: 2008-02-20 12:32:05 
 Last updated: 2017-01-10 21:19:34 
 Author: Jean Brouwers 
  

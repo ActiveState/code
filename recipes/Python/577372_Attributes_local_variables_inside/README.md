@@ -1,4 +1,5 @@
-## Attributes as local variables inside a with clauseOriginally published: 2010-08-25 16:39:25 
+## Attributes as local variables inside a with clause 
+Originally published: 2010-08-25 16:39:25 
 Last updated: 2010-08-25 16:42:13 
 Author: Joakim Pettersson 
  

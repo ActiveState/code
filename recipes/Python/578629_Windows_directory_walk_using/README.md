@@ -1,4 +1,5 @@
-## Windows directory walk using ctypesOriginally published: 2013-08-09 00:15:08 
+## Windows directory walk using ctypes 
+Originally published: 2013-08-09 00:15:08 
 Last updated: 2013-08-09 00:17:00 
 Author: Shao-chuan Wang 
  

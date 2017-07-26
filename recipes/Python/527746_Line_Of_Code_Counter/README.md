@@ -1,4 +1,5 @@
-## Line Of Code CounterOriginally published: 2007-08-09 16:42:45 
+## Line Of Code Counter 
+Originally published: 2007-08-09 16:42:45 
 Last updated: 2007-08-09 16:42:45 
 Author: Robin Parmar 
  

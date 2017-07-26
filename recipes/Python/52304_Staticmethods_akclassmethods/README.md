@@ -1,4 +1,5 @@
-## "Static-methods" (aka "class-methods") in PythonOriginally published: 2001-03-26 06:45:43 
+## "Static-methods" (aka "class-methods") in Python 
+Originally published: 2001-03-26 06:45:43 
 Last updated: 2001-06-19 10:16:00 
 Author: Alex Martelli 
  

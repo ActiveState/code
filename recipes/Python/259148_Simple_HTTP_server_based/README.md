@@ -1,4 +1,5 @@
-## Simple HTTP server based on asyncore/asynchatOriginally published: 2004-01-01 10:31:00 
+## Simple HTTP server based on asyncore/asynchat 
+Originally published: 2004-01-01 10:31:00 
 Last updated: 2005-10-16 08:26:59 
 Author: Pierre Quentel 
  

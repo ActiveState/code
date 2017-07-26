@@ -1,4 +1,5 @@
-## Register exit functionOriginally published: 2016-05-31 00:33:11 
+## Register exit function 
+Originally published: 2016-05-31 00:33:11 
 Last updated: 2016-05-31 00:42:47 
 Author: Giampaolo Rodolà 
  

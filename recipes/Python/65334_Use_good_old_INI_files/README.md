@@ -1,4 +1,5 @@
-## Use good old INI files for configurationOriginally published: 2001-06-25 05:00:24 
+## Use good old INI files for configuration 
+Originally published: 2001-06-25 05:00:24 
 Last updated: 2001-06-25 05:00:24 
 Author: Dirk Holtwick 
  

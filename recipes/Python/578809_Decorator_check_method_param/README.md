@@ -1,4 +1,5 @@
-## Decorator to check method param typesOriginally published: 2014-01-14 11:23:39 
+## Decorator to check method param types 
+Originally published: 2014-01-14 11:23:39 
 Last updated: 2014-01-14 11:23:40 
 Author: Andrey Nikishaev 
  

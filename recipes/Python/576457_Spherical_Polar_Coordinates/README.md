@@ -1,4 +1,5 @@
-## Spherical Polar CoordinatesOriginally published: 2008-08-26 08:49:39 
+## Spherical Polar Coordinates 
+Originally published: 2008-08-26 08:49:39 
 Last updated: 2008-08-26 08:49:39 
 Author: alexander baker 
  

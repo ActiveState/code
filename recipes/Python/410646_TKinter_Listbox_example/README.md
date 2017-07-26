@@ -1,4 +1,5 @@
-## TKinter Listbox exampleOriginally published: 2005-04-20 23:59:47 
+## TKinter Listbox example 
+Originally published: 2005-04-20 23:59:47 
 Last updated: 2005-04-21 14:33:13 
 Author: Nathan Regener 
  

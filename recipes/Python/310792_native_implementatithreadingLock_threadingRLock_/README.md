@@ -1,4 +1,5 @@
-## A native implementation of threading.Lock and threading.RLock using PyrexOriginally published: 2004-10-19 13:37:44 
+## A native implementation of threading.Lock and threading.RLock using Pyrex 
+Originally published: 2004-10-19 13:37:44 
 Last updated: 2004-10-19 13:37:44 
 Author: Nicolas Lehuen 
  

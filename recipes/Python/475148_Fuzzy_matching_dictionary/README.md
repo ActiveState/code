@@ -1,4 +1,5 @@
-## Fuzzy matching dictionaryOriginally published: 2006-03-18 11:23:25 
+## Fuzzy matching dictionary 
+Originally published: 2006-03-18 11:23:25 
 Last updated: 2006-03-18 11:23:25 
 Author: Mark Mc Mahon 
  

@@ -1,4 +1,5 @@
-## Remove whitespace-only text nodes from an XML DOMOriginally published: 2004-09-02 01:47:21 
+## Remove whitespace-only text nodes from an XML DOM 
+Originally published: 2004-09-02 01:47:21 
 Last updated: 2004-09-13 16:00:48 
 Author: Brian Quinlan 
  

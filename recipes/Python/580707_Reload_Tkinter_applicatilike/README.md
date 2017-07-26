@@ -1,4 +1,5 @@
-## Reload Tkinter application like a browserOriginally published: 2016-10-22 13:35:15 
+## Reload Tkinter application like a browser 
+Originally published: 2016-10-22 13:35:15 
 Last updated: 2017-04-07 12:40:46 
 Author: Miguel Martínez López 
  

@@ -1,4 +1,5 @@
-## stock market check v2Originally published: 2007-12-11 18:15:38 
+## stock market check v2 
+Originally published: 2007-12-11 18:15:38 
 Last updated: 2007-12-11 18:15:38 
 Author: Alex Flynn 
  

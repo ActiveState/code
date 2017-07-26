@@ -1,4 +1,5 @@
-## Extract a inner function from a class or a functionOriginally published: 2006-06-19 14:47:21 
+## Extract a inner function from a class or a function 
+Originally published: 2006-06-19 14:47:21 
 Last updated: 2006-06-19 22:03:22 
 Author: Sunjoong LEE 
  

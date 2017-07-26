@@ -1,4 +1,5 @@
-## working with GroupWiseOriginally published: 2010-09-28 15:11:15 
+## working with GroupWise 
+Originally published: 2010-09-28 15:11:15 
 Last updated: 2010-09-28 15:11:15 
 Author: Shamil Bikineyev 
  

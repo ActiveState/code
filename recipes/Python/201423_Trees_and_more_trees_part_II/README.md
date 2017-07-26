@@ -1,4 +1,5 @@
-## Trees and more trees, part IIOriginally published: 2003-05-23 10:48:25 
+## Trees and more trees, part II 
+Originally published: 2003-05-23 10:48:25 
 Last updated: 2003-05-23 10:48:25 
 Author: Gonçalo Rodrigues 
  

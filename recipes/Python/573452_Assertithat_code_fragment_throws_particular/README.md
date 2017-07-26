@@ -1,4 +1,5 @@
-## Assertion that a code fragment throws a particular exception (self-test utility, Python 3)Originally published: 2008-06-14 05:56:53 
+## Assertion that a code fragment throws a particular exception (self-test utility, Python 3) 
+Originally published: 2008-06-14 05:56:53 
 Last updated: 2010-07-20 13:15:49 
 Author: Dmitry Dvoinikov 
  

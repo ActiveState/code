@@ -1,4 +1,5 @@
-## Crop PDF File with pyPdfOriginally published: 2009-07-09 10:15:20 
+## Crop PDF File with pyPdf 
+Originally published: 2009-07-09 10:15:20 
 Last updated: 2011-11-03 17:42:10 
 Author: ccpizza  
  

@@ -1,4 +1,5 @@
-## Getting a dictionary of all members of a class hierarchyOriginally published: 2001-03-19 16:29:45 
+## Getting a dictionary of all members of a class hierarchy 
+Originally published: 2001-03-19 16:29:45 
 Last updated: 2001-03-19 16:29:45 
 Author: Jürgen Hermann 
  

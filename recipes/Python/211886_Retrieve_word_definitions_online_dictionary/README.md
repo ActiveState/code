@@ -1,4 +1,5 @@
-## Retrieve word definitions from online dictionary siteOriginally published: 2003-07-23 11:28:58 
+## Retrieve word definitions from online dictionary site 
+Originally published: 2003-07-23 11:28:58 
 Last updated: 2003-07-23 11:28:58 
 Author: gyro funch 
  

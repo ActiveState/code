@@ -1,4 +1,5 @@
-## CGI Image ViewerOriginally published: 2012-07-02 22:52:31 
+## CGI Image Viewer 
+Originally published: 2012-07-02 22:52:31 
 Last updated: 2012-07-02 22:52:32 
 Author: Stephen Chappell 
  

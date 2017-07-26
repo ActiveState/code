@@ -1,4 +1,5 @@
-## Delete all message older than a given date in a pop accountOriginally published: 2009-10-05 12:56:13 
+## Delete all message older than a given date in a pop account 
+Originally published: 2009-10-05 12:56:13 
 Last updated: 2009-10-05 12:56:13 
 Author: Benjamin Sergeant 
  

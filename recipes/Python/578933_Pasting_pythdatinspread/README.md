@@ -1,4 +1,5 @@
-## Pasting python data into a spread sheetOriginally published: 2014-09-14 14:43:30 
+## Pasting python data into a spread sheet 
+Originally published: 2014-09-14 14:43:30 
 Last updated: 2014-09-16 15:49:07 
 Author: Tomas Nordin 
  

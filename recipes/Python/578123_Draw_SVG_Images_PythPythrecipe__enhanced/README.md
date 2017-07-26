@@ -1,4 +1,5 @@
-## Draw SVG Images In Python (Python recipe) - enhanced VersionOriginally published: 2012-05-10 16:27:18 
+## Draw SVG Images In Python (Python recipe) - enhanced Version 
+Originally published: 2012-05-10 16:27:18 
 Last updated: 2012-05-10 16:27:18 
 Author: Isendrak Skatasmid 
  

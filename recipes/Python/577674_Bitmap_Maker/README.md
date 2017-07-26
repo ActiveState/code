@@ -1,4 +1,5 @@
-## Bitmap MakerOriginally published: 2011-04-21 12:16:15 
+## Bitmap Maker 
+Originally published: 2011-04-21 12:16:15 
 Last updated: 2011-04-21 13:08:46 
 Author: Stephen Chappell 
  

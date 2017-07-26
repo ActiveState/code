@@ -1,4 +1,5 @@
-## Maze generatorOriginally published: 2003-11-15 23:40:29 
+## Maze generator 
+Originally published: 2003-11-15 23:40:29 
 Last updated: 2003-11-15 23:40:29 
 Author: Georgy Pruss 
  

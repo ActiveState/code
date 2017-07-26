@@ -1,4 +1,5 @@
-## Splash Screen GTKOriginally published: 2011-10-24 13:34:28 
+## Splash Screen GTK 
+Originally published: 2011-10-24 13:34:28 
 Last updated: 2011-10-24 13:34:29 
 Author: Nicolas Coelho 
  

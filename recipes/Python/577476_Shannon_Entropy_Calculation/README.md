@@ -1,4 +1,5 @@
-## Shannon Entropy CalculationOriginally published: 2010-11-29 08:37:34 
+## Shannon Entropy Calculation 
+Originally published: 2010-11-29 08:37:34 
 Last updated: 2010-11-29 08:37:34 
 Author: FB36  
  

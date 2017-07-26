@@ -1,4 +1,5 @@
-## XYAPTU: Lightweight XML/HTML Document Template Engine for PythonOriginally published: 2002-11-13 08:07:57 
+## XYAPTU: Lightweight XML/HTML Document Template Engine for Python 
+Originally published: 2002-11-13 08:07:57 
 Last updated: 2002-11-18 15:01:35 
 Author: Mario Ruggier 
  

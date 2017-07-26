@@ -1,4 +1,5 @@
-## Artificial WindowsOriginally published: 2005-10-28 10:18:00 
+## Artificial Windows 
+Originally published: 2005-10-28 10:18:00 
 Last updated: 2005-10-28 10:18:00 
 Author: Stephen Chappell 
  

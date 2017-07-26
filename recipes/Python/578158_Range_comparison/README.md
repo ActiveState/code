@@ -1,4 +1,5 @@
-## Range comparisonOriginally published: 2012-06-06 12:00:52 
+## Range comparison 
+Originally published: 2012-06-06 12:00:52 
 Last updated: 2012-06-06 12:00:52 
 Author: Charlie Clark 
  

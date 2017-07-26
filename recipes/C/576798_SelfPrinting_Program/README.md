@@ -1,4 +1,5 @@
-## Self-Printing ProgramOriginally published: 2009-06-05 01:19:17 
+## Self-Printing Program 
+Originally published: 2009-06-05 01:19:17 
 Last updated: 2009-06-05 01:19:17 
 Author: J Y 
  

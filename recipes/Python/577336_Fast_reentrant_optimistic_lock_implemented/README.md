@@ -1,4 +1,5 @@
-## Fast, re-entrant, optimistic lock implemented in CythonOriginally published: 2010-07-27 19:06:11 
+## Fast, re-entrant, optimistic lock implemented in Cython 
+Originally published: 2010-07-27 19:06:11 
 Last updated: 2010-07-27 20:25:20 
 Author: Stefan Behnel 
  

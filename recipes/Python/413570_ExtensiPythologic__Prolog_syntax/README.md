@@ -1,4 +1,5 @@
-## Extension to Pythologic -- Prolog syntax in PythonOriginally published: 2005-05-08 04:47:59 
+## Extension to Pythologic -- Prolog syntax in Python 
+Originally published: 2005-05-08 04:47:59 
 Last updated: 2005-05-08 04:47:59 
 Author: Huu Nguyen 
  

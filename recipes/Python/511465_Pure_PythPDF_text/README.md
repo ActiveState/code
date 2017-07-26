@@ -1,4 +1,5 @@
-## Pure Python PDF to text converterOriginally published: 2007-04-12 03:54:27 
+## Pure Python PDF to text converter 
+Originally published: 2007-04-12 03:54:27 
 Last updated: 2007-04-12 11:05:10 
 Author: Dirk Holtwick 
  

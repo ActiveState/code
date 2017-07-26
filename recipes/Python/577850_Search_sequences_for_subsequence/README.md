@@ -1,4 +1,5 @@
-## Search sequences for sub-sequenceOriginally published: 2011-08-19 05:17:00 
+## Search sequences for sub-sequence 
+Originally published: 2011-08-19 05:17:00 
 Last updated: 2011-08-19 05:17:00 
 Author: Steven D'Aprano 
  

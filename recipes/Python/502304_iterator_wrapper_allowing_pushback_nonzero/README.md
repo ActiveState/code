@@ -1,4 +1,5 @@
-## iterator wrapper, allowing 'pushback' and 'nonzero' testOriginally published: 2007-03-12 09:59:03 
+## iterator wrapper, allowing 'pushback' and 'nonzero' test 
+Originally published: 2007-03-12 09:59:03 
 Last updated: 2007-03-12 09:59:03 
 Author: Manuel Garcia 
  

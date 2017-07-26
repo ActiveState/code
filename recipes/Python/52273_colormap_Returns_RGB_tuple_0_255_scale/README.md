@@ -1,4 +1,5 @@
-## colormap: Returns an RGB tuple on a 0 to 255 scale for graphical packagesOriginally published: 2001-03-16 07:39:04 
+## colormap: Returns an RGB tuple on a 0 to 255 scale for graphical packages 
+Originally published: 2001-03-16 07:39:04 
 Last updated: 2005-04-20 12:46:35 
 Author: Alexander Pletzer 
  

@@ -1,4 +1,5 @@
-## eMail address list validationOriginally published: 2014-02-05 22:20:41 
+## eMail address list validation 
+Originally published: 2014-02-05 22:20:41 
 Last updated: 2014-02-05 22:20:41 
 Author: SoftMoon WebWare 
  

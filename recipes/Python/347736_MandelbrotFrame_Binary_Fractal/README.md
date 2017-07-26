@@ -1,4 +1,5 @@
-## Mandelbrot/Frame Binary Fractal TreesOriginally published: 2004-11-27 14:10:09 
+## Mandelbrot/Frame Binary Fractal Trees 
+Originally published: 2004-11-27 14:10:09 
 Last updated: 2004-11-27 14:10:09 
 Author: Rick Muller 
  

@@ -1,4 +1,5 @@
-## Rich iterator wrapperOriginally published: 2006-11-19 00:03:21 
+## Rich iterator wrapper 
+Originally published: 2006-11-19 00:03:21 
 Last updated: 2006-11-19 00:03:21 
 Author: George Sakkis 
  

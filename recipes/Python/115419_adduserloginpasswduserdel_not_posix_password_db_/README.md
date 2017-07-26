@@ -1,4 +1,5 @@
-## adduser/login/passwd/userdel (not posix) password db accessOriginally published: 2002-02-20 12:50:29 
+## adduser/login/passwd/userdel (not posix) password db access 
+Originally published: 2002-02-20 12:50:29 
 Last updated: 2002-02-20 12:50:29 
 Author: Nelson Rush 
  

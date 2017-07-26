@@ -1,4 +1,5 @@
-## Gather detailed system information on Mac OS XOriginally published: 2004-09-02 02:41:40 
+## Gather detailed system information on Mac OS X 
+Originally published: 2004-09-02 02:41:40 
 Last updated: 2004-09-02 02:41:40 
 Author: Brian Quinlan 
  

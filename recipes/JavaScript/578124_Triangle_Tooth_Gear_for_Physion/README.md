@@ -1,4 +1,5 @@
-## Triangle Tooth Gear for PhysionOriginally published: 2012-05-10 16:42:32 
+## Triangle Tooth Gear for Physion 
+Originally published: 2012-05-10 16:42:32 
 Last updated: 2012-05-10 16:42:33 
 Author: Isendrak Skatasmid 
  

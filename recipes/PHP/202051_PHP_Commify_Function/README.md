@@ -1,4 +1,5 @@
-## PHP Commify FunctionOriginally published: 2003-05-24 14:14:57 
+## PHP Commify Function 
+Originally published: 2003-05-24 14:14:57 
 Last updated: 2006-07-07 21:37:30 
 Author: Alvin Estevez 
  

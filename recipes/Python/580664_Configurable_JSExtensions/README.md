@@ -1,4 +1,5 @@
-## Configurable JSON Extensions for PythonOriginally published: 2016-05-22 19:00:53 
+## Configurable JSON Extensions for Python 
+Originally published: 2016-05-22 19:00:53 
 Last updated: 2016-05-22 19:00:54 
 Author: Michael Blan Palmer 
  

@@ -1,4 +1,5 @@
-## argminOriginally published: 2005-02-25 16:10:13 
+## argmin 
+Originally published: 2005-02-25 16:10:13 
 Last updated: 2005-02-25 16:10:13 
 Author: Peter Norvig 
  

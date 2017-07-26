@@ -1,4 +1,5 @@
-## Restricted dictionaryOriginally published: 2012-02-16 21:23:20 
+## Restricted dictionary 
+Originally published: 2012-02-16 21:23:20 
 Last updated: 2012-02-16 21:39:02 
 Author: arnoques  
  

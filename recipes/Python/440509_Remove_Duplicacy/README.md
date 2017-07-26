@@ -1,4 +1,5 @@
-## Remove Duplicacy from a Python ListOriginally published: 2005-09-02 07:29:36 
+## Remove Duplicacy from a Python List 
+Originally published: 2005-09-02 07:29:36 
 Last updated: 2005-09-02 15:55:14 
 Author: Bibha Tripathi 
  

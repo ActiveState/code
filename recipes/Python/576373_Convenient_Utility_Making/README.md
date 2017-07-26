@@ -1,4 +1,5 @@
-## Convenient Utility for Making DictionariesOriginally published: 2008-07-23 23:55:00 
+## Convenient Utility for Making Dictionaries 
+Originally published: 2008-07-23 23:55:00 
 Last updated: 2008-07-23 23:55:00 
 Author: Andrew Konstantaras 
  

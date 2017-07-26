@@ -1,4 +1,5 @@
-## prompt - simple multiline interactive interpreterOriginally published: 2004-06-01 09:33:12 
+## prompt - simple multiline interactive interpreter 
+Originally published: 2004-06-01 09:33:12 
 Last updated: 2004-06-01 09:33:12 
 Author: Carl Kleffner 
  

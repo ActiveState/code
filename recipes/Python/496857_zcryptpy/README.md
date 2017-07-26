@@ -1,4 +1,5 @@
-## z_crypt.pyOriginally published: 2006-07-03 05:43:24 
+## z_crypt.py 
+Originally published: 2006-07-03 05:43:24 
 Last updated: 2006-07-03 05:43:24 
 Author: Stephen Chappell 
  

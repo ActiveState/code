@@ -1,4 +1,5 @@
-## word wrap long line Java to limited line length with explicit backslashesOriginally published: 2005-09-30 10:45:11 
+## word wrap long line Java to limited line length with explicit backslashes 
+Originally published: 2005-09-30 10:45:11 
 Last updated: 2005-09-30 17:54:57 
 Author: Christopher Morley 
  

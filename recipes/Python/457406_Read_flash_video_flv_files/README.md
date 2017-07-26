@@ -1,4 +1,5 @@
-## Read flash video (.flv files) metadataOriginally published: 2005-11-21 20:48:07 
+## Read flash video (.flv files) metadata 
+Originally published: 2005-11-21 20:48:07 
 Last updated: 2005-11-21 20:48:07 
 Author: Matthew Sherborne 
  

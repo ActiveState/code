@@ -1,4 +1,5 @@
-## Simple scanf-implementationOriginally published: 2007-02-12 10:22:54 
+## Simple scanf-implementation 
+Originally published: 2007-02-12 10:22:54 
 Last updated: 2007-02-12 10:22:54 
 Author: Henning Schroeder 
  

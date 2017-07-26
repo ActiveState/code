@@ -1,4 +1,5 @@
-## Sized DictionaryOriginally published: 2006-06-27 17:45:32 
+## Sized Dictionary 
+Originally published: 2006-06-27 17:45:32 
 Last updated: 2006-07-02 06:22:29 
 Author: James Kassemi 
  

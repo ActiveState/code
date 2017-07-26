@@ -1,4 +1,5 @@
-## Interpret Unicode escape escape sequences written to stdout and stderrOriginally published: 2008-04-16 07:33:05 
+## Interpret Unicode escape escape sequences written to stdout and stderr 
+Originally published: 2008-04-16 07:33:05 
 Last updated: 2008-04-16 14:47:48 
 Author: Nick Coghlan 
  

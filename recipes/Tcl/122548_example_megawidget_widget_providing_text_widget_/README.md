@@ -1,4 +1,5 @@
-## An example mega-widget widget providing a text widget with X and Y scrollbars.Originally published: 2002-04-25 03:43:48 
+## An example mega-widget widget providing a text widget with X and Y scrollbars. 
+Originally published: 2002-04-25 03:43:48 
 Last updated: 2002-04-25 03:43:48 
 Author: Michael Kirkham 
  

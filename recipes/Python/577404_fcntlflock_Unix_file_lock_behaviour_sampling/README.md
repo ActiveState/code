@@ -1,4 +1,5 @@
-## fcntl.flock() (Unix file lock) behaviour sampling scriptOriginally published: 2010-09-22 00:08:15 
+## fcntl.flock() (Unix file lock) behaviour sampling script 
+Originally published: 2010-09-22 00:08:15 
 Last updated: 2010-09-22 00:11:12 
 Author: Jan Kaliszewski 
  

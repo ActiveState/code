@@ -1,4 +1,5 @@
-## Marshalling Python Data into JavascriptOriginally published: 2003-05-20 14:56:08 
+## Marshalling Python Data into Javascript 
+Originally published: 2003-05-20 14:56:08 
 Last updated: 2003-05-20 14:56:08 
 Author: Jacob Smullyan 
  

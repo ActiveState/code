@@ -1,4 +1,5 @@
-## csc prototype to arduino board with python API. part IIOriginally published: 2010-12-26 12:06:26 
+## csc prototype to arduino board with python API. part II 
+Originally published: 2010-12-26 12:06:26 
 Last updated: 2010-12-26 12:20:48 
 Author: cheeng shu chin 
  

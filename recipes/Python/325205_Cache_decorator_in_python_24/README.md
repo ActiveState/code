@@ -1,4 +1,5 @@
-## Cache decorator in python 2.4Originally published: 2004-10-26 14:19:59 
+## Cache decorator in python 2.4 
+Originally published: 2004-10-26 14:19:59 
 Last updated: 2004-11-01 19:11:21 
 Author: George Sakkis 
  

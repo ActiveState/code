@@ -1,4 +1,5 @@
-## One-line 2-D Array TranspositionOriginally published: 2001-10-11 20:15:59 
+## One-line 2-D Array Transposition 
+Originally published: 2001-10-11 20:15:59 
 Last updated: 2001-10-11 20:15:59 
 Author: Steve Holden 
  

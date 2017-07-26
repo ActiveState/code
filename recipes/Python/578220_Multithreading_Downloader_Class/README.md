@@ -1,4 +1,5 @@
-## Multithreading Downloader ClassOriginally published: 2012-07-22 07:44:19 
+## Multithreading Downloader Class 
+Originally published: 2012-07-22 07:44:19 
 Last updated: 2012-07-22 07:44:20 
 Author: Itay Brandes 
  

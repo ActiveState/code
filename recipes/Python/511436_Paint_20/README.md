@@ -1,4 +1,5 @@
-## Paint 2.0Originally published: 2007-03-28 15:30:34 
+## Paint 2.0 
+Originally published: 2007-03-28 15:30:34 
 Last updated: 2007-03-28 15:30:34 
 Author: Stephen Chappell 
  

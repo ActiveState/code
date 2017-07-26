@@ -1,4 +1,5 @@
-## Simple Cached FunctionsOriginally published: 2008-07-19 22:15:47 
+## Simple Cached Functions 
+Originally published: 2008-07-19 22:15:47 
 Last updated: 2008-07-20 19:51:17 
 Author: Justin Shaw 
  

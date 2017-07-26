@@ -1,4 +1,5 @@
-## win32 impersonation  (like sudo on unix)Originally published: 2001-10-12 12:14:15 
+## win32 impersonation  (like sudo on unix) 
+Originally published: 2001-10-12 12:14:15 
 Last updated: 2001-10-12 12:14:15 
 Author: John Nielsen 
  

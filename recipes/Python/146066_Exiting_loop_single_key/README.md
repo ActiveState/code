@@ -1,4 +1,5 @@
-## Exiting a loop with a (single) key pressOriginally published: 2002-08-21 21:08:15 
+## Exiting a loop with a (single) key press 
+Originally published: 2002-08-21 21:08:15 
 Last updated: 2002-08-21 21:08:15 
 Author: Armando Baratti 
  

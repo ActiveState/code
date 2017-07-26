@@ -1,4 +1,5 @@
-## Yet Another Ordered DictionaryOriginally published: 2011-08-07 12:14:56 
+## Yet Another Ordered Dictionary 
+Originally published: 2011-08-07 12:14:56 
 Last updated: 2011-08-07 12:14:56 
 Author: Lucio Santi 
  

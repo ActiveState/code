@@ -1,4 +1,5 @@
-## Color Module (for Windows only)Originally published: 2008-06-01 10:11:47 
+## Color Module (for Windows only) 
+Originally published: 2008-06-01 10:11:47 
 Last updated: 2008-06-01 10:11:47 
 Author: Drew Buckley 
  

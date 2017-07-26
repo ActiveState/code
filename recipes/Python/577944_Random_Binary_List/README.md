@@ -1,4 +1,5 @@
-## Random Binary ListOriginally published: 2011-11-09 19:38:13 
+## Random Binary List 
+Originally published: 2011-11-09 19:38:13 
 Last updated: 2011-11-09 19:38:14 
 Author: Alexander James Wallar 
  

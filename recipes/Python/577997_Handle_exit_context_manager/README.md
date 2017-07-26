@@ -1,4 +1,5 @@
-## Handle exit context managerOriginally published: 2011-12-27 15:04:37 
+## Handle exit context manager 
+Originally published: 2011-12-27 15:04:37 
 Last updated: 2014-08-01 08:28:07 
 Author: Giampaolo Rodolà 
  

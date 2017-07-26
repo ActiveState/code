@@ -1,4 +1,5 @@
-## Viewing embedded pictures within docstringsOriginally published: 2008-10-15 01:27:26 
+## Viewing embedded pictures within docstrings 
+Originally published: 2008-10-15 01:27:26 
 Last updated: 2008-10-15 01:27:26 
 Author: Andre Roberge 
  

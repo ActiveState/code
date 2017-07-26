@@ -1,4 +1,5 @@
-## Alternative to __del__ using weakrefs and metaclassesOriginally published: 2007-05-03 23:57:17 
+## Alternative to __del__ using weakrefs and metaclasses 
+Originally published: 2007-05-03 23:57:17 
 Last updated: 2007-05-03 23:57:17 
 Author: Adam Olsen 
  

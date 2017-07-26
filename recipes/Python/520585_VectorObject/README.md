@@ -1,4 +1,5 @@
-## VectorObjectOriginally published: 2007-05-18 06:16:01 
+## VectorObject 
+Originally published: 2007-05-18 06:16:01 
 Last updated: 2007-05-18 06:16:01 
 Author: Symon Polley 
  

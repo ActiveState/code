@@ -1,4 +1,5 @@
-## Generating combinations of objects from multiple sequencesOriginally published: 2004-08-29 00:32:23 
+## Generating combinations of objects from multiple sequences 
+Originally published: 2004-08-29 00:32:23 
 Last updated: 2004-08-29 00:32:23 
 Author: David Klaffenbach 
  

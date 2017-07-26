@@ -1,4 +1,5 @@
-## XMLMenuLoader creates a wx.MenuBar from an XML definitionOriginally published: 2005-06-22 14:51:08 
+## XMLMenuLoader creates a wx.MenuBar from an XML definition 
+Originally published: 2005-06-22 14:51:08 
 Last updated: 2005-06-22 14:51:08 
 Author: Egor Zindy 
  

@@ -1,4 +1,5 @@
-## COW with DDXOriginally published: 2012-12-07 02:17:19 
+## COW with DDX 
+Originally published: 2012-12-07 02:17:19 
 Last updated: 2012-12-07 02:17:19 
 Author: Stephen Chappell 
  

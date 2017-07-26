@@ -1,4 +1,5 @@
-## Automate performance monitoring via telnet and ftp in a production environmentOriginally published: 2006-10-20 12:42:19 
+## Automate performance monitoring via telnet and ftp in a production environment 
+Originally published: 2006-10-20 12:42:19 
 Last updated: 2006-10-24 23:07:29 
 Author: Victor Yang 
  

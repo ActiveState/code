@@ -1,4 +1,5 @@
-## MarkupStringOriginally published: 2005-02-21 11:45:07 
+## MarkupString 
+Originally published: 2005-02-21 11:45:07 
 Last updated: 2005-02-23 19:17:32 
 Author: Thomas Hinkle 
  

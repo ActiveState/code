@@ -1,4 +1,5 @@
-## ISIN ValidatorOriginally published: 2006-11-21 05:54:06 
+## ISIN Validator 
+Originally published: 2006-11-21 05:54:06 
 Last updated: 2006-11-21 05:54:06 
 Author: Rob Cowie 
  

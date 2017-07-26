@@ -1,4 +1,5 @@
-## Arduino Diecimila Board Access Inside A Linux Bash Shell.Originally published: 2011-03-30 18:08:11 
+## Arduino Diecimila Board Access Inside A Linux Bash Shell. 
+Originally published: 2011-03-30 18:08:11 
 Last updated: 2011-03-30 18:08:11 
 Author: Barry Walker 
  

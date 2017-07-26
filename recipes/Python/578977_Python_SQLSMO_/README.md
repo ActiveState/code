@@ -1,4 +1,5 @@
-## Python SQLSMO Originally published: 2014-12-06 02:48:48 
+## Python SQLSMO  
+Originally published: 2014-12-06 02:48:48 
 Last updated: 2015-03-28 16:58:11 
 Author: Jorge Besada 
  

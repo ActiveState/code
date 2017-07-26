@@ -1,4 +1,5 @@
-## Getting min/max in a sequence greater/less than some valueOriginally published: 2005-05-26 02:48:41 
+## Getting min/max in a sequence greater/less than some value 
+Originally published: 2005-05-26 02:48:41 
 Last updated: 2005-06-01 05:41:42 
 Author: Edvard Majakari 
  

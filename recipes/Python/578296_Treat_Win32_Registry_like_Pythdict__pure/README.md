@@ -1,4 +1,5 @@
-## Treat the Win32 Registry like a Python dict -- pure pythonOriginally published: 2012-10-20 13:54:01 
+## Treat the Win32 Registry like a Python dict -- pure python 
+Originally published: 2012-10-20 13:54:01 
 Last updated: 2012-10-20 13:54:02 
 Author: Grizzly Nyo 
  

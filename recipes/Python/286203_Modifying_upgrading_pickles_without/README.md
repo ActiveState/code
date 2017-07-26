@@ -1,4 +1,5 @@
-## Modifying (upgrading) pickles without instantiating real app objectsOriginally published: 2004-07-07 02:37:53 
+## Modifying (upgrading) pickles without instantiating real app objects 
+Originally published: 2004-07-07 02:37:53 
 Last updated: 2004-07-07 12:22:32 
 Author: Christopher Armstrong 
  

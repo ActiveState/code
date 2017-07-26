@@ -1,4 +1,5 @@
-## HTTPS httplib Client Connection with Certificate ValidationOriginally published: 2011-01-18 18:30:45 
+## HTTPS httplib Client Connection with Certificate Validation 
+Originally published: 2011-01-18 18:30:45 
 Last updated: 2011-01-18 18:30:45 
 Author: Marcelo Fernández 
  

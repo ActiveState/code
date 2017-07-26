@@ -1,4 +1,5 @@
-## Temporary substitution of object in modules via with statementOriginally published: 2010-01-24 04:19:12 
+## Temporary substitution of object in modules via with statement 
+Originally published: 2010-01-24 04:19:12 
 Last updated: 2010-01-24 04:19:12 
 Author: Jacob Oscarson 
  

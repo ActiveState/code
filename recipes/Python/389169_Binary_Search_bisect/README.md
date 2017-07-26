@@ -1,4 +1,5 @@
-## Binary Search with the bisect ModuleOriginally published: 2005-02-22 15:27:36 
+## Binary Search with the bisect Module 
+Originally published: 2005-02-22 15:27:36 
 Last updated: 2005-02-22 15:27:36 
 Author: Chris Perkins 
  

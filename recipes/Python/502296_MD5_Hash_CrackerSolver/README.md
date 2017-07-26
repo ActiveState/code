@@ -1,4 +1,5 @@
-## MD5 Hash Cracker/SolverOriginally published: 2007-03-10 12:28:58 
+## MD5 Hash Cracker/Solver 
+Originally published: 2007-03-10 12:28:58 
 Last updated: 2007-03-10 12:28:58 
 Author: N S 
  

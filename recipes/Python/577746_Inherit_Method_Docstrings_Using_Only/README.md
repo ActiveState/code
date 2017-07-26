@@ -1,4 +1,5 @@
-## Inherit Method Docstrings Using Only Function DecoratorsOriginally published: 2011-06-11 00:52:58 
+## Inherit Method Docstrings Using Only Function Decorators 
+Originally published: 2011-06-11 00:52:58 
 Last updated: 2011-06-26 02:28:55 
 Author: Eric Snow 
  

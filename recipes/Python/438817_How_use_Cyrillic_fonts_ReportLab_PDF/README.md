@@ -1,4 +1,5 @@
-## How to use Cyrillic fonts in ReportLab PDF libraryOriginally published: 2005-08-06 10:02:14 
+## How to use Cyrillic fonts in ReportLab PDF library 
+Originally published: 2005-08-06 10:02:14 
 Last updated: 2005-08-06 10:02:14 
 Author: Yuriy Tkachenko 
  

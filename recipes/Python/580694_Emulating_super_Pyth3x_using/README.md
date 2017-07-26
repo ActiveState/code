@@ -1,4 +1,5 @@
-## Emulating super() in Python 3.x using Python 2.7Originally published: 2016-07-31 04:03:28 
+## Emulating super() in Python 3.x using Python 2.7 
+Originally published: 2016-07-31 04:03:28 
 Last updated: 2016-07-31 04:03:29 
 Author: sunqingyao  
  

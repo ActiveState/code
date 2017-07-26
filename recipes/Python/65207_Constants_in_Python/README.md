@@ -1,4 +1,5 @@
-## Constants in PythonOriginally published: 2001-06-14 12:37:15 
+## Constants in Python 
+Originally published: 2001-06-14 12:37:15 
 Last updated: 2001-08-20 07:12:14 
 Author: Alex Martelli 
  

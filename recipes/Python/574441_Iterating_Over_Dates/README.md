@@ -1,4 +1,5 @@
-## Iterating Over DatesOriginally published: 2008-06-30 07:51:43 
+## Iterating Over Dates 
+Originally published: 2008-06-30 07:51:43 
 Last updated: 2008-06-30 07:51:43 
 Author: Michael Cornelius 
  

@@ -1,4 +1,5 @@
-## Read data from .zip filesOriginally published: 2001-03-14 17:22:33 
+## Read data from .zip files 
+Originally published: 2001-03-14 17:22:33 
 Last updated: 2001-03-14 17:22:33 
 Author: Paul Prescod 
  

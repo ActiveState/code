@@ -1,4 +1,5 @@
-## ReadOnlyPrivateSingletonImplicitThisMetaClassOriginally published: 2010-05-07 05:23:00 
+## ReadOnlyPrivateSingletonImplicitThisMetaClass 
+Originally published: 2010-05-07 05:23:00 
 Last updated: 2010-05-10 08:34:32 
 Author: Chris Jones 
  

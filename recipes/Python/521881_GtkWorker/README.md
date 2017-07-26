@@ -1,4 +1,5 @@
-## GtkWorkerOriginally published: 2007-06-03 09:06:42 
+## GtkWorker 
+Originally published: 2007-06-03 09:06:42 
 Last updated: 2007-06-03 09:06:42 
 Author: Thomas Ahle 
  

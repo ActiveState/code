@@ -1,4 +1,5 @@
-## Priority dictionaryOriginally published: 2002-03-08 22:09:16 
+## Priority dictionary 
+Originally published: 2002-03-08 22:09:16 
 Last updated: 2002-03-08 22:09:16 
 Author: David Eppstein 
  

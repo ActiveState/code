@@ -1,4 +1,5 @@
-## Deeply applying str() across a data structureOriginally published: 2006-11-10 20:31:03 
+## Deeply applying str() across a data structure 
+Originally published: 2006-11-10 20:31:03 
 Last updated: 2006-11-12 03:23:54 
 Author: Danny Yoo 
  

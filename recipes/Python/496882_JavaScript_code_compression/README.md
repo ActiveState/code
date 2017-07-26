@@ -1,4 +1,5 @@
-## JavaScript code compressionOriginally published: 2006-07-13 09:23:32 
+## JavaScript code compression 
+Originally published: 2006-07-13 09:23:32 
 Last updated: 2008-05-04 01:08:24 
 Author: Michael Palmer 
  

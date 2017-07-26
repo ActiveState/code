@@ -1,4 +1,5 @@
-## Good enough templatingOriginally published: 2005-10-02 20:25:37 
+## Good enough templating 
+Originally published: 2005-10-02 20:25:37 
 Last updated: 2005-10-08 22:27:00 
 Author: Kevin Schluff 
  

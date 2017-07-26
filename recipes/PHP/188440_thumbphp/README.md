@@ -1,4 +1,5 @@
-## thumb.phpOriginally published: 2003-03-07 17:18:02 
+## thumb.php 
+Originally published: 2003-03-07 17:18:02 
 Last updated: 2003-03-08 21:42:27 
 Author: Fritz Cizmarov 
  

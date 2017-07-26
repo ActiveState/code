@@ -1,4 +1,5 @@
-## Table (FedTable)Originally published: 2006-05-19 00:59:03 
+## Table (FedTable) 
+Originally published: 2006-05-19 00:59:03 
 Last updated: 2006-05-19 00:59:03 
 Author: Federico Garcia Jr. 
  

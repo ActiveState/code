@@ -1,4 +1,5 @@
-## CLOS-like around/before/after auxiliary methodsOriginally published: 2011-08-25 22:41:10 
+## CLOS-like around/before/after auxiliary methods 
+Originally published: 2011-08-25 22:41:10 
 Last updated: 2011-08-25 22:59:22 
 Author: Jan Kaliszewski 
  

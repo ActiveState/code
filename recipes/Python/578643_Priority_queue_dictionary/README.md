@@ -1,4 +1,5 @@
-## Priority queue dictionaryOriginally published: 2013-08-18 07:45:01 
+## Priority queue dictionary 
+Originally published: 2013-08-18 07:45:01 
 Last updated: 2013-08-25 00:23:12 
 Author: Nezar Abdennur 
  

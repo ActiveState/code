@@ -1,4 +1,5 @@
-## MySQL-based forum functionsOriginally published: 2007-06-08 08:43:19 
+## MySQL-based forum functions 
+Originally published: 2007-06-08 08:43:19 
 Last updated: 2007-06-08 08:43:19 
 Author: Calder Coalson 
  

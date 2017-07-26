@@ -1,4 +1,5 @@
-## Use generators for fetching large db record setsOriginally published: 2002-07-02 07:02:51 
+## Use generators for fetching large db record sets 
+Originally published: 2002-07-02 07:02:51 
 Last updated: 2010-02-10 10:47:53 
 Author: Christopher Prinos 
  

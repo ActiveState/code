@@ -1,4 +1,5 @@
-## Scramble a string of words, preserving spacesOriginally published: 2010-06-25 20:44:04 
+## Scramble a string of words, preserving spaces 
+Originally published: 2010-06-25 20:44:04 
 Last updated: 2010-06-25 20:44:04 
 Author: Kai Mallea 
  

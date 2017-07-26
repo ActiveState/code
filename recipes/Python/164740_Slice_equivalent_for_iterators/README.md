@@ -1,4 +1,5 @@
-## Slice equivalent for iterators.Originally published: 2002-11-29 05:39:23 
+## Slice equivalent for iterators. 
+Originally published: 2002-11-29 05:39:23 
 Last updated: 2002-11-29 05:39:23 
 Author: Sébastien Keim 
  

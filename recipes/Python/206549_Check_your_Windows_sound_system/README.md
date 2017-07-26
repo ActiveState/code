@@ -1,4 +1,5 @@
-## Check your Windows sound systemOriginally published: 2003-06-20 04:17:38 
+## Check your Windows sound system 
+Originally published: 2003-06-20 04:17:38 
 Last updated: 2003-06-20 04:17:38 
 Author: Anand  
  

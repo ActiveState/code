@@ -1,4 +1,5 @@
-## ctype Enumeration classOriginally published: 2008-08-10 16:45:46 
+## ctype Enumeration class 
+Originally published: 2008-08-10 16:45:46 
 Last updated: 2008-08-10 16:45:46 
 Author: Devan L Devan L 
  

@@ -1,4 +1,5 @@
-## Weighted random choiceOriginally published: 2008-07-22 06:11:19 
+## Weighted random choice 
+Originally published: 2008-07-22 06:11:19 
 Last updated: 2008-07-22 06:11:19 
 Author: Facundo Batista 
  

@@ -1,4 +1,5 @@
-## Simple md5 sum utilityOriginally published: 2004-01-30 07:38:46 
+## Simple md5 sum utility 
+Originally published: 2004-01-30 07:38:46 
 Last updated: 2004-01-30 07:38:46 
 Author: Nick Vargish 
  

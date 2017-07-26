@@ -1,4 +1,5 @@
-## filetail.pyOriginally published: 2005-07-12 11:41:30 
+## filetail.py 
+Originally published: 2005-07-12 11:41:30 
 Last updated: 2005-07-12 11:41:30 
 Author: Jonathan Moore 
  

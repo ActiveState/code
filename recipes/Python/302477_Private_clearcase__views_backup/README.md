@@ -1,4 +1,5 @@
-## Private clearcase  views backup.Originally published: 2004-08-28 23:39:13 
+## Private clearcase  views backup. 
+Originally published: 2004-08-28 23:39:13 
 Last updated: 2004-08-28 23:39:13 
 Author: Luigi Poderico 
  

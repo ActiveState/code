@@ -1,4 +1,5 @@
-## Countdown TimerOriginally published: 2012-12-06 03:24:34 
+## Countdown Timer 
+Originally published: 2012-12-06 03:24:34 
 Last updated: 2012-12-06 03:24:35 
 Author: Stephen Chappell 
  

@@ -1,4 +1,5 @@
-## Using ODBC for extracting data from MS ExcelOriginally published: 2003-10-10 08:02:57 
+## Using ODBC for extracting data from MS Excel 
+Originally published: 2003-10-10 08:02:57 
 Last updated: 2003-10-11 17:17:11 
 Author: Zabil CM 
  

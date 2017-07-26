@@ -1,4 +1,5 @@
-## Properties with value checking with the option to use FormEncode validators.Originally published: 2008-04-15 04:22:03 
+## Properties with value checking with the option to use FormEncode validators. 
+Originally published: 2008-04-15 04:22:03 
 Last updated: 2008-04-19 11:22:13 
 Author: Markus Juenemann 
  

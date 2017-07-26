@@ -1,4 +1,5 @@
-## Singleton? We don't need no stinkin' singleton: the Borg design patternOriginally published: 2001-08-17 07:42:57 
+## Singleton? We don't need no stinkin' singleton: the Borg design pattern 
+Originally published: 2001-08-17 07:42:57 
 Last updated: 2001-08-27 08:05:21 
 Author: Alex Martelli 
  

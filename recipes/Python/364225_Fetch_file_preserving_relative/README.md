@@ -1,4 +1,5 @@
-## Fetch a file preserving relative pathOriginally published: 2005-01-23 04:41:42 
+## Fetch a file preserving relative path 
+Originally published: 2005-01-23 04:41:42 
 Last updated: 2005-01-23 04:41:42 
 Author: Artur de Sousa Rocha 
  

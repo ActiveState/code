@@ -1,4 +1,5 @@
-## BlackjackOriginally published: 2007-06-25 12:23:47 
+## Blackjack 
+Originally published: 2007-06-25 12:23:47 
 Last updated: 2007-06-25 12:23:47 
 Author: Mike McGowan 
  

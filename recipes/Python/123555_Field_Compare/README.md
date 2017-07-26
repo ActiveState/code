@@ -1,4 +1,5 @@
-## Field CompareOriginally published: 2002-04-27 02:32:53 
+## Field Compare 
+Originally published: 2002-04-27 02:32:53 
 Last updated: 2002-04-27 02:32:53 
 Author: Henk Punt 
  

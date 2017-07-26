@@ -1,4 +1,5 @@
-## Dumping and loading variables in ascii formatOriginally published: 2004-06-28 11:32:57 
+## Dumping and loading variables in ascii format 
+Originally published: 2004-06-28 11:32:57 
 Last updated: 2004-07-22 18:07:39 
 Author: Karthikesh Raju 
  

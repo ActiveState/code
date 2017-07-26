@@ -1,4 +1,5 @@
-## binding main skript and modules to one executable with python-2.3 under UNIXOriginally published: 2003-08-11 05:44:03 
+## binding main skript and modules to one executable with python-2.3 under UNIX 
+Originally published: 2003-08-11 05:44:03 
 Last updated: 2003-08-11 05:44:03 
 Author: Joerg Raedler 
  

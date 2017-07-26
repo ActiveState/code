@@ -1,4 +1,5 @@
-## Abstract method decoratorOriginally published: 2011-04-19 00:11:43 
+## Abstract method decorator 
+Originally published: 2011-04-19 00:11:43 
 Last updated: 2011-04-20 21:50:23 
 Author: jimmy2times  
  

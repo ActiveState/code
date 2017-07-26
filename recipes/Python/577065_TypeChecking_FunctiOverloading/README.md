@@ -1,4 +1,5 @@
-## Type-Checking Function Overloading DecoratorOriginally published: 2010-02-23 15:17:36 
+## Type-Checking Function Overloading Decorator 
+Originally published: 2010-02-23 15:17:36 
 Last updated: 2010-04-11 11:16:48 
 Author: Ryan Lie 
  

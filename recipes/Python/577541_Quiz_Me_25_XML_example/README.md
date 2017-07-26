@@ -1,4 +1,5 @@
-## Quiz Me 2.5 (XML example)Originally published: 2011-01-11 00:36:56 
+## Quiz Me 2.5 (XML example) 
+Originally published: 2011-01-11 00:36:56 
 Last updated: 2011-01-11 00:51:24 
 Author: Stephen Chappell 
  

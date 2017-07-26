@@ -1,4 +1,5 @@
-## How to freeze Python classesOriginally published: 2003-11-20 23:08:39 
+## How to freeze Python classes 
+Originally published: 2003-11-20 23:08:39 
 Last updated: 2003-11-20 23:08:39 
 Author: Michele Simionato 
  

@@ -1,4 +1,5 @@
-## Play a Sound File in Python using PyGameOriginally published: 2013-01-08 18:08:55 
+## Play a Sound File in Python using PyGame 
+Originally published: 2013-01-08 18:08:55 
 Last updated: 2013-01-08 18:08:55 
 Author: Captain DeadBones 
  

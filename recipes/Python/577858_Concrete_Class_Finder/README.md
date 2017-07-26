@@ -1,4 +1,5 @@
-## Concrete Class FinderOriginally published: 2011-08-24 05:29:14 
+## Concrete Class Finder 
+Originally published: 2011-08-24 05:29:14 
 Last updated: 2011-08-24 05:29:15 
 Author: Lucio Santi 
  

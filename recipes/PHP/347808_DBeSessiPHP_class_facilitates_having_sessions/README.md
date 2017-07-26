@@ -1,4 +1,5 @@
-## DB_eSession PHP class facilitates having sessions stored in a MySQL database.Originally published: 2004-11-28 22:16:52 
+## DB_eSession PHP class facilitates having sessions stored in a MySQL database. 
+Originally published: 2004-11-28 22:16:52 
 Last updated: 2004-11-28 22:16:52 
 Author: Lawrence O 
  

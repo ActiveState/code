@@ -1,4 +1,5 @@
-## Bouncing Ball SimulationOriginally published: 2007-02-20 19:04:03 
+## Bouncing Ball Simulation 
+Originally published: 2007-02-20 19:04:03 
 Last updated: 2007-02-20 19:04:03 
 Author: Stephen Chappell 
  

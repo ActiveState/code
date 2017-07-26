@@ -1,4 +1,5 @@
-## Use frame inspection to simplify template usageOriginally published: 2005-10-10 10:08:19 
+## Use frame inspection to simplify template usage 
+Originally published: 2005-10-10 10:08:19 
 Last updated: 2005-10-12 06:34:40 
 Author: Nicolas Lehuen 
  

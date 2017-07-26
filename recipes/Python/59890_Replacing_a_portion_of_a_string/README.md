@@ -1,4 +1,5 @@
-## Replacing a portion of a stringOriginally published: 2001-06-04 15:06:10 
+## Replacing a portion of a string 
+Originally published: 2001-06-04 15:06:10 
 Last updated: 2001-06-21 09:35:10 
 Author: Hamish Lawson 
  

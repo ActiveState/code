@@ -1,4 +1,5 @@
-## Yet Another NamedTupleOriginally published: 2014-08-02 02:56:11 
+## Yet Another NamedTuple 
+Originally published: 2014-08-02 02:56:11 
 Last updated: 2014-08-02 02:56:12 
 Author: Steven D'Aprano 
  

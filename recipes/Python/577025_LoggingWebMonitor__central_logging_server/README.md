@@ -1,4 +1,5 @@
-## LoggingWebMonitor - a central logging server and monitor.Originally published: 2010-02-02 00:20:13 
+## LoggingWebMonitor - a central logging server and monitor. 
+Originally published: 2010-02-02 00:20:13 
 Last updated: 2010-02-02 01:56:42 
 Author: Gabriel Genellina 
  

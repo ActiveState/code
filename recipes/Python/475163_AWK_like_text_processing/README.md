@@ -1,4 +1,5 @@
-## AWK like text processingOriginally published: 2006-03-22 11:03:55 
+## AWK like text processing 
+Originally published: 2006-03-22 11:03:55 
 Last updated: 2006-03-22 19:06:35 
 Author: Ian Bygrave 
  

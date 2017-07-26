@@ -1,4 +1,5 @@
-## Find Multiple Elements In a ListOriginally published: 2011-11-05 23:40:41 
+## Find Multiple Elements In a List 
+Originally published: 2011-11-05 23:40:41 
 Last updated: 2011-11-05 23:40:41 
 Author: Alexander James Wallar 
  

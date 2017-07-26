@@ -1,4 +1,5 @@
-## Sticky windowOriginally published: 2013-12-16 17:10:25 
+## Sticky window 
+Originally published: 2013-12-16 17:10:25 
 Last updated: 2013-12-16 17:10:25 
 Author: winand  
  

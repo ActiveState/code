@@ -1,4 +1,5 @@
-## win32com - Accessing AutoCAD entitiesOriginally published: 2005-08-30 13:48:52 
+## win32com - Accessing AutoCAD entities 
+Originally published: 2005-08-30 13:48:52 
 Last updated: 2005-08-30 13:48:52 
 Author: Ed Blake 
  

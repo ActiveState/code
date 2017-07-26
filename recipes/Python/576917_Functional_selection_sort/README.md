@@ -1,4 +1,5 @@
-## Functional selection sortOriginally published: 2009-09-29 13:13:52 
+## Functional selection sort 
+Originally published: 2009-09-29 13:13:52 
 Last updated: 2009-09-29 13:34:35 
 Author: pavel  
  

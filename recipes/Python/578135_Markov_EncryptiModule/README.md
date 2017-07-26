@@ -1,4 +1,5 @@
-## Markov Encryption Module (for Python 2.5)Originally published: 2012-05-16 02:57:44 
+## Markov Encryption Module (for Python 2.5) 
+Originally published: 2012-05-16 02:57:44 
 Last updated: 2012-07-25 22:33:03 
 Author: Stephen Chappell 
  

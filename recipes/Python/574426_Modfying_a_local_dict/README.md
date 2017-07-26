@@ -1,4 +1,5 @@
-## Modfying a local __dict__Originally published: 2008-06-25 10:00:10 
+## Modfying a local __dict__ 
+Originally published: 2008-06-25 10:00:10 
 Last updated: 2008-06-25 10:00:10 
 Author: Oleg Sidorkin 
  

@@ -1,4 +1,5 @@
-## Query whether an interface is up on UNIXOriginally published: 2001-07-05 16:24:30 
+## Query whether an interface is up on UNIX 
+Originally published: 2001-07-05 16:24:30 
 Last updated: 2001-07-05 16:24:30 
 Author: Jürgen Hermann 
  

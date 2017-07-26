@@ -1,4 +1,5 @@
-## Morse Code Generator in PythonOriginally published: 2013-01-08 18:04:33 
+## Morse Code Generator in Python 
+Originally published: 2013-01-08 18:04:33 
 Last updated: 2013-01-08 18:04:34 
 Author: Captain DeadBones 
  

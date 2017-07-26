@@ -1,4 +1,5 @@
-## Lazy module importsOriginally published: 2006-02-13 13:26:00 
+## Lazy module imports 
+Originally published: 2006-02-13 13:26:00 
 Last updated: 2006-02-14 18:51:46 
 Author: David Christian 
  

@@ -1,4 +1,5 @@
-## PyQt4 pressed modifier keys names as method argument by a decorator Originally published: 2013-09-25 15:41:17 
+## PyQt4 pressed modifier keys names as method argument by a decorator  
+Originally published: 2013-09-25 15:41:17 
 Last updated: 2013-09-29 14:13:04 
 Author: TNT  
  

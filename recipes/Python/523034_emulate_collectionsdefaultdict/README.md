@@ -1,4 +1,5 @@
-## emulate collections.defaultdictOriginally published: 2007-07-09 14:15:39 
+## emulate collections.defaultdict 
+Originally published: 2007-07-09 14:15:39 
 Last updated: 2007-07-09 14:15:39 
 Author: Jason Kirtland 
  

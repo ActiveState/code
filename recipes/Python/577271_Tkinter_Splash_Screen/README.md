@@ -1,4 +1,5 @@
-## Tkinter Splash ScreenOriginally published: 2010-06-21 18:08:03 
+## Tkinter Splash Screen 
+Originally published: 2010-06-21 18:08:03 
 Last updated: 2010-06-21 18:09:06 
 Author: Sunjay Varma 
  

@@ -1,4 +1,5 @@
-## Amazon SNS handler for the logging moduleOriginally published: 2014-11-06 17:29:23 
+## Amazon SNS handler for the logging module 
+Originally published: 2014-11-06 17:29:23 
 Last updated: 2014-11-06 17:32:26 
 Author: Andrea Corbellini 
  

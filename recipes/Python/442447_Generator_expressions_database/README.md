@@ -1,4 +1,5 @@
-## Generator expressions for database requestsOriginally published: 2005-10-18 12:21:33 
+## Generator expressions for database requests 
+Originally published: 2005-10-18 12:21:33 
 Last updated: 2005-10-18 12:21:33 
 Author: Pierre Quentel 
  

@@ -1,4 +1,5 @@
-## QGIS startup script: Change display of coordinatesOriginally published: 2013-10-19 14:11:11 
+## QGIS startup script: Change display of coordinates 
+Originally published: 2013-10-19 14:11:11 
 Last updated: 2015-01-11 10:53:38 
 Author: redoute  
  

@@ -1,4 +1,5 @@
-## Exectute shell command on Remote *nix machineOriginally published: 2008-07-18 02:20:22 
+## Exectute shell command on Remote *nix machine 
+Originally published: 2008-07-18 02:20:22 
 Last updated: 2008-07-18 02:20:22 
 Author: winterTTr Dong 
  

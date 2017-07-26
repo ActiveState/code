@@ -1,4 +1,5 @@
-## Extending python with prolog syntax *and resolution*Originally published: 2004-12-24 09:38:33 
+## Extending python with prolog syntax *and resolution* 
+Originally published: 2004-12-24 09:38:33 
 Last updated: 2004-12-24 17:46:14 
 Author: Francisco Coelho 
  

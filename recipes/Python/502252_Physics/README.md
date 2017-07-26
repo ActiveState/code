@@ -1,4 +1,5 @@
-## PhysicsOriginally published: 2007-02-23 17:18:03 
+## Physics 
+Originally published: 2007-02-23 17:18:03 
 Last updated: 2007-02-23 17:18:03 
 Author: Stephen Chappell 
  

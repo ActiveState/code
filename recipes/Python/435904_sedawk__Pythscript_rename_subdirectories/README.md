@@ -1,4 +1,5 @@
-## sed/awk : Python script to rename subdirectories of a directory tree, replace strings in filesOriginally published: 2005-07-05 12:33:51 
+## sed/awk : Python script to rename subdirectories of a directory tree, replace strings in files 
+Originally published: 2005-07-05 12:33:51 
 Last updated: 2005-07-05 12:33:51 
 Author: Bibha Tripathi 
  

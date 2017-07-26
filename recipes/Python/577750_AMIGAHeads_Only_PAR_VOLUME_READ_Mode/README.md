@@ -1,4 +1,5 @@
-## For AMIGA-Heads Only. PAR: As A VOLUME In READ Mode Only.Originally published: 2011-06-12 16:34:11 
+## For AMIGA-Heads Only. PAR: As A VOLUME In READ Mode Only. 
+Originally published: 2011-06-12 16:34:11 
 Last updated: 2011-06-12 16:34:12 
 Author: Barry Walker 
  

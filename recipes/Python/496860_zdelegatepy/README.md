@@ -1,4 +1,5 @@
-## z_delegate.pyOriginally published: 2006-07-05 09:12:34 
+## z_delegate.py 
+Originally published: 2006-07-05 09:12:34 
 Last updated: 2006-07-05 09:12:34 
 Author: Stephen Chappell 
  

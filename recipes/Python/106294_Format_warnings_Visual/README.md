@@ -1,4 +1,5 @@
-## Format warnings for Visual StudioOriginally published: 2002-01-08 11:20:19 
+## Format warnings for Visual Studio 
+Originally published: 2002-01-08 11:20:19 
 Last updated: 2002-01-08 11:20:19 
 Author: Jason Orendorff 
  

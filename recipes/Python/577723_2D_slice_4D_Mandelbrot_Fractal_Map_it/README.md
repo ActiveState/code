@@ -1,4 +1,5 @@
-## 2D slice of 4D Mandelbrot Fractal and Map it in 3DOriginally published: 2011-05-26 10:57:38 
+## 2D slice of 4D Mandelbrot Fractal and Map it in 3D 
+Originally published: 2011-05-26 10:57:38 
 Last updated: 2011-05-26 10:57:39 
 Author: Derek Harrison 
  

@@ -1,4 +1,5 @@
-## Property wrapperOriginally published: 2007-02-21 10:15:20 
+## Property wrapper 
+Originally published: 2007-02-21 10:15:20 
 Last updated: 2010-07-20 14:30:30 
 Author: Louis RIVIERE 
  

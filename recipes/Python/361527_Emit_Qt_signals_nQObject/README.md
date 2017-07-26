@@ -1,4 +1,5 @@
-## Emit Qt signals from a non QObject typeOriginally published: 2005-01-02 01:32:13 
+## Emit Qt signals from a non QObject type 
+Originally published: 2005-01-02 01:32:13 
 Last updated: 2005-01-02 11:20:43 
 Author: Tom Dossis 
  

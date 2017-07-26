@@ -1,4 +1,5 @@
-## Encoding Unicode data for XML and HTMLOriginally published: 2004-09-07 08:07:56 
+## Encoding Unicode data for XML and HTML 
+Originally published: 2004-09-07 08:07:56 
 Last updated: 2004-09-08 13:57:04 
 Author: David Goodger 
  

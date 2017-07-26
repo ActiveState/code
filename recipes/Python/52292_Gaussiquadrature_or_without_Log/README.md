@@ -1,4 +1,5 @@
-## Gaussian quadrature with or without Log singularityOriginally published: 2001-03-21 10:02:08 
+## Gaussian quadrature with or without Log singularity 
+Originally published: 2001-03-21 10:02:08 
 Last updated: 2001-04-05 20:31:05 
 Author: Alexander Pletzer 
  

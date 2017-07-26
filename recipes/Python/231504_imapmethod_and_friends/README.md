@@ -1,4 +1,5 @@
-## imapmethod and friendsOriginally published: 2003-10-31 08:03:07 
+## imapmethod and friends 
+Originally published: 2003-10-31 08:03:07 
 Last updated: 2003-10-31 08:03:07 
 Author: Michael Hoffman 
  

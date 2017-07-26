@@ -1,4 +1,5 @@
-## Eight Queens using GeneratorOriginally published: 2006-02-04 00:29:35 
+## Eight Queens using Generator 
+Originally published: 2006-02-04 00:29:35 
 Last updated: 2006-02-04 00:29:35 
 Author: Shalabh Chaturvedi 
  

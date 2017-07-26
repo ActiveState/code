@@ -1,4 +1,5 @@
-## Python Immutable Enumerations Using Duck PunchingOriginally published: 2012-10-18 19:41:21 
+## Python Immutable Enumerations Using Duck Punching 
+Originally published: 2012-10-18 19:41:21 
 Last updated: 2012-10-18 19:41:22 
 Author: Josh Friend 
  

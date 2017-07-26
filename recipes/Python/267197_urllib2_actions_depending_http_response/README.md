@@ -1,4 +1,5 @@
-## urllib2 for actions depending on http response codesOriginally published: 2004-02-07 13:34:32 
+## urllib2 for actions depending on http response codes 
+Originally published: 2004-02-07 13:34:32 
 Last updated: 2004-02-07 13:34:32 
 Author: Lee Harr 
  

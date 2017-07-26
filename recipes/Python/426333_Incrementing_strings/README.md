@@ -1,4 +1,5 @@
-## Incrementing stringsOriginally published: 2005-06-22 02:04:48 
+## Incrementing strings 
+Originally published: 2005-06-22 02:04:48 
 Last updated: 2005-06-22 02:04:48 
 Author: Simon Brunning 
  

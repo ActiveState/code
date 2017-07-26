@@ -1,4 +1,5 @@
-## A foldable panel with a Windows XP look and feel (wxPython)Originally published: 2006-08-02 02:55:40 
+## A foldable panel with a Windows XP look and feel (wxPython) 
+Originally published: 2006-08-02 02:55:40 
 Last updated: 2006-08-02 02:55:40 
 Author: Egor Zindy 
  

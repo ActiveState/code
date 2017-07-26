@@ -1,4 +1,5 @@
-## Experiment with Kaprekar's routineOriginally published: 2011-06-12 02:25:35 
+## Experiment with Kaprekar's routine 
+Originally published: 2011-06-12 02:25:35 
 Last updated: 2011-06-12 03:29:01 
 Author: Raymond Hettinger 
  

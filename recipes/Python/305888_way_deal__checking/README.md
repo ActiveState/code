@@ -1,4 +1,5 @@
-## A way to deal with  checking for typesOriginally published: 2004-09-25 10:29:57 
+## A way to deal with  checking for types 
+Originally published: 2004-09-25 10:29:57 
 Last updated: 2004-09-28 11:17:30 
 Author: John Nielsen 
  

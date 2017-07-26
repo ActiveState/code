@@ -1,4 +1,5 @@
-## VSS Integration ModuleOriginally published: 2006-02-13 07:14:10 
+## VSS Integration Module 
+Originally published: 2006-02-13 07:14:10 
 Last updated: 2006-02-13 07:14:10 
 Author: Tim Watson 
  

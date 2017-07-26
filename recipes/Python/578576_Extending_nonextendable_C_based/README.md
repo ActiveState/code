@@ -1,4 +1,5 @@
-## Extending non-extendable C++ based Python classesOriginally published: 2013-06-20 17:22:11 
+## Extending non-extendable C++ based Python classes 
+Originally published: 2013-06-20 17:22:11 
 Last updated: 2013-07-18 10:02:59 
 Author: Ahmet Emre Aladağ 
  

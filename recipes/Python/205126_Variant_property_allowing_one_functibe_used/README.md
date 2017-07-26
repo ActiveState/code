@@ -1,4 +1,5 @@
-## Variant of property() allowing one function to be used for multiple attributes.Originally published: 2003-06-12 07:43:06 
+## Variant of property() allowing one function to be used for multiple attributes. 
+Originally published: 2003-06-12 07:43:06 
 Last updated: 2003-06-12 07:43:06 
 Author: Raymond Hettinger 
  

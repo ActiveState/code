@@ -1,4 +1,5 @@
-## Inline GIF image into codeOriginally published: 2002-03-18 13:47:20 
+## Inline GIF image into code 
+Originally published: 2002-03-18 13:47:20 
 Last updated: 2002-03-18 13:47:20 
 Author: Jeff Hobbs 
  

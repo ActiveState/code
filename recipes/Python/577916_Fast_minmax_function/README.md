@@ -1,4 +1,5 @@
-## Fast min/max functionOriginally published: 2011-10-22 18:40:32 
+## Fast min/max function 
+Originally published: 2011-10-22 18:40:32 
 Last updated: 2011-10-22 18:40:32 
 Author: Raymond Hettinger 
  

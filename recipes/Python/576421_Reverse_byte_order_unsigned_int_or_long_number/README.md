@@ -1,4 +1,5 @@
-## Reverse the byte order of an unsigned 'int' or 'long' number in PythonOriginally published: 2008-08-14 01:43:14 
+## Reverse the byte order of an unsigned 'int' or 'long' number in Python 
+Originally published: 2008-08-14 01:43:14 
 Last updated: 2008-08-15 14:03:30 
 Author: Vishal Sapre 
  

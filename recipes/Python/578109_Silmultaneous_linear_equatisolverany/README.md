@@ -1,4 +1,5 @@
-## Silmultaneous linear equation solver(any order)Originally published: 2012-04-24 12:29:30 
+## Silmultaneous linear equation solver(any order) 
+Originally published: 2012-04-24 12:29:30 
 Last updated: 2012-04-24 12:29:30 
 Author: Sachin Joglekar 
  

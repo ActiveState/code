@@ -1,4 +1,5 @@
-## Handling Deeply Nested/Recursive DataOriginally published: 2004-08-29 19:18:24 
+## Handling Deeply Nested/Recursive Data 
+Originally published: 2004-08-29 19:18:24 
 Last updated: 2006-04-26 06:15:08 
 Author: Simon Burton 
  

@@ -1,4 +1,5 @@
-## Sieve of Eratosthenes (Prime Generator)Originally published: 2011-11-27 08:27:25 
+## Sieve of Eratosthenes (Prime Generator) 
+Originally published: 2011-11-27 08:27:25 
 Last updated: 2011-11-27 08:27:25 
 Author: Assil Ksiksi 
  

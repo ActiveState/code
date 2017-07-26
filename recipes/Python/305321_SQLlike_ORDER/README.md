@@ -1,4 +1,5 @@
-## SQL-like ORDER BY function for listsOriginally published: 2004-09-22 07:52:31 
+## SQL-like ORDER BY function for lists 
+Originally published: 2004-09-22 07:52:31 
 Last updated: 2004-09-22 07:52:31 
 Author: Steve Lucy 
  

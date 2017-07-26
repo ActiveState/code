@@ -1,4 +1,5 @@
-## ironpython script to Monitor Servers internal CPU temprature using WMI MSAcpi_ThermalZoneTemperature with e-mail alerting capabilityOriginally published: 2010-03-12 05:25:51 
+## ironpython script to Monitor Servers internal CPU temprature using WMI MSAcpi_ThermalZoneTemperature with e-mail alerting capability 
+Originally published: 2010-03-12 05:25:51 
 Last updated: 2010-03-12 05:25:52 
 Author: mgarrana Garrana 
  

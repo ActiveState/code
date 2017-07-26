@@ -1,4 +1,5 @@
-## Find and replace string in all files in a directoryOriginally published: 2004-04-12 05:56:11 
+## Find and replace string in all files in a directory 
+Originally published: 2004-04-12 05:56:11 
 Last updated: 2004-04-12 05:56:11 
 Author: Anthony Barker 
  

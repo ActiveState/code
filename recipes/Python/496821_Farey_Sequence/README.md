@@ -1,4 +1,5 @@
-## Farey SequenceOriginally published: 2006-06-24 12:38:55 
+## Farey Sequence 
+Originally published: 2006-06-24 12:38:55 
 Last updated: 2006-06-24 12:38:55 
 Author: James Kassemi 
  

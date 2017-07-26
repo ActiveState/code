@@ -1,4 +1,5 @@
-## Recursively querying for registry subkeysOriginally published: 2009-07-28 03:13:53 
+## Recursively querying for registry subkeys 
+Originally published: 2009-07-28 03:13:53 
 Last updated: 2009-07-28 03:23:29 
 Author: Heinz Hermann 
  

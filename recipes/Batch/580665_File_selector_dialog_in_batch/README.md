@@ -1,4 +1,5 @@
-## File selector dialog in batchOriginally published: 2016-05-25 12:58:05 
+## File selector dialog in batch 
+Originally published: 2016-05-25 12:58:05 
 Last updated: 2017-03-27 13:20:41 
 Author: Antoni Gual 
  

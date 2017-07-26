@@ -1,4 +1,5 @@
-## "tail -f" with inode monitorOriginally published: 2010-09-21 07:34:35 
+## "tail -f" with inode monitor 
+Originally published: 2010-09-21 07:34:35 
 Last updated: 2010-09-21 07:37:38 
 Author: Denis Barmenkov 
  

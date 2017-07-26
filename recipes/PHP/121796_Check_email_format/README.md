@@ -1,4 +1,5 @@
-## Check email formatOriginally published: 2002-04-20 16:41:36 
+## Check email format 
+Originally published: 2002-04-20 16:41:36 
 Last updated: 2002-04-20 16:41:36 
 Author: Steve Belanger 
  

@@ -1,4 +1,5 @@
-## Simple BBCode SupportOriginally published: 2009-07-04 18:39:06 
+## Simple BBCode Support 
+Originally published: 2009-07-04 18:39:06 
 Last updated: 2009-07-04 20:03:55 
 Author: Stephen Chappell 
  

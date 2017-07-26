@@ -1,4 +1,5 @@
-## New Version: GUI PDF Table of Contents Editor using fitz / MuPDF, wxPythonOriginally published: 2016-03-16 08:42:33 
+## New Version: GUI PDF Table of Contents Editor using fitz / MuPDF, wxPython 
+Originally published: 2016-03-16 08:42:33 
 Last updated: 2016-06-22 11:34:20 
 Author: Harald Lieder 
  

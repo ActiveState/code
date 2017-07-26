@@ -1,4 +1,5 @@
-## The Game of Tic Tac Toe in PythonOriginally published: 2014-01-31 02:39:48 
+## The Game of Tic Tac Toe in Python 
+Originally published: 2014-01-31 02:39:48 
 Last updated: 2014-01-31 02:39:48 
 Author: Captain DeadBones 
  

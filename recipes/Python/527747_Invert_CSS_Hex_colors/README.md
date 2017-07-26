@@ -1,4 +1,5 @@
-## Invert CSS Hex colorsOriginally published: 2007-08-09 17:04:07 
+## Invert CSS Hex colors 
+Originally published: 2007-08-09 17:04:07 
 Last updated: 2007-08-09 17:04:07 
 Author: rodrigo culagovski 
  

@@ -1,4 +1,5 @@
-## Yet another Python implementation of PEP 380 (yield from)Originally published: 2010-03-26 19:46:29 
+## Yet another Python implementation of PEP 380 (yield from) 
+Originally published: 2010-03-26 19:46:29 
 Last updated: 2010-04-25 23:08:07 
 Author: Arnau Sanchez 
  

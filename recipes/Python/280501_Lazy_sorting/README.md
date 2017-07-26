@@ -1,4 +1,5 @@
-## Lazy sortingOriginally published: 2004-04-27 14:57:34 
+## Lazy sorting 
+Originally published: 2004-04-27 14:57:34 
 Last updated: 2004-05-03 12:30:10 
 Author: Matteo Dell'Amico 
  

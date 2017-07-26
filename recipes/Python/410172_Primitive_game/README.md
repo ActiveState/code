@@ -1,4 +1,5 @@
-## Primitive gameOriginally published: 2005-04-17 22:26:35 
+## Primitive game 
+Originally published: 2005-04-17 22:26:35 
 Last updated: 2005-04-17 22:26:35 
 Author: DR#m not 
  

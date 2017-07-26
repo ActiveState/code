@@ -1,4 +1,5 @@
-## Non-exponential floating point representationOriginally published: 2004-12-13 04:30:15 
+## Non-exponential floating point representation 
+Originally published: 2004-12-13 04:30:15 
 Last updated: 2004-12-13 13:59:11 
 Author: Raymond Hettinger 
  

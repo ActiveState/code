@@ -1,4 +1,5 @@
-## Decorator for main methodOriginally published: 2006-12-18 09:47:06 
+## Decorator for main method 
+Originally published: 2006-12-18 09:47:06 
 Last updated: 2006-12-18 09:47:06 
 Author: Matt Wallace 
  

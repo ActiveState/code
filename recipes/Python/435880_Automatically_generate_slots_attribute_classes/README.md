@@ -1,4 +1,5 @@
-## Automatically generate __slots__ attribute for classes and assign attributes on instancesOriginally published: 2005-07-02 11:20:32 
+## Automatically generate __slots__ attribute for classes and assign attributes on instances 
+Originally published: 2005-07-02 11:20:32 
 Last updated: 2005-07-02 20:03:32 
 Author: Josiah Carlson 
  

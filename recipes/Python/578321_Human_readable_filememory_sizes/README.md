@@ -1,4 +1,5 @@
-## Human readable file/memory sizesOriginally published: 2012-11-04 10:27:00 
+## Human readable file/memory sizes 
+Originally published: 2012-11-04 10:27:00 
 Last updated: 2012-11-05 11:59:20 
 Author: Tony Flury 
  

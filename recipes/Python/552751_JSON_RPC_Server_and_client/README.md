@@ -1,4 +1,5 @@
-## JSON RPC Server and clientOriginally published: 2008-04-01 09:50:49 
+## JSON RPC Server and client 
+Originally published: 2008-04-01 09:50:49 
 Last updated: 2008-04-01 09:50:49 
 Author: david decotigny 
  

@@ -1,4 +1,5 @@
-## Bound Inner Classes, Using An Alternate ApproachOriginally published: 2011-03-24 09:45:04 
+## Bound Inner Classes, Using An Alternate Approach 
+Originally published: 2011-03-24 09:45:04 
 Last updated: 2011-03-24 09:47:11 
 Author: Larry Hastings 
  

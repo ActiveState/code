@@ -1,4 +1,5 @@
-## Qt Event Processing & Python ThreadsOriginally published: 2005-05-26 13:17:01 
+## Qt Event Processing & Python Threads 
+Originally published: 2005-05-26 13:17:01 
 Last updated: 2005-09-10 23:15:15 
 Author: Jonathan Kolyer 
  

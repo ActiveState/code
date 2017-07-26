@@ -1,4 +1,5 @@
-## Easy Bit Arrays using Long IntegersOriginally published: 2013-12-01 02:17:08 
+## Easy Bit Arrays using Long Integers 
+Originally published: 2013-12-01 02:17:08 
 Last updated: 2013-12-01 02:21:14 
 Author: Mike Sweeney 
  

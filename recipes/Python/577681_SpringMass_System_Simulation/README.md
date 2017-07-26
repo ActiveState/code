@@ -1,4 +1,5 @@
-## Spring-Mass System SimulationOriginally published: 2011-05-02 01:59:45 
+## Spring-Mass System Simulation 
+Originally published: 2011-05-02 01:59:45 
 Last updated: 2011-05-02 01:59:45 
 Author: FB36  
  

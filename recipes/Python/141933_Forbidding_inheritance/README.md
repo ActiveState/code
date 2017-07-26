@@ -1,4 +1,5 @@
-## Forbidding inheritanceOriginally published: 2002-07-30 05:24:04 
+## Forbidding inheritance 
+Originally published: 2002-07-30 05:24:04 
 Last updated: 2002-07-30 05:24:04 
 Author: Sébastien Keim 
  

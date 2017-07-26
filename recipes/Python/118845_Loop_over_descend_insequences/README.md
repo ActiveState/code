@@ -1,4 +1,5 @@
-## Loop over and descend into sequences in a recursion-proof wayOriginally published: 2002-04-01 07:07:55 
+## Loop over and descend into sequences in a recursion-proof way 
+Originally published: 2002-04-01 07:07:55 
 Last updated: 2002-04-01 15:12:18 
 Author: Wolfgang Lipp 
  

@@ -1,4 +1,5 @@
-## JSON Formatted LoggingOriginally published: 2016-05-27 01:07:41 
+## JSON Formatted Logging 
+Originally published: 2016-05-27 01:07:41 
 Last updated: 2016-05-27 01:07:42 
 Author: Michael Blan Palmer 
  

@@ -1,4 +1,5 @@
-## MSCS Microsoft Cluster Services DetectionOriginally published: 2004-09-16 12:14:43 
+## MSCS Microsoft Cluster Services Detection 
+Originally published: 2004-09-16 12:14:43 
 Last updated: 2004-09-16 12:14:43 
 Author: Matt Keranen 
  

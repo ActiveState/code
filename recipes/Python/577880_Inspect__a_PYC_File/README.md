@@ -1,4 +1,5 @@
-## Inspect  a PYC FileOriginally published: 2011-09-27 03:45:48 
+## Inspect  a PYC File 
+Originally published: 2011-09-27 03:45:48 
 Last updated: 2011-09-29 20:07:10 
 Author: Eric Snow 
  

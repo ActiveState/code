@@ -1,4 +1,5 @@
-## War Card Game SimulationOriginally published: 2012-07-01 01:23:02 
+## War Card Game Simulation 
+Originally published: 2012-07-01 01:23:02 
 Last updated: 2012-07-01 01:23:03 
 Author: Stephen Chappell 
  

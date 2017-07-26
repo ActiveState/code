@@ -1,4 +1,5 @@
-## Spline demonstratorOriginally published: 2009-08-08 15:21:06 
+## Spline demonstrator 
+Originally published: 2009-08-08 15:21:06 
 Last updated: 2009-08-08 15:21:06 
 Author: James Coliins 
  

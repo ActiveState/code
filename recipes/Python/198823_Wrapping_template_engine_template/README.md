@@ -1,4 +1,5 @@
-## Wrapping template engine and template documentOriginally published: 2003-05-08 13:23:50 
+## Wrapping template engine and template document 
+Originally published: 2003-05-08 13:23:50 
 Last updated: 2003-05-08 13:23:50 
 Author: Keisuke URAGO 
  

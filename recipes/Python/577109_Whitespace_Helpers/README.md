@@ -1,4 +1,5 @@
-## Whitespace HelpersOriginally published: 2010-03-14 15:36:02 
+## Whitespace Helpers 
+Originally published: 2010-03-14 15:36:02 
 Last updated: 2010-03-14 15:36:03 
 Author: Stephen Chappell 
  

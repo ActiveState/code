@@ -1,4 +1,5 @@
-## import Outlook contacts using win32comOriginally published: 2003-01-10 11:01:51 
+## import Outlook contacts using win32com 
+Originally published: 2003-01-10 11:01:51 
 Last updated: 2003-01-10 19:59:18 
 Author: Kevin Altis 
  

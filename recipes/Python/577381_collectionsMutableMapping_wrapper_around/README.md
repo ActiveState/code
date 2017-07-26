@@ -1,4 +1,5 @@
-## collections.MutableMapping wrapper around _winregOriginally published: 2010-09-01 12:20:05 
+## collections.MutableMapping wrapper around _winreg 
+Originally published: 2010-09-01 12:20:05 
 Last updated: 2010-09-01 12:20:06 
 Author: Daniel Stutzbach 
  

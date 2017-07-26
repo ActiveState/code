@@ -1,4 +1,5 @@
-## Ordered SetOriginally published: 2007-08-16 14:43:07 
+## Ordered Set 
+Originally published: 2007-08-16 14:43:07 
 Last updated: 2009-04-08 19:22:13 
 Author: Adam Olsen 
  

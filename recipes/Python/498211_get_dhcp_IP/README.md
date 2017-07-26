@@ -1,4 +1,5 @@
-## get dhcp IPOriginally published: 2006-10-20 13:28:37 
+## get dhcp IP 
+Originally published: 2006-10-20 13:28:37 
 Last updated: 2006-10-20 13:28:37 
 Author: Vaibhav Bhatia 
  

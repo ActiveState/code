@@ -1,4 +1,5 @@
-## Simple curses based MySQL 'top'Originally published: 2011-11-01 05:15:02 
+## Simple curses based MySQL 'top' 
+Originally published: 2011-11-01 05:15:02 
 Last updated: 2011-11-02 20:28:48 
 Author: Mike 'Fuzzy' Partin 
  

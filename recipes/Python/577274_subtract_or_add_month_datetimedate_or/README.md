@@ -1,4 +1,5 @@
-## subtract or add a month to a datetime.date or datetime.datetimeOriginally published: 2010-06-25 18:41:18 
+## subtract or add a month to a datetime.date or datetime.datetime 
+Originally published: 2010-06-25 18:41:18 
 Last updated: 2010-06-25 18:41:19 
 Author: Trent Mick 
  

@@ -1,4 +1,5 @@
-## Python-C-Interface: Check whether a given dictionary contains only valid keysOriginally published: 2017-05-06 20:53:54 
+## Python-C-Interface: Check whether a given dictionary contains only valid keys 
+Originally published: 2017-05-06 20:53:54 
 Last updated: 2017-05-06 20:53:54 
 Author: Jorj X. McKie 
  

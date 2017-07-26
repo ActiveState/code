@@ -1,4 +1,5 @@
-## Worley Noise GeneratorOriginally published: 2013-02-16 21:11:05 
+## Worley Noise Generator 
+Originally published: 2013-02-16 21:11:05 
 Last updated: 2013-02-16 21:11:05 
 Author: FB36  
  

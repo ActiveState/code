@@ -1,4 +1,5 @@
-## Pass Javascript arrays to PHPOriginally published: 2005-05-16 11:45:33 
+## Pass Javascript arrays to PHP 
+Originally published: 2005-05-16 11:45:33 
 Last updated: 2005-05-16 11:45:33 
 Author: Noah Spurrier 
  

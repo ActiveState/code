@@ -1,4 +1,5 @@
-## generates a set of binary files by doing ASCII replacements on a master binary file, controlled by a csv fileOriginally published: 2015-09-16 16:22:51 
+## generates a set of binary files by doing ASCII replacements on a master binary file, controlled by a csv file 
+Originally published: 2015-09-16 16:22:51 
 Last updated: 2015-09-16 16:25:49 
 Author: Antoni Gual 
  

@@ -1,4 +1,5 @@
-## Distributed request/reply middleware architecture.Originally published: 2001-10-14 01:39:22 
+## Distributed request/reply middleware architecture. 
+Originally published: 2001-10-14 01:39:22 
 Last updated: 2001-10-14 01:39:22 
 Author: Graham Dumpleton 
  

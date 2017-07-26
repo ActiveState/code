@@ -1,4 +1,5 @@
-## Dynamically modifying class attributes at runtimeOriginally published: 2011-03-31 20:07:18 
+## Dynamically modifying class attributes at runtime 
+Originally published: 2011-03-31 20:07:18 
 Last updated: 2011-03-31 20:07:18 
 Author: Nabil Stendardo 
  

@@ -1,4 +1,5 @@
-## Update Google Chrome localstorage file for version compatibilityOriginally published: 2011-08-23 13:41:49 
+## Update Google Chrome localstorage file for version compatibility 
+Originally published: 2011-08-23 13:41:49 
 Last updated: 2011-08-23 13:41:49 
 Author: Russell  
  

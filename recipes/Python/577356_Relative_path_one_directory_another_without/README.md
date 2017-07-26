@@ -1,4 +1,5 @@
-## Relative path from one directory to another without explicit string functions (unix only)Originally published: 2010-08-13 05:20:15 
+## Relative path from one directory to another without explicit string functions (unix only) 
+Originally published: 2010-08-13 05:20:15 
 Last updated: 2011-04-11 13:02:32 
 Author: Denis Barmenkov 
  

@@ -1,4 +1,5 @@
-## Migrate your Windows login scripts to PythonOriginally published: 2005-06-27 07:26:39 
+## Migrate your Windows login scripts to Python 
+Originally published: 2005-06-27 07:26:39 
 Last updated: 2005-06-27 07:26:39 
 Author: Fadly Tabrani 
  

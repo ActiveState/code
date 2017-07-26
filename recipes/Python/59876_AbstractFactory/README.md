@@ -1,4 +1,5 @@
-## AbstractFactoryOriginally published: 2001-06-01 07:53:48 
+## AbstractFactory 
+Originally published: 2001-06-01 07:53:48 
 Last updated: 2001-06-01 07:53:48 
 Author: alan runyan 
  

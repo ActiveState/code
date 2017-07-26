@@ -1,4 +1,5 @@
-## Composite design-pattern using dictionariesOriginally published: 2006-11-07 00:41:28 
+## Composite design-pattern using dictionaries 
+Originally published: 2006-11-07 00:41:28 
 Last updated: 2006-11-07 08:39:25 
 Author: Anand  
  

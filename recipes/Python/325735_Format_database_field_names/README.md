@@ -1,4 +1,5 @@
-## Format database field names in ExcelOriginally published: 2004-10-29 12:56:29 
+## Format database field names in Excel 
+Originally published: 2004-10-29 12:56:29 
 Last updated: 2004-10-29 19:57:50 
 Author: Matt Keranen 
  

@@ -1,4 +1,5 @@
-## Line-based side-by-side diffOriginally published: 2011-07-10 20:38:22 
+## Line-based side-by-side diff 
+Originally published: 2011-07-10 20:38:22 
 Last updated: 2011-07-10 20:38:23 
 Author: Christoph Burgmer 
  

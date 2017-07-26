@@ -1,4 +1,5 @@
-## Lazy Lists for python 2.5Originally published: 2008-08-18 19:59:03 
+## Lazy Lists for python 2.5 
+Originally published: 2008-08-18 19:59:03 
 Last updated: 2008-08-18 19:59:03 
 Author: Michael Pust 
  

@@ -1,4 +1,5 @@
-## Getting items in batchesOriginally published: 2004-09-03 04:16:59 
+## Getting items in batches 
+Originally published: 2004-09-03 04:16:59 
 Last updated: 2005-04-15 17:20:25 
 Author: Hamish Lawson 
  

@@ -1,4 +1,5 @@
-## Karatsuba algorithmOriginally published: 2009-07-02 14:23:17 
+## Karatsuba algorithm 
+Originally published: 2009-07-02 14:23:17 
 Last updated: 2009-07-02 14:23:17 
 Author: Guillermo López 
  

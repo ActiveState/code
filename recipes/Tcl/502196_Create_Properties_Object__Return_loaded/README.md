@@ -1,4 +1,5 @@
-## Create Properties Object.  Return loaded property object.Originally published: 2007-01-31 10:22:15 
+## Create Properties Object.  Return loaded property object. 
+Originally published: 2007-01-31 10:22:15 
 Last updated: 2007-01-31 10:22:15 
 Author: Patrick Finnegan 
  

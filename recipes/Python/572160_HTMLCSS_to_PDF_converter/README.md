@@ -1,4 +1,5 @@
-## HTML/CSS to PDF converterOriginally published: 2008-04-20 06:06:52 
+## HTML/CSS to PDF converter 
+Originally published: 2008-04-20 06:06:52 
 Last updated: 2008-04-20 06:06:52 
 Author: Dirk Holtwick 
  

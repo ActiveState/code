@@ -1,4 +1,5 @@
-## Using re.match, re.search, and re.group in if ... elif ... elif ... else ...Originally published: 2005-11-15 19:36:32 
+## Using re.match, re.search, and re.group in if ... elif ... elif ... else ... 
+Originally published: 2005-11-15 19:36:32 
 Last updated: 2005-11-16 12:03:18 
 Author: Peter Kleiweg 
  

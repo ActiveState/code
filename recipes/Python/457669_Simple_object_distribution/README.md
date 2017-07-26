@@ -1,4 +1,5 @@
-## Simple object distributionOriginally published: 2005-11-27 17:25:02 
+## Simple object distribution 
+Originally published: 2005-11-27 17:25:02 
 Last updated: 2005-11-27 17:25:02 
 Author: Igor Cananea 
  

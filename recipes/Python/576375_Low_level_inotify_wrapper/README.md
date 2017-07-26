@@ -1,4 +1,5 @@
-## Low level inotify wrapperOriginally published: 2008-07-25 07:00:47 
+## Low level inotify wrapper 
+Originally published: 2008-07-25 07:00:47 
 Last updated: 2013-08-12 14:39:57 
 Author: Louis RIVIERE 
  

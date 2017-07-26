@@ -1,4 +1,5 @@
-## Multiprocessing import wrapperOriginally published: 2011-08-23 22:08:00 
+## Multiprocessing import wrapper 
+Originally published: 2011-08-23 22:08:00 
 Last updated: 2011-08-23 22:11:42 
 Author: Matt Keranen 
  

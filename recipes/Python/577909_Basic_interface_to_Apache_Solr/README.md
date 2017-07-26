@@ -1,4 +1,5 @@
-## Basic interface to Apache SolrOriginally published: 2011-10-17 12:17:50 
+## Basic interface to Apache Solr 
+Originally published: 2011-10-17 12:17:50 
 Last updated: 2011-10-17 12:46:55 
 Author: Graham Poulter 
  

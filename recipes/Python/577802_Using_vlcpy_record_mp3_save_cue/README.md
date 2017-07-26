@@ -1,4 +1,5 @@
-## Using vlc.py to record an mp3 and save a cue fileOriginally published: 2011-07-22 14:54:52 
+## Using vlc.py to record an mp3 and save a cue file 
+Originally published: 2011-07-22 14:54:52 
 Last updated: 2011-07-25 15:55:38 
 Author: Anton Vredegoor 
  

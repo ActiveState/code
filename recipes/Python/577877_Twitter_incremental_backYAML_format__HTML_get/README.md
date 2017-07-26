@@ -1,4 +1,5 @@
-## Twitter incremental backup in YAML format - by HTML get and parse Originally published: 2011-09-24 17:15:45 
+## Twitter incremental backup in YAML format - by HTML get and parse  
+Originally published: 2011-09-24 17:15:45 
 Last updated: 2011-09-24 18:09:00 
 Author: Robert Lujo 
  

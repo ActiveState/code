@@ -1,4 +1,5 @@
-## Generator for arbitrary assignmentOriginally published: 2002-11-24 01:50:48 
+## Generator for arbitrary assignment 
+Originally published: 2002-11-24 01:50:48 
 Last updated: 2002-11-24 01:50:48 
 Author: Brett Cannon 
  

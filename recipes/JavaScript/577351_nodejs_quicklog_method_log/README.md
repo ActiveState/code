@@ -1,4 +1,5 @@
-## node.js quicklog method to log to a fileOriginally published: 2010-08-11 05:08:57 
+## node.js quicklog method to log to a file 
+Originally published: 2010-08-11 05:08:57 
 Last updated: 2010-08-11 05:08:57 
 Author: Trent Mick 
  

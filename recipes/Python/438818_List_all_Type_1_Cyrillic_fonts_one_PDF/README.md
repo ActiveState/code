@@ -1,4 +1,5 @@
-## List all Type 1 Cyrillic fonts to one PDF fileOriginally published: 2005-08-06 12:15:13 
+## List all Type 1 Cyrillic fonts to one PDF file 
+Originally published: 2005-08-06 12:15:13 
 Last updated: 2005-08-06 12:15:13 
 Author: Yuriy Tkachenko 
  

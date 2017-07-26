@@ -1,4 +1,5 @@
-## Brute Force Break Caesar Cipher in PythonOriginally published: 2013-06-03 17:54:15 
+## Brute Force Break Caesar Cipher in Python 
+Originally published: 2013-06-03 17:54:15 
 Last updated: 2013-06-03 17:54:16 
 Author: Captain DeadBones 
  

@@ -1,4 +1,5 @@
-## More accurate sumOriginally published: 2004-08-04 00:27:54 
+## More accurate sum 
+Originally published: 2004-08-04 00:27:54 
 Last updated: 2004-08-05 10:25:59 
 Author: Yaroslav Bulatov 
  

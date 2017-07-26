@@ -1,4 +1,5 @@
-## Using pycurl to automate filling out web formsOriginally published: 2004-02-07 21:32:19 
+## Using pycurl to automate filling out web forms 
+Originally published: 2004-02-07 21:32:19 
 Last updated: 2004-02-07 21:32:19 
 Author: Christian Long 
  

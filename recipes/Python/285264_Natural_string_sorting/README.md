@@ -1,4 +1,5 @@
-## Natural string sortingOriginally published: 2004-06-10 14:08:13 
+## Natural string sorting 
+Originally published: 2004-06-10 14:08:13 
 Last updated: 2004-06-10 14:08:13 
 Author: Connelly Barnes 
  

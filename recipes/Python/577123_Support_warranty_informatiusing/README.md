@@ -1,4 +1,5 @@
-## Support and warranty information using WMIOriginally published: 2010-03-17 13:50:52 
+## Support and warranty information using WMI 
+Originally published: 2010-03-17 13:50:52 
 Last updated: 2011-03-17 22:07:43 
 Author: Michael Grünewald 
  

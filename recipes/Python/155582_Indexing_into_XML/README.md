@@ -1,4 +1,5 @@
-## Indexing into XMLOriginally published: 2002-10-08 05:38:27 
+## Indexing into XML 
+Originally published: 2002-10-08 05:38:27 
 Last updated: 2002-10-08 05:38:27 
 Author: Dave Pawson 
  

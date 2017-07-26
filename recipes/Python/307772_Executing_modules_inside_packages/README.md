@@ -1,4 +1,5 @@
-## Executing modules inside packages with '-m'Originally published: 2004-10-09 08:46:03 
+## Executing modules inside packages with '-m' 
+Originally published: 2004-10-09 08:46:03 
 Last updated: 2004-10-10 19:03:49 
 Author: Nick Coghlan 
  

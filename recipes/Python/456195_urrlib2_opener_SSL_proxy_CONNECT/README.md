@@ -1,4 +1,5 @@
-## urrlib2 opener for SSL proxy (CONNECT method)Originally published: 2005-11-16 06:26:42 
+## urrlib2 opener for SSL proxy (CONNECT method) 
+Originally published: 2005-11-16 06:26:42 
 Last updated: 2005-11-16 15:04:54 
 Author: Alessandro Budai 
  

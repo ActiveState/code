@@ -1,4 +1,5 @@
-## The Auxiliary-Dictionary idiom for sequences with frequent 'in' testsOriginally published: 2001-03-26 06:27:10 
+## The Auxiliary-Dictionary idiom for sequences with frequent 'in' tests 
+Originally published: 2001-03-26 06:27:10 
 Last updated: 2001-04-08 20:45:56 
 Author: Alex Martelli 
  

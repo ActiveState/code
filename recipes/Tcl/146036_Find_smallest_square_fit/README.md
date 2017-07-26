@@ -1,4 +1,5 @@
-## Find smallest square to fit input.Originally published: 2002-08-21 16:29:28 
+## Find smallest square to fit input. 
+Originally published: 2002-08-21 16:29:28 
 Last updated: 2002-08-21 16:29:28 
 Author: andreas kupries 
  

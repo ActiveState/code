@@ -1,4 +1,5 @@
-## A queue for string data, which looks like a File object.Originally published: 2005-06-17 21:09:41 
+## A queue for string data, which looks like a File object. 
+Originally published: 2005-06-17 21:09:41 
 Last updated: 2005-07-12 02:45:21 
 Author: S W 
  

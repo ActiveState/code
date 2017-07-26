@@ -1,4 +1,5 @@
-## Komodo Macro: stop leaving indented blank lines when you press enterOriginally published: 2012-03-09 19:27:47 
+## Komodo Macro: stop leaving indented blank lines when you press enter 
+Originally published: 2012-03-09 19:27:47 
 Last updated: 2012-03-09 19:28:31 
 Author: Raymond Butcher 
  

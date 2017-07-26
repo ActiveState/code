@@ -1,4 +1,5 @@
-## COM based emailOriginally published: 2001-12-07 10:55:16 
+## COM based email 
+Originally published: 2001-12-07 10:55:16 
 Last updated: 2001-12-07 10:55:16 
 Author: Shane Caraveo 
  

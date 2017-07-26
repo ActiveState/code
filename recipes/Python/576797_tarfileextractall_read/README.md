@@ -1,4 +1,5 @@
-## tarfile.extractall with read accessOriginally published: 2009-06-04 15:48:17 
+## tarfile.extractall with read access 
+Originally published: 2009-06-04 15:48:17 
 Last updated: 2009-06-04 15:48:17 
 Author: Sridhar Ratnakumar 
  

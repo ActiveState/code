@@ -1,4 +1,5 @@
-## Komodo JS Macro - Add CSS3 PrefixesOriginally published: 2012-05-25 20:01:29 
+## Komodo JS Macro - Add CSS3 Prefixes 
+Originally published: 2012-05-25 20:01:29 
 Last updated: 2012-05-25 20:02:50 
 Author: Keegan Brown 
  

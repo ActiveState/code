@@ -1,4 +1,5 @@
-## Context manager to temporarily set an attribute on an objectOriginally published: 2010-03-06 16:15:57 
+## Context manager to temporarily set an attribute on an object 
+Originally published: 2010-03-06 16:15:57 
 Last updated: 2010-03-06 16:15:57 
 Author: Brett Cannon 
  

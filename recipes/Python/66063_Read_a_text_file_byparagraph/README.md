@@ -1,4 +1,5 @@
-## Read a text file by-paragraphOriginally published: 2001-07-17 04:46:03 
+## Read a text file by-paragraph 
+Originally published: 2001-07-17 04:46:03 
 Last updated: 2001-08-15 16:47:48 
 Author: Alex Martelli 
  

@@ -1,4 +1,5 @@
-## Computing simple list functions recursivelyOriginally published: 2016-03-01 20:41:12 
+## Computing simple list functions recursively 
+Originally published: 2016-03-01 20:41:12 
 Last updated: 2016-03-01 20:41:13 
 Author: Vasudev Ram 
  

@@ -1,4 +1,5 @@
-## Sending binary data to stdout under WindowsOriginally published: 2001-06-30 09:17:48 
+## Sending binary data to stdout under Windows 
+Originally published: 2001-06-30 09:17:48 
 Last updated: 2002-01-28 18:23:19 
 Author: Hamish Lawson 
  

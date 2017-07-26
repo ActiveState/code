@@ -1,4 +1,5 @@
-## Post code to Pastebin.comOriginally published: 2010-12-06 17:56:40 
+## Post code to Pastebin.com 
+Originally published: 2010-12-06 17:56:40 
 Last updated: 2010-12-06 17:56:41 
 Author: Nathan Rambeck 
  

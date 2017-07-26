@@ -1,4 +1,5 @@
-## WSAdmin - Extract DataSource PropertiesOriginally published: 2003-12-17 23:47:37 
+## WSAdmin - Extract DataSource Properties 
+Originally published: 2003-12-17 23:47:37 
 Last updated: 2003-12-17 23:47:37 
 Author: Patrick Finnegan 
  

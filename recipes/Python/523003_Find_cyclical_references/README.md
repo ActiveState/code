@@ -1,4 +1,5 @@
-## Find cyclical referencesOriginally published: 2007-06-29 08:51:26 
+## Find cyclical references 
+Originally published: 2007-06-29 08:51:26 
 Last updated: 2007-06-29 08:51:26 
 Author: Michael Droettboom 
  

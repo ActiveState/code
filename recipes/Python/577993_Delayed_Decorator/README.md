@@ -1,4 +1,5 @@
-## Delayed DecoratorOriginally published: 2011-12-20 04:28:54 
+## Delayed Decorator 
+Originally published: 2011-12-20 04:28:54 
 Last updated: 2011-12-20 06:37:15 
 Author: Peter Donis 
  

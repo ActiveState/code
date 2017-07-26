@@ -1,4 +1,5 @@
-## Enumerate printer job informationOriginally published: 2004-09-24 00:18:14 
+## Enumerate printer job information 
+Originally published: 2004-09-24 00:18:14 
 Last updated: 2004-09-24 00:18:14 
 Author: Eric Koome 
  

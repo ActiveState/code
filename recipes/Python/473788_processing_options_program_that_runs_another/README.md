@@ -1,4 +1,5 @@
-## processing options for a program that runs another program that has its own optionsOriginally published: 2006-01-26 09:06:22 
+## processing options for a program that runs another program that has its own options 
+Originally published: 2006-01-26 09:06:22 
 Last updated: 2006-01-26 09:06:22 
 Author: Rocky Bernstein 
  

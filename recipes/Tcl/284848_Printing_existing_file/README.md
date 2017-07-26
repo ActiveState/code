@@ -1,4 +1,5 @@
-## Printing an existing file on WindowsOriginally published: 2004-05-19 21:04:53 
+## Printing an existing file on Windows 
+Originally published: 2004-05-19 21:04:53 
 Last updated: 2004-05-19 21:04:53 
 Author: Gerald Lester 
  

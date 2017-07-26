@@ -1,4 +1,5 @@
-## Reevaluate functions when called, v2Originally published: 2009-05-14 15:10:51 
+## Reevaluate functions when called, v2 
+Originally published: 2009-05-14 15:10:51 
 Last updated: 2009-05-14 15:10:51 
 Author: geremy condra 
  

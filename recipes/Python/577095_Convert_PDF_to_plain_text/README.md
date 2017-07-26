@@ -1,4 +1,5 @@
-## Convert PDF to plain textOriginally published: 2010-03-09 08:14:23 
+## Convert PDF to plain text 
+Originally published: 2010-03-09 08:14:23 
 Last updated: 2010-11-25 15:30:52 
 Author: ccpizza  
  

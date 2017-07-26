@@ -1,4 +1,5 @@
-## ColumnSorterMixin with a Virtual wx.ListCtrlOriginally published: 2005-06-22 14:01:53 
+## ColumnSorterMixin with a Virtual wx.ListCtrl 
+Originally published: 2005-06-22 14:01:53 
 Last updated: 2006-08-02 13:07:53 
 Author: Egor Zindy 
  

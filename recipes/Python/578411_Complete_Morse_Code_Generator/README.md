@@ -1,4 +1,5 @@
-## A Complete Morse Code Generator in Python with SoundOriginally published: 2013-01-08 18:13:06 
+## A Complete Morse Code Generator in Python with Sound 
+Originally published: 2013-01-08 18:13:06 
 Last updated: 2013-01-08 18:13:33 
 Author: Captain DeadBones 
  

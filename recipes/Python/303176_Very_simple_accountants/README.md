@@ -1,4 +1,5 @@
-## *Very* simple accountant's calculatorOriginally published: 2004-09-02 10:54:01 
+## *Very* simple accountant's calculator 
+Originally published: 2004-09-02 10:54:01 
 Last updated: 2004-09-02 10:54:01 
 Author: Brett Cannon 
  

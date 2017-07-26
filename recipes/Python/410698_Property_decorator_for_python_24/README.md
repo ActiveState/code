@@ -1,4 +1,5 @@
-## Property decorator for python 2.4Originally published: 2005-04-25 14:03:31 
+## Property decorator for python 2.4 
+Originally published: 2005-04-25 14:03:31 
 Last updated: 2005-04-25 23:32:11 
 Author: George Sakkis 
  

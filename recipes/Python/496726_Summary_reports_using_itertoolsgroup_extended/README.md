@@ -1,4 +1,5 @@
-## Summary reports using itertools.groupby - extended to support multiple keysOriginally published: 2006-05-19 17:23:50 
+## Summary reports using itertools.groupby - extended to support multiple keys 
+Originally published: 2006-05-19 17:23:50 
 Last updated: 2006-05-19 17:23:50 
 Author: Jim Eggleston 
  

@@ -1,4 +1,5 @@
-## one-liner word-wrap functionOriginally published: 2002-09-04 00:59:35 
+## one-liner word-wrap function 
+Originally published: 2002-09-04 00:59:35 
 Last updated: 2004-10-12 22:20:09 
 Author: Mike Brown 
  

@@ -1,4 +1,5 @@
-## Sierpinski GasketOriginally published: 2016-02-20 10:41:23 
+## Sierpinski Gasket 
+Originally published: 2016-02-20 10:41:23 
 Last updated: 2016-02-20 10:41:24 
 Author: Paulo Cavalcanti 
  

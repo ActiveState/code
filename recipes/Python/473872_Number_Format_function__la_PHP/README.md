@@ -1,4 +1,5 @@
-## Number Format function (à la PHP)Originally published: 2006-02-08 08:55:16 
+## Number Format function (à la PHP) 
+Originally published: 2006-02-08 08:55:16 
 Last updated: 2006-02-08 17:53:43 
 Author: Edward Hartfield 
  

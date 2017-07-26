@@ -1,4 +1,5 @@
-## Directory Size (GUI)Originally published: 2011-02-08 02:15:36 
+## Directory Size (GUI) 
+Originally published: 2011-02-08 02:15:36 
 Last updated: 2011-02-09 13:47:54 
 Author: Stephen Chappell 
  

@@ -1,4 +1,5 @@
-## randomized integer range iteratorOriginally published: 2006-01-29 12:13:35 
+## randomized integer range iterator 
+Originally published: 2006-01-29 12:13:35 
 Last updated: 2006-01-29 12:13:35 
 Author: Dug Song 
  

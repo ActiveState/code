@@ -1,4 +1,5 @@
-## A DEMO To Show How To Expand A Standard Python Terminal On The Fly...Originally published: 2012-12-17 12:47:13 
+## A DEMO To Show How To Expand A Standard Python Terminal On The Fly... 
+Originally published: 2012-12-17 12:47:13 
 Last updated: 2012-12-17 12:47:14 
 Author: Barry Walker 
  

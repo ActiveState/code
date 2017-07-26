@@ -1,4 +1,5 @@
-## Elementary regex without third party librariesOriginally published: 2013-07-13 12:58:13 
+## Elementary regex without third party libraries 
+Originally published: 2013-07-13 12:58:13 
 Last updated: 2013-07-13 12:58:14 
 Author: greg zakharov 
  

@@ -1,4 +1,5 @@
-## QuackTemplate.WrapperOriginally published: 2006-05-22 09:21:16 
+## QuackTemplate.Wrapper 
+Originally published: 2006-05-22 09:21:16 
 Last updated: 2006-05-22 09:21:16 
 Author: Costas Malamas 
  

@@ -1,4 +1,5 @@
-## argdeclare: declarative interface to argparseOriginally published: 2009-10-26 14:35:21 
+## argdeclare: declarative interface to argparse 
+Originally published: 2009-10-26 14:35:21 
 Last updated: 2010-03-02 00:05:40 
 Author: Shakeeb Alireza 
  

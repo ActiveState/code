@@ -1,4 +1,5 @@
-## A simple and useful doctester for your documentationOriginally published: 2005-04-16 00:07:56 
+## A simple and useful doctester for your documentation 
+Originally published: 2005-04-16 00:07:56 
 Last updated: 2005-04-16 09:15:09 
 Author: Michele Simionato 
  

@@ -1,4 +1,5 @@
-## Using pngcanvas, a pure Python PNG libraryOriginally published: 2014-01-15 22:45:09 
+## Using pngcanvas, a pure Python PNG library 
+Originally published: 2014-01-15 22:45:09 
 Last updated: 2014-01-15 22:45:11 
 Author: Vasudev Ram 
  

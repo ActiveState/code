@@ -1,4 +1,5 @@
-## RegConfig - Use the registry as a configuration file.Originally published: 2004-11-16 13:14:40 
+## RegConfig - Use the registry as a configuration file. 
+Originally published: 2004-11-16 13:14:40 
 Last updated: 2004-11-16 13:14:40 
 Author: Fadly Tabrani 
  

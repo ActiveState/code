@@ -1,4 +1,5 @@
-## Generate behave tableOriginally published: 2015-05-19 07:16:06 
+## Generate behave table 
+Originally published: 2015-05-19 07:16:06 
 Last updated: 2015-05-19 07:16:06 
 Author: Nicolas Laurance 
  

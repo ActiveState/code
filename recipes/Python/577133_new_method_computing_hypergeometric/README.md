@@ -1,4 +1,5 @@
-## A new method for computing the hypergeometric function 1F1(a,b,t)Originally published: 2010-03-21 10:05:53 
+## A new method for computing the hypergeometric function 1F1(a,b,t) 
+Originally published: 2010-03-21 10:05:53 
 Last updated: 2010-03-22 05:00:20 
 Author: Fernando Nieuwveldt 
  

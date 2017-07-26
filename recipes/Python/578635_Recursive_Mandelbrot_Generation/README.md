@@ -1,4 +1,5 @@
-## Recursive Mandelbrot GenerationOriginally published: 2013-08-10 04:57:08 
+## Recursive Mandelbrot Generation 
+Originally published: 2013-08-10 04:57:08 
 Last updated: 2013-08-11 03:46:46 
 Author: Bill Pickett 
  

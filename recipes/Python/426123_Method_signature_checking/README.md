@@ -1,4 +1,5 @@
-## Method signature checking decoratorsOriginally published: 2005-06-20 05:12:23 
+## Method signature checking decorators 
+Originally published: 2005-06-20 05:12:23 
 Last updated: 2008-01-28 07:13:53 
 Author: Dmitry Dvoinikov 
  

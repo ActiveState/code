@@ -1,4 +1,5 @@
-## Publish databases to PDF with PyDAL (a Python DB library) and xtopdfOriginally published: 2015-01-15 16:09:26 
+## Publish databases to PDF with PyDAL (a Python DB library) and xtopdf 
+Originally published: 2015-01-15 16:09:26 
 Last updated: 2015-01-15 16:09:27 
 Author: Vasudev Ram 
  

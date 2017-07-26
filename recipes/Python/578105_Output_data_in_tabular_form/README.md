@@ -1,4 +1,5 @@
-## Output data in tabular formOriginally published: 2012-04-15 10:21:26 
+## Output data in tabular form 
+Originally published: 2012-04-15 10:21:26 
 Last updated: 2012-04-20 19:27:57 
 Author: srikantkt  
  

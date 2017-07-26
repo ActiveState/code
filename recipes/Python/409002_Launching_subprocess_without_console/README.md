@@ -1,4 +1,5 @@
-## Launching a subprocess without a console windowOriginally published: 2005-04-07 06:58:05 
+## Launching a subprocess without a console window 
+Originally published: 2005-04-07 06:58:05 
 Last updated: 2005-04-07 06:58:05 
 Author: Richard Philips 
  

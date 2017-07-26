@@ -1,4 +1,5 @@
-## Python Easily Packetize / Slice / Chunk TextOriginally published: 2011-09-30 05:33:09 
+## Python Easily Packetize / Slice / Chunk Text 
+Originally published: 2011-09-30 05:33:09 
 Last updated: 2011-09-30 05:34:57 
 Author: __nero  
  

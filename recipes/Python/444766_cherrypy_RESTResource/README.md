@@ -1,4 +1,5 @@
-## cherrypy RESTResourceOriginally published: 2005-11-10 08:14:27 
+## cherrypy RESTResource 
+Originally published: 2005-11-10 08:14:27 
 Last updated: 2005-11-10 19:28:04 
 Author: anders pearson 
  

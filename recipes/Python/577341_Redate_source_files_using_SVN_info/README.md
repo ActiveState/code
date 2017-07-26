@@ -1,4 +1,5 @@
-## Redate source files using SVN info from $Id:$Originally published: 2010-07-30 10:00:25 
+## Redate source files using SVN info from $Id:$ 
+Originally published: 2010-07-30 10:00:25 
 Last updated: 2010-07-30 10:00:25 
 Author: Michal Niklas 
  

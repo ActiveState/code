@@ -1,4 +1,5 @@
-## case-insensitive sort of list of stringsOriginally published: 2002-12-19 16:54:05 
+## case-insensitive sort of list of strings 
+Originally published: 2002-12-19 16:54:05 
 Last updated: 2002-12-25 18:29:05 
 Author: Kevin Altis 
  

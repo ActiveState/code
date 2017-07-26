@@ -1,4 +1,5 @@
-## Check PC PowerOriginally published: 2011-08-28 12:25:48 
+## Check PC Power 
+Originally published: 2011-08-28 12:25:48 
 Last updated: 2011-08-28 12:25:49 
 Author: Frank Larkin 
  

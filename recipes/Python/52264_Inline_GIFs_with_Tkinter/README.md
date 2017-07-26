@@ -1,4 +1,5 @@
-## Inline GIF's with TkinterOriginally published: 2001-03-14 17:01:04 
+## Inline GIF's with Tkinter 
+Originally published: 2001-03-14 17:01:04 
 Last updated: 2004-01-30 16:43:32 
 Author: Brent Burley 
  

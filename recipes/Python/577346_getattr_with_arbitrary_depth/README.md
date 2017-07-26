@@ -1,4 +1,5 @@
-## getattr with arbitrary depth.Originally published: 2010-08-05 07:01:53 
+## getattr with arbitrary depth. 
+Originally published: 2010-08-05 07:01:53 
 Last updated: 2010-08-05 07:02:29 
 Author: Noufal Ibrahim 
  

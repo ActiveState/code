@@ -1,4 +1,5 @@
-## All [iter] is Instance of [class/type/tuple]Originally published: 2012-07-26 16:04:40 
+## All [iter] is Instance of [class/type/tuple] 
+Originally published: 2012-07-26 16:04:40 
 Last updated: 2012-07-26 18:09:30 
 Author: Jonathan Frere 
  

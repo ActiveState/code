@@ -1,4 +1,5 @@
-## Parsing the command lineOriginally published: 2004-04-18 00:37:24 
+## Parsing the command line 
+Originally published: 2004-04-18 00:37:24 
 Last updated: 2004-04-18 08:15:21 
 Author: Michele Simionato 
  

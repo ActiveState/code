@@ -1,4 +1,5 @@
-## Generate a set of random integersOriginally published: 2016-02-18 19:34:17 
+## Generate a set of random integers 
+Originally published: 2016-02-18 19:34:17 
 Last updated: 2016-02-18 19:34:17 
 Author: Lance Spence 
  

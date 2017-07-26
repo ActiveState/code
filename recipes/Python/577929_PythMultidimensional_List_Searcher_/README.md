@@ -1,4 +1,5 @@
-## Python Multidimensional List Searcher Originally published: 2011-10-29 22:21:38 
+## Python Multidimensional List Searcher  
+Originally published: 2011-10-29 22:21:38 
 Last updated: 2011-10-29 22:21:39 
 Author: Alexander James Wallar 
  

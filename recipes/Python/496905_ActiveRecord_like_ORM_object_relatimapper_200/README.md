@@ -1,4 +1,5 @@
-## An ActiveRecord like ORM (object relation mapper) under 200 linesOriginally published: 2006-07-24 23:31:23 
+## An ActiveRecord like ORM (object relation mapper) under 200 lines 
+Originally published: 2006-07-24 23:31:23 
 Last updated: 2006-07-26 16:49:55 
 Author: Wensheng Wang 
  

@@ -1,4 +1,5 @@
-## Starting several context managers concurrentlyOriginally published: 2010-08-11 14:27:00 
+## Starting several context managers concurrently 
+Originally published: 2010-08-11 14:27:00 
 Last updated: 2010-08-11 14:27:01 
 Author: Carlos Valiente 
  

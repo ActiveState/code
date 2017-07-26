@@ -1,4 +1,5 @@
-## Tkinter table with scrollbarsOriginally published: 2017-05-02 20:55:32 
+## Tkinter table with scrollbars 
+Originally published: 2017-05-02 20:55:32 
 Last updated: 2017-05-06 19:06:05 
 Author: Miguel Martínez López 
  

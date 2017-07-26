@@ -1,4 +1,5 @@
-## Easily Write Nested LoopsOriginally published: 2012-02-18 01:34:08 
+## Easily Write Nested Loops 
+Originally published: 2012-02-18 01:34:08 
 Last updated: 2012-02-18 01:34:55 
 Author: Stephen Chappell 
  

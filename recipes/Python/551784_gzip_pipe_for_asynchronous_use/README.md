@@ -1,4 +1,5 @@
-## gzip pipe for asynchronous useOriginally published: 2008-03-21 15:23:04 
+## gzip pipe for asynchronous use 
+Originally published: 2008-03-21 15:23:04 
 Last updated: 2008-03-24 21:47:17 
 Author: Raphaël Jolivet 
  

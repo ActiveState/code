@@ -1,4 +1,5 @@
-## Colorize Python source using the built-in tokenizerOriginally published: 2001-03-22 16:51:12 
+## Colorize Python source using the built-in tokenizer 
+Originally published: 2001-03-22 16:51:12 
 Last updated: 2001-04-06 23:05:53 
 Author: Jürgen Hermann 
  

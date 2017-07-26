@@ -1,4 +1,5 @@
-## Code To Store Encrypted Password in a FileOriginally published: 2013-01-19 04:07:49 
+## Code To Store Encrypted Password in a File 
+Originally published: 2013-01-19 04:07:49 
 Last updated: 2013-01-19 04:07:50 
 Author: Captain DeadBones 
  

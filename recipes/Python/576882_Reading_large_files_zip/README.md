@@ -1,4 +1,5 @@
-## Reading large files from zip archiveOriginally published: 2009-08-17 10:19:20 
+## Reading large files from zip archive 
+Originally published: 2009-08-17 10:19:20 
 Last updated: 2009-08-17 10:24:40 
 Author: Volker S. 
  

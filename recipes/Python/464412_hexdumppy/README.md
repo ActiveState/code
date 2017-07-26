@@ -1,4 +1,5 @@
-## hex_dump.pyOriginally published: 2005-12-12 05:57:29 
+## hex_dump.py 
+Originally published: 2005-12-12 05:57:29 
 Last updated: 2005-12-12 05:57:29 
 Author: Stephen Chappell 
  

@@ -1,4 +1,5 @@
-## Use function annotation to track elapsed execution timeOriginally published: 2005-09-19 11:22:51 
+## Use function annotation to track elapsed execution time 
+Originally published: 2005-09-19 11:22:51 
 Last updated: 2005-09-19 23:53:35 
 Author: John Pywtorak 
  

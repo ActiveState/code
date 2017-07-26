@@ -1,4 +1,5 @@
-## Force verbose mode for unittests in an IDE.Originally published: 2004-10-18 01:34:39 
+## Force verbose mode for unittests in an IDE. 
+Originally published: 2004-10-18 01:34:39 
 Last updated: 2004-10-18 01:34:39 
 Author: Jason Whitlark 
  

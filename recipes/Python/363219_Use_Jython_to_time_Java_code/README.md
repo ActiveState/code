@@ -1,4 +1,5 @@
-## Use Jython to time Java codeOriginally published: 2005-01-14 10:56:25 
+## Use Jython to time Java code 
+Originally published: 2005-01-14 10:56:25 
 Last updated: 2005-02-07 04:57:15 
 Author: Victor Yang 
  

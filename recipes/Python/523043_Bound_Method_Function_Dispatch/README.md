@@ -1,4 +1,5 @@
-## Bound Method Function DispatchOriginally published: 2007-07-12 20:44:20 
+## Bound Method Function Dispatch 
+Originally published: 2007-07-12 20:44:20 
 Last updated: 2007-07-12 20:44:20 
 Author: Peter Shook 
  

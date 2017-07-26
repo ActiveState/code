@@ -1,4 +1,5 @@
-## Call out to an external editorOriginally published: 2014-09-01 16:02:42 
+## Call out to an external editor 
+Originally published: 2014-09-01 16:02:42 
 Last updated: 2014-09-01 18:26:51 
 Author: Steven D'Aprano 
  

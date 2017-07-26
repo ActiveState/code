@@ -1,4 +1,5 @@
-## Automating simple property creationOriginally published: 2002-10-21 06:29:23 
+## Automating simple property creation 
+Originally published: 2002-10-21 06:29:23 
 Last updated: 2003-09-07 04:49:13 
 Author: Sean Ross 
  

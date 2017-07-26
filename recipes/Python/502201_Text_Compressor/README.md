@@ -1,4 +1,5 @@
-## Text CompressorOriginally published: 2007-02-01 21:34:56 
+## Text Compressor 
+Originally published: 2007-02-01 21:34:56 
 Last updated: 2007-02-01 21:34:56 
 Author: Stephen Chappell 
  

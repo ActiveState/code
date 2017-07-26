@@ -1,4 +1,5 @@
-## Access Cairo surface from numpy and pygameOriginally published: 2006-11-21 08:22:51 
+## Access Cairo surface from numpy and pygame 
+Originally published: 2006-11-21 08:22:51 
 Last updated: 2006-11-21 08:22:51 
 Author: Simon Burton 
  

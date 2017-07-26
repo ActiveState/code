@@ -1,4 +1,5 @@
-## Semi-automatic resource management with AutoCloseOriginally published: 2007-06-29 23:06:24 
+## Semi-automatic resource management with AutoClose 
+Originally published: 2007-06-29 23:06:24 
 Last updated: 2009-11-18 21:37:55 
 Author: Michele Simionato 
  

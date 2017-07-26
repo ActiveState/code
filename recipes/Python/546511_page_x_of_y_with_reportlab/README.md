@@ -1,4 +1,5 @@
-## "page x of y" with reportlabOriginally published: 2008-02-12 09:38:32 
+## "page x of y" with reportlab 
+Originally published: 2008-02-12 09:38:32 
 Last updated: 2008-02-13 14:27:33 
 Author: hermes tresmegistos 
  

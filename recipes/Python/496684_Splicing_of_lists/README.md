@@ -1,4 +1,5 @@
-## Splicing of listsOriginally published: 2006-05-08 17:45:32 
+## Splicing of lists 
+Originally published: 2006-05-08 17:45:32 
 Last updated: 2006-05-08 17:45:32 
 Author: Ernesto Adorio 
  

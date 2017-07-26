@@ -1,4 +1,5 @@
-## using classmethods for ORMs (Object Relational Mappings)Originally published: 2003-10-16 09:51:47 
+## using classmethods for ORMs (Object Relational Mappings) 
+Originally published: 2003-10-16 09:51:47 
 Last updated: 2003-10-16 19:35:12 
 Author: Sameer Chow 
  

@@ -1,4 +1,5 @@
-## Composable FunctionsOriginally published: 2008-07-12 06:08:55 
+## Composable Functions 
+Originally published: 2008-07-12 06:08:55 
 Last updated: 2008-07-12 06:08:55 
 Author: Raymond Hettinger 
  

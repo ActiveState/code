@@ -1,4 +1,5 @@
-## Sensible Loop StatusOriginally published: 2008-10-05 02:14:52 
+## Sensible Loop Status 
+Originally published: 2008-10-05 02:14:52 
 Last updated: 2008-10-05 02:14:52 
 Author: David Lambert 
  

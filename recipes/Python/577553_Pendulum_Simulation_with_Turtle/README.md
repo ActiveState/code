@@ -1,4 +1,5 @@
-## Pendulum Simulation with TurtleOriginally published: 2011-01-27 22:59:54 
+## Pendulum Simulation with Turtle 
+Originally published: 2011-01-27 22:59:54 
 Last updated: 2011-01-27 22:59:54 
 Author: Stephen Chappell 
  

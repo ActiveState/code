@@ -1,4 +1,5 @@
-## Console (text) progress indicator classOriginally published: 2004-08-11 06:25:36 
+## Console (text) progress indicator class 
+Originally published: 2004-08-11 06:25:36 
 Last updated: 2004-08-11 06:25:36 
 Author: Larry Bates 
  

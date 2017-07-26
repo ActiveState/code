@@ -1,4 +1,5 @@
-## Function emulation using __call__Originally published: 2005-10-14 03:07:25 
+## Function emulation using __call__ 
+Originally published: 2005-10-14 03:07:25 
 Last updated: 2005-11-21 02:15:46 
 Author: Derrick Wallace 
  

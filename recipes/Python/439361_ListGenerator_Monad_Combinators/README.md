@@ -1,4 +1,5 @@
-## List/Generator Monad CombinatorsOriginally published: 2005-08-18 07:16:04 
+## List/Generator Monad Combinators 
+Originally published: 2005-08-18 07:16:04 
 Last updated: 2005-08-19 08:34:06 
 Author: Dominic Fox 
  

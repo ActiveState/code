@@ -1,4 +1,5 @@
-## Matlab-like 'spy' and 'pcolor' functionsOriginally published: 2005-03-02 15:23:38 
+## Matlab-like 'spy' and 'pcolor' functions 
+Originally published: 2005-03-02 15:23:38 
 Last updated: 2005-03-02 15:23:38 
 Author: Rick Muller 
  

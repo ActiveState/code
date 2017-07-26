@@ -1,4 +1,5 @@
-## BashReader.pyOriginally published: 2007-03-24 12:40:03 
+## BashReader.py 
+Originally published: 2007-03-24 12:40:03 
 Last updated: 2007-03-24 12:40:03 
 Author: max baseman 
  

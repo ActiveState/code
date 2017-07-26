@@ -1,4 +1,5 @@
-## Nicer struct syntax thanks to Py3 metaclassesOriginally published: 2009-02-25 07:39:52 
+## Nicer struct syntax thanks to Py3 metaclasses 
+Originally published: 2009-02-25 07:39:52 
 Last updated: 2009-02-25 07:39:52 
 Author: Daniel Brodie 
  

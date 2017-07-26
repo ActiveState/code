@@ -1,4 +1,5 @@
-## word_wrap: a module to do very simplistic word wrapping of textOriginally published: 2001-10-07 19:44:24 
+## word_wrap: a module to do very simplistic word wrapping of text 
+Originally published: 2001-10-07 19:44:24 
 Last updated: 2001-10-14 05:28:46 
 Author: Alan Eldridge 
  

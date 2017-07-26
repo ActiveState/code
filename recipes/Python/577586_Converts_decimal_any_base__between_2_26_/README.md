@@ -1,4 +1,5 @@
-## Converts from decimal to any base ( between 2 and 26 )Originally published: 2011-02-24 00:33:06 
+## Converts from decimal to any base ( between 2 and 26 ) 
+Originally published: 2011-02-24 00:33:06 
 Last updated: 2011-02-24 00:33:07 
 Author: Shashwat Anand 
  

@@ -1,4 +1,5 @@
-## Cubic spline interpolatorOriginally published: 2005-11-23 09:52:34 
+## Cubic spline interpolator 
+Originally published: 2005-11-23 09:52:34 
 Last updated: 2005-11-23 09:52:34 
 Author: Will Ware 
  

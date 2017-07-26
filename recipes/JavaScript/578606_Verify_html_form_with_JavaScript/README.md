@@ -1,4 +1,5 @@
-## Verify html form with JavaScriptOriginally published: 2013-07-15 12:18:24 
+## Verify html form with JavaScript 
+Originally published: 2013-07-15 12:18:24 
 Last updated: 2013-07-15 12:19:53 
 Author: Captain DeadBones 
  

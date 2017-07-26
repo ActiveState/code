@@ -1,4 +1,5 @@
-## HangmanOriginally published: 2014-12-24 23:24:09 
+## Hangman 
+Originally published: 2014-12-24 23:24:09 
 Last updated: 2014-12-24 23:24:09 
 Author: Malcolm Jeremy Lewis 
  

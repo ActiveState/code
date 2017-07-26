@@ -1,4 +1,5 @@
-## Simpler item retrieval using tupled subscriptingOriginally published: 2004-09-22 07:34:02 
+## Simpler item retrieval using tupled subscripting 
+Originally published: 2004-09-22 07:34:02 
 Last updated: 2004-09-25 18:56:33 
 Author: Daniel Brodie 
  

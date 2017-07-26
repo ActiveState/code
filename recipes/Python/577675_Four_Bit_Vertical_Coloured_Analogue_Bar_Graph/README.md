@@ -1,4 +1,5 @@
-## Four Bit Vertical Coloured Analogue Bar Graph Generator DEMO...Originally published: 2011-04-23 20:50:54 
+## Four Bit Vertical Coloured Analogue Bar Graph Generator DEMO... 
+Originally published: 2011-04-23 20:50:54 
 Last updated: 2011-04-23 20:50:55 
 Author: Barry Walker 
  

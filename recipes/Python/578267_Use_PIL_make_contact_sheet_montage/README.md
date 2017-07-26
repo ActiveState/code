@@ -1,4 +1,5 @@
-## Use PIL to make a "contact sheet" montage of imagesOriginally published: 2012-09-21 07:05:04 
+## Use PIL to make a "contact sheet" montage of images 
+Originally published: 2012-09-21 07:05:04 
 Last updated: 2012-09-21 11:06:58 
 Author: Hugo  
  

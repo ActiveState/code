@@ -1,4 +1,5 @@
-## subclass defaultdict to tell default_factory which key is missingOriginally published: 2009-09-27 11:43:34 
+## subclass defaultdict to tell default_factory which key is missing 
+Originally published: 2009-09-27 11:43:34 
 Last updated: 2009-09-27 12:15:27 
 Author: Mick Krippendorf 
  

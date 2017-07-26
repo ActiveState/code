@@ -1,4 +1,5 @@
-## IMAP mail server attachment handlerOriginally published: 2006-10-10 03:39:22 
+## IMAP mail server attachment handler 
+Originally published: 2006-10-10 03:39:22 
 Last updated: 2006-10-10 03:39:22 
 Author: Suresh Kumar 
  

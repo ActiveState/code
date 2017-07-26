@@ -1,4 +1,5 @@
-## A simple calculator that works with whole numbers written in C/Python.Originally published: 2008-05-16 14:07:41 
+## A simple calculator that works with whole numbers written in C/Python. 
+Originally published: 2008-05-16 14:07:41 
 Last updated: 2008-05-16 14:07:41 
 Author: Nycholas Oliveira e Oliveira 
  

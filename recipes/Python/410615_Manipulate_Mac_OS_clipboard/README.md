@@ -1,4 +1,5 @@
-## Manipulate Mac OS clipboardOriginally published: 2005-04-20 15:28:46 
+## Manipulate Mac OS clipboard 
+Originally published: 2005-04-20 15:28:46 
 Last updated: 2005-04-21 18:38:38 
 Author: Artur de Sousa Rocha 
  

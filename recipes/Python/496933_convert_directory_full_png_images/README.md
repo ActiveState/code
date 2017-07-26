@@ -1,4 +1,5 @@
-## convert a directory full of png images to a (wxPython) moduleOriginally published: 2006-08-02 06:43:56 
+## convert a directory full of png images to a (wxPython) module 
+Originally published: 2006-08-02 06:43:56 
 Last updated: 2006-08-02 06:43:56 
 Author: Egor Zindy 
  

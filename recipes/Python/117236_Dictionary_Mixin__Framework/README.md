@@ -1,4 +1,5 @@
-## Dictionary Mixin / FrameworkOriginally published: 2002-03-14 04:57:22 
+## Dictionary Mixin / Framework 
+Originally published: 2002-03-14 04:57:22 
 Last updated: 2002-03-31 15:26:44 
 Author: Raymond Hettinger 
  

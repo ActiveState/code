@@ -1,4 +1,5 @@
-## Sudoku Solver using a 3D-metaphorOriginally published: 2006-02-23 06:28:04 
+## Sudoku Solver using a 3D-metaphor 
+Originally published: 2006-02-23 06:28:04 
 Last updated: 2006-02-24 11:01:32 
 Author: Anton Vredegoor 
  

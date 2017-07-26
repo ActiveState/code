@@ -1,4 +1,5 @@
-## Bound Inner ClassesOriginally published: 2010-02-24 17:02:57 
+## Bound Inner Classes 
+Originally published: 2010-02-24 17:02:57 
 Last updated: 2013-12-10 02:36:25 
 Author: Larry Hastings 
  

@@ -1,4 +1,5 @@
-## Group a list into sequential n-tuplesOriginally published: 2004-09-02 01:40:58 
+## Group a list into sequential n-tuples 
+Originally published: 2004-09-02 01:40:58 
 Last updated: 2004-09-02 01:40:58 
 Author: Brian Quinlan 
  

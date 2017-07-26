@@ -1,4 +1,5 @@
-## Create simple PDF text calendars with xtopdfOriginally published: 2014-02-14 22:33:03 
+## Create simple PDF text calendars with xtopdf 
+Originally published: 2014-02-14 22:33:03 
 Last updated: 2014-02-14 22:33:04 
 Author: Vasudev Ram 
  

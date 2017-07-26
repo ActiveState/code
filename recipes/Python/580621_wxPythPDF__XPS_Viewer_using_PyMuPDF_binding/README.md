@@ -1,4 +1,5 @@
-## wxPython PDF / XPS Viewer using PyMuPDF (binding for fitz / MuPDF)Originally published: 2016-03-15 18:44:31 
+## wxPython PDF / XPS Viewer using PyMuPDF (binding for fitz / MuPDF) 
+Originally published: 2016-03-15 18:44:31 
 Last updated: 2016-09-28 12:21:03 
 Author: Jorj X. McKie 
  

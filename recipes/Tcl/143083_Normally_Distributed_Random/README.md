@@ -1,4 +1,5 @@
-## Normally Distributed Random NumbersOriginally published: 2002-08-06 15:34:35 
+## Normally Distributed Random Numbers 
+Originally published: 2002-08-06 15:34:35 
 Last updated: 2002-08-06 15:34:35 
 Author: William Kappele 
  

@@ -1,4 +1,5 @@
-## Simple decorator with argumentsOriginally published: 2005-12-23 22:24:08 
+## Simple decorator with arguments 
+Originally published: 2005-12-23 22:24:08 
 Last updated: 2005-12-23 22:24:08 
 Author: Peter Hunt 
  

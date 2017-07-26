@@ -1,4 +1,5 @@
-## un_comment.pyOriginally published: 2006-02-07 16:18:19 
+## un_comment.py 
+Originally published: 2006-02-07 16:18:19 
 Last updated: 2006-02-07 16:18:19 
 Author: Stephen Chappell 
  

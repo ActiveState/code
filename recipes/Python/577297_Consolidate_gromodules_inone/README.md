@@ -1,4 +1,5 @@
-## Consolidate group of modules into one recipeOriginally published: 2010-07-08 21:17:28 
+## Consolidate group of modules into one recipe 
+Originally published: 2010-07-08 21:17:28 
 Last updated: 2010-07-21 21:22:46 
 Author: Jack Trainor 
  

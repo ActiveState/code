@@ -1,4 +1,5 @@
-## Play a PLS audio stream in Windows Media PlayerOriginally published: 2008-05-07 19:38:22 
+## Play a PLS audio stream in Windows Media Player 
+Originally published: 2008-05-07 19:38:22 
 Last updated: 2008-05-07 19:38:22 
 Author: Chris Grebeldinger 
  

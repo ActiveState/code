@@ -1,4 +1,5 @@
-## Change line endingsOriginally published: 2001-07-26 08:33:02 
+## Change line endings 
+Originally published: 2001-07-26 08:33:02 
 Last updated: 2001-11-18 22:26:53 
 Author: Gordon Worley 
  

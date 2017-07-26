@@ -1,4 +1,5 @@
-## Generator for integer partitionsOriginally published: 2003-08-27 14:02:53 
+## Generator for integer partitions 
+Originally published: 2003-08-27 14:02:53 
 Last updated: 2003-08-27 14:02:53 
 Author: David Eppstein 
  

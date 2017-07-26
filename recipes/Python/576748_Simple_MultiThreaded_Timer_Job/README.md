@@ -1,4 +1,5 @@
-## Simple MultiThreaded Timer Job ControllerOriginally published: 2009-05-11 02:03:52 
+## Simple MultiThreaded Timer Job Controller 
+Originally published: 2009-05-11 02:03:52 
 Last updated: 2009-05-11 02:05:16 
 Author: sumerc  
  

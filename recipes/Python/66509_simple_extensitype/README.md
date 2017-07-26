@@ -1,4 +1,5 @@
-## A simple extension type for PythonOriginally published: 2001-08-10 13:49:19 
+## A simple extension type for Python 
+Originally published: 2001-08-10 13:49:19 
 Last updated: 2001-08-15 16:35:12 
 Author: Alex Martelli 
  

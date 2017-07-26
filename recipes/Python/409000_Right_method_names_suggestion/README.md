@@ -1,4 +1,5 @@
-## Right method names suggestionOriginally published: 2005-04-06 14:03:04 
+## Right method names suggestion 
+Originally published: 2005-04-06 14:03:04 
 Last updated: 2006-02-06 21:45:56 
 Author: bearophile - 
  

@@ -1,4 +1,5 @@
-## Iterating over fixed size blocksOriginally published: 2008-01-12 17:58:28 
+## Iterating over fixed size blocks 
+Originally published: 2008-01-12 17:58:28 
 Last updated: 2008-01-12 17:58:28 
 Author: George Sakkis 
  

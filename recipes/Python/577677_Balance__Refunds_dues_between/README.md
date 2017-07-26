@@ -1,4 +1,5 @@
-## Balance / Refunds of dues between friendsOriginally published: 2011-04-26 16:07:41 
+## Balance / Refunds of dues between friends 
+Originally published: 2011-04-26 16:07:41 
 Last updated: 2011-04-26 16:11:15 
 Author: Raphaël Jolivet 
  

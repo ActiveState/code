@@ -1,4 +1,5 @@
-## Windows ConsoleOriginally published: 2004-04-21 06:58:52 
+## Windows Console 
+Originally published: 2004-04-21 06:58:52 
 Last updated: 2004-04-26 08:06:32 
 Author: Michael Foord 
  

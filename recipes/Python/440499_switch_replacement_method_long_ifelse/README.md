@@ -1,4 +1,5 @@
-## switch replacement method for long if-else blocksOriginally published: 2005-08-31 12:34:17 
+## switch replacement method for long if-else blocks 
+Originally published: 2005-08-31 12:34:17 
 Last updated: 2005-08-31 12:34:17 
 Author: Kiran Pashikanti 
  

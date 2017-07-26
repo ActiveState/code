@@ -1,4 +1,5 @@
-## Finding the value passed for a particular parameter to a function by nameOriginally published: 2006-09-12 11:01:44 
+## Finding the value passed for a particular parameter to a function by name 
+Originally published: 2006-09-12 11:01:44 
 Last updated: 2006-09-14 15:57:06 
 Author: Jacob Smullyan 
  

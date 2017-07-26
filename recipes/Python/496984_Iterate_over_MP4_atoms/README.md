@@ -1,4 +1,5 @@
-## Iterate over .MP4 atomsOriginally published: 2006-08-23 14:56:34 
+## Iterate over .MP4 atoms 
+Originally published: 2006-08-23 14:56:34 
 Last updated: 2006-08-23 14:56:34 
 Author: Christos Georgiou 
  

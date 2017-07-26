@@ -1,4 +1,5 @@
-## simple ldap with pythonOriginally published: 2004-09-03 09:35:09 
+## simple ldap with python 
+Originally published: 2004-09-03 09:35:09 
 Last updated: 2004-09-03 09:35:09 
 Author: John Nielsen 
  

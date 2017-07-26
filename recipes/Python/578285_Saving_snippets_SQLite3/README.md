@@ -1,4 +1,5 @@
-## Saving snippets to SQLite3 databaseOriginally published: 2012-10-12 12:46:23 
+## Saving snippets to SQLite3 database 
+Originally published: 2012-10-12 12:46:23 
 Last updated: 2014-07-30 07:23:36 
 Author: p@ntut$  
  

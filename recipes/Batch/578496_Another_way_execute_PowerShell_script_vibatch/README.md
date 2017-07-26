@@ -1,4 +1,5 @@
-## Another way execute PowerShell script via batch fileOriginally published: 2013-03-19 15:57:45 
+## Another way execute PowerShell script via batch file 
+Originally published: 2013-03-19 15:57:45 
 Last updated: 2013-10-10 16:24:14 
 Author: greg zakharov 
  

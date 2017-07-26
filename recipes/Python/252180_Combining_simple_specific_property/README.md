@@ -1,4 +1,5 @@
-## Combining simple and specific property creationOriginally published: 2003-11-28 13:16:44 
+## Combining simple and specific property creation 
+Originally published: 2003-11-28 13:16:44 
 Last updated: 2003-11-28 13:16:44 
 Author: Sean Ross 
  

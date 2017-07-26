@@ -1,4 +1,5 @@
-## Simple Audio Capture For Windows...Originally published: 2014-10-17 14:39:16 
+## Simple Audio Capture For Windows... 
+Originally published: 2014-10-17 14:39:16 
 Last updated: 2014-10-17 14:39:16 
 Author: Barry Walker 
  

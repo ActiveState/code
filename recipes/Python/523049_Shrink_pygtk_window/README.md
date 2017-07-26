@@ -1,4 +1,5 @@
-## Shrink pygtk windowOriginally published: 2007-07-16 05:10:49 
+## Shrink pygtk window 
+Originally published: 2007-07-16 05:10:49 
 Last updated: 2007-07-16 05:10:49 
 Author: Dima Tisnek 
  

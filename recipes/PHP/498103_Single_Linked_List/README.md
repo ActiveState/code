@@ -1,4 +1,5 @@
-## Single Linked ListOriginally published: 2006-09-15 06:24:06 
+## Single Linked List 
+Originally published: 2006-09-15 06:24:06 
 Last updated: 2006-10-09 11:52:45 
 Author: Andre Wanderley de Souza 
  

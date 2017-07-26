@@ -1,4 +1,5 @@
-## pick all combinations of items in bucketsOriginally published: 2015-09-05 07:36:01 
+## pick all combinations of items in buckets 
+Originally published: 2015-09-05 07:36:01 
 Last updated: 2015-09-05 07:39:42 
 Author: yota  
  

@@ -1,4 +1,5 @@
-## Functions with Strictly Typed ArgumentsOriginally published: 2004-10-31 23:27:02 
+## Functions with Strictly Typed Arguments 
+Originally published: 2004-10-31 23:27:02 
 Last updated: 2004-11-05 08:32:24 
 Author: S W 
  

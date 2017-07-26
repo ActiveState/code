@@ -1,4 +1,5 @@
-## How __slots__ are implementedOriginally published: 2007-09-24 20:03:32 
+## How __slots__ are implemented 
+Originally published: 2007-09-24 20:03:32 
 Last updated: 2007-09-25 22:48:21 
 Author: Raymond Hettinger 
  

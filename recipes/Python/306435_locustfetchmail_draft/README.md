@@ -1,4 +1,5 @@
-## locust_fetchmail draftOriginally published: 2004-09-29 20:55:54 
+## locust_fetchmail draft 
+Originally published: 2004-09-29 20:55:54 
 Last updated: 2004-09-29 20:55:54 
 Author: binto widodo 
  

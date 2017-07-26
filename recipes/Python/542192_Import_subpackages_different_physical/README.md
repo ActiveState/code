@@ -1,4 +1,5 @@
-## Import of subpackages from different physical locationsOriginally published: 2008-01-10 06:03:03 
+## Import of subpackages from different physical locations 
+Originally published: 2008-01-10 06:03:03 
 Last updated: 2008-01-10 06:03:03 
 Author: Dirk Holtwick 
  

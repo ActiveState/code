@@ -1,4 +1,5 @@
-## Generating random intergers within a range of max & min.Originally published: 2003-03-04 09:58:21 
+## Generating random intergers within a range of max & min. 
+Originally published: 2003-03-04 09:58:21 
 Last updated: 2003-03-04 09:58:21 
 Author: Dom Lam 
  

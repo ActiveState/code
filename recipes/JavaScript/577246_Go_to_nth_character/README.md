@@ -1,4 +1,5 @@
-## Go to nth characterOriginally published: 2010-05-27 13:43:59 
+## Go to nth character 
+Originally published: 2010-05-27 13:43:59 
 Last updated: 2010-05-27 13:44:00 
 Author: Glenn Jenkins 
  

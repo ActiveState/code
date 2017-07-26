@@ -1,4 +1,5 @@
-## Recursive nlst() [was: FTP Directory Tree Retrieval]Originally published: 2004-03-22 23:21:56 
+## Recursive nlst() [was: FTP Directory Tree Retrieval] 
+Originally published: 2004-03-22 23:21:56 
 Last updated: 2006-07-27 14:27:13 
 Author: Rich Krauter 
  

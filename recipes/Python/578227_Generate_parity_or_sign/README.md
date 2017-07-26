@@ -1,4 +1,5 @@
-## Generate the parity or sign of a permutationOriginally published: 2012-07-28 07:21:49 
+## Generate the parity or sign of a permutation 
+Originally published: 2012-07-28 07:21:49 
 Last updated: 2012-07-28 07:21:49 
 Author: Paddy McCarthy 
  

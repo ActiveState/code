@@ -1,4 +1,5 @@
-## Synchronization classes using decoratorsOriginally published: 2007-10-06 06:25:48 
+## Synchronization classes using decorators 
+Originally published: 2007-10-06 06:25:48 
 Last updated: 2007-10-08 19:15:42 
 Author: Anand  
  

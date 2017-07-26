@@ -1,4 +1,5 @@
-## Executing VBScript without creation of itOriginally published: 2012-11-15 15:59:58 
+## Executing VBScript without creation of it 
+Originally published: 2012-11-15 15:59:58 
 Last updated: 2013-10-10 16:20:45 
 Author: greg zakharov 
  

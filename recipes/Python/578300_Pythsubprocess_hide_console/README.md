@@ -1,4 +1,5 @@
-## Python subprocess: hide console on WindowsOriginally published: 2012-10-22 16:06:30 
+## Python subprocess: hide console on Windows 
+Originally published: 2012-10-22 16:06:30 
 Last updated: 2013-07-29 05:33:49 
 Author: Esteban Castro Borsani 
  

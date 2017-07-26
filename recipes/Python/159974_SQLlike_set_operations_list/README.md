@@ -1,4 +1,5 @@
-## SQL-like set operations with list comprehension one-liners.Originally published: 2002-10-30 05:52:05 
+## SQL-like set operations with list comprehension one-liners. 
+Originally published: 2002-10-30 05:52:05 
 Last updated: 2002-11-12 11:12:28 
 Author: Attila Vásárhelyi 
  

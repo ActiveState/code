@@ -1,4 +1,5 @@
-## Importing any file without modifying sys.pathOriginally published: 2002-10-28 10:08:43 
+## Importing any file without modifying sys.path 
+Originally published: 2002-10-28 10:08:43 
 Last updated: 2002-10-28 10:08:43 
 Author: Walter Dörwald 
  

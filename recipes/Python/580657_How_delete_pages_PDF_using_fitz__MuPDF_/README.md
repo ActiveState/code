@@ -1,4 +1,5 @@
-## How to delete pages in a PDF using fitz / MuPDF / PyMuPDFOriginally published: 2016-05-01 09:26:43 
+## How to delete pages in a PDF using fitz / MuPDF / PyMuPDF 
+Originally published: 2016-05-01 09:26:43 
 Last updated: 2016-05-01 09:26:44 
 Author: Jorj X. McKie 
  

@@ -1,4 +1,5 @@
-## Converting XML to Dictionary and backOriginally published: 2008-06-19 09:42:58 
+## Converting XML to Dictionary and back 
+Originally published: 2008-06-19 09:42:58 
 Last updated: 2009-01-15 11:42:18 
 Author: Cory Fabre 
  

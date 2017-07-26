@@ -1,4 +1,5 @@
-## Name a lambdaOriginally published: 2014-07-02 20:54:00 
+## Name a lambda 
+Originally published: 2014-07-02 20:54:00 
 Last updated: 2014-07-02 20:54:01 
 Author: David Weil 
  

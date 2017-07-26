@@ -1,4 +1,5 @@
-## Using Python for ClearCase triggersOriginally published: 2003-06-03 16:24:16 
+## Using Python for ClearCase triggers 
+Originally published: 2003-06-03 16:24:16 
 Last updated: 2003-06-03 16:24:16 
 Author: Magnus Lyckå 
  

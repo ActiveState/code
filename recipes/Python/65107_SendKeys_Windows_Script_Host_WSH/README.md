@@ -1,4 +1,5 @@
-## SendKeys from the Windows Script Host (WSH) COMOriginally published: 2001-06-08 10:41:35 
+## SendKeys from the Windows Script Host (WSH) COM 
+Originally published: 2001-06-08 10:41:35 
 Last updated: 2001-06-08 10:41:35 
 Author: Kevin Altis 
  

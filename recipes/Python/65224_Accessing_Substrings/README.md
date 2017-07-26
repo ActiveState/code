@@ -1,4 +1,5 @@
-## Accessing SubstringsOriginally published: 2001-06-18 05:01:58 
+## Accessing Substrings 
+Originally published: 2001-06-18 05:01:58 
 Last updated: 2001-06-18 05:01:58 
 Author: Alex Martelli 
  

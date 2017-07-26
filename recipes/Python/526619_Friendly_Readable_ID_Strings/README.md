@@ -1,4 +1,5 @@
-## Friendly Readable ID StringsOriginally published: 2007-08-08 06:46:04 
+## Friendly Readable ID Strings 
+Originally published: 2007-08-08 06:46:04 
 Last updated: 2007-08-10 14:27:52 
 Author: Robin Parmar 
  

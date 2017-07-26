@@ -1,4 +1,5 @@
-## Repeat procedure every X secondsOriginally published: 2001-09-10 15:20:39 
+## Repeat procedure every X seconds 
+Originally published: 2001-09-10 15:20:39 
 Last updated: 2001-09-10 15:20:39 
 Author: Jeff Hobbs 
  

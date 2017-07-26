@@ -1,4 +1,5 @@
-## Verify Username and Password Using a File for StorageOriginally published: 2013-01-31 02:11:24 
+## Verify Username and Password Using a File for Storage 
+Originally published: 2013-01-31 02:11:24 
 Last updated: 2013-01-31 02:11:24 
 Author: Captain DeadBones 
  

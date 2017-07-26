@@ -1,4 +1,5 @@
-## List iterator with advance() and regress().Originally published: 2002-08-02 08:31:54 
+## List iterator with advance() and regress(). 
+Originally published: 2002-08-02 08:31:54 
 Last updated: 2002-08-02 08:31:54 
 Author: Michael Chermside 
  

@@ -1,4 +1,5 @@
-## Maclaurin's_series_sinhOriginally published: 2010-07-07 12:08:34 
+## Maclaurin's_series_sinh 
+Originally published: 2010-07-07 12:08:34 
 Last updated: 2010-07-07 12:08:34 
 Author: Fouad Teniou 
  

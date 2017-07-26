@@ -1,4 +1,5 @@
-## Lego Mindstorms Bluetooth interfaceOriginally published: 2006-09-08 18:21:06 
+## Lego Mindstorms Bluetooth interface 
+Originally published: 2006-09-08 18:21:06 
 Last updated: 2006-09-13 00:29:50 
 Author: Justin Shaw 
  

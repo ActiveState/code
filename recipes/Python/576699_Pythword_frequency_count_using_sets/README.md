@@ -1,4 +1,5 @@
-## Python word frequency count using sets and listsOriginally published: 2009-03-26 23:00:54 
+## Python word frequency count using sets and lists 
+Originally published: 2009-03-26 23:00:54 
 Last updated: 2009-03-26 23:00:54 
 Author: nick  
  

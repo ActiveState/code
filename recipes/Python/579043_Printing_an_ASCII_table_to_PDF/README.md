@@ -1,4 +1,5 @@
-## Printing an ASCII table to PDFOriginally published: 2015-04-02 18:38:03 
+## Printing an ASCII table to PDF 
+Originally published: 2015-04-02 18:38:03 
 Last updated: 2015-04-02 18:38:04 
 Author: Vasudev Ram 
  

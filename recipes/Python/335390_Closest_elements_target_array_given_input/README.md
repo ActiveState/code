@@ -1,4 +1,5 @@
-## Closest elements in a target array for a given input arrayOriginally published: 2004-11-12 12:29:20 
+## Closest elements in a target array for a given input array 
+Originally published: 2004-11-12 12:29:20 
 Last updated: 2004-11-12 12:29:20 
 Author: Gerry Wiener 
  

@@ -1,4 +1,5 @@
-## Partitioning a sequence by a conditional functionOriginally published: 2008-03-01 13:58:25 
+## Partitioning a sequence by a conditional function 
+Originally published: 2008-03-01 13:58:25 
 Last updated: 2008-03-01 13:58:25 
 Author: Aaron Gallagher 
  

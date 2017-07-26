@@ -1,4 +1,5 @@
-## Extending the 'logging' moduleOriginally published: 2006-02-26 16:56:35 
+## Extending the 'logging' module 
+Originally published: 2006-02-26 16:56:35 
 Last updated: 2006-02-27 00:57:54 
 Author: Ori Peleg 
  

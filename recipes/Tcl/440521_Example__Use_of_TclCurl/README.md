@@ -1,4 +1,5 @@
-## Example - Use of TclCurl.Originally published: 2005-09-05 03:21:47 
+## Example - Use of TclCurl. 
+Originally published: 2005-09-05 03:21:47 
 Last updated: 2005-09-05 03:21:47 
 Author: Patrick Finnegan 
  

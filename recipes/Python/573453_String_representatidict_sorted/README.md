@@ -1,4 +1,5 @@
-## String representation of a dict (sorted by key)Originally published: 2008-06-16 13:37:45 
+## String representation of a dict (sorted by key) 
+Originally published: 2008-06-16 13:37:45 
 Last updated: 2008-06-16 13:37:45 
 Author: Jacob Oscarson 
  

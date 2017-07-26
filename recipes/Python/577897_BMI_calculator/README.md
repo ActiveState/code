@@ -1,4 +1,5 @@
-## BMI calculatorOriginally published: 2011-10-08 20:03:41 
+## BMI calculator 
+Originally published: 2011-10-08 20:03:41 
 Last updated: 2011-10-14 16:20:29 
 Author: Alexander Thomas Cruz 
  

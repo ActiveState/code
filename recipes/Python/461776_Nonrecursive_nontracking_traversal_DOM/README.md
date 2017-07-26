@@ -1,4 +1,5 @@
-## Non-recursive (and non-tracking) traversal of a (DOM) treeOriginally published: 2005-12-08 08:25:14 
+## Non-recursive (and non-tracking) traversal of a (DOM) tree 
+Originally published: 2005-12-08 08:25:14 
 Last updated: 2005-12-14 16:57:54 
 Author: Henry James 
  

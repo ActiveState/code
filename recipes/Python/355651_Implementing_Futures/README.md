@@ -1,4 +1,5 @@
-## Implementing "Future"s with decoratorsOriginally published: 2004-12-05 19:13:08 
+## Implementing "Future"s with decorators 
+Originally published: 2004-12-05 19:13:08 
 Last updated: 2004-12-30 05:26:18 
 Author: Justin Shaw 
  

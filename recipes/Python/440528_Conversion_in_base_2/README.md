@@ -1,4 +1,5 @@
-## Conversion in base 2Originally published: 2005-09-06 13:02:44 
+## Conversion in base 2 
+Originally published: 2005-09-06 13:02:44 
 Last updated: 2005-09-06 20:06:48 
 Author: bearophile - 
  

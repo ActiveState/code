@@ -1,4 +1,5 @@
-## View an image URL with Jython and SwingOriginally published: 2003-11-17 21:15:57 
+## View an image URL with Jython and Swing 
+Originally published: 2003-11-17 21:15:57 
 Last updated: 2003-11-29 05:12:14 
 Author: Joel Lawhead 
  

@@ -1,4 +1,5 @@
-## Patch extension binaries compiled for previous (different) Python versionOriginally published: 2009-08-09 17:59:37 
+## Patch extension binaries compiled for previous (different) Python version 
+Originally published: 2009-08-09 17:59:37 
 Last updated: 2010-03-12 15:50:04 
 Author: Denis Barmenkov 
  

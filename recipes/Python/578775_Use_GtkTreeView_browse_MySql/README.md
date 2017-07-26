@@ -1,4 +1,5 @@
-## Use Gtk.TreeView to browse MySql databasesOriginally published: 2013-11-27 14:06:20 
+## Use Gtk.TreeView to browse MySql databases 
+Originally published: 2013-11-27 14:06:20 
 Last updated: 2013-11-27 14:06:20 
 Author: Anonimista  
  

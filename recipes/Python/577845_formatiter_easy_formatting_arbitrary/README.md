@@ -1,4 +1,5 @@
-## format_iter: easy formatting of arbitrary iterablesOriginally published: 2011-08-16 03:42:00 
+## format_iter: easy formatting of arbitrary iterables 
+Originally published: 2011-08-16 03:42:00 
 Last updated: 2011-08-16 11:44:59 
 Author: Nick Coghlan 
  

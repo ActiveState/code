@@ -1,4 +1,5 @@
-## pseudo-random stringOriginally published: 2009-04-21 18:42:25 
+## pseudo-random string 
+Originally published: 2009-04-21 18:42:25 
 Last updated: 2009-04-21 18:56:01 
 Author: Patrick Ramsey 
  

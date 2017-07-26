@@ -1,4 +1,5 @@
-## Quantum SuperpositionOriginally published: 2003-11-14 09:37:53 
+## Quantum Superposition 
+Originally published: 2003-11-14 09:37:53 
 Last updated: 2003-11-14 18:13:04 
 Author: Stephan Diehl 
  

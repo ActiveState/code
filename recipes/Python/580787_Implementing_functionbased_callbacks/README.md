@@ -1,4 +1,5 @@
-## Implementing function-based callbacks in PythonOriginally published: 2017-04-19 17:58:24 
+## Implementing function-based callbacks in Python 
+Originally published: 2017-04-19 17:58:24 
 Last updated: 2017-04-19 18:03:11 
 Author: Vasudev Ram 
  

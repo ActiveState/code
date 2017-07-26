@@ -1,4 +1,5 @@
-## Manage hashes in database files.Originally published: 2012-03-20 01:08:15 
+## Manage hashes in database files. 
+Originally published: 2012-03-20 01:08:15 
 Last updated: 2012-03-20 01:08:15 
 Author: cathy park 
  

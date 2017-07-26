@@ -1,4 +1,5 @@
-## Decrypt a PDF using fitz / MuPDF (PyMuPDF)Originally published: 2016-03-17 12:20:13 
+## Decrypt a PDF using fitz / MuPDF (PyMuPDF) 
+Originally published: 2016-03-17 12:20:13 
 Last updated: 2016-03-17 12:22:10 
 Author: Harald Lieder 
  

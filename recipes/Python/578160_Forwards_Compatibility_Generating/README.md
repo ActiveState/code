@@ -1,4 +1,5 @@
-## Forwards Compatibility; Generating A Function On The Fly...Originally published: 2012-06-06 17:16:27 
+## Forwards Compatibility; Generating A Function On The Fly... 
+Originally published: 2012-06-06 17:16:27 
 Last updated: 2012-06-06 17:16:27 
 Author: Barry Walker 
  

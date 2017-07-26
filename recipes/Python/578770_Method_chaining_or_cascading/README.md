@@ -1,4 +1,5 @@
-## Method chaining or cascadingOriginally published: 2013-11-22 11:13:24 
+## Method chaining or cascading 
+Originally published: 2013-11-22 11:13:24 
 Last updated: 2016-09-01 12:34:17 
 Author: Steven D'Aprano 
  

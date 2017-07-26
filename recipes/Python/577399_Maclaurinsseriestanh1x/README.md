@@ -1,4 +1,5 @@
-## Maclaurin's_series_tanh-1(x)Originally published: 2010-09-21 11:29:21 
+## Maclaurin's_series_tanh-1(x) 
+Originally published: 2010-09-21 11:29:21 
 Last updated: 2010-09-28 11:50:45 
 Author: Fouad Teniou 
  

@@ -1,4 +1,5 @@
-## Word count and length with map and lambdaOriginally published: 2013-02-26 18:49:37 
+## Word count and length with map and lambda 
+Originally published: 2013-02-26 18:49:37 
 Last updated: 2013-02-26 18:49:38 
 Author: Michael Thamm 
  

@@ -1,4 +1,5 @@
-## Implementing an Immutable DictionaryOriginally published: 2006-09-06 04:57:33 
+## Implementing an Immutable Dictionary 
+Originally published: 2006-09-06 04:57:33 
 Last updated: 2007-06-13 09:23:09 
 Author: Aristotelis Mikropoulos 
  

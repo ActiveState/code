@@ -1,4 +1,5 @@
-## Getting a value from a dictionaryOriginally published: 2001-05-29 09:51:54 
+## Getting a value from a dictionary 
+Originally published: 2001-05-29 09:51:54 
 Last updated: 2001-05-29 09:51:54 
 Author: andy mckay 
  

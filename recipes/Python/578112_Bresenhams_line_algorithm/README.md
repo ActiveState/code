@@ -1,4 +1,5 @@
-## Bresenham's line algorithm in n-dimensionsOriginally published: 2012-04-25 21:44:27 
+## Bresenham's line algorithm in n-dimensions 
+Originally published: 2012-04-25 21:44:27 
 Last updated: 2012-05-16 16:15:04 
 Author: Vikas Dhiman 
  

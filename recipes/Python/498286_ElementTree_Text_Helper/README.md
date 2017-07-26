@@ -1,4 +1,5 @@
-## ElementTree Text HelperOriginally published: 2006-11-24 01:36:50 
+## ElementTree Text Helper 
+Originally published: 2006-11-24 01:36:50 
 Last updated: 2006-11-29 22:20:13 
 Author: Raymond Hettinger 
  

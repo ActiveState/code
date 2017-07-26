@@ -1,4 +1,5 @@
-## Fixing Thunderbird addressbook LDIF exportOriginally published: 2006-04-03 22:46:47 
+## Fixing Thunderbird addressbook LDIF export 
+Originally published: 2006-04-03 22:46:47 
 Last updated: 2006-04-03 22:46:47 
 Author: Sanghyeon Seo 
  

@@ -1,4 +1,5 @@
-## Decoding Binary FilesOriginally published: 2011-03-14 23:59:45 
+## Decoding Binary Files 
+Originally published: 2011-03-14 23:59:45 
 Last updated: 2011-03-15 00:11:10 
 Author: Yony Kochinski 
  

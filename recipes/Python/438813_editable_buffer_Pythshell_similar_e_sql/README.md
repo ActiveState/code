@@ -1,4 +1,5 @@
-## An editable buffer for the Python shell (similar to '\\e' on sql prompts)Originally published: 2005-08-05 06:55:43 
+## An editable buffer for the Python shell (similar to '\\e' on sql prompts) 
+Originally published: 2005-08-05 06:55:43 
 Last updated: 2005-08-05 06:55:43 
 Author: lonetwin  
  

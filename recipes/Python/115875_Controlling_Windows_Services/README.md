@@ -1,4 +1,5 @@
-## Controlling Windows ServicesOriginally published: 2002-02-22 14:42:23 
+## Controlling Windows Services 
+Originally published: 2002-02-22 14:42:23 
 Last updated: 2010-09-27 11:39:52 
 Author: ap anonypea 
  

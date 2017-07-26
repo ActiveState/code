@@ -1,4 +1,5 @@
-## PyHeartbeat - detecting inactive computersOriginally published: 2001-03-26 03:55:09 
+## PyHeartbeat - detecting inactive computers 
+Originally published: 2001-03-26 03:55:09 
 Last updated: 2004-09-16 18:52:39 
 Author: Nicola Larosa 
  

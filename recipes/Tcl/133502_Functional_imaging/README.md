@@ -1,4 +1,5 @@
-## Functional imagingOriginally published: 2002-06-17 15:00:37 
+## Functional imaging 
+Originally published: 2002-06-17 15:00:37 
 Last updated: 2002-06-17 15:00:37 
 Author: andreas kupries 
  

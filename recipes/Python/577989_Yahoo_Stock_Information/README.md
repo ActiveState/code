@@ -1,4 +1,5 @@
-## Yahoo Stock InformationOriginally published: 2011-12-18 22:30:26 
+## Yahoo Stock Information 
+Originally published: 2011-12-18 22:30:26 
 Last updated: 2012-08-25 17:16:47 
 Author: Alexander James Wallar 
  

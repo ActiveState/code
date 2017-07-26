@@ -1,4 +1,5 @@
-## indefinite currying decorator with greedy call and up front args checkingOriginally published: 2011-10-28 06:51:31 
+## indefinite currying decorator with greedy call and up front args checking 
+Originally published: 2011-10-28 06:51:31 
 Last updated: 2011-10-28 22:05:55 
 Author: Przemyslaw Podczasi 
  

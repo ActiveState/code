@@ -1,4 +1,5 @@
-## Testing for an empty iteratorOriginally published: 2005-05-09 06:17:51 
+## Testing for an empty iterator 
+Originally published: 2005-05-09 06:17:51 
 Last updated: 2005-05-17 15:51:08 
 Author: Michael Chermside 
  

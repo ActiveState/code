@@ -1,4 +1,5 @@
-## Josephus problemOriginally published: 2011-08-13 23:17:26 
+## Josephus problem 
+Originally published: 2011-08-13 23:17:26 
 Last updated: 2011-08-13 23:17:27 
 Author: Giannis Fysakis 
  

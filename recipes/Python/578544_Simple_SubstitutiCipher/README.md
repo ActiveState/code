@@ -1,4 +1,5 @@
-## Simple Substitution Cipher AlgorithmOriginally published: 2013-06-03 17:51:00 
+## Simple Substitution Cipher Algorithm 
+Originally published: 2013-06-03 17:51:00 
 Last updated: 2013-06-03 17:51:00 
 Author: Captain DeadBones 
  

@@ -1,4 +1,5 @@
-## cookielib ExampleOriginally published: 2004-09-01 03:51:38 
+## cookielib Example 
+Originally published: 2004-09-01 03:51:38 
 Last updated: 2004-12-28 11:26:41 
 Author: Michael Foord 
  

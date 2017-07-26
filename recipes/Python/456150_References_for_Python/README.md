@@ -1,4 +1,5 @@
-## References for Python.Originally published: 2005-11-15 18:29:49 
+## References for Python. 
+Originally published: 2005-11-15 18:29:49 
 Last updated: 2005-11-15 18:29:49 
 Author: Mike Meyer 
  

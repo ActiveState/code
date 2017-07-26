@@ -1,4 +1,5 @@
-## Dynamic generation of a dispatcher classOriginally published: 2001-10-22 05:35:34 
+## Dynamic generation of a dispatcher class 
+Originally published: 2001-10-22 05:35:34 
 Last updated: 2001-10-22 05:35:34 
 Author: Sylvain Thenault 
  

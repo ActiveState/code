@@ -1,4 +1,5 @@
-## Rendering Arbitrary Objects with CherryPyOriginally published: 2005-10-11 22:41:16 
+## Rendering Arbitrary Objects with CherryPy 
+Originally published: 2005-10-11 22:41:16 
 Last updated: 2005-10-11 22:41:16 
 Author: Christian Wyglendowski 
  

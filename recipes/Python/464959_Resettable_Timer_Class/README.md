@@ -1,4 +1,5 @@
-## Resettable Timer ClassOriginally published: 2005-12-17 18:23:25 
+## Resettable Timer Class 
+Originally published: 2005-12-17 18:23:25 
 Last updated: 2005-12-18 22:24:29 
 Author: James Stroud 
  

@@ -1,4 +1,5 @@
-## Minimal console pythonOriginally published: 2011-03-23 20:17:52 
+## Minimal console python 
+Originally published: 2011-03-23 20:17:52 
 Last updated: 2011-03-23 20:17:53 
 Author: jrovegno  
  

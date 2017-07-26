@@ -1,4 +1,5 @@
-## A Simpler Namespace ClassOriginally published: 2012-05-22 14:31:07 
+## A Simpler Namespace Class 
+Originally published: 2012-05-22 14:31:07 
 Last updated: 2013-02-14 17:42:24 
 Author: Eric Snow 
  

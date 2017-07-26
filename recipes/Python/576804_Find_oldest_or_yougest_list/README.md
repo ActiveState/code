@@ -1,4 +1,5 @@
-## Find the oldest (or yougest) of a list of filesOriginally published: 2009-06-10 16:08:13 
+## Find the oldest (or yougest) of a list of files 
+Originally published: 2009-06-10 16:08:13 
 Last updated: 2009-06-10 16:08:13 
 Author: Micah Elliott 
  

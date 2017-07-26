@@ -1,4 +1,5 @@
-## Tcl WSCP Deployment ScriptOriginally published: 2002-09-26 21:04:23 
+## Tcl WSCP Deployment Script 
+Originally published: 2002-09-26 21:04:23 
 Last updated: 2002-09-26 21:04:23 
 Author: Patrick Finnegan 
  

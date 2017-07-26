@@ -1,4 +1,5 @@
-## Simple Linear Regression with Pure PythonOriginally published: 2014-07-31 15:55:14 
+## Simple Linear Regression with Pure Python 
+Originally published: 2014-07-31 15:55:14 
 Last updated: 2014-07-31 15:55:15 
 Author: Chaobin Tang (唐超斌) 
  

@@ -1,4 +1,5 @@
-## Sudoku SolverOriginally published: 2005-09-09 22:37:53 
+## Sudoku Solver 
+Originally published: 2005-09-09 22:37:53 
 Last updated: 2005-09-13 01:35:30 
 Author: Justin Shaw 
  

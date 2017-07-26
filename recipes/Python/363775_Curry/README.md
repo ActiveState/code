@@ -1,4 +1,5 @@
-## CurryOriginally published: 2005-01-19 10:00:40 
+## Curry 
+Originally published: 2005-01-19 10:00:40 
 Last updated: 2005-01-19 18:02:22 
 Author: Shannon -jj Behrens 
  

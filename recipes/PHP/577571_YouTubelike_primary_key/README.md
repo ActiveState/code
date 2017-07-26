@@ -1,4 +1,5 @@
-## YouTube-like primary key generationOriginally published: 2011-02-11 00:53:32 
+## YouTube-like primary key generation 
+Originally published: 2011-02-11 00:53:32 
 Last updated: 2011-02-24 21:43:55 
 Author: Slava Yanson 
  

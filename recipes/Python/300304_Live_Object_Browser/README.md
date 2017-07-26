@@ -1,4 +1,5 @@
-## Live Object BrowserOriginally published: 2004-08-18 16:22:16 
+## Live Object Browser 
+Originally published: 2004-08-18 16:22:16 
 Last updated: 2004-08-18 16:22:16 
 Author: Simon Burton 
  

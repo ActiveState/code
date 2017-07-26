@@ -1,4 +1,5 @@
-## Benchmark code with the with statementOriginally published: 2011-10-08 09:53:05 
+## Benchmark code with the with statement 
+Originally published: 2011-10-08 09:53:05 
 Last updated: 2011-10-08 09:53:06 
 Author: Steven D'Aprano 
  

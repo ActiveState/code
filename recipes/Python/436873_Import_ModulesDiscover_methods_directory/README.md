@@ -1,4 +1,5 @@
-## Import Modules/Discover methods from a directory nameOriginally published: 2005-07-14 08:55:00 
+## Import Modules/Discover methods from a directory name 
+Originally published: 2005-07-14 08:55:00 
 Last updated: 2005-07-15 13:15:48 
 Author: Jesse Noller 
  

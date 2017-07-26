@@ -1,4 +1,5 @@
-## Automatic attribute assignmentOriginally published: 2008-03-11 14:25:40 
+## Automatic attribute assignment 
+Originally published: 2008-03-11 14:25:40 
 Last updated: 2008-03-11 14:25:40 
 Author: Arnaud Delobelle 
  

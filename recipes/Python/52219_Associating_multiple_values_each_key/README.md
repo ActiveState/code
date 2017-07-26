@@ -1,4 +1,5 @@
-## Associating multiple values with each key in a dictionary.Originally published: 2001-03-09 18:37:31 
+## Associating multiple values with each key in a dictionary. 
+Originally published: 2001-03-09 18:37:31 
 Last updated: 2001-03-09 18:37:31 
 Author: Michael Chermside 
  

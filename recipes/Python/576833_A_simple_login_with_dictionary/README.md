@@ -1,4 +1,5 @@
-## A simple login with dictionaryOriginally published: 2009-07-06 14:38:46 
+## A simple login with dictionary 
+Originally published: 2009-07-06 14:38:46 
 Last updated: 2009-07-06 14:38:46 
 Author: Christopher Scott 
  

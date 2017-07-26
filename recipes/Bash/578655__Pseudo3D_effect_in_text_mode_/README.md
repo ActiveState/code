@@ -1,4 +1,5 @@
-##  Pseudo-3D effect in text mode... Originally published: 2013-09-10 21:23:57 
+##  Pseudo-3D effect in text mode...  
+Originally published: 2013-09-10 21:23:57 
 Last updated: 2013-09-10 21:23:58 
 Author: Barry Walker 
  

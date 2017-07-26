@@ -1,4 +1,5 @@
-## Useful Unrestricted Grammar Originally published: 2012-03-27 19:30:46 
+## Useful Unrestricted Grammar  
+Originally published: 2012-03-27 19:30:46 
 Last updated: 2012-03-27 19:30:47 
 Author: Shea Kauffman 
  

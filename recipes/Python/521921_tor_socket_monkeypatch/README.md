@@ -1,4 +1,5 @@
-## tor socket monkeypatchOriginally published: 2007-06-21 01:05:41 
+## tor socket monkeypatch 
+Originally published: 2007-06-21 01:05:41 
 Last updated: 2007-06-21 08:10:06 
 Author: Andrew Moffat 
  

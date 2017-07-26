@@ -1,4 +1,5 @@
-## A Simple ZODB viewer in wxPythonOriginally published: 2005-04-08 06:39:18 
+## A Simple ZODB viewer in wxPython 
+Originally published: 2005-04-08 06:39:18 
 Last updated: 2005-04-08 18:52:41 
 Author: Chris Cioffi 
  

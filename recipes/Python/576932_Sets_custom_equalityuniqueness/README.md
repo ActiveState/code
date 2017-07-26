@@ -1,4 +1,5 @@
-## Sets with a custom equality/uniqueness functionOriginally published: 2009-10-18 13:13:45 
+## Sets with a custom equality/uniqueness function 
+Originally published: 2009-10-18 13:13:45 
 Last updated: 2009-10-29 21:08:22 
 Author: Gabriel Genellina 
  

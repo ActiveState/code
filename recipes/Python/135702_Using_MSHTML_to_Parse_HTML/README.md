@@ -1,4 +1,5 @@
-## Using MSHTML to Parse HTMLOriginally published: 2002-06-26 13:28:46 
+## Using MSHTML to Parse HTML 
+Originally published: 2002-06-26 13:28:46 
 Last updated: 2002-06-26 13:28:46 
 Author: Bill Bell 
  

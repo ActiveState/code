@@ -1,4 +1,5 @@
-## YARW - Yet Another Registry WrapperOriginally published: 2006-04-04 23:53:56 
+## YARW - Yet Another Registry Wrapper 
+Originally published: 2006-04-04 23:53:56 
 Last updated: 2006-04-05 07:13:16 
 Author: Anand  
  

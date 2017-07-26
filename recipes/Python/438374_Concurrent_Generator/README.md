@@ -1,4 +1,5 @@
-## Concurrent GeneratorOriginally published: 2005-07-25 06:37:32 
+## Concurrent Generator 
+Originally published: 2005-07-25 06:37:32 
 Last updated: 2005-07-25 06:37:32 
 Author: Calvin Spealman 
  

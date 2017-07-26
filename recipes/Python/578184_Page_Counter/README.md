@@ -1,4 +1,5 @@
-## Page CounterOriginally published: 2012-07-02 22:41:43 
+## Page Counter 
+Originally published: 2012-07-02 22:41:43 
 Last updated: 2012-07-02 22:41:43 
 Author: Stephen Chappell 
  

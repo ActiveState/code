@@ -1,4 +1,5 @@
-## Self-recursive generatorsOriginally published: 2003-09-13 15:06:06 
+## Self-recursive generators 
+Originally published: 2003-09-13 15:06:06 
 Last updated: 2003-09-13 15:06:06 
 Author: David Eppstein 
  

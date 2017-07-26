@@ -1,4 +1,5 @@
-## Generator Coroutine Access to Its Own HandleOriginally published: 2006-09-27 07:32:12 
+## Generator Coroutine Access to Its Own Handle 
+Originally published: 2006-09-27 07:32:12 
 Last updated: 2006-09-27 07:32:12 
 Author: Doug Fort 
  

@@ -1,4 +1,5 @@
-## Retry Decorator in PythonOriginally published: 2017-01-11 10:09:17 
+## Retry Decorator in Python 
+Originally published: 2017-01-11 10:09:17 
 Last updated: 2017-01-11 10:10:30 
 Author: Alfe  
  

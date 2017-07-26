@@ -1,4 +1,5 @@
-## Convert PDF to TIFF on Mac OS XOriginally published: 2003-09-17 05:37:12 
+## Convert PDF to TIFF on Mac OS X 
+Originally published: 2003-09-17 05:37:12 
 Last updated: 2003-09-17 05:37:12 
 Author: Dinu Gherman 
  

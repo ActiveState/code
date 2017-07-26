@@ -1,4 +1,5 @@
-## Function Decorators by Hacking BytecodesOriginally published: 2004-06-18 03:51:10 
+## Function Decorators by Hacking Bytecodes 
+Originally published: 2004-06-18 03:51:10 
 Last updated: 2004-06-18 10:57:33 
 Author: Sami Hangaslammi 
  

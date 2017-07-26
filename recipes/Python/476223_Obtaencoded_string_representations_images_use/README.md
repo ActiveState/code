@@ -1,4 +1,5 @@
-## Obtain encoded string representations of images, for use in your appsOriginally published: 2006-04-03 18:15:55 
+## Obtain encoded string representations of images, for use in your apps 
+Originally published: 2006-04-03 18:15:55 
 Last updated: 2006-04-03 18:15:55 
 Author: stewart midwinter 
  

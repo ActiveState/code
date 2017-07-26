@@ -1,4 +1,5 @@
-## Gimp Paperwhite ScriptfuOriginally published: 2014-03-25 10:17:06 
+## Gimp Paperwhite Scriptfu 
+Originally published: 2014-03-25 10:17:06 
 Last updated: 2014-03-25 10:17:07 
 Author: Alfe  
  

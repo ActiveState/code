@@ -1,4 +1,5 @@
-## Largest int supported by a platform, and the number of bits per intOriginally published: 2002-08-21 16:24:52 
+## Largest int supported by a platform, and the number of bits per int 
+Originally published: 2002-08-21 16:24:52 
 Last updated: 2002-08-21 16:24:52 
 Author: andreas kupries 
  

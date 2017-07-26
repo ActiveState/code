@@ -1,4 +1,5 @@
-## Saving backups when writing filesOriginally published: 2001-03-26 10:58:04 
+## Saving backups when writing files 
+Originally published: 2001-03-26 10:58:04 
 Last updated: 2001-05-08 23:12:33 
 Author: Mitch Chapman 
  

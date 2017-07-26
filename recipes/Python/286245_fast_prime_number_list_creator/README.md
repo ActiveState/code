@@ -1,4 +1,5 @@
-## fast prime number list creatorOriginally published: 2004-07-17 09:12:38 
+## fast prime number list creator 
+Originally published: 2004-07-17 09:12:38 
 Last updated: 2004-07-17 09:12:38 
 Author: Kazuo Moriwaka 
  

@@ -1,4 +1,5 @@
-## sorting  -- old to new python 2.4 style (heapq,bisect,list.sort keywords,itemgetter)Originally published: 2004-09-17 13:35:44 
+## sorting  -- old to new python 2.4 style (heapq,bisect,list.sort keywords,itemgetter) 
+Originally published: 2004-09-17 13:35:44 
 Last updated: 2006-09-13 12:28:57 
 Author: John Nielsen 
  

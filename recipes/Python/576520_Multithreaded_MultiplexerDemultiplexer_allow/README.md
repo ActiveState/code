@@ -1,4 +1,5 @@
-## Multithreaded Multiplexer/Demultiplexer to allow multiple transactions to be performed in parallel on a single channelOriginally published: 2008-10-01 16:21:26 
+## Multithreaded Multiplexer/Demultiplexer to allow multiple transactions to be performed in parallel on a single channel 
+Originally published: 2008-10-01 16:21:26 
 Last updated: 2008-10-04 00:12:00 
 Author: david decotigny 
  

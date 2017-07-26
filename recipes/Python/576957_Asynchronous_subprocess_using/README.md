@@ -1,4 +1,5 @@
-## Asynchronous subprocess using asyncoreOriginally published: 2009-11-13 11:04:37 
+## Asynchronous subprocess using asyncore 
+Originally published: 2009-11-13 11:04:37 
 Last updated: 2013-01-21 19:51:00 
 Author: Glenn Eychaner 
  

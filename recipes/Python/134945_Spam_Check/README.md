@@ -1,4 +1,5 @@
-## Spam CheckOriginally published: 2002-06-21 16:39:50 
+## Spam Check 
+Originally published: 2002-06-21 16:39:50 
 Last updated: 2002-06-21 23:46:45 
 Author: Frank Fejes 
  

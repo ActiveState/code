@@ -1,4 +1,5 @@
-## A memoize decorator for instance methodsOriginally published: 2010-11-03 20:26:10 
+## A memoize decorator for instance methods 
+Originally published: 2010-11-03 20:26:10 
 Last updated: 2010-11-04 20:23:35 
 Author: Daniel Miller 
  

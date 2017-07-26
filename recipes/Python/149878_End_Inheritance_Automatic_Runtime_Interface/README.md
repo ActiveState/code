@@ -1,4 +1,5 @@
-## The End of Inheritance: Automatic Run-time Interface Building for Aggregated ObjectsOriginally published: 2002-09-15 16:20:13 
+## The End of Inheritance: Automatic Run-time Interface Building for Aggregated Objects 
+Originally published: 2002-09-15 16:20:13 
 Last updated: 2002-09-15 16:20:13 
 Author: Paul Baranowski 
  

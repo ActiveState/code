@@ -1,4 +1,5 @@
-## Easy interact with Mac Os user,Originally published: 2004-09-05 16:26:58 
+## Easy interact with Mac Os user, 
+Originally published: 2004-09-05 16:26:58 
 Last updated: 2004-09-05 16:26:58 
 Author: Matteo Rattotti 
  

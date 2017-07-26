@@ -1,4 +1,5 @@
-## use modules generated with SWIG in a multi-thread environmentOriginally published: 2001-03-21 15:43:24 
+## use modules generated with SWIG in a multi-thread environment 
+Originally published: 2001-03-21 15:43:24 
 Last updated: 2001-03-21 15:43:24 
 Author: Joe VanAndel 
  

@@ -1,4 +1,5 @@
-## Simple Average CalculationOriginally published: 2005-10-02 18:35:19 
+## Simple Average Calculation 
+Originally published: 2005-10-02 18:35:19 
 Last updated: 2012-07-11 12:27:59 
 Author: Stephen Chappell 
  

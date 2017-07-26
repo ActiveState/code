@@ -1,4 +1,5 @@
-## "Oneliner" for reverse/sort/extend strings/tuple/lists NOT in placeOriginally published: 2002-04-04 16:40:10 
+## "Oneliner" for reverse/sort/extend strings/tuple/lists NOT in place 
+Originally published: 2002-04-04 16:40:10 
 Last updated: 2002-04-07 03:51:55 
 Author: H. Krekel 
  

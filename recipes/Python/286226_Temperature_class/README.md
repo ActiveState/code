@@ -1,4 +1,5 @@
-## Temperature classOriginally published: 2004-07-12 09:43:25 
+## Temperature class 
+Originally published: 2004-07-12 09:43:25 
 Last updated: 2004-07-13 14:03:46 
 Author: Artur de Sousa Rocha 
  

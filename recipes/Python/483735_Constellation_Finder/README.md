@@ -1,4 +1,5 @@
-## Constellation FinderOriginally published: 2006-04-06 15:35:21 
+## Constellation Finder 
+Originally published: 2006-04-06 15:35:21 
 Last updated: 2006-04-06 22:42:16 
 Author: Stephen Chappell 
  

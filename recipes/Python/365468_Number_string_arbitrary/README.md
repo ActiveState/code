@@ -1,4 +1,5 @@
-## Number to string in arbitrary baseOriginally published: 2005-02-02 04:56:21 
+## Number to string in arbitrary base 
+Originally published: 2005-02-02 04:56:21 
 Last updated: 2005-02-02 04:56:21 
 Author: Nick Coghlan 
  

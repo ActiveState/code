@@ -1,4 +1,5 @@
-## Convert from decimal to any base numberOriginally published: 2001-06-14 21:26:23 
+## Convert from decimal to any base number 
+Originally published: 2001-06-14 21:26:23 
 Last updated: 2004-06-30 20:33:14 
 Author: Brett Cannon 
  

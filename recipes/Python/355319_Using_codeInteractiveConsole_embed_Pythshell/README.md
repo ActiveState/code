@@ -1,4 +1,5 @@
-## Using code.InteractiveConsole to embed a Python shell in a user interfaceOriginally published: 2004-12-02 10:07:39 
+## Using code.InteractiveConsole to embed a Python shell in a user interface 
+Originally published: 2004-12-02 10:07:39 
 Last updated: 2004-12-02 10:07:39 
 Author: Rick Muller 
  

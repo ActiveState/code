@@ -1,4 +1,5 @@
-## Mazovia encoding for Polish text from MS-DOS eraOriginally published: 2012-02-15 09:24:12 
+## Mazovia encoding for Polish text from MS-DOS era 
+Originally published: 2012-02-15 09:24:12 
 Last updated: 2012-02-15 09:24:13 
 Author: Michal Niklas 
  

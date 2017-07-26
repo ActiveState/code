@@ -1,4 +1,5 @@
-## decorator: suppressableOriginally published: 2007-02-10 17:06:32 
+## decorator: suppressable 
+Originally published: 2007-02-10 17:06:32 
 Last updated: 2007-02-11 01:16:47 
 Author: Andrew Moffat 
  

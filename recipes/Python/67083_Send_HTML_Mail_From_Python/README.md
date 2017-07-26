@@ -1,4 +1,5 @@
-## Send HTML Mail From PythonOriginally published: 2001-08-21 14:36:21 
+## Send HTML Mail From Python 
+Originally published: 2001-08-21 14:36:21 
 Last updated: 2001-08-21 14:36:21 
 Author: Art Gillespie 
  

@@ -1,4 +1,5 @@
-## Taxi Fare SplitterOriginally published: 2012-04-27 02:10:55 
+## Taxi Fare Splitter 
+Originally published: 2012-04-27 02:10:55 
 Last updated: 2012-04-27 02:10:56 
 Author: James Coliins 
  

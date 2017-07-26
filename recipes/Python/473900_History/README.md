@@ -1,4 +1,5 @@
-## History and completion for the python shellOriginally published: 2006-02-17 18:43:19 
+## History and completion for the python shell 
+Originally published: 2006-02-17 18:43:19 
 Last updated: 2006-02-17 18:43:19 
 Author: Vinko Vrsalovic 
  

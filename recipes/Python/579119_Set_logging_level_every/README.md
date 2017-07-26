@@ -1,4 +1,5 @@
-## Set the logging level to every loggerOriginally published: 2015-10-28 23:16:25 
+## Set the logging level to every logger 
+Originally published: 2015-10-28 23:16:25 
 Last updated: 2015-10-28 23:16:26 
 Author: Tim McNamara 
  

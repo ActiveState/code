@@ -1,4 +1,5 @@
-## Gravity Simulation AppletOriginally published: 2010-03-26 17:39:37 
+## Gravity Simulation Applet 
+Originally published: 2010-03-26 17:39:37 
 Last updated: 2010-03-26 17:50:43 
 Author: FB36  
  

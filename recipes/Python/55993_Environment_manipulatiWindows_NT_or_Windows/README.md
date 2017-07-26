@@ -1,4 +1,5 @@
-## Environment manipulation on Windows NT or Windows 2000Originally published: 2001-05-21 07:29:37 
+## Environment manipulation on Windows NT or Windows 2000 
+Originally published: 2001-05-21 07:29:37 
 Last updated: 2001-05-23 10:41:10 
 Author: Wolfgang Strobl 
  

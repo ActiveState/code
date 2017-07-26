@@ -1,4 +1,5 @@
-## All k-subsets from an n-set.Originally published: 2007-01-20 11:37:11 
+## All k-subsets from an n-set. 
+Originally published: 2007-01-20 11:37:11 
 Last updated: 2007-01-20 11:37:11 
 Author: Justin Shaw 
  

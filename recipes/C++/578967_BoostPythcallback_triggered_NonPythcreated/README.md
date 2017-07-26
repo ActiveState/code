@@ -1,4 +1,5 @@
-## Boost::Python callback triggered from Non-Python created threadsOriginally published: 2014-11-20 20:00:26 
+## Boost::Python callback triggered from Non-Python created threads 
+Originally published: 2014-11-20 20:00:26 
 Last updated: 2014-11-20 20:00:27 
 Author: Tomáš Rampas 
  

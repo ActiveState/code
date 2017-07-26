@@ -1,4 +1,5 @@
-## Dynamically change the Python system pathOriginally published: 2001-04-10 11:23:47 
+## Dynamically change the Python system path 
+Originally published: 2001-04-10 11:23:47 
 Last updated: 2001-10-16 17:04:08 
 Author: Robin Parmar 
  

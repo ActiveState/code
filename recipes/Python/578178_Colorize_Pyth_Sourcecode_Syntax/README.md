@@ -1,4 +1,5 @@
-## Colorize Python -- Sourcecode Syntax HighlightingOriginally published: 2012-06-30 23:34:21 
+## Colorize Python -- Sourcecode Syntax Highlighting 
+Originally published: 2012-06-30 23:34:21 
 Last updated: 2012-07-21 02:46:37 
 Author: Raymond Hettinger 
  

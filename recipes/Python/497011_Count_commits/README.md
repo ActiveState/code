@@ -1,4 +1,5 @@
-## Count commits to a Subversion repositoryOriginally published: 2006-08-31 13:53:36 
+## Count commits to a Subversion repository 
+Originally published: 2006-08-31 13:53:36 
 Last updated: 2006-08-31 13:53:36 
 Author: Ori Peleg 
  

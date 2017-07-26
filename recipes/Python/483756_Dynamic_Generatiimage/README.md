@@ -1,4 +1,5 @@
-## Dynamic Generation of image labelsOriginally published: 2006-04-11 11:24:02 
+## Dynamic Generation of image labels 
+Originally published: 2006-04-11 11:24:02 
 Last updated: 2006-04-11 11:24:02 
 Author: Rodrigo Senra 
  

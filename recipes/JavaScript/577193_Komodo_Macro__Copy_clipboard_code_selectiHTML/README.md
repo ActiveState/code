@@ -1,4 +1,5 @@
-## Komodo Macro - Copy to clipboard code selection in HTML formatOriginally published: 2010-04-14 07:17:04 
+## Komodo Macro - Copy to clipboard code selection in HTML format 
+Originally published: 2010-04-14 07:17:04 
 Last updated: 2010-04-14 07:17:59 
 Author: Davide Ficano 
  

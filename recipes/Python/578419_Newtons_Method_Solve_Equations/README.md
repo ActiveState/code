@@ -1,4 +1,5 @@
-## Newton's Method to Solve Equations in PythonOriginally published: 2013-01-16 16:40:55 
+## Newton's Method to Solve Equations in Python 
+Originally published: 2013-01-16 16:40:55 
 Last updated: 2013-01-16 16:40:55 
 Author: Captain DeadBones 
  

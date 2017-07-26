@@ -1,4 +1,5 @@
-## modal wxPython with Twisted for XML-RPCOriginally published: 2003-06-02 22:49:33 
+## modal wxPython with Twisted for XML-RPC 
+Originally published: 2003-06-02 22:49:33 
 Last updated: 2003-06-04 08:22:07 
 Author: Andrew Dalke 
  

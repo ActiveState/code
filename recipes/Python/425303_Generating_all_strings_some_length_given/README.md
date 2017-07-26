@@ -1,4 +1,5 @@
-## Generating all strings of some length of a given alphabetOriginally published: 2005-06-09 15:46:46 
+## Generating all strings of some length of a given alphabet 
+Originally published: 2005-06-09 15:46:46 
 Last updated: 2005-06-16 10:29:52 
 Author: Yuce Tekol 
  

@@ -1,4 +1,5 @@
-## Creature Population SimulatorOriginally published: 2012-08-16 03:16:23 
+## Creature Population Simulator 
+Originally published: 2012-08-16 03:16:23 
 Last updated: 2012-08-16 03:16:24 
 Author: Stephen Chappell 
  

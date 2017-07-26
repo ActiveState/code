@@ -1,4 +1,5 @@
-## Cleaning up when killedOriginally published: 2007-09-27 10:33:56 
+## Cleaning up when killed 
+Originally published: 2007-09-27 10:33:56 
 Last updated: 2007-09-27 10:33:56 
 Author: Miki Tebeka 
  

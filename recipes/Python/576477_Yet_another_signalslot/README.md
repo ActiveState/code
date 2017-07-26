@@ -1,4 +1,5 @@
-## Yet another signal/slot implementation in PythonOriginally published: 2008-09-01 23:21:28 
+## Yet another signal/slot implementation in Python 
+Originally published: 2008-09-01 23:21:28 
 Last updated: 2008-09-01 23:21:28 
 Author: Thiago Marcos P. Santos 
  

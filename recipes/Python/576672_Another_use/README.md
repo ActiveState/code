@@ -1,4 +1,5 @@
-## Another use for lambdas and function referencesOriginally published: 2009-02-27 06:20:33 
+## Another use for lambdas and function references 
+Originally published: 2009-02-27 06:20:33 
 Last updated: 2009-02-27 06:20:33 
 Author: Kaushik Ghose 
  

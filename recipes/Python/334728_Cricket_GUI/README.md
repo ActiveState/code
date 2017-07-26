@@ -1,4 +1,5 @@
-## Cricket GUIOriginally published: 2004-11-08 07:43:56 
+## Cricket GUI 
+Originally published: 2004-11-08 07:43:56 
 Last updated: 2004-11-08 07:43:56 
 Author: David Holland 
  

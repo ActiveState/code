@@ -1,4 +1,5 @@
-## rdd (mostly broken but shows how to do a few things in ruby)Originally published: 2012-02-06 04:44:06 
+## rdd (mostly broken but shows how to do a few things in ruby) 
+Originally published: 2012-02-06 04:44:06 
 Last updated: 2014-07-12 16:58:06 
 Author: Mike 'Fuzzy' Partin 
  

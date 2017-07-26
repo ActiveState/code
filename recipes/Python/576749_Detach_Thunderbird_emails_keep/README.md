@@ -1,4 +1,5 @@
-## Detach Thunderbird emails and keep linksOriginally published: 2009-05-11 02:38:47 
+## Detach Thunderbird emails and keep links 
+Originally published: 2009-05-11 02:38:47 
 Last updated: 2009-05-11 02:38:47 
 Author: Jice Clavier 
  

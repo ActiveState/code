@@ -1,4 +1,5 @@
-## strsignalOriginally published: 2014-06-29 15:47:23 
+## strsignal 
+Originally published: 2014-06-29 15:47:23 
 Last updated: 2014-06-29 15:47:24 
 Author: Zack Weinberg 
  

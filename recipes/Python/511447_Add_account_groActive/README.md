@@ -1,4 +1,5 @@
-## Add account to group in Active DirectoryOriginally published: 2007-04-03 13:23:44 
+## Add account to group in Active Directory 
+Originally published: 2007-04-03 13:23:44 
 Last updated: 2007-04-03 22:13:42 
 Author: Thomas Dimson 
  

@@ -1,4 +1,5 @@
-## The classmethod implementation of the singleton patternOriginally published: 2002-02-11 20:09:58 
+## The classmethod implementation of the singleton pattern 
+Originally published: 2002-02-11 20:09:58 
 Last updated: 2002-02-11 20:09:58 
 Author: Justin Shaw 
  

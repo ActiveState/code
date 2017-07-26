@@ -1,4 +1,5 @@
-## Pyliner - Script to run arbitrary Python code on the command lineOriginally published: 2010-02-28 19:31:26 
+## Pyliner - Script to run arbitrary Python code on the command line 
+Originally published: 2010-02-28 19:31:26 
 Last updated: 2011-07-29 13:22:54 
 Author: Drew Gulino 
  

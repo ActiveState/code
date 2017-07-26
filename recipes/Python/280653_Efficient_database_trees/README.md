@@ -1,4 +1,5 @@
-## Efficient database treesOriginally published: 2004-04-28 03:32:24 
+## Efficient database trees 
+Originally published: 2004-04-28 03:32:24 
 Last updated: 2004-04-28 10:48:08 
 Author: Ben Young 
  

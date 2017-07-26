@@ -1,4 +1,5 @@
-## Adding SQLite sign() functionOriginally published: 2005-07-29 09:17:43 
+## Adding SQLite sign() function 
+Originally published: 2005-07-29 09:17:43 
 Last updated: 2005-07-29 16:34:42 
 Author: David S 
  

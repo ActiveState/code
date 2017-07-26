@@ -1,4 +1,5 @@
-## Finding significant digitsOriginally published: 2005-03-17 20:54:45 
+## Finding significant digits 
+Originally published: 2005-03-17 20:54:45 
 Last updated: 2007-09-05 19:14:04 
 Author: David Eyk 
  

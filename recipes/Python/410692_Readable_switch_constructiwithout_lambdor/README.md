@@ -1,4 +1,5 @@
-## Readable switch construction without lambdas or dictionariesOriginally published: 2005-04-25 07:30:27 
+## Readable switch construction without lambdas or dictionaries 
+Originally published: 2005-04-25 07:30:27 
 Last updated: 2005-04-26 10:51:04 
 Author: Brian Beck 
  

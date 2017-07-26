@@ -1,4 +1,5 @@
-## Using Metaclasses and Class Decorators to Inherit Function DocstringsOriginally published: 2011-06-08 23:31:51 
+## Using Metaclasses and Class Decorators to Inherit Function Docstrings 
+Originally published: 2011-06-08 23:31:51 
 Last updated: 2011-06-11 00:59:35 
 Author: Eric Snow 
  

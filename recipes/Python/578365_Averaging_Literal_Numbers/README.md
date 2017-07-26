@@ -1,4 +1,5 @@
-## Averaging Literal NumbersOriginally published: 2012-12-06 13:44:41 
+## Averaging Literal Numbers 
+Originally published: 2012-12-06 13:44:41 
 Last updated: 2012-12-06 13:44:42 
 Author: Stephen Chappell 
  

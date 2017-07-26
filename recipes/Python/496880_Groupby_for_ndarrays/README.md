@@ -1,4 +1,5 @@
-## Groupby for ndarrays.Originally published: 2006-07-11 15:19:09 
+## Groupby for ndarrays. 
+Originally published: 2006-07-11 15:19:09 
 Last updated: 2006-07-11 15:19:09 
 Author: Alexander Ross 
  

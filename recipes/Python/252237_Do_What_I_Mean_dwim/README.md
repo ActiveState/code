@@ -1,4 +1,5 @@
-## Do What I Mean (dwim)Originally published: 2003-12-01 11:03:28 
+## Do What I Mean (dwim) 
+Originally published: 2003-12-01 11:03:28 
 Last updated: 2003-12-03 19:06:00 
 Author: Kendall Clark 
  

@@ -1,4 +1,5 @@
-## The Singleton Pattern implemented with PythonOriginally published: 2001-04-05 13:51:14 
+## The Singleton Pattern implemented with Python 
+Originally published: 2001-04-05 13:51:14 
 Last updated: 2001-04-05 21:21:30 
 Author: Jürgen Hermann 
  

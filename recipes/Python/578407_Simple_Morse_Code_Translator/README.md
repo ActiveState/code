@@ -1,4 +1,5 @@
-## Simple Morse Code Translator in PythonOriginally published: 2013-01-08 18:02:46 
+## Simple Morse Code Translator in Python 
+Originally published: 2013-01-08 18:02:46 
 Last updated: 2013-01-08 18:02:46 
 Author: Captain DeadBones 
  

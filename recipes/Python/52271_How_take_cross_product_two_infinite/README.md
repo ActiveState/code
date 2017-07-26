@@ -1,4 +1,5 @@
-## How to take the "cross product" of two infinite sequencesOriginally published: 2001-03-16 01:48:55 
+## How to take the "cross product" of two infinite sequences 
+Originally published: 2001-03-16 01:48:55 
 Last updated: 2001-03-16 01:48:55 
 Author: Danny Yoo 
  

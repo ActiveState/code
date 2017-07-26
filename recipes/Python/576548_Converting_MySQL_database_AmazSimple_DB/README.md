@@ -1,4 +1,5 @@
-## Converting MySQL database to an Amazon Simple DB databaseOriginally published: 2008-10-31 11:55:16 
+## Converting MySQL database to an Amazon Simple DB database 
+Originally published: 2008-10-31 11:55:16 
 Last updated: 2008-10-31 11:55:16 
 Author: Chris McAvoy 
  

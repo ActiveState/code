@@ -1,4 +1,5 @@
-## zip_exc(), a lazy zip() that ensures that all iterables have the same lengthOriginally published: 2006-08-31 03:12:12 
+## zip_exc(), a lazy zip() that ensures that all iterables have the same length 
+Originally published: 2006-08-31 03:12:12 
 Last updated: 2006-08-31 03:12:12 
 Author: Peter Otten 
  

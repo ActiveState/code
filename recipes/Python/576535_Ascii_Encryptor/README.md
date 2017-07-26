@@ -1,4 +1,5 @@
-## Ascii EncryptorOriginally published: 2008-10-10 10:53:04 
+## Ascii Encryptor 
+Originally published: 2008-10-10 10:53:04 
 Last updated: 2008-10-10 10:53:04 
 Author: Erik Anderson 
  

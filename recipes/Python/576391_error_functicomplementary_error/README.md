@@ -1,4 +1,5 @@
-## error function and complementary error functionOriginally published: 2008-07-29 13:24:33 
+## error function and complementary error function 
+Originally published: 2008-07-29 13:24:33 
 Last updated: 2008-07-29 13:24:33 
 Author: nirinA raseliarison 
  

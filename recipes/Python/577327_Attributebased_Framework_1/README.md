@@ -1,4 +1,5 @@
-## Attribute-based Framework 1: BasicsOriginally published: 2010-07-21 21:37:46 
+## Attribute-based Framework 1: Basics 
+Originally published: 2010-07-21 21:37:46 
 Last updated: 2010-07-21 21:40:54 
 Author: Jack Trainor 
  

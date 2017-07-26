@@ -1,4 +1,5 @@
-## EOQOriginally published: 2009-02-12 03:36:48 
+## EOQ 
+Originally published: 2009-02-12 03:36:48 
 Last updated: 2009-02-17 03:20:33 
 Author: Fouad Teniou 
  

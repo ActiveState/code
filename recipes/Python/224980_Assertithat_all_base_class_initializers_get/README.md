@@ -1,4 +1,5 @@
-## Assertion that all base class initializers get called (metaclass solution)Originally published: 2003-09-26 02:54:29 
+## Assertion that all base class initializers get called (metaclass solution) 
+Originally published: 2003-09-26 02:54:29 
 Last updated: 2003-09-29 19:46:17 
 Author: Hannu Kankaanpää 
  

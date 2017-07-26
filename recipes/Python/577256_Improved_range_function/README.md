@@ -1,4 +1,5 @@
-## Improved range functionOriginally published: 2010-06-05 18:21:01 
+## Improved range function 
+Originally published: 2010-06-05 18:21:01 
 Last updated: 2010-06-07 01:50:20 
 Author: Sunjay Varma 
  

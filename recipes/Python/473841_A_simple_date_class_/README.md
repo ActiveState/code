@@ -1,4 +1,5 @@
-## A simple date class ...Originally published: 2006-02-04 13:28:48 
+## A simple date class ... 
+Originally published: 2006-02-04 13:28:48 
 Last updated: 2006-02-04 13:28:48 
 Author: Stephen Chappell 
  

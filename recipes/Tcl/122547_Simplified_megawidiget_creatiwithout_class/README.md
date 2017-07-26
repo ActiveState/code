@@ -1,4 +1,5 @@
-## Simplified mega-widiget creation without class librariesOriginally published: 2002-04-25 03:34:24 
+## Simplified mega-widiget creation without class libraries 
+Originally published: 2002-04-25 03:34:24 
 Last updated: 2003-08-08 20:16:55 
 Author: Michael Kirkham 
  

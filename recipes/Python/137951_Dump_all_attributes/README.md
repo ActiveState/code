@@ -1,4 +1,5 @@
-## Dump all the attributes of an objectOriginally published: 2002-07-05 23:05:49 
+## Dump all the attributes of an object 
+Originally published: 2002-07-05 23:05:49 
 Last updated: 2002-07-05 23:05:49 
 Author: Philip Kromer 
  

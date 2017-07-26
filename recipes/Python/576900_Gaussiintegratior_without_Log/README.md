@@ -1,4 +1,5 @@
-## Gaussian integration with or without Log singularityOriginally published: 2009-09-09 21:03:10 
+## Gaussian integration with or without Log singularity 
+Originally published: 2009-09-09 21:03:10 
 Last updated: 2009-09-09 21:03:10 
 Author: Gabriel Genellina 
  

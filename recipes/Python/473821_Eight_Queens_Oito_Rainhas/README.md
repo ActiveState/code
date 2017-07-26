@@ -1,4 +1,5 @@
-## Eight Queens <Oito Rainhas>Originally published: 2006-02-02 05:01:57 
+## Eight Queens <Oito Rainhas> 
+Originally published: 2006-02-02 05:01:57 
 Last updated: 2006-02-06 09:54:22 
 Author: Nycholas Oliveira e Oliveira 
  

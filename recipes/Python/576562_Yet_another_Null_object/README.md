@@ -1,4 +1,5 @@
-## Yet another Null objectOriginally published: 2008-11-11 15:24:20 
+## Yet another Null object 
+Originally published: 2008-11-11 15:24:20 
 Last updated: 2008-11-11 15:24:20 
 Author: George Sakkis 
  

@@ -1,4 +1,5 @@
-## Text transformer with conditionsOriginally published: 2005-09-05 06:39:59 
+## Text transformer with conditions 
+Originally published: 2005-09-05 06:39:59 
 Last updated: 2005-09-05 06:39:59 
 Author: Baiju M 
  

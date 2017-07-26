@@ -1,4 +1,5 @@
-## Checked exceptionsOriginally published: 2006-09-23 03:57:21 
+## Checked exceptions 
+Originally published: 2006-09-23 03:57:21 
 Last updated: 2006-09-23 13:55:13 
 Author: kay schluehr 
  

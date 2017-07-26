@@ -1,4 +1,5 @@
-## List wrapper for generators (indexable, subscriptable)Originally published: 2007-10-15 13:25:13 
+## List wrapper for generators (indexable, subscriptable) 
+Originally published: 2007-10-15 13:25:13 
 Last updated: 2007-10-19 08:53:32 
 Author: Florian Leitner 
  

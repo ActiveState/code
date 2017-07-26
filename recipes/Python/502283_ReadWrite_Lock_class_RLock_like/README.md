@@ -1,4 +1,5 @@
-## Read-Write Lock class, RLock likeOriginally published: 2007-03-06 14:11:59 
+## Read-Write Lock class, RLock like 
+Originally published: 2007-03-06 14:11:59 
 Last updated: 2007-03-06 14:11:59 
 Author: Heiko Wundram 
  

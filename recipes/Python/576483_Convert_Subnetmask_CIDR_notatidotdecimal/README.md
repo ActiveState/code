@@ -1,4 +1,5 @@
-## Convert Subnetmask from CIDR notation to dot.decimal formOriginally published: 2008-09-03 02:09:47 
+## Convert Subnetmask from CIDR notation to dot.decimal form 
+Originally published: 2008-09-03 02:09:47 
 Last updated: 2008-09-03 02:11:01 
 Author: gerontosepp  
  

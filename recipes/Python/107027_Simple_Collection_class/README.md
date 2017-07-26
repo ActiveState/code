@@ -1,4 +1,5 @@
-## Simple Collection classOriginally published: 2002-01-11 10:00:34 
+## Simple Collection class 
+Originally published: 2002-01-11 10:00:34 
 Last updated: 2002-01-11 10:00:34 
 Author: skip  
  

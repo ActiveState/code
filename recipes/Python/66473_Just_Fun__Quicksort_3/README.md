@@ -1,4 +1,5 @@
-## Just For Fun:  Quicksort in 3 LinesOriginally published: 2001-08-07 13:30:53 
+## Just For Fun:  Quicksort in 3 Lines 
+Originally published: 2001-08-07 13:30:53 
 Last updated: 2001-08-07 20:58:18 
 Author: Nathan Gray 
  

@@ -1,4 +1,5 @@
-## One liner to generate the cross product of an arbitraty number of setsOriginally published: 2002-10-30 06:36:48 
+## One liner to generate the cross product of an arbitraty number of sets 
+Originally published: 2002-10-30 06:36:48 
 Last updated: 2002-10-30 06:36:48 
 Author: Attila Vásárhelyi 
  

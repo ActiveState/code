@@ -1,4 +1,5 @@
-## Parallelize your shell commandsOriginally published: 2010-03-31 18:16:17 
+## Parallelize your shell commands 
+Originally published: 2010-03-31 18:16:17 
 Last updated: 2010-04-02 00:14:38 
 Author: Kevin L. Sitze 
  

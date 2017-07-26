@@ -1,4 +1,5 @@
-## Sending Email in PythonOriginally published: 2013-02-24 13:47:00 
+## Sending Email in Python 
+Originally published: 2013-02-24 13:47:00 
 Last updated: 2013-02-24 13:47:01 
 Author: James Mills 
  

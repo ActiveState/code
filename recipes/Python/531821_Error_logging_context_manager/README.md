@@ -1,4 +1,5 @@
-## Error logging with context manager and decoratorOriginally published: 2007-09-19 06:52:58 
+## Error logging with context manager and decorator 
+Originally published: 2007-09-19 06:52:58 
 Last updated: 2007-09-19 06:52:58 
 Author: Kent Johnson 
  

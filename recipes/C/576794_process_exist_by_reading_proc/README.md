@@ -1,4 +1,5 @@
-## process exist? by reading /procOriginally published: 2009-06-03 20:34:50 
+## process exist? by reading /proc 
+Originally published: 2009-06-03 20:34:50 
 Last updated: 2009-06-03 20:34:50 
 Author: J Y 
  

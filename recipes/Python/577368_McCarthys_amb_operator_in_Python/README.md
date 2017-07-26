@@ -1,4 +1,5 @@
-## McCarthy's amb operator in PythonOriginally published: 2010-08-23 22:41:52 
+## McCarthy's amb operator in Python 
+Originally published: 2010-08-23 22:41:52 
 Last updated: 2010-08-23 22:41:53 
 Author: Paddy McCarthy 
  

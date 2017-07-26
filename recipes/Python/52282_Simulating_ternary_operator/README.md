@@ -1,4 +1,5 @@
-## Simulating the ternary operator in PythonOriginally published: 2001-03-19 13:06:05 
+## Simulating the ternary operator in Python 
+Originally published: 2001-03-19 13:06:05 
 Last updated: 2001-03-19 13:06:05 
 Author: Jürgen Hermann 
  

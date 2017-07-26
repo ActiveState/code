@@ -1,4 +1,5 @@
-## Use try/except to handle unexpected input from raw_input.Originally published: 2001-12-10 20:10:09 
+## Use try/except to handle unexpected input from raw_input. 
+Originally published: 2001-12-10 20:10:09 
 Last updated: 2001-12-10 20:10:09 
 Author: philip nunez 
  

@@ -1,4 +1,5 @@
-## Hanoi Towers solver wxPythonOriginally published: 2010-12-21 17:35:59 
+## Hanoi Towers solver wxPython 
+Originally published: 2010-12-21 17:35:59 
 Last updated: 2010-12-21 21:11:33 
 Author: A. Polino 
  

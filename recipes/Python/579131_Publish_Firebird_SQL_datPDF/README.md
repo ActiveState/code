@@ -1,4 +1,5 @@
-## Publish Firebird SQL data to PDF with xtopdfOriginally published: 2015-12-01 19:45:17 
+## Publish Firebird SQL data to PDF with xtopdf 
+Originally published: 2015-12-01 19:45:17 
 Last updated: 2015-12-01 19:45:18 
 Author: Vasudev Ram 
  

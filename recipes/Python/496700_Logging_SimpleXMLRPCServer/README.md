@@ -1,4 +1,5 @@
-## Logging SimpleXMLRPCServerOriginally published: 2006-05-13 13:53:57 
+## Logging SimpleXMLRPCServer 
+Originally published: 2006-05-13 13:53:57 
 Last updated: 2006-05-13 13:53:57 
 Author: John Ferrell 
  

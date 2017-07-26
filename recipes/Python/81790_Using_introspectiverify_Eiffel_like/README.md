@@ -1,4 +1,5 @@
-## Using introspection to verify Eiffel like contractsOriginally published: 2001-10-15 06:59:40 
+## Using introspection to verify Eiffel like contracts 
+Originally published: 2001-10-15 06:59:40 
 Last updated: 2001-10-15 06:59:40 
 Author: Sébastien Keim 
  

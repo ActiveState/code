@@ -1,4 +1,5 @@
-## Cache file contents to speed accessOriginally published: 2001-03-31 22:42:56 
+## Cache file contents to speed access 
+Originally published: 2001-03-31 22:42:56 
 Last updated: 2001-03-31 22:42:56 
 Author: Neil Hodgson 
  

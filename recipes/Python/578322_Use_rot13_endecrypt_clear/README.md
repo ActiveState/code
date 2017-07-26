@@ -1,4 +1,5 @@
-## Use rot13 to en/decrypt clear textOriginally published: 2012-11-07 09:17:51 
+## Use rot13 to en/decrypt clear text 
+Originally published: 2012-11-07 09:17:51 
 Last updated: 2012-11-07 09:17:51 
 Author: Eric.sun  
  

@@ -1,4 +1,5 @@
-## Octabug, 3D to 2D transformationOriginally published: 2002-06-17 15:37:20 
+## Octabug, 3D to 2D transformation 
+Originally published: 2002-06-17 15:37:20 
 Last updated: 2002-06-17 15:37:20 
 Author: andreas kupries 
  

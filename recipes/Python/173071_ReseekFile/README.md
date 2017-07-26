@@ -1,4 +1,5 @@
-## ReseekFileOriginally published: 2003-01-09 16:09:13 
+## ReseekFile 
+Originally published: 2003-01-09 16:09:13 
 Last updated: 2003-01-09 16:09:13 
 Author: Andrew Dalke 
  

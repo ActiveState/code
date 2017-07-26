@@ -1,4 +1,5 @@
-## HANGMAN!Originally published: 2014-12-19 05:24:13 
+## HANGMAN! 
+Originally published: 2014-12-19 05:24:13 
 Last updated: 2015-09-21 20:49:41 
 Author: Veysel Nantu 
  

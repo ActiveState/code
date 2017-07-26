@@ -1,4 +1,5 @@
-## Replace if and while statement expressions with '0'.Originally published: 2001-03-04 12:31:09 
+## Replace if and while statement expressions with '0'. 
+Originally published: 2001-03-04 12:31:09 
 Last updated: 2001-03-04 12:31:09 
 Author: Chris McDonough 
  

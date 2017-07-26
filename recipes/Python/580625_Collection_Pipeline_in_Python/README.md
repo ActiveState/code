@@ -1,4 +1,5 @@
-## Collection Pipeline in PythonOriginally published: 2016-03-16 14:45:01 
+## Collection Pipeline in Python 
+Originally published: 2016-03-16 14:45:01 
 Last updated: 2016-03-16 14:45:02 
 Author: Steven D'Aprano 
  

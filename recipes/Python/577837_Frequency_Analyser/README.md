@@ -1,4 +1,5 @@
-## Frequency AnalyserOriginally published: 2011-08-11 09:26:56 
+## Frequency Analyser 
+Originally published: 2011-08-11 09:26:56 
 Last updated: 2011-08-11 09:26:56 
 Author: Stijn de Graaf 
  

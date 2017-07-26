@@ -1,4 +1,5 @@
-## Towers of Hanoi for wxPythonOriginally published: 2004-01-02 19:20:20 
+## Towers of Hanoi for wxPython 
+Originally published: 2004-01-02 19:20:20 
 Last updated: 2004-01-02 19:20:20 
 Author: Simon Foster 
  

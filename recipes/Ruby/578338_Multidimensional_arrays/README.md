@@ -1,4 +1,5 @@
-## Multidimensional arraysOriginally published: 2012-11-19 08:43:11 
+## Multidimensional arrays 
+Originally published: 2012-11-19 08:43:11 
 Last updated: 2012-11-19 08:43:11 
 Author: greg zakharov 
  

@@ -1,4 +1,5 @@
-## Making Date Input more interactive Variables for MySQLOriginally published: 2003-06-30 14:04:56 
+## Making Date Input more interactive Variables for MySQL 
+Originally published: 2003-06-30 14:04:56 
 Last updated: 2003-06-30 14:04:56 
 Author: imam ferianto 
  

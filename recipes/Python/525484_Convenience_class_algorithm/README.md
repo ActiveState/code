@@ -1,4 +1,5 @@
-## Convenience class for algorithm developmentOriginally published: 2007-07-21 17:51:35 
+## Convenience class for algorithm development 
+Originally published: 2007-07-21 17:51:35 
 Last updated: 2007-07-21 17:51:35 
 Author: wolfgang resch 
  

@@ -1,4 +1,5 @@
-## Explosive EmbersOriginally published: 2007-02-23 17:27:12 
+## Explosive Embers 
+Originally published: 2007-02-23 17:27:12 
 Last updated: 2007-02-23 17:27:12 
 Author: Stephen Chappell 
  

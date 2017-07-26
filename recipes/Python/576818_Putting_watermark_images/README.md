@@ -1,4 +1,5 @@
-## Putting watermark to images in batchOriginally published: 2009-06-20 18:05:08 
+## Putting watermark to images in batch 
+Originally published: 2009-06-20 18:05:08 
 Last updated: 2009-06-20 18:05:08 
 Author: hasanatkazmi  
  

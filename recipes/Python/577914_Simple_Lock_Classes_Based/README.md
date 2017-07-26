@@ -1,4 +1,5 @@
-## Simple Lock Classes Based on threading.Lock()Originally published: 2011-10-19 21:26:39 
+## Simple Lock Classes Based on threading.Lock() 
+Originally published: 2011-10-19 21:26:39 
 Last updated: 2011-10-19 21:26:39 
 Author: Eric Snow 
  

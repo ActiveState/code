@@ -1,4 +1,5 @@
-## A SOX 1KHz Sinewave Generator Using A Windows, (TM), Batch File...Originally published: 2013-05-02 17:48:17 
+## A SOX 1KHz Sinewave Generator Using A Windows, (TM), Batch File... 
+Originally published: 2013-05-02 17:48:17 
 Last updated: 2013-05-02 17:48:18 
 Author: Barry Walker 
  

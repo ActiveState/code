@@ -1,4 +1,5 @@
-## Dupinator -- detect and delete duplicate filesOriginally published: 2005-01-09 12:31:21 
+## Dupinator -- detect and delete duplicate files 
+Originally published: 2005-01-09 12:31:21 
 Last updated: 2005-01-09 12:31:21 
 Author: Bill Bumgarner 
  

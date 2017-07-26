@@ -1,4 +1,5 @@
-## Pickle objects under jythonOriginally published: 2003-11-17 06:11:21 
+## Pickle objects under jython 
+Originally published: 2003-11-17 06:11:21 
 Last updated: 2003-11-17 06:11:21 
 Author: Ferdinand Jamitzky 
  

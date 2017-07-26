@@ -1,4 +1,5 @@
-## Test byt2str ModuleOriginally published: 2009-10-08 19:33:30 
+## Test byt2str Module 
+Originally published: 2009-10-08 19:33:30 
 Last updated: 2009-10-08 19:49:28 
 Author: Stephen Chappell 
  

@@ -1,4 +1,5 @@
-## Simple FTP directory synchOriginally published: 2004-11-05 09:34:29 
+## Simple FTP directory synch 
+Originally published: 2004-11-05 09:34:29 
 Last updated: 2005-11-16 21:34:24 
 Author: EyePulp  
  

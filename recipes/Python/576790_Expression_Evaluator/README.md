@@ -1,4 +1,5 @@
-## Expression EvaluatorOriginally published: 2009-06-02 12:01:47 
+## Expression Evaluator 
+Originally published: 2009-06-02 12:01:47 
 Last updated: 2009-06-02 23:57:44 
 Author: Stephen Chappell 
  

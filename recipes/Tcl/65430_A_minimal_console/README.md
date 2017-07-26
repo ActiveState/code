@@ -1,4 +1,5 @@
-## A minimal consoleOriginally published: 2001-06-21 16:44:30 
+## A minimal console 
+Originally published: 2001-06-21 16:44:30 
 Last updated: 2001-06-21 16:44:30 
 Author: Jeff Hobbs 
  

@@ -1,4 +1,5 @@
-## Numerical Inversion of Laplace Transforms through Zakian's AlgorithmOriginally published: 2002-05-16 22:51:46 
+## Numerical Inversion of Laplace Transforms through Zakian's Algorithm 
+Originally published: 2002-05-16 22:51:46 
 Last updated: 2002-05-16 22:51:46 
 Author: Fausto Arinos Barbuto 
  

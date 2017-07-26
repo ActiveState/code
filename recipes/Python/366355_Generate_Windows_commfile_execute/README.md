@@ -1,4 +1,5 @@
-## Generate a Windows command file to execute a Python programOriginally published: 2005-02-08 14:16:06 
+## Generate a Windows command file to execute a Python program 
+Originally published: 2005-02-08 14:16:06 
 Last updated: 2005-02-08 14:16:06 
 Author: Jim Jinkins 
  

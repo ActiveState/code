@@ -1,4 +1,5 @@
-## Automatic explicit file closeOriginally published: 2006-12-31 18:20:43 
+## Automatic explicit file close 
+Originally published: 2006-12-31 18:20:43 
 Last updated: 2006-12-31 18:20:43 
 Author: Robert Fabian 
  

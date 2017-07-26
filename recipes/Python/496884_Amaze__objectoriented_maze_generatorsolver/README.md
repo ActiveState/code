@@ -1,4 +1,5 @@
-## Amaze - An object-oriented maze generator/solver in PythonOriginally published: 2006-07-13 15:20:10 
+## Amaze - An object-oriented maze generator/solver in Python 
+Originally published: 2006-07-13 15:20:10 
 Last updated: 2006-07-26 15:04:50 
 Author: Anand  
  

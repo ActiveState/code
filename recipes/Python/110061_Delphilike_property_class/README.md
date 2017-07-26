@@ -1,4 +1,5 @@
-## Delphi-like property class for Python 2.2Originally published: 2002-01-28 10:07:35 
+## Delphi-like property class for Python 2.2 
+Originally published: 2002-01-28 10:07:35 
 Last updated: 2002-01-28 10:07:35 
 Author: Yakov Markovitch 
  

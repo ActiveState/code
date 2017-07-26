@@ -1,4 +1,5 @@
-## True Lieberman-style delegation in Python.Originally published: 2007-05-14 11:14:33 
+## True Lieberman-style delegation in Python. 
+Originally published: 2007-05-14 11:14:33 
 Last updated: 2007-05-14 11:14:33 
 Author: Martin Blais 
  

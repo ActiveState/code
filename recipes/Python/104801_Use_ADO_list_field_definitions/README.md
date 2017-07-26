@@ -1,4 +1,5 @@
-## Use ADO to list field definitions for tablesOriginally published: 2001-12-28 17:41:31 
+## Use ADO to list field definitions for tables 
+Originally published: 2001-12-28 17:41:31 
 Last updated: 2001-12-28 17:41:31 
 Author: Craig Anderson 
  

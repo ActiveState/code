@@ -1,4 +1,5 @@
-## Complex Methods to Compute Pi in PythonOriginally published: 2013-06-03 18:08:18 
+## Complex Methods to Compute Pi in Python 
+Originally published: 2013-06-03 18:08:18 
 Last updated: 2013-06-03 18:08:19 
 Author: Captain DeadBones 
  

@@ -1,4 +1,5 @@
-## Subset of a dictionaryOriginally published: 2002-02-20 11:58:01 
+## Subset of a dictionary 
+Originally published: 2002-02-20 11:58:01 
 Last updated: 2002-02-20 11:58:01 
 Author: David Benjamin 
  

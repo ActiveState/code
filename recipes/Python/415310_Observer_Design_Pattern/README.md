@@ -1,4 +1,5 @@
-## Observer Design PatternOriginally published: 2005-05-26 12:46:08 
+## Observer Design Pattern 
+Originally published: 2005-05-26 12:46:08 
 Last updated: 2005-09-10 23:24:23 
 Author: Jonathan Kolyer 
  

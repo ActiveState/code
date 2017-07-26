@@ -1,4 +1,5 @@
-## iTunes controlOriginally published: 2010-03-30 04:06:56 
+## iTunes control 
+Originally published: 2010-03-30 04:06:56 
 Last updated: 2010-03-30 04:06:56 
 Author: Frank Bannon 
  

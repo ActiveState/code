@@ -1,4 +1,5 @@
-## File Share Messenger 1.0Originally published: 2011-04-06 00:03:19 
+## File Share Messenger 1.0 
+Originally published: 2011-04-06 00:03:19 
 Last updated: 2011-04-06 00:03:20 
 Author: Stephen Chappell 
  

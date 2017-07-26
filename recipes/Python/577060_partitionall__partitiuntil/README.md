@@ -1,4 +1,5 @@
-## partitionall() - partition until the endOriginally published: 2010-02-21 10:16:42 
+## partitionall() - partition until the end 
+Originally published: 2010-02-21 10:16:42 
 Last updated: 2010-03-01 15:27:07 
 Author: Shashwat Anand 
  

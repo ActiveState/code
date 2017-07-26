@@ -1,4 +1,5 @@
-## K-meansOriginally published: 2011-06-04 10:27:37 
+## K-means 
+Originally published: 2011-06-04 10:27:37 
 Last updated: 2011-06-04 10:58:09 
 Author: Gabriel Synnaeve 
  

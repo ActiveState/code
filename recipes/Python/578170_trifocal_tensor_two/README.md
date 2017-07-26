@@ -1,4 +1,5 @@
-## trifocal tensor from two camera matricesOriginally published: 2012-06-21 07:33:51 
+## trifocal tensor from two camera matrices 
+Originally published: 2012-06-21 07:33:51 
 Last updated: 2012-06-27 03:38:35 
 Author: J W J 
  

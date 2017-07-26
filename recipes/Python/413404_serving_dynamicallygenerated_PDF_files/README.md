@@ -1,4 +1,5 @@
-## serving dynamically-generated PDF files via XML/RPCOriginally published: 2005-05-05 23:41:15 
+## serving dynamically-generated PDF files via XML/RPC 
+Originally published: 2005-05-05 23:41:15 
 Last updated: 2005-05-05 23:41:15 
 Author: gian paolo ciceri 
  

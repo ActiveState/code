@@ -1,4 +1,5 @@
-## A generator to help flatten nested loopsOriginally published: 2006-02-01 20:38:59 
+## A generator to help flatten nested loops 
+Originally published: 2006-02-01 20:38:59 
 Last updated: 2006-02-02 04:48:05 
 Author: Scott Lees 
  

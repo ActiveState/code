@@ -1,4 +1,5 @@
-## Plain Text Editor in PythonOriginally published: 2013-06-18 15:33:00 
+## Plain Text Editor in Python 
+Originally published: 2013-06-18 15:33:00 
 Last updated: 2013-06-18 15:33:01 
 Author: Captain DeadBones 
  

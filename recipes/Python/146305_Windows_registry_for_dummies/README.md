@@ -1,4 +1,5 @@
-## Windows registry for dummiesOriginally published: 2002-08-23 06:37:57 
+## Windows registry for dummies 
+Originally published: 2002-08-23 06:37:57 
 Last updated: 2002-08-23 06:37:57 
 Author: Dirk Holtwick 
  

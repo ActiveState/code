@@ -1,4 +1,5 @@
-## MS SQL Server log monitorOriginally published: 2004-07-02 11:12:58 
+## MS SQL Server log monitor 
+Originally published: 2004-07-02 11:12:58 
 Last updated: 2004-09-16 19:16:14 
 Author: Matt Keranen 
  

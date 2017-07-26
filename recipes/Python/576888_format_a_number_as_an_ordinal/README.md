@@ -1,4 +1,5 @@
-## format a number as an ordinalOriginally published: 2009-08-19 10:21:14 
+## format a number as an ordinal 
+Originally published: 2009-08-19 10:21:14 
 Last updated: 2010-02-04 12:54:27 
 Author: Serdar Tumgoren 
  

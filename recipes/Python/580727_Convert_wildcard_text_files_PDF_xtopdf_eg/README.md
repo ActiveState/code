@@ -1,4 +1,5 @@
-## Convert wildcard text files to PDF with xtopdf (e.g. report*.txt)Originally published: 2016-12-06 20:37:29 
+## Convert wildcard text files to PDF with xtopdf (e.g. report*.txt) 
+Originally published: 2016-12-06 20:37:29 
 Last updated: 2016-12-06 20:37:30 
 Author: Vasudev Ram 
  

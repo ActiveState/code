@@ -1,4 +1,5 @@
-## stock prices historical data bulk download from internetOriginally published: 2007-04-01 14:05:47 
+## stock prices historical data bulk download from internet 
+Originally published: 2007-04-01 14:05:47 
 Last updated: 2007-04-01 14:05:47 
 Author: gian paolo ciceri 
  

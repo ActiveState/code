@@ -1,4 +1,5 @@
-## Generate Python Symbol Lists for a Programmer's Editor Syntax Coloring FileOriginally published: 2003-05-20 13:07:58 
+## Generate Python Symbol Lists for a Programmer's Editor Syntax Coloring File 
+Originally published: 2003-05-20 13:07:58 
 Last updated: 2003-05-20 13:07:58 
 Author: Jim Jinkins 
  

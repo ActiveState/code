@@ -1,4 +1,5 @@
-## Terminating a subprocess on WindowsOriginally published: 2004-11-24 12:52:28 
+## Terminating a subprocess on Windows 
+Originally published: 2004-11-24 12:52:28 
 Last updated: 2004-11-24 12:52:28 
 Author: Jimmy Retzlaff 
  

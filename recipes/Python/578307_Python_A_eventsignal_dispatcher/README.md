@@ -1,4 +1,5 @@
-## Python: A event/signal dispatcherOriginally published: 2012-10-29 12:33:47 
+## Python: A event/signal dispatcher 
+Originally published: 2012-10-29 12:33:47 
 Last updated: 2013-07-29 05:34:24 
 Author: Esteban Castro Borsani 
  

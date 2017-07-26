@@ -1,4 +1,5 @@
-## Threaded Cherry QuixoteOriginally published: 2005-05-26 02:16:32 
+## Threaded Cherry Quixote 
+Originally published: 2005-05-26 02:16:32 
 Last updated: 2005-09-10 23:41:47 
 Author: Jonathan Kolyer 
  

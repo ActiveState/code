@@ -1,4 +1,5 @@
-## align XML ElementTrees with original textOriginally published: 2007-01-19 08:50:42 
+## align XML ElementTrees with original text 
+Originally published: 2007-01-19 08:50:42 
 Last updated: 2007-01-19 08:50:42 
 Author: Steven Bethard 
  

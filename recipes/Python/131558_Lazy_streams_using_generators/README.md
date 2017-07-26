@@ -1,4 +1,5 @@
-## Lazy streams using generatorsOriginally published: 2002-06-05 11:23:00 
+## Lazy streams using generators 
+Originally published: 2002-06-05 11:23:00 
 Last updated: 2002-06-05 11:23:00 
 Author: Ben Wolfson 
  

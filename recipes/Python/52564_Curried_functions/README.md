@@ -1,4 +1,5 @@
-## Curried functionsOriginally published: 2001-04-09 14:56:35 
+## Curried functions 
+Originally published: 2001-04-09 14:56:35 
 Last updated: 2001-04-09 14:56:35 
 Author: Ben Wolfson 
  

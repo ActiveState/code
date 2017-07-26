@@ -1,4 +1,5 @@
-## Volume Slicer Originally published: 2011-08-19 01:39:02 
+## Volume Slicer  
+Originally published: 2011-08-19 01:39:02 
 Last updated: 2011-08-19 01:39:03 
 Author: Zahari Dichev 
  

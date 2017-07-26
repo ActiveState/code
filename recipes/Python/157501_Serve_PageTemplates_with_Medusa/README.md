@@ -1,4 +1,5 @@
-## Serve PageTemplates with MedusaOriginally published: 2002-10-18 17:16:53 
+## Serve PageTemplates with Medusa 
+Originally published: 2002-10-18 17:16:53 
 Last updated: 2002-10-18 17:16:53 
 Author: Troy Melhase 
  

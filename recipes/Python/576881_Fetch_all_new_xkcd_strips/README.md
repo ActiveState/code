@@ -1,4 +1,5 @@
-## Fetch all (new) xkcd stripsOriginally published: 2009-08-15 12:15:17 
+## Fetch all (new) xkcd strips 
+Originally published: 2009-08-15 12:15:17 
 Last updated: 2009-08-15 12:15:17 
 Author: xipe totec 
  

@@ -1,4 +1,5 @@
-## chomp equivalentsOriginally published: 2006-05-01 14:33:35 
+## chomp equivalents 
+Originally published: 2006-05-01 14:33:35 
 Last updated: 2006-05-01 14:33:35 
 Author: James G. Sack 
  

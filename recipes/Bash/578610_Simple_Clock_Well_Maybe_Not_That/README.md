@@ -1,4 +1,5 @@
-## A Simple Clock, Well Maybe Not That Simple...Originally published: 2013-07-17 17:40:17 
+## A Simple Clock, Well Maybe Not That Simple... 
+Originally published: 2013-07-17 17:40:17 
 Last updated: 2013-07-17 17:40:18 
 Author: Barry Walker 
  

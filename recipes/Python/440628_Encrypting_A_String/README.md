@@ -1,4 +1,5 @@
-## Encrypting A StringOriginally published: 2005-10-02 19:12:29 
+## Encrypting A String 
+Originally published: 2005-10-02 19:12:29 
 Last updated: 2005-10-02 19:12:29 
 Author: Stephen Chappell 
  

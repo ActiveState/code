@@ -1,4 +1,5 @@
-## A simple Unix shell utility to save cleaned-up man pages as textOriginally published: 2017-03-25 14:11:44 
+## A simple Unix shell utility to save cleaned-up man pages as text 
+Originally published: 2017-03-25 14:11:44 
 Last updated: 2017-03-25 14:12:25 
 Author: Vasudev Ram 
  

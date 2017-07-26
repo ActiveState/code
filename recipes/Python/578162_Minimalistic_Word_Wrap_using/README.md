@@ -1,4 +1,5 @@
-## Minimalistic Word Wrap using RegexOriginally published: 2012-06-07 14:31:44 
+## Minimalistic Word Wrap using Regex 
+Originally published: 2012-06-07 14:31:44 
 Last updated: 2012-06-07 14:31:44 
 Author: Alfe  
  

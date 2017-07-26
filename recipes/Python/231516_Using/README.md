@@ -1,4 +1,5 @@
-## Using Python in Configuration FilesOriginally published: 2003-11-05 03:37:52 
+## Using Python in Configuration Files 
+Originally published: 2003-11-05 03:37:52 
 Last updated: 2003-11-18 08:47:54 
 Author: Miki Tebeka 
  

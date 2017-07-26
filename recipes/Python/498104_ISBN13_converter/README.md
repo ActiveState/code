@@ -1,4 +1,5 @@
-## ISBN-13 converterOriginally published: 2006-09-15 18:53:01 
+## ISBN-13 converter 
+Originally published: 2006-09-15 18:53:01 
 Last updated: 2006-09-15 18:53:01 
 Author: Sanghyeon Seo 
  

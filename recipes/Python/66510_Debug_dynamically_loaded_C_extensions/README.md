@@ -1,4 +1,5 @@
-## Debug dynamically loaded C extensions with gdbOriginally published: 2001-08-10 16:27:30 
+## Debug dynamically loaded C extensions with gdb 
+Originally published: 2001-08-10 16:27:30 
 Last updated: 2001-08-10 16:27:30 
 Author: Joe VanAndel 
  

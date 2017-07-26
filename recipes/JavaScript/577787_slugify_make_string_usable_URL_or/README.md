@@ -1,4 +1,5 @@
-## slugify: make a string usable in a URL or filenameOriginally published: 2011-07-12 17:41:07 
+## slugify: make a string usable in a URL or filename 
+Originally published: 2011-07-12 17:41:07 
 Last updated: 2011-07-12 17:46:49 
 Author: Trent Mick 
  

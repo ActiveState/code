@@ -1,4 +1,5 @@
-## Libreenect (OpenKinect) Minimum Value Joystick With Display - Kinect Demo Using OpenKinect SDKOriginally published: 2012-03-18 03:05:31 
+## Libreenect (OpenKinect) Minimum Value Joystick With Display - Kinect Demo Using OpenKinect SDK 
+Originally published: 2012-03-18 03:05:31 
 Last updated: 2012-03-18 18:52:42 
 Author: Alexander James Wallar 
  

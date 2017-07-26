@@ -1,4 +1,5 @@
-## Win32com - Batch repathing of Autocad XrefsOriginally published: 2005-08-31 10:28:24 
+## Win32com - Batch repathing of Autocad Xrefs 
+Originally published: 2005-08-31 10:28:24 
 Last updated: 2005-08-31 10:28:24 
 Author: Ed Blake 
  

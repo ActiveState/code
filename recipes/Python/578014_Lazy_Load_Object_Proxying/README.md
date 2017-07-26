@@ -1,4 +1,5 @@
-## Lazy Load Object ProxyingOriginally published: 2012-01-13 07:56:28 
+## Lazy Load Object Proxying 
+Originally published: 2012-01-13 07:56:28 
 Last updated: 2012-01-13 07:56:29 
 Author: Cory Virok 
  

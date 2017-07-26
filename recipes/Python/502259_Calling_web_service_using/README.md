@@ -1,4 +1,5 @@
-## Calling a web service using soappyOriginally published: 2007-02-26 07:59:32 
+## Calling a web service using soappy 
+Originally published: 2007-02-26 07:59:32 
 Last updated: 2007-02-28 08:42:18 
 Author: chaouche yacine ahmed 
  

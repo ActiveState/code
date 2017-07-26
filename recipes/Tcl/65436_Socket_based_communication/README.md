@@ -1,4 +1,5 @@
-## Socket based communicationOriginally published: 2001-06-21 17:02:20 
+## Socket based communication 
+Originally published: 2001-06-21 17:02:20 
 Last updated: 2001-06-21 17:02:20 
 Author: Jeff Hobbs 
  

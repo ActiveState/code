@@ -1,4 +1,5 @@
-## Converting directories of text files from Unix to Windows ...Originally published: 2005-11-01 11:13:29 
+## Converting directories of text files from Unix to Windows ... 
+Originally published: 2005-11-01 11:13:29 
 Last updated: 2005-11-01 11:13:29 
 Author: Stephen Chappell 
  

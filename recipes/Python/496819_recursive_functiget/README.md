@@ -1,4 +1,5 @@
-## A recursive function to get permutation of a listOriginally published: 2006-06-23 14:00:51 
+## A recursive function to get permutation of a list 
+Originally published: 2006-06-23 14:00:51 
 Last updated: 2006-06-30 00:03:39 
 Author: Wensheng Wang 
  

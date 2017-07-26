@@ -1,4 +1,5 @@
-## OpenOffice to xml and/or text (oo2txt)Originally published: 2004-08-30 09:57:44 
+## OpenOffice to xml and/or text (oo2txt) 
+Originally published: 2004-08-30 09:57:44 
 Last updated: 2004-08-30 17:01:40 
 Author: Dirk Holtwick 
  

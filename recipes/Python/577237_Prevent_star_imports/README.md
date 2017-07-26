@@ -1,4 +1,5 @@
-## Prevent star importsOriginally published: 2010-05-21 16:22:08 
+## Prevent star imports 
+Originally published: 2010-05-21 16:22:08 
 Last updated: 2010-05-21 16:22:08 
 Author: Mike Graham 
  

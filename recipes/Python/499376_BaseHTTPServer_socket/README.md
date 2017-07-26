@@ -1,4 +1,5 @@
-## BaseHTTPServer with socket timeoutOriginally published: 2007-01-14 10:00:48 
+## BaseHTTPServer with socket timeout 
+Originally published: 2007-01-14 10:00:48 
 Last updated: 2007-01-14 18:00:37 
 Author: Rogier Steehouder 
  

@@ -1,4 +1,5 @@
-## zero curve bootstrapping and forward curve generationOriginally published: 2012-09-10 08:07:55 
+## zero curve bootstrapping and forward curve generation 
+Originally published: 2012-09-10 08:07:55 
 Last updated: 2012-09-10 08:07:56 
 Author: alexander baker 
  

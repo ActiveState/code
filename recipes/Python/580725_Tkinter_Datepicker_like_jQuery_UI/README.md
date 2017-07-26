@@ -1,4 +1,5 @@
-## Tkinter Datepicker (like the jQuery UI datepicker)Originally published: 2016-12-04 00:03:21 
+## Tkinter Datepicker (like the jQuery UI datepicker) 
+Originally published: 2016-12-04 00:03:21 
 Last updated: 2017-04-16 17:12:43 
 Author: Miguel Martínez López 
  

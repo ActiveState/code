@@ -1,4 +1,5 @@
-## Correctly reading CSV files in arbitrary encodingsOriginally published: 2011-07-04 19:05:43 
+## Correctly reading CSV files in arbitrary encodings 
+Originally published: 2011-07-04 19:05:43 
 Last updated: 2011-07-25 07:29:08 
 Author: Devin Jeanpierre 
  

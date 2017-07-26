@@ -1,4 +1,5 @@
-## Generate random user names from local dictionary fileOriginally published: 2008-10-28 23:22:37 
+## Generate random user names from local dictionary file 
+Originally published: 2008-10-28 23:22:37 
 Last updated: 2008-10-29 06:24:18 
 Author: Micah Elliott 
  

@@ -1,4 +1,5 @@
-## write sql via pythonOriginally published: 2005-05-26 19:43:49 
+## write sql via python 
+Originally published: 2005-05-26 19:43:49 
 Last updated: 2005-05-26 19:43:49 
 Author: Sakesun Roykiattisak 
  

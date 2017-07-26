@@ -1,4 +1,5 @@
-## Memoize decorator with O(1) length-limited LRU cache, supports mutable typesOriginally published: 2006-09-17 15:03:25 
+## Memoize decorator with O(1) length-limited LRU cache, supports mutable types 
+Originally published: 2006-09-17 15:03:25 
 Last updated: 2006-09-17 15:03:25 
 Author: Neil Toronto 
  

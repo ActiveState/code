@@ -1,4 +1,5 @@
-## Get widget infoOriginally published: 2001-09-12 13:46:25 
+## Get widget info 
+Originally published: 2001-09-12 13:46:25 
 Last updated: 2001-09-12 13:46:25 
 Author: peter berger 
  

@@ -1,4 +1,5 @@
-## Enhanced safe string formattingOriginally published: 2007-10-29 17:32:56 
+## Enhanced safe string formatting 
+Originally published: 2007-10-29 17:32:56 
 Last updated: 2007-10-30 09:46:38 
 Author: Graham Horler 
  

@@ -1,4 +1,5 @@
-## String Matching using a Finit State MachineOriginally published: 2012-06-07 06:03:52 
+## String Matching using a Finit State Machine 
+Originally published: 2012-06-07 06:03:52 
 Last updated: 2012-06-07 06:03:52 
 Author: Filippo Squillace 
  

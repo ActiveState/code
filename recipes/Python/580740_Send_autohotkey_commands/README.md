@@ -1,4 +1,5 @@
-## Send autohotkey commands with PythonOriginally published: 2017-01-02 01:31:23 
+## Send autohotkey commands with Python 
+Originally published: 2017-01-02 01:31:23 
 Last updated: 2017-01-02 01:33:31 
 Author: Miguel Martínez López 
  

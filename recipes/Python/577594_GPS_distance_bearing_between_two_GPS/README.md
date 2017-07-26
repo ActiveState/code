@@ -1,4 +1,5 @@
-## GPS distance and bearing between two GPS pointsOriginally published: 2011-03-04 00:45:17 
+## GPS distance and bearing between two GPS points 
+Originally published: 2011-03-04 00:45:17 
 Last updated: 2011-05-21 23:44:35 
 Author: James Dyson 
  

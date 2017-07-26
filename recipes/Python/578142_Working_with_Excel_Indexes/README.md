@@ -1,4 +1,5 @@
-## Working with Excel IndexesOriginally published: 2012-05-22 18:25:21 
+## Working with Excel Indexes 
+Originally published: 2012-05-22 18:25:21 
 Last updated: 2012-05-22 18:25:21 
 Author: Garrett  
  

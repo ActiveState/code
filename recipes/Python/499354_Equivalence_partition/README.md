@@ -1,4 +1,5 @@
-## Equivalence partitionOriginally published: 2007-01-04 01:45:54 
+## Equivalence partition 
+Originally published: 2007-01-04 01:45:54 
 Last updated: 2007-01-04 01:45:54 
 Author: John Reid 
  

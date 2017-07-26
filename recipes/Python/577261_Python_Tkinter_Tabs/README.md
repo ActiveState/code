@@ -1,4 +1,5 @@
-## Python Tkinter TabsOriginally published: 2010-06-13 01:27:15 
+## Python Tkinter Tabs 
+Originally published: 2010-06-13 01:27:15 
 Last updated: 2010-06-15 01:50:58 
 Author: Sunjay Varma 
  

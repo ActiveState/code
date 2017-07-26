@@ -1,4 +1,5 @@
-## Paint 1.0Originally published: 2007-03-28 15:21:48 
+## Paint 1.0 
+Originally published: 2007-03-28 15:21:48 
 Last updated: 2007-03-28 15:21:48 
 Author: Stephen Chappell 
  

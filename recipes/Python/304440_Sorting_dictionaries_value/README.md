@@ -1,4 +1,5 @@
-## Sorting dictionaries by value in Python 2.4Originally published: 2004-09-13 04:19:24 
+## Sorting dictionaries by value in Python 2.4 
+Originally published: 2004-09-13 04:19:24 
 Last updated: 2004-09-13 04:19:24 
 Author: Nick Coghlan 
  

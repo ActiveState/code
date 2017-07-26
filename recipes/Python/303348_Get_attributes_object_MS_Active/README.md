@@ -1,4 +1,5 @@
-## Get attributes of an object in MS Active DirectoryOriginally published: 2004-09-03 14:41:32 
+## Get attributes of an object in MS Active Directory 
+Originally published: 2004-09-03 14:41:32 
 Last updated: 2004-09-03 14:41:32 
 Author: John Nielsen 
  

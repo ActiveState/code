@@ -1,4 +1,5 @@
-## Minimal Dependency Injection ContainerOriginally published: 2010-06-05 13:43:33 
+## Minimal Dependency Injection Container 
+Originally published: 2010-06-05 13:43:33 
 Last updated: 2010-06-05 13:50:03 
 Author: Alan Franzoni 
  

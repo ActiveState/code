@@ -1,4 +1,5 @@
-## Representing a set in a compact wayOriginally published: 2011-04-17 01:37:21 
+## Representing a set in a compact way 
+Originally published: 2011-04-17 01:37:21 
 Last updated: 2011-04-24 10:55:45 
 Author: jimmy2times  
  

@@ -1,4 +1,5 @@
-## Simplest example of serving a browser requestOriginally published: 2010-10-15 21:17:29 
+## Simplest example of serving a browser request 
+Originally published: 2010-10-15 21:17:29 
 Last updated: 2010-10-15 21:17:30 
 Author: Kaushik Ghose 
  

@@ -1,4 +1,5 @@
-## Separating Pattern Implementation from Your CodeOriginally published: 2006-08-26 07:11:20 
+## Separating Pattern Implementation from Your Code 
+Originally published: 2006-08-26 07:11:20 
 Last updated: 2006-08-26 07:11:20 
 Author: Jinghong Chen 
  

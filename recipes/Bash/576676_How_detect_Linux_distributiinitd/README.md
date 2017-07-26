@@ -1,4 +1,5 @@
-## How to detect the Linux distribution from an init.d scriptOriginally published: 2009-03-03 11:04:47 
+## How to detect the Linux distribution from an init.d script 
+Originally published: 2009-03-03 11:04:47 
 Last updated: 2010-03-16 13:24:22 
 Author: Gui R 
  

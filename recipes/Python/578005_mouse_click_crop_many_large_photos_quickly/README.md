@@ -1,4 +1,5 @@
-## mouse click to crop many large photos quickly [Python, PIL, pygame]Originally published: 2012-01-09 03:18:01 
+## mouse click to crop many large photos quickly [Python, PIL, pygame] 
+Originally published: 2012-01-09 03:18:01 
 Last updated: 2012-01-09 03:18:01 
 Author: Elliot Hallmark 
  

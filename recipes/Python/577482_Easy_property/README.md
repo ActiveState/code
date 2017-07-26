@@ -1,4 +1,5 @@
-## Easy property creation and controlOriginally published: 2010-12-01 17:21:16 
+## Easy property creation and control 
+Originally published: 2010-12-01 17:21:16 
 Last updated: 2010-12-01 17:22:49 
 Author: Kevin L. Sitze 
  

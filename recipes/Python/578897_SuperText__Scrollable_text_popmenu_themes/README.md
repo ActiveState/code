@@ -1,4 +1,5 @@
-## SuperText - Scrollable text with pop-up menu and themes for TkinterOriginally published: 2014-06-20 16:23:35 
+## SuperText - Scrollable text with pop-up menu and themes for Tkinter 
+Originally published: 2014-06-20 16:23:35 
 Last updated: 2014-06-20 16:25:43 
 Author: Peter Mojeiko 
  

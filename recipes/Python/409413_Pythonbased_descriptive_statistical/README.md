@@ -1,4 +1,5 @@
-## A Python-based descriptive statistical analysis tool.Originally published: 2005-04-11 18:02:10 
+## A Python-based descriptive statistical analysis tool. 
+Originally published: 2005-04-11 18:02:10 
 Last updated: 2005-04-18 23:52:25 
 Author: Chad J. Schroeder 
  

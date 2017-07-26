@@ -1,4 +1,5 @@
-## Check for package updates on PyPI (works best in pip+virtualenv)Originally published: 2011-05-19 17:54:42 
+## Check for package updates on PyPI (works best in pip+virtualenv) 
+Originally published: 2011-05-19 17:54:42 
 Last updated: 2011-05-19 17:54:43 
 Author: Artur Siekielski 
  

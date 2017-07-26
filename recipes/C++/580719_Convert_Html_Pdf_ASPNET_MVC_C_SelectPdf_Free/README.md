@@ -1,4 +1,5 @@
-## Convert from Html To Pdf in ASP.NET MVC C# with SelectPdf Free Community EditionOriginally published: 2016-11-17 15:01:11 
+## Convert from Html To Pdf in ASP.NET MVC C# with SelectPdf Free Community Edition 
+Originally published: 2016-11-17 15:01:11 
 Last updated: 2016-11-17 15:01:12 
 Author: SelectPdf  
  

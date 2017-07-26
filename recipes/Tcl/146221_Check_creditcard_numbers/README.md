@@ -1,4 +1,5 @@
-## Check creditcard numbers for wellformed-ness.Originally published: 2002-08-22 16:03:11 
+## Check creditcard numbers for wellformed-ness. 
+Originally published: 2002-08-22 16:03:11 
 Last updated: 2002-08-22 16:03:11 
 Author: andreas kupries 
  

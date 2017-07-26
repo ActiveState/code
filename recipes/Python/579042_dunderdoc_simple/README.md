@@ -1,4 +1,5 @@
-## dunderdoc, a simple Python introspection toolOriginally published: 2015-03-30 20:22:19 
+## dunderdoc, a simple Python introspection tool 
+Originally published: 2015-03-30 20:22:19 
 Last updated: 2015-03-30 20:22:20 
 Author: Vasudev Ram 
  

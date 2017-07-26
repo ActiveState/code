@@ -1,4 +1,5 @@
-## Flash_N_Fade Using Standard Text Mode Python For Linux And Windows...Originally published: 2012-07-15 18:38:43 
+## Flash_N_Fade Using Standard Text Mode Python For Linux And Windows... 
+Originally published: 2012-07-15 18:38:43 
 Last updated: 2012-07-15 18:38:43 
 Author: Barry Walker 
  

@@ -1,4 +1,5 @@
-## Use DebugView utility with standard python loggingOriginally published: 2010-02-10 10:35:59 
+## Use DebugView utility with standard python logging 
+Originally published: 2010-02-10 10:35:59 
 Last updated: 2010-02-10 10:35:59 
 Author: Christopher Prinos 
  

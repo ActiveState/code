@@ -1,4 +1,5 @@
-## Pure Python implementation of PEP 380 (yield from) -- OptimizedOriginally published: 2009-04-25 08:48:29 
+## Pure Python implementation of PEP 380 (yield from) -- Optimized 
+Originally published: 2009-04-25 08:48:29 
 Last updated: 2009-04-29 09:11:31 
 Author: profjim  
  

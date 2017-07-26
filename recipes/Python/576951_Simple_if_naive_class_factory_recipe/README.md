@@ -1,4 +1,5 @@
-## Simple, if naive, class factory recipe in pythonOriginally published: 2009-11-09 07:58:32 
+## Simple, if naive, class factory recipe in python 
+Originally published: 2009-11-09 07:58:32 
 Last updated: 2009-11-09 07:59:53 
 Author: Ariel Balter 
  

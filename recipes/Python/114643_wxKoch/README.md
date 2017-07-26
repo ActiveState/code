@@ -1,4 +1,5 @@
-## wxKochOriginally published: 2002-02-15 16:07:50 
+## wxKoch 
+Originally published: 2002-02-15 16:07:50 
 Last updated: 2002-02-15 16:07:50 
 Author: Simon Foster 
  

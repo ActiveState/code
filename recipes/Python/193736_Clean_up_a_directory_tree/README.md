@@ -1,4 +1,5 @@
-## Clean up a directory treeOriginally published: 2003-04-03 08:06:50 
+## Clean up a directory tree 
+Originally published: 2003-04-03 08:06:50 
 Last updated: 2003-04-03 08:06:50 
 Author: Anand  
  

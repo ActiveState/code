@@ -1,4 +1,5 @@
-## How to parse a table in a PDF documentOriginally published: 2016-04-05 20:29:02 
+## How to parse a table in a PDF document 
+Originally published: 2016-04-05 20:29:02 
 Last updated: 2016-04-10 22:43:57 
 Author: Jorj X. McKie 
  

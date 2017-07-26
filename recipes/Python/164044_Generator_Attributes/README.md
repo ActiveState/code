@@ -1,4 +1,5 @@
-## Generator AttributesOriginally published: 2002-11-24 16:25:15 
+## Generator Attributes 
+Originally published: 2002-11-24 16:25:15 
 Last updated: 2002-12-09 08:44:56 
 Author: Raymond Hettinger 
  

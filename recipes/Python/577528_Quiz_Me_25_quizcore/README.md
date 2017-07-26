@@ -1,4 +1,5 @@
-## Quiz Me 2.5 (quizcore)Originally published: 2010-12-31 21:53:01 
+## Quiz Me 2.5 (quizcore) 
+Originally published: 2010-12-31 21:53:01 
 Last updated: 2011-01-10 03:55:11 
 Author: Stephen Chappell 
  

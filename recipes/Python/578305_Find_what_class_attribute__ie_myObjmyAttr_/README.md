@@ -1,4 +1,5 @@
-## Find what class an attribute - ie, myObj.myAttr - comes from, and how it's definedOriginally published: 2012-10-26 12:55:29 
+## Find what class an attribute - ie, myObj.myAttr - comes from, and how it's defined 
+Originally published: 2012-10-26 12:55:29 
 Last updated: 2012-10-26 12:59:47 
 Author: Paul Molodowitch 
  

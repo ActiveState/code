@@ -1,4 +1,5 @@
-## MQJMSOriginally published: 2005-10-17 03:35:19 
+## MQJMS 
+Originally published: 2005-10-17 03:35:19 
 Last updated: 2005-10-17 03:35:19 
 Author: Patrick Finnegan 
  

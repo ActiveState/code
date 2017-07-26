@@ -1,4 +1,5 @@
-## Python source to XHTML colorizerOriginally published: 2005-10-26 00:36:06 
+## Python source to XHTML colorizer 
+Originally published: 2005-10-26 00:36:06 
 Last updated: 2005-10-26 00:36:06 
 Author: Peter Krantz 
  

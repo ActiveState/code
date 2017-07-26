@@ -1,4 +1,5 @@
-## Accurately find duplicate filesOriginally published: 2008-03-18 10:17:01 
+## Accurately find duplicate files 
+Originally published: 2008-03-18 10:17:01 
 Last updated: 2008-03-18 10:17:01 
 Author: Keith Gaughan 
  

@@ -1,4 +1,5 @@
-## Abstract methods/classesOriginally published: 2004-01-23 03:56:01 
+## Abstract methods/classes 
+Originally published: 2004-01-23 03:56:01 
 Last updated: 2004-01-23 23:16:14 
 Author: Ivo Timmermans 
  

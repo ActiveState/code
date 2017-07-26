@@ -1,4 +1,5 @@
-## Select the nth smallest elementOriginally published: 2004-02-17 02:14:00 
+## Select the nth smallest element 
+Originally published: 2004-02-17 02:14:00 
 Last updated: 2004-03-05 08:51:37 
 Author: Raymond Hettinger 
  

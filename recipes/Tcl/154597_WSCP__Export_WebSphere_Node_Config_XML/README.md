@@ -1,4 +1,5 @@
-## WSCP - Export WebSphere Node Config to XML file.Originally published: 2002-10-01 23:52:23 
+## WSCP - Export WebSphere Node Config to XML file. 
+Originally published: 2002-10-01 23:52:23 
 Last updated: 2002-10-01 23:52:23 
 Author: Patrick Finnegan 
  

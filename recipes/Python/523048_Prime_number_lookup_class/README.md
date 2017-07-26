@@ -1,4 +1,5 @@
-## Prime number lookup classOriginally published: 2007-07-15 14:46:27 
+## Prime number lookup class 
+Originally published: 2007-07-15 14:46:27 
 Last updated: 2007-08-14 21:10:39 
 Author: thattommyhall ; 
  

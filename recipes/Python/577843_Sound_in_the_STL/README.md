@@ -1,4 +1,5 @@
-## Sound in the STLOriginally published: 2011-08-15 09:28:11 
+## Sound in the STL 
+Originally published: 2011-08-15 09:28:11 
 Last updated: 2011-08-15 09:28:12 
 Author: Russell Foster 
  

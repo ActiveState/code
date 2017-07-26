@@ -1,4 +1,5 @@
-## Wordze.com API bindingsOriginally published: 2010-01-21 19:37:56 
+## Wordze.com API bindings 
+Originally published: 2010-01-21 19:37:56 
 Last updated: 2010-01-21 21:24:39 
 Author: Sergei Lebedev 
  

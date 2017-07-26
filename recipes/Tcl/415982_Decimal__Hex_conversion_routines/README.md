@@ -1,4 +1,5 @@
-## Decimal & Hex conversion routinesOriginally published: 2005-06-03 11:28:27 
+## Decimal & Hex conversion routines 
+Originally published: 2005-06-03 11:28:27 
 Last updated: 2005-06-03 11:28:27 
 Author: Chris Cornish 
  

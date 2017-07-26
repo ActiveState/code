@@ -1,4 +1,5 @@
-## Windowing an iterable with itertoolsOriginally published: 2010-04-15 18:45:40 
+## Windowing an iterable with itertools 
+Originally published: 2010-04-15 18:45:40 
 Last updated: 2010-04-15 18:45:41 
 Author: Daniel Cohn 
  

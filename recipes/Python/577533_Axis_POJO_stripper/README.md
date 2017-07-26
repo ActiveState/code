@@ -1,4 +1,5 @@
-## Axis POJO stripper.Originally published: 2011-01-04 12:05:02 
+## Axis POJO stripper. 
+Originally published: 2011-01-04 12:05:02 
 Last updated: 2011-01-04 12:05:12 
 Author: Chris Wolf 
  

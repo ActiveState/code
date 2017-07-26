@@ -1,4 +1,5 @@
-## random character generatorOriginally published: 2004-12-06 04:40:06 
+## random character generator 
+Originally published: 2004-12-06 04:40:06 
 Last updated: 2004-12-06 23:28:57 
 Author: david windsor 
  

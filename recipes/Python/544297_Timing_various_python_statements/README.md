@@ -1,4 +1,5 @@
-## Timing various python statementsOriginally published: 2008-02-06 00:13:09 
+## Timing various python statements 
+Originally published: 2008-02-06 00:13:09 
 Last updated: 2008-02-06 00:13:09 
 Author: Oliver Schoenborn 
  

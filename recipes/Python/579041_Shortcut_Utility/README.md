@@ -1,4 +1,5 @@
-## Shortcut UtilityOriginally published: 2015-03-29 20:45:57 
+## Shortcut Utility 
+Originally published: 2015-03-29 20:45:57 
 Last updated: 2015-03-29 20:45:57 
 Author: FB36  
  

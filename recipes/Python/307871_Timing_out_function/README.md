@@ -1,4 +1,5 @@
-## Timing out functionOriginally published: 2004-10-11 00:43:49 
+## Timing out function 
+Originally published: 2004-10-11 00:43:49 
 Last updated: 2004-10-14 11:55:55 
 Author: chris wright 
  

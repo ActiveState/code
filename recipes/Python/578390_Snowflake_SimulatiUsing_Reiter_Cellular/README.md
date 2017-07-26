@@ -1,4 +1,5 @@
-## Snowflake Simulation Using Reiter Cellular AutomataOriginally published: 2012-12-27 09:07:56 
+## Snowflake Simulation Using Reiter Cellular Automata 
+Originally published: 2012-12-27 09:07:56 
 Last updated: 2013-01-08 05:25:49 
 Author: FB36  
  

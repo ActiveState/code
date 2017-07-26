@@ -1,4 +1,5 @@
-## Simple SingletonOriginally published: 2005-04-28 12:14:52 
+## Simple Singleton 
+Originally published: 2005-04-28 12:14:52 
 Last updated: 2005-04-28 12:14:52 
 Author: Daniel Brodie 
  

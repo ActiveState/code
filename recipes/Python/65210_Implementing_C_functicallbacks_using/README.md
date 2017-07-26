@@ -1,4 +1,5 @@
-## Implementing C function callbacks using PythonOriginally published: 2001-06-14 20:35:36 
+## Implementing C function callbacks using Python 
+Originally published: 2001-06-14 20:35:36 
 Last updated: 2001-06-19 15:01:52 
 Author: pink chry 
  

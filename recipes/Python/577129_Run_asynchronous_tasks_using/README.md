@@ -1,4 +1,5 @@
-## Run asynchronous tasks using coroutinesOriginally published: 2010-03-19 10:11:16 
+## Run asynchronous tasks using coroutines 
+Originally published: 2010-03-19 10:11:16 
 Last updated: 2010-08-06 16:16:20 
 Author: Arnau Sanchez 
  

@@ -1,4 +1,5 @@
-## 2D Discrete Fourier TransformOriginally published: 2015-01-03 03:39:31 
+## 2D Discrete Fourier Transform 
+Originally published: 2015-01-03 03:39:31 
 Last updated: 2015-01-03 03:39:34 
 Author: FB36  
  

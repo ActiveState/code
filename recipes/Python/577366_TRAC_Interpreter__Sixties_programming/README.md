@@ -1,4 +1,5 @@
-## TRAC Interpreter -- Sixties programming languageOriginally published: 2010-08-22 19:05:09 
+## TRAC Interpreter -- Sixties programming language 
+Originally published: 2010-08-22 19:05:09 
 Last updated: 2010-08-22 19:05:09 
 Author: Jack Trainor 
  

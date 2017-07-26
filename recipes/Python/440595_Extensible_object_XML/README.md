@@ -1,4 +1,5 @@
-## Extensible object to XML convertorOriginally published: 2005-09-23 03:42:26 
+## Extensible object to XML convertor 
+Originally published: 2005-09-23 03:42:26 
 Last updated: 2005-09-23 11:21:57 
 Author: Mark Andrews 
  

@@ -1,4 +1,5 @@
-## Auto Incrementer an Example of __call__ and yieldOriginally published: 2005-07-26 08:21:11 
+## Auto Incrementer an Example of __call__ and yield 
+Originally published: 2005-07-26 08:21:11 
 Last updated: 2005-07-26 08:21:11 
 Author: Chad Crabtree 
  

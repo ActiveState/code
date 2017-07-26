@@ -1,4 +1,5 @@
-## base255 (V1)Originally published: 2007-03-28 15:11:04 
+## base255 (V1) 
+Originally published: 2007-03-28 15:11:04 
 Last updated: 2007-03-28 15:11:04 
 Author: Stephen Chappell 
  

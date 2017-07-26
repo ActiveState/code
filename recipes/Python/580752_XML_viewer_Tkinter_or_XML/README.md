@@ -1,4 +1,5 @@
-## XML viewer for Tkinter or XML treeviewOriginally published: 2017-01-28 00:17:11 
+## XML viewer for Tkinter or XML treeview 
+Originally published: 2017-01-28 00:17:11 
 Last updated: 2017-02-22 23:00:21 
 Author: Miguel Martínez López 
  

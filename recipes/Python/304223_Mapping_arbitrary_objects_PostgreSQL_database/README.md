@@ -1,4 +1,5 @@
-## Mapping arbitrary objects to a PostgreSQL database with psycopg2Originally published: 2004-09-10 12:17:53 
+## Mapping arbitrary objects to a PostgreSQL database with psycopg2 
+Originally published: 2004-09-10 12:17:53 
 Last updated: 2004-09-10 12:17:53 
 Author: Valentino Volonghi 
  

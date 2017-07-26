@@ -1,4 +1,5 @@
-## Trifocal Tensor classOriginally published: 2012-08-28 14:16:47 
+## Trifocal Tensor class 
+Originally published: 2012-08-28 14:16:47 
 Last updated: 2012-08-28 14:16:47 
 Author: J W J 
  

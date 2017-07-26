@@ -1,4 +1,5 @@
-## Generate and Rank Passwords in PythonOriginally published: 2013-01-02 14:30:46 
+## Generate and Rank Passwords in Python 
+Originally published: 2013-01-02 14:30:46 
 Last updated: 2013-01-02 14:30:47 
 Author: Captain DeadBones 
  

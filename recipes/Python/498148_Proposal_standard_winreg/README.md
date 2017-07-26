@@ -1,4 +1,5 @@
-## Proposal for a standard "winreg" module.Originally published: 2006-09-29 17:13:07 
+## Proposal for a standard "winreg" module. 
+Originally published: 2006-09-29 17:13:07 
 Last updated: 2007-03-02 03:55:04 
 Author: Stephen Chappell 
  

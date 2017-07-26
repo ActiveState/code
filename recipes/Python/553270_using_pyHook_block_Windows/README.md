@@ -1,4 +1,5 @@
-## using pyHook to block Windows KeysOriginally published: 2008-04-08 11:24:02 
+## using pyHook to block Windows Keys 
+Originally published: 2008-04-08 11:24:02 
 Last updated: 2011-09-18 21:29:17 
 Author: Brian Davis 
  

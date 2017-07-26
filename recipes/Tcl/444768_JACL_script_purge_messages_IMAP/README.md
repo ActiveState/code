@@ -1,4 +1,5 @@
-## JACL script to purge messages on IMAP serverOriginally published: 2005-11-10 23:13:32 
+## JACL script to purge messages on IMAP server 
+Originally published: 2005-11-10 23:13:32 
 Last updated: 2005-11-10 23:13:32 
 Author: D. J. Hagberg 
  

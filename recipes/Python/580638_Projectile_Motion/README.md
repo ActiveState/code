@@ -1,4 +1,5 @@
-## Projectile MotionOriginally published: 2016-04-08 01:42:01 
+## Projectile Motion 
+Originally published: 2016-04-08 01:42:01 
 Last updated: 2016-04-08 01:42:01 
 Author: Tage Burnett 
  

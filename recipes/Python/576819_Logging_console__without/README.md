@@ -1,4 +1,5 @@
-## Logging to console .. without surprisesOriginally published: 2009-06-22 16:22:06 
+## Logging to console .. without surprises 
+Originally published: 2009-06-22 16:22:06 
 Last updated: 2009-06-25 13:12:55 
 Author: Sridhar Ratnakumar 
  

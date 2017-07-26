@@ -1,4 +1,5 @@
-## Debug runtime objects using gc.get_objects()Originally published: 2005-11-27 08:01:49 
+## Debug runtime objects using gc.get_objects() 
+Originally published: 2005-11-27 08:01:49 
 Last updated: 2005-11-27 08:01:49 
 Author: Dirk Holtwick 
  

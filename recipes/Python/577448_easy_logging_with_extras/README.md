@@ -1,4 +1,5 @@
-## easy logging with extrasOriginally published: 2010-11-02 10:04:14 
+## easy logging with extras 
+Originally published: 2010-11-02 10:04:14 
 Last updated: 2010-11-02 10:04:15 
 Author: Bud P. Bruegger 
  

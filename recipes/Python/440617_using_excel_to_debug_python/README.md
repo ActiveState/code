@@ -1,4 +1,5 @@
-## using excel to debug pythonOriginally published: 2005-09-30 02:28:42 
+## using excel to debug python 
+Originally published: 2005-09-30 02:28:42 
 Last updated: 2005-09-30 02:28:42 
 Author: yaniv vi 
  

@@ -1,4 +1,5 @@
-## Importer-specific module initializationOriginally published: 2006-02-03 15:06:53 
+## Importer-specific module initialization 
+Originally published: 2006-02-03 15:06:53 
 Last updated: 2006-02-03 15:06:53 
 Author: runsun pan 
  

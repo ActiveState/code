@@ -1,4 +1,5 @@
-## Objectify of a XML nodeOriginally published: 2014-12-05 04:39:51 
+## Objectify of a XML node 
+Originally published: 2014-12-05 04:39:51 
 Last updated: 2014-12-05 04:39:51 
 Author: Thomas Lehmann 
  

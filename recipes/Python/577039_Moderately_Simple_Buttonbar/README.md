@@ -1,4 +1,5 @@
-## A Moderately Simple Buttonbar ProgramOriginally published: 2010-02-10 02:08:37 
+## A Moderately Simple Buttonbar Program 
+Originally published: 2010-02-10 02:08:37 
 Last updated: 2010-02-10 02:08:37 
 Author: Phil Rist 
  

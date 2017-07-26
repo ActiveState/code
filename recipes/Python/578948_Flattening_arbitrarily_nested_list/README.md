@@ -1,4 +1,5 @@
-## Flattening an arbitrarily nested list in PythonOriginally published: 2014-10-05 21:44:45 
+## Flattening an arbitrarily nested list in Python 
+Originally published: 2014-10-05 21:44:45 
 Last updated: 2014-10-05 21:44:45 
 Author: Vasudev Ram 
  

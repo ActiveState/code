@@ -1,4 +1,5 @@
-## Get system/language/user dependent paths on windowsOriginally published: 2006-02-05 11:54:03 
+## Get system/language/user dependent paths on windows 
+Originally published: 2006-02-05 11:54:03 
 Last updated: 2006-02-05 11:54:03 
 Author: Chris Arndt 
  

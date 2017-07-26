@@ -1,4 +1,5 @@
-## Looping through multiple listsOriginally published: 2001-06-21 17:31:04 
+## Looping through multiple lists 
+Originally published: 2001-06-21 17:31:04 
 Last updated: 2001-06-29 16:53:42 
 Author: andy mckay 
  

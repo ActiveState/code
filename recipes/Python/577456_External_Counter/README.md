@@ -1,4 +1,5 @@
-## External CounterOriginally published: 2010-11-07 03:25:33 
+## External Counter 
+Originally published: 2010-11-07 03:25:33 
 Last updated: 2010-11-07 03:25:34 
 Author: Stephen Chappell 
  

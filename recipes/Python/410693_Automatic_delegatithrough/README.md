@@ -1,4 +1,5 @@
-## Automatic delegation through descriptorsOriginally published: 2005-04-25 10:22:23 
+## Automatic delegation through descriptors 
+Originally published: 2005-04-25 10:22:23 
 Last updated: 2005-04-25 10:22:23 
 Author: Diego Novella 
  

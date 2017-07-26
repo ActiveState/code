@@ -1,4 +1,5 @@
-## Prime factors of an integer by Brent algorithmOriginally published: 2015-04-27 11:30:19 
+## Prime factors of an integer by Brent algorithm 
+Originally published: 2015-04-27 11:30:19 
 Last updated: 2015-05-28 06:47:01 
 Author: Antoni Gual 
  

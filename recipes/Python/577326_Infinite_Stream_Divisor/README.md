@@ -1,4 +1,5 @@
-## Infinite Stream DivisorOriginally published: 2010-07-21 12:50:16 
+## Infinite Stream Divisor 
+Originally published: 2010-07-21 12:50:16 
 Last updated: 2010-07-21 12:50:17 
 Author: Narayana Chikkam 
  

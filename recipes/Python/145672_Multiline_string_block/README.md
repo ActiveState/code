@@ -1,4 +1,5 @@
-## Multi-line string block formattingOriginally published: 2002-08-19 18:13:22 
+## Multi-line string block formatting 
+Originally published: 2002-08-19 18:13:22 
 Last updated: 2002-08-19 18:13:22 
 Author: Brett Levin 
  

@@ -1,4 +1,5 @@
-## Explicit Tail CallOriginally published: 2007-10-12 12:12:40 
+## Explicit Tail Call 
+Originally published: 2007-10-12 12:12:40 
 Last updated: 2007-10-12 12:12:40 
 Author: Shane Hathaway 
  

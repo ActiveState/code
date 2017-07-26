@@ -1,4 +1,5 @@
-## Classes for Working with URIsOriginally published: 2006-02-07 15:07:33 
+## Classes for Working with URIs 
+Originally published: 2006-02-07 15:07:33 
 Last updated: 2006-02-12 10:24:56 
 Author: Duncan McGreggor 
  

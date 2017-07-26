@@ -1,4 +1,5 @@
-## Functional D plus Python pipeline to generate PDFOriginally published: 2016-09-22 15:32:16 
+## Functional D plus Python pipeline to generate PDF 
+Originally published: 2016-09-22 15:32:16 
 Last updated: 2016-09-22 15:32:17 
 Author: Vasudev Ram 
  

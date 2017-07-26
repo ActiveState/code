@@ -1,4 +1,5 @@
-## C-style enumerationsOriginally published: 2013-01-29 16:13:38 
+## C-style enumerations 
+Originally published: 2013-01-29 16:13:38 
 Last updated: 2013-01-29 16:13:39 
 Author: Arthur Gardiner 
  

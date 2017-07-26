@@ -1,4 +1,5 @@
-## FileSpec: Set it, forget it, reuse itOriginally published: 2016-03-08 05:49:15 
+## FileSpec: Set it, forget it, reuse it 
+Originally published: 2016-03-08 05:49:15 
 Last updated: 2016-03-08 05:49:16 
 Author: Jack Trainor 
  

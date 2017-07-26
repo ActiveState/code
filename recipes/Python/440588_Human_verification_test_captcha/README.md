@@ -1,4 +1,5 @@
-## Human verification test (captcha)Originally published: 2005-09-21 13:44:03 
+## Human verification test (captcha) 
+Originally published: 2005-09-21 13:44:03 
 Last updated: 2005-09-21 20:52:45 
 Author: Robert McDermott 
  

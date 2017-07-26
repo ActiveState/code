@@ -1,4 +1,5 @@
-## Recursion/loop prevention function decoratorOriginally published: 2007-07-02 23:43:29 
+## Recursion/loop prevention function decorator 
+Originally published: 2007-07-02 23:43:29 
 Last updated: 2007-07-02 23:43:29 
 Author: Vadim Zaliva 
  

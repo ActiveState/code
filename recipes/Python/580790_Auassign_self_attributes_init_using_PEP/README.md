@@ -1,4 +1,5 @@
-## Auto assign self attributes in __init__ using PEP 484Originally published: 2017-04-26 17:19:59 
+## Auto assign self attributes in __init__ using PEP 484 
+Originally published: 2017-04-26 17:19:59 
 Last updated: 2017-04-26 17:26:29 
 Author: Ryan Gonzalez 
  

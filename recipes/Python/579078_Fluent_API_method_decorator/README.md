@@ -1,4 +1,5 @@
-## Fluent API method decoratorOriginally published: 2015-07-08 13:18:27 
+## Fluent API method decorator 
+Originally published: 2015-07-08 13:18:27 
 Last updated: 2015-07-08 13:20:58 
 Author: Oscar Byrne 
  

@@ -1,4 +1,5 @@
-## PrimesOriginally published: 2012-06-05 05:16:41 
+## Primes 
+Originally published: 2012-06-05 05:16:41 
 Last updated: 2012-06-05 05:16:42 
 Author: wycao2k  
  

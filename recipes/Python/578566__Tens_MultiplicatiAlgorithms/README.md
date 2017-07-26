@@ -1,4 +1,5 @@
-##  Ten's Multiplication Algorithms in PythonOriginally published: 2013-06-18 15:23:33 
+##  Ten's Multiplication Algorithms in Python 
+Originally published: 2013-06-18 15:23:33 
 Last updated: 2013-06-18 15:23:36 
 Author: Captain DeadBones 
  

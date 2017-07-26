@@ -1,4 +1,5 @@
-## Simple templating routineOriginally published: 2001-07-30 16:53:33 
+## Simple templating routine 
+Originally published: 2001-07-30 16:53:33 
 Last updated: 2001-07-30 16:53:33 
 Author: Chui Tey 
  

@@ -1,4 +1,5 @@
-## Automatic Python PyObject ref-count management in C++ using a smart ptrOriginally published: 2011-12-16 23:28:07 
+## Automatic Python PyObject ref-count management in C++ using a smart ptr 
+Originally published: 2011-12-16 23:28:07 
 Last updated: 2011-12-19 15:24:03 
 Author: samh  
  

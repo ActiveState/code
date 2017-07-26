@@ -1,4 +1,5 @@
-## Simple reverse converter of unicode code points stringOriginally published: 2009-09-22 19:58:33 
+## Simple reverse converter of unicode code points string 
+Originally published: 2009-09-22 19:58:33 
 Last updated: 2009-09-22 20:02:32 
 Author: Ryan  
  

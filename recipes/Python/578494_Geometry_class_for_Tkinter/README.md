@@ -1,4 +1,5 @@
-## Geometry class for TkinterOriginally published: 2013-03-18 14:48:17 
+## Geometry class for Tkinter 
+Originally published: 2013-03-18 14:48:17 
 Last updated: 2013-03-18 14:49:16 
 Author: David Corne 
  

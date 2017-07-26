@@ -1,4 +1,5 @@
-## Stateful Objects use Mix-ins to define behaviourOriginally published: 2002-11-02 06:41:05 
+## Stateful Objects use Mix-ins to define behaviour 
+Originally published: 2002-11-02 06:41:05 
 Last updated: 2002-11-02 06:41:05 
 Author: Dave Haynes 
  

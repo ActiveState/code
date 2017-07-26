@@ -1,4 +1,5 @@
-## How to implement state-dependent behavior - State-PatternOriginally published: 2004-04-12 04:43:05 
+## How to implement state-dependent behavior - State-Pattern 
+Originally published: 2004-04-12 04:43:05 
 Last updated: 2004-04-12 12:58:10 
 Author: Elmar Bschorer 
  

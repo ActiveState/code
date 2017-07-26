@@ -1,4 +1,5 @@
-## Standard Error RedirectorOriginally published: 2006-03-18 11:24:08 
+## Standard Error Redirector 
+Originally published: 2006-03-18 11:24:08 
 Last updated: 2006-03-20 01:53:49 
 Author: Stephen Chappell 
  

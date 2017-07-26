@@ -1,4 +1,5 @@
-## Virtual collectionsOriginally published: 2010-03-09 03:43:10 
+## Virtual collections 
+Originally published: 2010-03-09 03:43:10 
 Last updated: 2010-03-09 03:43:13 
 Author: Chris Leong 
  

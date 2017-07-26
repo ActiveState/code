@@ -1,4 +1,5 @@
-## GAE User Session with HTTP Basic AuthenticationOriginally published: 2010-05-20 20:31:02 
+## GAE User Session with HTTP Basic Authentication 
+Originally published: 2010-05-20 20:31:02 
 Last updated: 2010-05-20 23:49:49 
 Author: Berend  
  

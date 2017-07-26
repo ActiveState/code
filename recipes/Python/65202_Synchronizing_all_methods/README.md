@@ -1,4 +1,5 @@
-## Synchronizing all methods in an objectOriginally published: 2001-06-14 02:07:21 
+## Synchronizing all methods in an object 
+Originally published: 2001-06-14 02:07:21 
 Last updated: 2001-06-14 02:07:21 
 Author: André Bjärby 
  

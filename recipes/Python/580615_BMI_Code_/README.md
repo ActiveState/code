@@ -1,4 +1,5 @@
-## BMI Code Originally published: 2016-02-20 11:58:12 
+## BMI Code  
+Originally published: 2016-02-20 11:58:12 
 Last updated: 2016-02-20 11:58:12 
 Author: Josh Nation 
  

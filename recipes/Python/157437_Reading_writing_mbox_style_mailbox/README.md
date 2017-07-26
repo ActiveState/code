@@ -1,4 +1,5 @@
-## Reading and writing mbox style mailbox files.Originally published: 2002-10-18 12:06:30 
+## Reading and writing mbox style mailbox files. 
+Originally published: 2002-10-18 12:06:30 
 Last updated: 2002-10-18 12:06:30 
 Author: Noah Spurrier 
  

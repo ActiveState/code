@@ -1,4 +1,5 @@
-## Simulate C's switch statementOriginally published: 2016-12-11 16:28:49 
+## Simulate C's switch statement 
+Originally published: 2016-12-11 16:28:49 
 Last updated: 2016-12-11 16:28:50 
 Author: Vasudev Ram 
  

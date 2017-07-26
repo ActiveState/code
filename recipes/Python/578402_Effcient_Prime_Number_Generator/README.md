@@ -1,4 +1,5 @@
-## "Effcient" Prime Number Generator in PythonOriginally published: 2013-01-06 20:22:00 
+## "Effcient" Prime Number Generator in Python 
+Originally published: 2013-01-06 20:22:00 
 Last updated: 2013-01-19 03:58:05 
 Author: Captain DeadBones 
  

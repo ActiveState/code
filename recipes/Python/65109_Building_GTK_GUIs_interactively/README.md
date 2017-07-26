@@ -1,4 +1,5 @@
-## Building GTK GUIs interactivelyOriginally published: 2001-06-08 12:22:01 
+## Building GTK GUIs interactively 
+Originally published: 2001-06-08 12:22:01 
 Last updated: 2001-09-27 15:49:21 
 Author: Brian McErlean 
  

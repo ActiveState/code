@@ -1,4 +1,5 @@
-## Convert a cmp function to a key functionOriginally published: 2009-02-18 22:40:14 
+## Convert a cmp function to a key function 
+Originally published: 2009-02-18 22:40:14 
 Last updated: 2010-04-04 23:28:40 
 Author: Raymond Hettinger 
  

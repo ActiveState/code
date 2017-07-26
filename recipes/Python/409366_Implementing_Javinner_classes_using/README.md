@@ -1,4 +1,5 @@
-## Implementing Java inner classes using descriptorsOriginally published: 2005-04-11 11:56:27 
+## Implementing Java inner classes using descriptors 
+Originally published: 2005-04-11 11:56:27 
 Last updated: 2005-07-08 22:08:04 
 Author: George Sakkis 
  

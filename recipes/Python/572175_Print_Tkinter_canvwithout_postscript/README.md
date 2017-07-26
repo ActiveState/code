@@ -1,4 +1,5 @@
-## Print Tkinter canvas without a postscript printerOriginally published: 2008-04-27 17:26:01 
+## Print Tkinter canvas without a postscript printer 
+Originally published: 2008-04-27 17:26:01 
 Last updated: 2008-04-28 21:32:47 
 Author: jesse james 
  

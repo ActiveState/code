@@ -1,4 +1,5 @@
-## Redate pictures with EXIFOriginally published: 2009-06-29 00:24:57 
+## Redate pictures with EXIF 
+Originally published: 2009-06-29 00:24:57 
 Last updated: 2009-06-29 03:06:01 
 Author: Ivan Koblik 
  

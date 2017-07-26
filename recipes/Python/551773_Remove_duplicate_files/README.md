@@ -1,4 +1,5 @@
-## Remove duplicate filesOriginally published: 2008-03-17 10:38:07 
+## Remove duplicate files 
+Originally published: 2008-03-17 10:38:07 
 Last updated: 2008-03-17 10:38:07 
 Author: Brian Davis 
  

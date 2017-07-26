@@ -1,4 +1,5 @@
-## Safe heap queue classOriginally published: 2005-10-08 09:30:19 
+## Safe heap queue class 
+Originally published: 2005-10-08 09:30:19 
 Last updated: 2005-10-09 14:57:08 
 Author: George Sakkis 
  

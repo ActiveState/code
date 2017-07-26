@@ -1,4 +1,5 @@
-## A pseudo-echo, (or printf), function for any Python version.Originally published: 2017-01-20 22:17:22 
+## A pseudo-echo, (or printf), function for any Python version. 
+Originally published: 2017-01-20 22:17:22 
 Last updated: 2017-01-20 22:17:23 
 Author: Barry Walker 
  

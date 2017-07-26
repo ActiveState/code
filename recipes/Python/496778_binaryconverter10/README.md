@@ -1,4 +1,5 @@
-## binary-converter1.0Originally published: 2006-06-04 15:51:33 
+## binary-converter1.0 
+Originally published: 2006-06-04 15:51:33 
 Last updated: 2006-06-04 15:51:33 
 Author: phinix bss 
  

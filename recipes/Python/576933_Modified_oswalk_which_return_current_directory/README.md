@@ -1,4 +1,5 @@
-## Modified os.walk which return current directory depthOriginally published: 2009-10-18 15:10:50 
+## Modified os.walk which return current directory depth 
+Originally published: 2009-10-18 15:10:50 
 Last updated: 2009-11-06 16:16:42 
 Author: Denis Barmenkov 
  

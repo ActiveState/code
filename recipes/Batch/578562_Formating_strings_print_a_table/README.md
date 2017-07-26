@@ -1,4 +1,5 @@
-## Formating strings (print a table)Originally published: 2013-06-18 07:44:09 
+## Formating strings (print a table) 
+Originally published: 2013-06-18 07:44:09 
 Last updated: 2013-06-18 07:52:03 
 Author: greg zakharov 
  

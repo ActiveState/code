@@ -1,4 +1,5 @@
-## System Authentication against /etc/shadow or /etc/passwdOriginally published: 2013-03-11 12:40:10 
+## System Authentication against /etc/shadow or /etc/passwd 
+Originally published: 2013-03-11 12:40:10 
 Last updated: 2013-03-11 12:40:10 
 Author: James Mills 
  

@@ -1,4 +1,5 @@
-## IP address conversion functionsOriginally published: 2001-06-17 17:05:14 
+## IP address conversion functions 
+Originally published: 2001-06-17 17:05:14 
 Last updated: 2001-06-17 17:05:14 
 Author: Greg Jorgensen 
  

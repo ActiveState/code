@@ -1,4 +1,5 @@
-## Recursive fc/diff for Windows, optionally copy missing/different filesOriginally published: 2017-04-08 16:40:25 
+## Recursive fc/diff for Windows, optionally copy missing/different files 
+Originally published: 2017-04-08 16:40:25 
 Last updated: 2017-04-08 16:40:25 
 Author: John Brearley 
  

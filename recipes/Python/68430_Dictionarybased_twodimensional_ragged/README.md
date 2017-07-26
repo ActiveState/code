@@ -1,4 +1,5 @@
-## A Dictionary-based two-dimensional ragged array.Originally published: 2001-09-23 09:31:13 
+## A Dictionary-based two-dimensional ragged array. 
+Originally published: 2001-09-23 09:31:13 
 Last updated: 2001-10-03 04:40:03 
 Author: Peter Olsen 
  

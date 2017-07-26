@@ -1,4 +1,5 @@
-## DB2 - check tablespace statusOriginally published: 2003-07-01 00:10:26 
+## DB2 - check tablespace status 
+Originally published: 2003-07-01 00:10:26 
 Last updated: 2003-07-01 00:10:26 
 Author: Patrick Finnegan 
  

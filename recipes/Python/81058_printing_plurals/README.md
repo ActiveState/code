@@ -1,4 +1,5 @@
-## printing pluralsOriginally published: 2001-10-11 06:04:32 
+## printing plurals 
+Originally published: 2001-10-11 06:04:32 
 Last updated: 2001-10-11 06:04:32 
 Author: Oliver Steele 
  

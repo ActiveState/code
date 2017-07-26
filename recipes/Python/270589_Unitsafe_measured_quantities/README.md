@@ -1,4 +1,5 @@
-## Unit-safe measured quantitiesOriginally published: 2004-02-23 12:12:29 
+## Unit-safe measured quantities 
+Originally published: 2004-02-23 12:12:29 
 Last updated: 2004-02-23 12:12:29 
 Author: George Sakkis 
  

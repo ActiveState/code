@@ -1,4 +1,5 @@
-## Get the path of the currently executing  python script using import.Originally published: 2006-02-24 05:23:36 
+## Get the path of the currently executing  python script using import. 
+Originally published: 2006-02-24 05:23:36 
 Last updated: 2006-02-24 05:23:36 
 Author: Jitender Cheema 
  

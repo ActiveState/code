@@ -1,4 +1,5 @@
-## Generic vs. Specific Algorithms - Obtaining All Element Combinations from N SetsOriginally published: 2005-04-24 21:29:31 
+## Generic vs. Specific Algorithms - Obtaining All Element Combinations from N Sets 
+Originally published: 2005-04-24 21:29:31 
 Last updated: 2005-04-30 17:16:48 
 Author: Zoran Isailovski 
  

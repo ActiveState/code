@@ -1,4 +1,5 @@
-## The Easy CowOriginally published: 2012-12-06 14:22:35 
+## The Easy Cow 
+Originally published: 2012-12-06 14:22:35 
 Last updated: 2012-12-06 14:22:36 
 Author: Stephen Chappell 
  

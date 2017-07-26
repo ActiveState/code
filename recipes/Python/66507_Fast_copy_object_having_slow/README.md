@@ -1,4 +1,5 @@
-## Fast copy of an object having a slow __init__Originally published: 2001-08-10 04:03:41 
+## Fast copy of an object having a slow __init__ 
+Originally published: 2001-08-10 04:03:41 
 Last updated: 2001-08-10 04:03:41 
 Author: Alex Martelli 
  

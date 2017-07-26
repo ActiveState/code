@@ -1,4 +1,5 @@
-## vectorOriginally published: 2012-01-09 05:35:38 
+## vector 
+Originally published: 2012-01-09 05:35:38 
 Last updated: 2012-01-09 05:35:39 
 Author: Stephen Chappell 
  

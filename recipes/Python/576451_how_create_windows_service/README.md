@@ -1,4 +1,5 @@
-## how to create a windows service in pythonOriginally published: 2008-08-26 01:32:47 
+## how to create a windows service in python 
+Originally published: 2008-08-26 01:32:47 
 Last updated: 2008-08-26 01:32:47 
 Author: alexander baker 
  

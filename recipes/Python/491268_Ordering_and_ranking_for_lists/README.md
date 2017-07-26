@@ -1,4 +1,5 @@
-## Ordering and ranking for listsOriginally published: 2006-04-18 07:21:30 
+## Ordering and ranking for lists 
+Originally published: 2006-04-18 07:21:30 
 Last updated: 2006-04-20 15:19:39 
 Author: Ernesto Adorio 
  

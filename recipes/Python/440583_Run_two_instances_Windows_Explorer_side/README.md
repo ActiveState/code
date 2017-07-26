@@ -1,4 +1,5 @@
-## Run two instances of Windows Explorer side by sideOriginally published: 2005-09-20 23:52:17 
+## Run two instances of Windows Explorer side by side 
+Originally published: 2005-09-20 23:52:17 
 Last updated: 2005-09-20 23:52:17 
 Author: Soon Wah Chua 
  

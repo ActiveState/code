@@ -1,4 +1,5 @@
-## Functional  style tab expansionOriginally published: 2004-02-08 15:28:42 
+## Functional  style tab expansion 
+Originally published: 2004-02-08 15:28:42 
 Last updated: 2004-02-08 15:28:42 
 Author: gabriele renzi 
  

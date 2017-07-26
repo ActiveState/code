@@ -1,4 +1,5 @@
-## Print Logger InternalsOriginally published: 2012-12-24 04:11:32 
+## Print Logger Internals 
+Originally published: 2012-12-24 04:11:32 
 Last updated: 2012-12-24 04:11:35 
 Author: Dave Bailey 
  

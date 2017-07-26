@@ -1,4 +1,5 @@
-## Http client to POST using multipart/form-dataOriginally published: 2002-08-23 07:56:39 
+## Http client to POST using multipart/form-data 
+Originally published: 2002-08-23 07:56:39 
 Last updated: 2002-08-23 07:56:39 
 Author: Wade Leftwich 
  

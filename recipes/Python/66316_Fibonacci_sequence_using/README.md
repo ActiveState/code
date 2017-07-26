@@ -1,4 +1,5 @@
-## Fibonacci sequence using generatorsOriginally published: 2001-07-23 11:31:20 
+## Fibonacci sequence using generators 
+Originally published: 2001-07-23 11:31:20 
 Last updated: 2001-07-23 11:31:20 
 Author: Tom Good 
  

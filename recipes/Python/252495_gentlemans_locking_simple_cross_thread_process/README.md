@@ -1,4 +1,5 @@
-## gentleman's locking (simple cross thread and process locking)Originally published: 2003-12-04 09:14:48 
+## gentleman's locking (simple cross thread and process locking) 
+Originally published: 2003-12-04 09:14:48 
 Last updated: 2003-12-04 09:14:48 
 Author: John Nielsen 
  

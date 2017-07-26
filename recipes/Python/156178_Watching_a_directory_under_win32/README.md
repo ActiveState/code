@@ -1,4 +1,5 @@
-## Watching a directory under win32Originally published: 2002-10-11 03:34:13 
+## Watching a directory under win32 
+Originally published: 2002-10-11 03:34:13 
 Last updated: 2002-10-11 03:34:13 
 Author: Tim Golden 
  

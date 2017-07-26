@@ -1,4 +1,5 @@
-## Windows clipboard viewerOriginally published: 2004-12-04 12:50:56 
+## Windows clipboard viewer 
+Originally published: 2004-12-04 12:50:56 
 Last updated: 2004-12-04 12:50:56 
 Author: Georg Nelles 
  

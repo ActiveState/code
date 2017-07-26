@@ -1,4 +1,5 @@
-## Memento ClosureOriginally published: 2005-05-10 15:21:39 
+## Memento Closure 
+Originally published: 2005-05-10 15:21:39 
 Last updated: 2005-05-11 07:44:46 
 Author: Zoran Isailovski 
  

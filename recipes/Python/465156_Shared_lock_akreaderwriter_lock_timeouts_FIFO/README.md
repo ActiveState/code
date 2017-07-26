@@ -1,4 +1,5 @@
-## Shared lock (aka reader-writer lock) with timeouts and FIFO orderingOriginally published: 2005-12-20 21:56:24 
+## Shared lock (aka reader-writer lock) with timeouts and FIFO ordering 
+Originally published: 2005-12-20 21:56:24 
 Last updated: 2005-12-20 21:56:24 
 Author: Dmitry Dvoinikov 
  

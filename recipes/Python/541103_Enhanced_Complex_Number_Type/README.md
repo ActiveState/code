@@ -1,4 +1,5 @@
-## Enhanced Complex Number TypeOriginally published: 2008-01-05 18:03:37 
+## Enhanced Complex Number Type 
+Originally published: 2008-01-05 18:03:37 
 Last updated: 2008-01-05 18:03:37 
 Author: cesar otero 
  

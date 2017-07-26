@@ -1,4 +1,5 @@
-## Decode in PythonOriginally published: 2001-08-30 04:14:19 
+## Decode in Python 
+Originally published: 2001-08-30 04:14:19 
 Last updated: 2001-08-30 18:47:41 
 Author: Goh S H 
  

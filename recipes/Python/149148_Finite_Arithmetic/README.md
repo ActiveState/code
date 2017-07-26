@@ -1,4 +1,5 @@
-## Finite ArithmeticOriginally published: 2002-09-10 15:44:02 
+## Finite Arithmetic 
+Originally published: 2002-09-10 15:44:02 
 Last updated: 2002-09-10 15:44:02 
 Author: Gonçalo Rodrigues 
  

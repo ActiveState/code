@@ -1,4 +1,5 @@
-## python EMI calculatorOriginally published: 2015-07-29 18:13:40 
+## python EMI calculator 
+Originally published: 2015-07-29 18:13:40 
 Last updated: 2015-07-29 18:20:36 
 Author: Emil george james 
  

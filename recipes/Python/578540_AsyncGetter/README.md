@@ -1,4 +1,5 @@
-## AsyncGetterOriginally published: 2013-06-01 18:20:14 
+## AsyncGetter 
+Originally published: 2013-06-01 18:20:14 
 Last updated: 2013-06-01 18:20:15 
 Author: Nick Faro 
  

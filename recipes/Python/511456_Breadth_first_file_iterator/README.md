@@ -1,4 +1,5 @@
-## Breadth first file iteratorOriginally published: 2007-04-06 11:55:04 
+## Breadth first file iterator 
+Originally published: 2007-04-06 11:55:04 
 Last updated: 2007-04-06 11:55:04 
 Author: Mike Wynn 
  

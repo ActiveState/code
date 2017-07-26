@@ -1,4 +1,5 @@
-## Skeleton for well behaved unix command line toolsOriginally published: 2007-09-27 05:00:28 
+## Skeleton for well behaved unix command line tools 
+Originally published: 2007-09-27 05:00:28 
 Last updated: 2007-09-27 05:00:28 
 Author: Alfred Schilken 
  

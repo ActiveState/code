@@ -1,4 +1,5 @@
-## Parsing binary files with regular expressionsOriginally published: 2003-02-16 23:31:06 
+## Parsing binary files with regular expressions 
+Originally published: 2003-02-16 23:31:06 
 Last updated: 2003-02-16 23:31:06 
 Author: Jim Ursetto 
  
