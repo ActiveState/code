@@ -1,0 +1,7 @@
+###Simple White Noise Generator Using Standard Python In Linux.
+
+Originally published: 2011-03-10 18:03:54
+Last updated: 2011-03-10 18:03:55
+Author: Barry Walker
+
+Simple White Noise Generator Using Standard Python In Linux - noise.py\n\nThis code is a stand alone program to generate a signal, at the earphone sockets, of white noise.\n\nIt needs /dev/dsp to work; if you haven't got it then install oss-compat from your distro's repository.\n(NOTE:- /dev/audio could also be used but I decided to use /dev/dsp to show that this was within easy\nreach of standard Python too.)\n\nEnsure the audio system is NOT in use for this to work and all the levels are set up for your normal requirements.\nIn my case root level WAS NOT required but that does not mean that root level IS NOT required - so be aware.\n\nAll that is required to make this a piece of audio test equipment is a cable plugged into to the earphone\nsocket. The output level is fully controllable inside the code and the noise is generated in about 10 second\nbursts\n\nAssuming it is copied into the module(s) drawer just type:-\n\n>>> import noise[RETURN/ENTER]\n\nAnd away you go...\n\nThis is Public Domain and you may do with it as you like.\n\nRead the program for more information.\n(There will be more to come in the future... :)\n\nEnjoy finding simple solutions to often very difficult problems... ;o)\n\n\n73...\n\nBazza, G0LCU...\n\nTeam AMIGA...\n

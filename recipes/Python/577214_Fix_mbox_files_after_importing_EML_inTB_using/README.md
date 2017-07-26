@@ -1,0 +1,7 @@
+###Fix mbox files after importing EML into TB using ImportExportTools
+
+Originally published: 2010-05-02 13:20:15
+Last updated: 2010-05-02 13:21:00
+Author: Denis Barmenkov
+
+I've found a bug in import EML file into Thunderbird using ImportExportTools addon:\nwhen I import eml file into TB there are a 'From' line added to mbox followed with EML file contents.\nTB maintains right 'From' line for messages fetched from mailservers:\n\n    From - Tue Apr 27 19:42:22 2010\n\nImportExportTools formats this line wrong I suppose that used some system function with default specifier so I saw in mbox file:\n\n    From - Sat May 01 2010 15:07:31 GMT+0400 (Russian Daylight Time)\n\nSo there are two errors:\n1) sequence 'time year' broken into 'year time'\n2) extra trash with GMT info along with time zone name\n\nThis prevents the mbox file parsing using Python standard library (for sample) because there are a hardcoded regexp for matching From line (file lib/mailbox.py, class UnixMailbox):\n\n    _fromlinepattern = r"From \\s*[^\\s]+\\s+\\w\\w\\w\\s+\\w\\w\\w\\s+\\d?\\d\\s+" \\\n                       r"\\d?\\d:\\d\\d(:\\d\\d)?(\\s+[^\\s]+)?\\s+\\d\\d\\d\\d\\s*$" \n\nAttached script fixes incorrect From lines so parsing those mboxes using Python standard library will become ok.

@@ -1,0 +1,7 @@
+###Maclaurin's_series_cosh-1(x)
+
+Originally published: 2010-09-21 11:34:40
+Last updated: 2010-09-28 11:53:08
+Author: Fouad Teniou
+
+C. Maclaurin. A Scottish mathematician gained his master degree at age 17, and his major mathematics' work arise from his special knowledge in Newton's ideas and the formulation of Newton's methods.\n\nHowever, C. Maclaurin also contributed to the astronomy science and helped to improve maps and invented some mechanical devices .\n\nMy mathematics python's programs is a set of Maclaurin's series to compute some of the most important functions in calculus.\n\nThough, the computation of an infinite sum which give the value of a function in terms of the derivatives evaluated at a special case where x0 = 0,in contrast with Taylor's series. \n\n\nNatural logarithms are used to compute inverse hyperbolic functions.

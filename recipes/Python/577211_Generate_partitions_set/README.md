@@ -1,0 +1,7 @@
+###Generate the partitions of a set, by index
+
+Originally published: 2010-04-30 11:07:29
+Last updated: 2010-04-30 11:07:30
+Author: Anton Vredegoor
+
+Sets of only a few items already have many ways they can be partitioned into subsets. Therefore it can be useful to generate these partitions by index, like the partition class were some large list where one can just access element "i". Of course one should not compute the whole list in advance but compute the partitions on the fly. This recipe was originally extracted form a book by Kreher and Stinson. Over the years I came back to my code from time to time creating a new and hopefully more pythonic version each time I understood it better. My current take on it is that the algorithm looks a lot like creating a Pascals triangle in order to compute combinations. One just tries to find a way down the triangle to a specific element, each time subtracting the amounts the different positions in the triangle account for. It is also similar to finding indexed permutations of a set with elements occurring more than once. One of these days I will perhaps understand how all of this fits together. Until then I'll post code solving specific situations. 

@@ -1,0 +1,7 @@
+###Simple Morse Code Generator And Tutor.
+
+Originally published: 2012-01-09 18:53:30
+Last updated: 2012-01-09 22:51:12
+Author: Barry Walker
+
+This is not for the big guns, but for the Amateur coder AND radio enthusiast.\n\nIt is a DEMO Morse Code Generator and tutor that will generate the tones required for\nthe original standard letters A to Z and numbers 0 to 9. Puctuation is NOT included but\nhey it is SOOOO simple to modify the code that I will let you, (the ones interested),\ndo that for yourselves... ;o)\nRead the code for more informaton.\n\nIt is for at least standard text mode Python 2.5.2 to 2.7.2 using PCLinuxOS 2009 and\nDebian 6.0.0. It may well work at a much earlier version. I do have a version for\nPython 3.x.x but that will be uploaded elsewhere.\n\nAs it stands it _sends_ at around 8 WPM, (Words Per Minute).\n\nIt is written in such a way that youngsters can understand what is going on.\n\nEnjoy finding simple solutions to often very difficult problems... ;o)\n\nBazza, G0LCU...\n

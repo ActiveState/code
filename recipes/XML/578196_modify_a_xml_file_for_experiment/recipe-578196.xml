@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Liquid XML Studio 6.1.17.0 - FREE Community Edition (http://www.liquid-technologies.com) -->
+<control-inst xsi:type="sai:mediaBarType" wallpaper-control="wallcontrol" floatingboard="true" xmlns="http://www.sonyericsson.com/sui" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sai="http://www.sonyericsson.com/sai"
+              xsi:schemaLocation="http://www.sonyericsson.com/sui \MC_SwModules_005\cah1623241_sui_toolkit\doc\sui.xsd http://www.sonyericsson.com/sai \MC_SwModules_005\cah1623214_standby_framework\docs\sai_extensions.xsd">
+  <model xsi:type="sai:MultimediaModel" name="sai:multimedia-model"/>
+  <visuals>
+    <visual id="mbar_bg" tag="mediaBar">
+      <visual-inst xsi:type="imageVisualType" scale-mode="fit">
+        <data data-type="filename">c:\resource\apps\sai\Idlepanel\sai_mb_background_CesetMod.png</data>
+      </visual-inst>
+    </visual>
+    <visual id="mbArtwork" tag="mediaBar">
+      <visual-inst xsi:type="MCFSuiImageVisualType" scale-mode="fitinside">
+        <data data-type="filename">Z:\resource\apps\sai\IdlePanel\sb_mp_albumart_icn.png</data>
+      </visual-inst>
+    </visual>
+    <visual id="mbIcon" tag="mediaBar">
+      <visual-inst xsi:type="imageVisualType">
+        <data data-type="filename"/>
+      </visual-inst>
+    </visual>
+    <visual id="mbName" tag="mediaBar">
+      <visual-inst xsi:type="textVisualType" size="20" colour="#FFFFFF" h-align="locale" wrap="truncate">
+        <data data-type="text"/>
+      </visual-inst>
+    </visual>
+    <visual id="mbPlayPauseButton" tag="mediaBar">
+      <include href="floatingboard_mbar_playpause.xml"/>
+    </visual>
+    <visual id="mbFFPauseButton" tag="mediaBar">
+      <include href="floatingboard_mbar_ff.xml"/>
+    </visual>
+    <visual id="mbRewPauseButton" tag="mediaBar">
+      <include href="floatingboard_mbar_rew.xml"/>
+    </visual>
+    <visual id="mbVisualizerSwitch" tag="mediaBar">
+      <include href="floatingboard_mbar_visualizer_switch.xml"/>
+    </visual>
+    <visual id="mbNotPlayed_bg" tag="mediaBar">
+      <visual-inst xsi:type="imageVisualType" scale-mode="fit">
+        <data data-type="filename">c:\resource\apps\sai\Idlepanel\sai_mb_background_CesetMod.png</data>
+      </visual-inst>
+    </visual>
+    <visual id="mbNotPlayed" tag="mediaBar">
+      <include href="floatingboard_mbar_note.xml"/>
+    </visual>
+  </visuals>
+  <layouts>
+    <layout id="mbLay">
+      <layout-mgr xsi:type="fixedLayoutMgr" fixed-width="346" fixed-height="136">
+        <layout-item xsi:type="fixedLayoutItemType" x="0" y="0" width="346" height="136">
+          <visual-link visual-id="mbar_bg"/>
+        </layout-item>
+        <layout-item xsi:type="fixedLayoutItemType" x="12" y="50" width="72" height="72">
+          <visual-link visual-id="mbArtwork"/>
+        </layout-item>
+        <layout-item xsi:type="fixedLayoutItemType" x="12" y="14" width="24" height="24">
+          <visual-link visual-id="mbIcon"/>
+        </layout-item>
+        <layout-item xsi:type="fixedLayoutItemType" x="36" y="16" width="270" height="20">
+          <visual-link visual-id="mbName"/>
+        </layout-item>
+        <layout-item xsi:type="fixedLayoutItemType" x="306" y="2" width="40" height="40">
+          <visual-link visual-id="mbVisualizerSwitch"/>
+        </layout-item>
+        <layout-item xsi:type="fixedLayoutItemType" x="172" y="43" width="86" height="86">
+          <visual-link visual-id="mbPlayPauseButton"/>
+        </layout-item>
+        <layout-item xsi:type="fixedLayoutItemType" x="92" y="50" width="72" height="72">
+          <visual-link visual-id="mbRewPauseButton"/>
+        </layout-item>
+        <layout-item xsi:type="fixedLayoutItemType" x="266" y="50" width="72" height="72">
+          <visual-link visual-id="mbFFPauseButton"/>
+        </layout-item>
+      </layout-mgr>
+    </layout>
+    <layout id="mbLayNotPlayed">
+      <layout-mgr xsi:type="fixedLayoutMgr" fixed-width="346" fixed-height="71">
+        <layout-item xsi:type="fixedLayoutItemType" x="0" y="0" width="346" height="71">
+          <visual-link visual-id="mbNotPlayed_bg"/>
+        </layout-item>
+        <layout-item xsi:type="fixedLayoutItemType" x="0" y="0" width="346" height="71">
+          <visual-link visual-id="mbNotPlayed"/>
+        </layout-item>
+      </layout-mgr>
+    </layout>
+  </layouts>
+  <configurations>
+    <configuration xsi:type="orientationConfigurationType" orientation="portrait" id="mbLay"/>
+    <configuration xsi:type="orientationConfigurationType" orientation="landscape" id="mbLay"/>
+  </configurations>
+  <commands>
+    <command id="100" group-id="10"> <!-- rew -->
+      <data data-id="icon" data-type="filename">z:\resource\apps\sai\IdlePanel\sai_mb_rwd.png</data>
+    </command>
+    <command id="101" group-id="11"> <!-- play -->
+      <data data-id="icon" data-type="filename">z:\resource\apps\sai\IdlePanel\sai_mb_play.png</data>
+    </command>
+    <command id="102" group-id="11"> <!-- pause -->
+      <data data-id="icon" data-type="filename">z:\resource\apps\sai\IdlePanel\sai_mb_pause.png</data>
+    </command>
+    <command id="103" group-id="12"> <!-- ff -->
+      <data data-id="icon" data-type="filename">z:\resource\apps\sai\IdlePanel\sai_mb_ffwd.png</data>
+    </command>
+    <command id="200" group-id="20"> <!-- visualizer off -->
+      <data data-id="icon" data-type="filename">z:\resource\apps\sai\IdlePanel\sai_mb_visualizer_off.png</data>
+    </command>
+    <command id="201" group-id="20"> <!-- visualizer on -->
+      <data data-id="icon" data-type="filename">z:\resource\apps\sai\IdlePanel\sai_mb_visualizer_on.png</data>
+    </command>
+    <command id="300" group-id="30"> <!-- note -->
+      <data data-id="icon" data-type="filename">Z:\resource\apps\sai\IdlePanel\sai_mb_note.png</data>
+    </command>
+  </commands>
+</control-inst>

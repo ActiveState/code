@@ -1,0 +1,7 @@
+###Learning to calculate (mental arithmetic)
+
+Originally published: 2012-04-25 04:00:25
+Last updated: 2012-05-11 03:49:48
+Author: Thomas Lehmann
+
+**What is it about?**\n * Learning to use the basic math operation (+, -, *,/).\n * Print out of statistics to show you where you are.\n * Being able to define your own training sessions.\n * Sessions with number of tasks or with a time limit.\n\n**What has changed?**\n\n * Revision 2: Contains now the **tasks numbering**.\n * Revision 2: You can see overall how long you didn't a training.\n * Revision 2: You also can see per kind of session how long you didn't a training.\n * Revision 3: **Trainings parameter as kind of policy** in a separate class also used as key for statistic.\n * Revision 3: **New session type**: timeout (as many tasks as possible until timeout exceeded)\n * Revision 3: I'm also sorry to say that this revision breaks compatibility with previously stored sessions.\n * Revision 4: **Integer division** supported.

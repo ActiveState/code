@@ -1,0 +1,7 @@
+###Another Extremely Unusual Text Mode Python Upload...
+
+Originally published: 2011-12-02 19:59:41
+Last updated: 2011-12-04 11:55:44
+Author: Barry Walker
+
+DC, (Direct Current), Input For Text Mode Python 3.x.x.\n\nA kids level project to do for yourselves...\n\nThis is a Python DEMO to show the power of the sound card using Linux to\naccept a DC, (Direct Current), input. It is a kids level project that uses\nthe sound card microphone input as a detector for an audio VCO output.\n\nWritten in such a way that anyone can understand how it works...\n\nThe DEMO circuits inside the code are SOOO simple a dexterous 10 year\nold could make it in less than a couple of hours and have it up and running\nso as to start using it... The DEMO code is a simple, slow, positive logic,\nTTL level Logic Probe.\n\n(My own VCO circuit is almost as simple but has 5 transistors.)\n\nThis is for Linux and Python 3.x.x. Read the code for much more information, and......\n\nEnjoy finding simple solutions to often VERY difficult problems...\n\nBazza, G0LCU...\n

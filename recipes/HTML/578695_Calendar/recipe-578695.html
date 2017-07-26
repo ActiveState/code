@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <title>Calendar</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <style type="text/css">
+      body { font-family: tahoma; font-size: 80%; }
+      th { color: #008; }
+      td { text-align: center; }
+      #sunday { color: #cc0000; }
+      #today { background-color: #bebebe; color: #fff; font-weight: bold; }
+    </style>
+    <script language="javascript" type="text/javascript">
+      var dateTime = dateTime || {
+        getMonthLastDay : function(year, month) {
+          for (var i = 29; i < 33; i++) {
+            if (new Date(year, month, i).getMonth() != month) return --i;
+          }
+        },
+        
+        getRawCalendar : function() {
+          var arr = [], cur, i;
+          with (new Date()) {
+            cur = new Date(getFullYear(), getMonth(), 1).getDay();
+            if (cur != 0) {
+              for (i = 1; i <= cur; i++) arr.push(' ');
+            }
+            
+            for (i = 1; i <= this.getMonthLastDay(getFullYear(), getMonth()); i++) {
+              arr.push(i);
+            }
+
+            return arr;
+          }
+        },
+        
+        getToday : function() {
+          return (new Date()).getDate();
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <th id='sunday'>Su</th><th>Mo</th><th>Tu</th><th>We</th><th>Th</th><th>Fr</th><th>Sa</th>
+      </tr>
+      <script language="javascript" type="text/javascript">
+        var i, j, row, raw = dateTime.getRawCalendar();
+        for (i = 0; i <= raw.length; i += 7) {
+          row = raw.slice(i, i + 7);
+          document.write('<tr>');
+          for (j = 0; j < row.length; j++) {
+            row[j] == dateTime.getToday() ? document.write('<td id="today">' +
+                row[j] + '</td>') : document.write('<td>' + row[j] + '</td>');
+          }
+          document.write('</tr>');
+        }
+      </script>
+    </table>
+  </body>
+</html>

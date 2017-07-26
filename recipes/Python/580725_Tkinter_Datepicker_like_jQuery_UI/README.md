@@ -1,0 +1,7 @@
+###Tkinter Datepicker (like the jQuery UI datepicker)
+
+Originally published: 2016-12-04 00:03:21
+Last updated: 2017-04-16 17:12:43
+Author: Miguel Martínez López
+
+It's based on ttkcalendar.py. But the internals are totally changed.I don't use for example the Treeview widget. I added more features also:\n - On mouse over, the day label changes the background\n - The selected day has an outstanding style\n - Added support for many hotkeys\n\nThese are the default bindings:\n\n- *Click button 1 on entry:* Show calendar\n\n- *Click button 1 outside entry and calendar:* Hide calendar\n\n- *Escape:* Hide calendar\n\n- *CTRL + PAGE UP:* Move to the previous month.\n\n- *CTRL + PAGE DOWN:* Move to the next month.\n\n- *CTRL + SHIFT + PAGE UP:* Move to the previous year.\n\n- *CTRL + SHIFT + PAGE DOWN:* Move to the next year.\n\n- *CTRL + LEFT:* Move to the previous day.\n\n- *CTRL + RIGHT:* Move to the next day.\n\n- *CTRL + UP:* Move to the previous week.\n\n- *CTRL + DOWN:* Move to the next week.\n\n- *CTRL + END:* Close the datepicker and erase the date.\n\n- *CTRL + HOME:* Move to the current month.\n\n- *CTRL + SPACE:* Show date on calendar\n        \n- *CTRL + Return:* Set current selection to entry

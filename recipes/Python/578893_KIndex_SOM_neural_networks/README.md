@@ -1,0 +1,7 @@
+###KIndex for SOM neural networks (Python)
+
+Originally published: 2014-06-16 13:20:00
+Last updated: 2014-06-16 13:20:01
+Author: Roberto Bello
+
+Achieved cataloging into groups by a SOM neural network, the question arises\nwhether or not there is knowledge in the groups, namely whether the groups are between them\ndistinct and have homogeneous characteristics within each group.\nThe use of the coefficient of variation (CV) can be of help.\n\nKINDEX (Knowledge Index) is an index that measures how much knowledge is\ncontained in the groups obtained from the SOM neural network: in the case KINDEX\nreaches the maximum value of 1, each group would consist of records with constant \nvalues ​​in all the variables / columns, and each group would be quite distinct \nfrom other groups.\nKINDEX is calculated using the weighted-average CV of variables / columns\ngroups, comparing them to the CV of the variables / columns of the input file before\ncataloging.

@@ -1,0 +1,7 @@
+###Decorator and context manager from a single API
+
+Originally published: 2010-06-25 17:16:54
+Last updated: 2010-06-27 15:15:01
+Author: Michael Foord
+
+Create objects that act as both context managers *and* as decorators, and behave the same in both cases.\n\nWorks with Python 2.4 - 2.7 and Python 3. The tests require unittest2 or Python 3.2 to run. (And because the tests use the with statement they won't work with Python 2.4.)\n\nExample:\n\n    from contextdecorator import ContextDecorator\n\n    class mycontext(ContextDecorator):\n\n        def __init__(self, *args):\n            """Normal initialiser"""\n\n        def before(self):\n            """\n            Called on entering the with block or starting the decorated function.\n        \n            If used in a with statement whatever this method returns will be the\n            context manager.\n            """\n    \n        def after(self, *exc):\n            """\n            Called on exit. Arguments and return value of this method have\n            the same meaning as the __exit__ method of a normal context\n            manager.\n            """\n\nBoth before and after methods are optional (but providing neither is somewhat pointless). See the tests for more usage examples.

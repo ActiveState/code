@@ -1,0 +1,7 @@
+###Two Versions Of Bash One Liner INKEY$ Functions...
+
+Originally published: 2013-03-25 22:09:20
+Last updated: 2013-03-28 17:51:32
+Author: Barry Walker
+
+This is probably common knowledge to the professionals but not so much for amateurs like myself.\n\nThis is a code snippet for the equivalent of BASIC's...\n\nLET char$=INKEY$\n\nAs the timeout parameter cannot be less than 1 second then this is the only limitation...\n\nIt is a single line function which has a variable "char"...\n\nRead the code for more information...\n\nThere are now two versions, edit out and choose which is best for you...

@@ -1,0 +1,5 @@
+<system.net>
+  <defaultProxy enabled = "true" useDefaultCredentials = "true">
+   <proxy autoDetect="false" bypassonlocal="false" proxyaddress="http://127.0.0.1:8888"    usesystemdefault="false" />
+  </defaultProxy>
+</system.net>
