@@ -1,6 +1,6 @@
-## Game of Life - Python 3.4 & tkinter 
-Originally published: 2014-09-05 15:02:10 
-Last updated: 2014-09-05 15:02:11 
-Author: Peter M 
- 
+## Game of Life - Python 3.4 & tkinter  
+Originally published: 2014-09-05 15:02:10  
+Last updated: 2014-09-05 15:02:11  
+Author: Peter M  
+  
 I took this well-know game to design my own solution, and make a GUI for it.\n\nTo run the program, you will need to create a txt file with rows of dots, so like this:\n\n......\n......\n......\n......\n\n\nand name it empty_board.gol\n (I have tested this program withwith 55x55)\n\nIt is functional and not object oriented.\n\nMy game of life algorithm is probably not the best one around (suggestions welcome), but I think this program is a nice demo of with tkinter can do and how easy it is to program GUI's with tkinter.\n\nIt has been written and tested in python 3.4 but I guess any version 3 should work, and probably only minor changes are needed to make it work in 2.6 or 2.7  (e.g. change tkinter to Tkinter).\n\n

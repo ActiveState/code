@@ -1,6 +1,6 @@
-## Monte Carlo Engine : How to find the optimised wager for next bet, following a recent loss. 
-Originally published: 2014-04-28 08:40:35 
-Last updated: 2014-04-28 08:41:49 
-Author: alexander baker 
- 
+## Monte Carlo Engine : How to find the optimised wager for next bet, following a recent loss.  
+Originally published: 2014-04-28 08:40:35  
+Last updated: 2014-04-28 08:41:49  
+Author: alexander baker  
+  
 Simple Engine to help understand how to best wager your next bet, given that you just made a loss. The engine uses the modified Powell method to optimise the weight to apply to your wager on the next position.\n\n{'My Simple Heads And Tails Model': <BackTest.Simulation object at 0x0583D410>}\nparticipants [100] survivors [90.0%] losers [10.0%] weight [0.073858]\nsolving for r:  [ 0.07385806]\nsimulations 100, trials 100 starting pot 1000\ncalling initialise\n{'My Simple Heads And Tails Model': <BackTest.Simulation object at 0x0583D430>}\nparticipants [100] survivors [86.0%] losers [14.0%] weight [0.072220]\nsolving for r:  [ 0.07221954]\nOptimization terminated successfully.\n         Current function value: 8.000000\n         Iterations: 2\n         Function evaluations: 30\nhighest survivability following loss, multiply wager by 7.2949 %\n.\n----------------------------------------------------------------------\nRan 2 tests in 25.545s\n\nOK

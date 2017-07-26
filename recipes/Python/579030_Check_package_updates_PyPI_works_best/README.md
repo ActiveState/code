@@ -1,6 +1,6 @@
-## Check for package updates on PyPI (works best in pip+virtualenv) 
-Originally published: 2015-03-04 11:01:43 
-Last updated: 2015-03-04 11:01:44 
-Author: migonzalvar  
- 
+## Check for package updates on PyPI (works best in pip+virtualenv)  
+Originally published: 2015-03-04 11:01:43  
+Last updated: 2015-03-04 11:01:44  
+Author: migonzalvar   
+  
 Pip has an option to upgrade a package (_pip install -U_), however it always downloads sources even if there is already a newest version installed. If you want to check updates for all installed packages then some scripting is required.\n\nThis script checks if there is a newer version on PyPI for every installed package. It only prints information about available version and doesn't do any updates. Example output:\n\n    distribute 0.6.15                        0.6.16 available\n    Baker 1.1                                up to date\n    Django 1.3                               up to date\n    ipython 0.10.2                           up to date\n    gunicorn 0.12.1                          0.12.2 available\n    pyprof2calltree 1.1.0                    up to date\n    profilestats 1.0.2                       up to date\n    mercurial 1.8.3                          up to date\n

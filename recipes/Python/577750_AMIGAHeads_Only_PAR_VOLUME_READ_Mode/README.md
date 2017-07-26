@@ -1,6 +1,6 @@
-## For AMIGA-Heads Only. PAR: As A VOLUME In READ Mode Only. 
-Originally published: 2011-06-12 16:34:11 
-Last updated: 2011-06-12 16:34:12 
-Author: Barry Walker 
- 
+## For AMIGA-Heads Only. PAR: As A VOLUME In READ Mode Only.  
+Originally published: 2011-06-12 16:34:11  
+Last updated: 2011-06-12 16:34:12  
+Author: Barry Walker  
+  
 PAR: as a VOLUME in READ mode using Python 1.4 onwards on Classic AMIGAs...\n\nMany years ago Irmen de Jong ported Python to the Classic AMIGA range of\ncomputers, (many thanks Irmen for your time in doing so). The versions were\nat least 1.4.x to 2.0.1 and now someone else has included version 2.4.6.\n\nThis gives we lowly users of the AMIGA at least a chance to see and use\nPython in some guise or another. This code shows how to access the AMIGA\nparallel port for 8 bit READ only. This is so that ADCs could be attached to\nthe port, read by Python code EASILY and utilised as a Data Logger/Transient\nRecorder, as just one example.\n\nThere needs to be a single HW WIRE link only from the 23 way video port\nto the 25 way parallel port for this to work. See the archive......\n\nhttp://aminet.net/package/docs/hard/PAR_READ\n\n......on how to set about this extremely simple task.\n\nNO knowledge of the parallel port programming is needed at all to grab 8 bit\ndata from it using Python and other languages; (ARexx is used in the archive\nabove).\n\nThere is a flaw, NOTE:- NOT A BUG!, in the Python code but for this DEMO it\nis ignored. ;o)\n\nI'll let all you big guns work out what it is; you will need a good working\nknowledge of the Classic AMIGA.\n\nEnjoy finding simple solutions to often very difficult problems. ;o)\n\nThis code is Public Domain and you may do with it as you please.\n\nBazza...\n

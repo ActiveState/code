@@ -1,6 +1,6 @@
-## Decimal Number To Byte(s) And String To Byte(s) Converter. 
-Originally published: 2012-01-24 21:11:46 
-Last updated: 2012-01-24 21:11:47 
-Author: Barry Walker 
- 
+## Decimal Number To Byte(s) And String To Byte(s) Converter.  
+Originally published: 2012-01-24 21:11:46  
+Last updated: 2012-01-24 21:11:47  
+Author: Barry Walker  
+  
 \nA function to convert decimal integer numbers, (from 0 to 255), into byte(s) format.\nAnother function calling the above function to convert ASCII strings into byte(s) format.\n\nPython 3.1.3 (r313:86834, Nov 28 2010, 10:01:07) \n[GCC 4.4.5] on linux2\nType "help", "copyright", "credits" or "license" for more information.\n>>> exec(open('/home/G0LCU/Desktop/Code/d2b.py').read())\n>>> a=78\n>>> type(a)\n<class 'int'>\n>>> b=d2b(a)\n>>> print(b)\nb'N'\n>>> type(b)\n<class 'bytes'>\n>>> text="\\x00(C)2012, B.Walker, G0LCU.\\xFF"\n>>> len(text)\n27\n>>> type(text)\n<class 'str'>\n>>> newtext=t2b(text)\n>>> len(newtext)\n27\n>>> print(newtext)\nb'\\x00(C)2012, B.Walker, G0LCU.\\xff'\n>>> type(newtext)\n<class 'bytes'>\n\nIt requires NOTHING special at all to work and can be run like above or imported from\nthe correct "Lib" drawer/folder/directorfy as:-\n\n>>> import d2b\n\nAnd when imported called as:-\n\n>>> d2b.d2b(some_number, optional_some_other_mumber)<RETURN/ENTER>\n\nOR\n\n>>> d2b.t2b(some_ASCII_string)<RETURN/ENTER>\n\nRead the code for much more information...\n\nIssued under the GPL2 licence.\n\nEnjoy finding simple solutions to often very difficult problems.\n\nBazza, G0LCU.\n

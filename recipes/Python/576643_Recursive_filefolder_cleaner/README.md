@@ -1,6 +1,6 @@
-## Recursive file/folder cleaner 
-Originally published: 2009-02-04 03:19:39 
-Last updated: 2011-02-12 20:30:59 
-Author: Alia Khouri 
- 
+## Recursive file/folder cleaner  
+Originally published: 2009-02-04 03:19:39  
+Last updated: 2011-02-12 20:30:59  
+Author: Alia Khouri  
+  
 This script recursively scans a given path and applies a cleaning 'action' \nto matching files and folders. By default files and folders matching the \nspecified (.endswith) patterns are deleted. Alternatively, _quoted_ glob\npatterns can used with the '-g' or '--glob' option.\n\nBy design, the script lists targets and asks permission before applying \ncleaning actions. It should be easy to extend this script with further \nactions and also more intelligent pattern matching functions.\n\nThe getch (single key confirmation) functionality comes courtesy of \nhttp://code.activestate.com/recipes/134892/\n\nTo use it, place the script in your path and call it something like 'clean':\n\n    Usage: clean [options] patterns\n        \n            deletes files/folder patterns:\n                clean .svn .pyc\n                clean -p /tmp/folder .svn .csv .bzr .pyc\n                clean -g "*.pyc"\n                clean -ng "*.py"\n    \n            converts line endings from windows to unix:\n                clean -e .py\n                clean -e -p /tmp/folder .py\n\n    Options:\n      -h, --help            show this help message and exit\n      -p PATH, --path=PATH  set path\n      -n, --negated         clean everything except specified patterns\n      -e, --endings         clean line endings\n      -g, --glob            clean with glob patterns\n      -v, --verbose         \n\n

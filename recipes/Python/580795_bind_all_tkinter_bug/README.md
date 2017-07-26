@@ -1,6 +1,6 @@
-## bind all tkinter "bug" 
-Originally published: 2017-05-02 22:40:54 
-Last updated: 2017-05-05 20:33:31 
-Author: Miguel Martínez López 
- 
+## bind all tkinter "bug"  
+Originally published: 2017-05-02 22:40:54  
+Last updated: 2017-05-05 20:33:31  
+Author: Miguel Martínez López  
+  
 This recipes tries to solve the problem of bind_all and unbind_all for tkinter.\n\nWhen a callback is registered using bind_all method and later it's unregistered using unbind_all, all the callbacks are deleted for the "all" tag event. This makes difficult to register and unregister only one callback at a time. This recipes tries to solve this problem.\n\nObserve the difference between the code below and the recipe. With the code below, when the user clicks nothing happens. But with my recipe it's possible to bind and unbind specific callbacks.\n\n    try:\n        from Tkinter import Tk, Frame\n    except ImportError:\n        from tkinter import Tk, Frame\n        \n    root = Tk()\n    f = Frame(root, width= 300, height=300)\n    f.pack()\n\n    def callback1(event):\n        print("callback1")\n        \n    def callback2(event):\n        print("callback2")\n\n    def callback3(event):\n        print("callback3")\n        \n    root.bind_all("<1>", callback1, add="+")\n    f.bind_all("<1>", callback2, add="+")\n    f.bind_all("<1>", callback3, add="+")\n\n    f.unbind_all("<1>")\n\n    root.mainloop()\n

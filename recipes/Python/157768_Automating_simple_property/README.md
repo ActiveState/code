@@ -1,6 +1,6 @@
-## Automating simple property creation 
-Originally published: 2002-10-21 06:29:23 
-Last updated: 2003-09-07 04:49:13 
-Author: Sean Ross 
- 
+## Automating simple property creation  
+Originally published: 2002-10-21 06:29:23  
+Last updated: 2003-09-07 04:49:13  
+Author: Sean Ross  
+  
 The following are a set of functions for creating simple properties -\nlike Ruby's attr_reader, attr_writer, and attr_accessor.\n\nIf, inside a class definition, you write:\n\n&nbsp &nbsp &nbsp &nbsp attribute(foo=1, bar=2)\n\nsimple properties named 'foo' and 'bar' are created for this class.\nAlso, private instance variables '__foo' and '__bar' will be added\nto instances of this class.\n\nBy "simple properties", I mean something like the following:\n\n&nbsp &nbsp &nbsp &nbsp ''' assume we're inside a class definition and\n&nbsp &nbsp &nbsp &nbsp  self.__foo and self.__bar have been instantiated.\n&nbsp &nbsp &nbsp &nbsp '''\n&nbsp &nbsp &nbsp &nbsp def get_foo(self):\n&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp return self.__foo\n&nbsp &nbsp &nbsp &nbsp def set_foo(self, value):\n&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp self.__foo = value\n&nbsp &nbsp &nbsp &nbsp def del_foo(self):\n&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp del self.__foo\n&nbsp &nbsp &nbsp &nbsp def get_bar(self):\n&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp return self.__bar\n&nbsp &nbsp &nbsp &nbsp def set_bar(self, value):\n&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp self.__bar = value\n&nbsp &nbsp &nbsp &nbsp def del_bar(self):\n&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp del self.__bar\n&nbsp &nbsp &nbsp &nbsp foo = property(fget=get_foo, fset=set_foo, fdel=del_foo, doc="foo")\n&nbsp &nbsp &nbsp &nbsp bar = property(fget=get_bar, fset=set_bar, fdel=del_bar, doc="bar")

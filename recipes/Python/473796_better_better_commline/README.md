@@ -1,6 +1,6 @@
-## a better better command line calculator 
-Originally published: 2006-01-27 07:49:02 
-Last updated: 2006-01-27 07:49:02 
-Author: Eli Criffield 
- 
+## a better better command line calculator  
+Originally published: 2006-01-27 07:49:02  
+Last updated: 2006-01-27 07:49:02  
+Author: Eli Criffield  
+  
  Eli Criffield <python@zendo.net>\n avalible at http://eli.criffield.net/sum/\n a better better command line calculator,\n\n put this in a file, run it, cut and past a bunch of numbers (don't\n worry about the $ signs and commas) hit enter and it adds them up\n use / * -  + like normal\n\n added features over just using python as a command line calculator:\n\n   * numbers can include ,s and $s or anything really and it still works\n     this allows you to cut and paste things like $1,123.65 and it still works\n   * add by default! (unless you run with -x)\n     cut and paste a bunch of numbers hit enter and it'll add them all up\n   * command line history and readline, up arrow recalls your history\n     even between sessions\n   * _ is the last answer, just like in python

@@ -1,6 +1,6 @@
-## Observer Pattern 
-Originally published: 2013-03-07 11:32:07 
-Last updated: 2013-03-09 10:03:10 
-Author: Mauro B. Bianc 
- 
+## Observer Pattern  
+Originally published: 2013-03-07 11:32:07  
+Last updated: 2013-03-09 10:03:10  
+Author: Mauro B. Bianc  
+  
 This is a Python implementation of the observer pattern described by Gamma et. al.\nIt defines a one-to many dependency between objects so that when one object changes state,\n all its dependents (i.e. observers) are notified and updated automatically.\n\nMy adaptation gets rid of the need to use specific functions to set the data (and to call Notify)\nand allows you to be notified for ANY attribute you set.\nIt is possible to specify a list of attributes which should not trigger a notification.\nIn case you need the opposite, it is very easy to invert the behavior of the code.\n\nThe example should output:\nCreating data1 without notification for attrs name & surname  \nCreating data2 without notification for attr age  \nSetting data1.name=Heather - Notification unnecessary  \nSetting data1.num=333 - Notification expected  \nObserver1: Subject Heather has updated attr num to 333  \nSetting data2.name=Molly - Notification expected  \nObserver2: Subject Molly has updated attr name to Molly  \nSetting data2.age=28 - Notification unnecessary  \nSetting data2.eyecolor=blue - Notification expected  \nObserver2: Subject Molly has updated attr eyecolor to blue  \n\n

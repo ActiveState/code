@@ -1,6 +1,6 @@
-## For AMIGA-Heads Only. Generating An Audio Signal In Text Mode Python. 
-Originally published: 2011-11-30 21:23:19 
-Last updated: 2011-11-30 21:23:20 
-Author: Barry Walker 
- 
+## For AMIGA-Heads Only. Generating An Audio Signal In Text Mode Python.  
+Originally published: 2011-11-30 21:23:19  
+Last updated: 2011-11-30 21:23:20  
+Author: Barry Walker  
+  
 This DEMO is not for the big guns. It is aimed at those who still use\na minimum of an ancient classic AMIGA A1200(HD), E-UAE, WinUAE, of which\nthere are still a lot of us about...\n\nNo comments about the use of "eval()" as Python Version 1.4.0 does not\nhave "int()" and this is designed to work on all versions of Python\navailable for the above platform. See the code for minimum requirements\nand much more information.\n\nMANY THANKS to Irmen de Jong for porting early versions of Python to\nthe classic AMIGA to give we lowly users a taste of what was/is to come.\n\nThis code will probably make the professionals cough a little, but, boy\nwhat fun it is to see how powerful Python can be on an open platform\nlike the AMIGA.\n\nWritten in such a way that anyone can understand how it works...\n\nI really don't care how you vote this as it is for those, including\nprofessionals, who enjoy messing with AMIGA variants purely for fun and\nrelaxation, and, to......\n\nEnjoy finding simple solutions to often VERY difficult problems... ;o)\n\nBazza, G0LCU...

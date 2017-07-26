@@ -1,6 +1,6 @@
-## Recipe With No Name Yet 
-Originally published: 2012-07-23 17:39:44 
-Last updated: 2012-08-22 17:57:12 
-Author: Cyril  
- 
+## Recipe With No Name Yet  
+Originally published: 2012-07-23 17:39:44  
+Last updated: 2012-08-22 17:57:12  
+Author: Cyril   
+  
 Not a very new recipe, but a short one and (I hope) useful :\n  \n  - wrapping any function "f" with two decorators "enter_event" and "exit_event" that will trigger calling of user\n    functions when, ... hum ... evidently, **just before entering and just after exiting the "f" function**.\n\nTypical usages :\n  \n  - debugging on a function by function basis :\n    - emit a trace in log file to see when functions are called and check sequences correctness\n      (very usefull when programming by events)\n    - feed a profile analyzer (by fine tuning which functions are enabled)\n    - feed a code coverage analyzer (  "  )\n  - kind of validator on function calling :\n    - implement programming by contracts :\n      - check that parameters values of "f" function will not have an unexpected value or be of an unexpected type\n      - this allow to increase code robustness by narrowing \n    - implement invariants (eg. check that returned value is always in the excepted range, ...)\n    - insure that a function follow specifications by meta-checking that has always predictable results\n\t  (eg. return the fixed expected value for each possible input value, ...)\n  - minimum modification of existing code\n  - **in the same thinking line as the "monkey patching" concept**\n\nNotes on usage :\n   - recipe works on functions and any kind of methods (methods, class methods,\n       and static methods)\n   - the usage order of "@enter_event" and "@exit_event" decorators doesn't\n       matter : the result will be the same\n\n- *PLEASE VOTE FOR THIS RECIPE if you like it !*

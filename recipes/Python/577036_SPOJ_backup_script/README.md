@@ -1,6 +1,6 @@
-## SPOJ backup script 
-Originally published: 2010-02-09 08:07:14 
-Last updated: 2010-02-09 08:50:44 
-Author: Shashwat Anand 
- 
+## SPOJ backup script  
+Originally published: 2010-02-09 08:07:14  
+Last updated: 2010-02-09 08:50:44  
+Author: Shashwat Anand  
+  
 Introduction\n============\nAt Sphere Online Judge (http://www.spoj.pl) you are given the capability of trying out the\nchallenging problems given. It also gives you the capability of viewing\nand downloading your own solution.\n\nThe tool spojbackup tends to automatically backup all your Accepted\nsubmissions and save them on the desired location of your computer. The\nbasic idea is to automate the process which can be used as a backup and\nan offline reference tool of your own codes.\n\nFeatures\n========\n\n* Resume downloads.\n    spojbackup currently supports resuming of the solutions if internet\n    connection is disrupted\n\n* Incremental backup facility\n    it'll not download the code already present on your machine. Only newer\n    code added in your signedlist will be downloaded\n\n* User-defined destination\n    all codes are saved at user-defined destination\n    if no option is given by user it saves in the folder from where command is\n    run\n\n* Proxy support\n    Proxy support is provided as SPOJ users are generally university students\n    and they are generally behind a proxy and university firewall.\n\nBugs\n====\n\nIn case of finding a bug please drop a mail to the authors. We will try to sort\nout the problems.

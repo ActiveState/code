@@ -1,6 +1,6 @@
-## An extensible Conway's Game of Life 
-Originally published: 2011-12-05 11:45:45 
-Last updated: 2011-12-05 11:45:45 
-Author: Filippo Squillace 
- 
+## An extensible Conway's Game of Life  
+Originally published: 2011-12-05 11:45:45  
+Last updated: 2011-12-05 11:45:45  
+Author: Filippo Squillace  
+  
 This program is an extensible Conway's game of life. It allows to define\ndifferent type of grid (for example 2D or 3D) and more complex rules. \nEach grid inherits an Abstract grid that implement the method (next()) \nto pass for the next configuration. \nFurthermore, each element can be whatever type. In this\nexample I designed Grid2DBool that represent the simple Conway's game of life,\nbut could be possible to develop and easily implement more complex grids and\nrules.\n\nNote:\nThe demo save also the animation in a file .mp4 and plot it through pyplot.\nThe demo could take long time because of storing all the configurations before\nshowing the animation. Therefore, the visualization can be improved using other\nlibraries (as wxpython) that paint the configuration of the grid once it's\ncreated.\nWith a more complex view it's convenient to apply MVC pattern declaring the\nmodel AbstractGrid as the Observable class.
