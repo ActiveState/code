@@ -1,4 +1,4 @@
-# ActiveState code
+# ActiveState Code Recipes
 
 Welcome to the ActiveState code recipes repo! We have migrated all of the great content from code.activestate.com to its new
 forever-home here at GitHub. This makes it easier for everyone to submit new recipes, contribute code and integrate all the great
