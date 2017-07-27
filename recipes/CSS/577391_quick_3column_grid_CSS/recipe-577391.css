@@ -1,5 +1,0 @@
-/* 3-column grid using 840px full width */
-.grid3col .column { width: 260px; margin-left: 30px; }
-.column { float: left; }
-.column.first, .column.last { margin-left: 0 !important; }
-.column.last { float: right !important; }
