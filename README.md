@@ -5,7 +5,7 @@ forever-home here at GitHub. This makes it easier for everyone to submit new rec
 information into their own projects.  
 
 The vast majority of code that existed on the code.activestate.com website has a home here, however if you do come across any
-recipe that is missing, or conversely, is totally outdated and no longer relevant please [submit an issue](issues).
+recipe that is missing, or conversely, is totally outdated and no longer relevant please [submit an issue](https://github.com/ActiveState/code/issues).
 
 ## What is this repo for?
 
@@ -14,7 +14,7 @@ helpful to other developers.
 
 ## Is there a master list of all the recipes?
 
-You can find the master index of all recipes over at the [wiki](wiki).  
+You can find the master index of all recipes over at the [wiki](https://github.com/ActiveState/code/wiki).  
 
 *Coming Soon: Search Functionality!*
 
@@ -39,5 +39,5 @@ in this repo.
 
 ## How else can I contribute?
 
-Recipes don't always have to be code - great documentation, tutorials, general tips and even general improvements to our [wiki](wiki)
+Recipes don't always have to be code - great documentation, tutorials, general tips and even general improvements to our [wiki](https://github.com/ActiveState/code/wiki)
 are greatly appreciated.
