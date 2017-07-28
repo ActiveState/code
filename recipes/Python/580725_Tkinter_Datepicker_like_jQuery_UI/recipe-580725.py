@@ -1,6 +1,6 @@
 # Author: Miguel Martinez Lopez
 #
-# Version: 1.0.6
+# Version: 1.0.7
 #
 # Uncomment the next line to see my email
 # print("Author's email: %s"%"61706c69636163696f6e616d656469646140676d61696c2e636f6d".decode("hex"))
@@ -356,7 +356,7 @@ class Datepicker(ttk.Entry):
         self._is_calendar_visible = False
         self._on_select_date_command = onselect
 
-        self.calendar_frame = Calendar(firstweekday=firstweekday, locale=locale, activebackground=activebackground, activeforeground=activeforeground, selectbackground=selectbackground, selectforeground=selectforeground, command=self._on_selected_date, on_click_month_button=lambda: self.focus())
+        self.calendar_frame = Calendar(self.winfo_toplevel(), firstweekday=firstweekday, locale=locale, activebackground=activebackground, activeforeground=activeforeground, selectbackground=selectbackground, selectforeground=selectforeground, command=self._on_selected_date, on_click_month_button=lambda: self.focus())
 
         self.bind_all("<1>", self._on_click, "+")
 
