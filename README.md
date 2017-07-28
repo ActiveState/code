@@ -33,9 +33,9 @@ Same as above, fork the repo and submit a PR with your change.
 
 ## What license is this code released under?
 
-All code is licensed under the MIT license. If your recipe is being released under a different license, please make sure to 
-include a LICENSE file inside your recipe directory, but we encourage you to adopt the default MIT license that governs most code
-in this repo.
+By default, all newly submitted code is licensed under the MIT license. If your recipe is being released under a different license, please make sure to include a LICENSE file inside your recipe directory.
+
+All legacy recipes retain their original license. Please see the LICENSE file inside each recipe folder for details.
 
 ## How else can I contribute?
 
