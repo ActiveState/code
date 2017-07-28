@@ -1,1 +1,0 @@
-This work is released to the public domain under the CC0 (Creative Commons) license terms: https://creativecommons.org/publicdomain/zero/1.0/legalcode
