@@ -23,7 +23,9 @@ def downloadImages(url, level): # the root URL is level 0
         return
 
     try:
-        urlContent = urllib2.urlopen(url).read()
+        hdr = {'User-Agent': 'Mozilla/5.0'}
+        req = urllib2.Request(url,headers=hdr)
+        urlContent = urllib2.urlopen(req).read()
         urlList.append(url)
         print url
     except:
@@ -42,7 +44,9 @@ def downloadImages(url, level): # the root URL is level 0
             imgUrl.lower().endswith('.png') or \
             imgUrl.lower().endswith('.bmp'):
             try:
-                imgData = urllib2.urlopen(imgUrl).read()
+                hdr = {'User-Agent': 'Mozilla/5.0'}
+                req = urllib2.Request(imgUrl,headers=hdr)
+                imgData = urllib2.urlopen(req).read()
                 global minImageFileSize
                 if len(imgData) >= minImageFileSize:
                     print "    " + imgUrl
