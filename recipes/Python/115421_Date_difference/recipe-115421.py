@@ -14,16 +14,7 @@ months = (31,28,31,30,31,30,31,31,30,31,30,31)
 JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC = range(len(months))
 
 def leapyear(year):
-    if year % 4 == 0:
-        if year % 100 == 0:
-            if year % 400 == 0:
-                return TRUE
-            else:
-                return FALSE
-        else:
-            return TRUE
-    else:
-        return FALSE
+    return year % 4 == 0 and year % 100 != 0 or year % 400 == 0
 
 def main():
     days=sum=0
