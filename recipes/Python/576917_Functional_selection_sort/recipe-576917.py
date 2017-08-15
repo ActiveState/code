@@ -19,5 +19,5 @@ print selection_sort(test_list)
 # Recursive version
 def select_sort_r(L):
     if not L: return [] # terminal case 
-    idx, v = min(enumerate(L), key=lambda e: e[1]) # select the minimum
+    v, idx = min((v, i) for i, v in enumerate(L)) # select the smallest
     return [v] + select_sort_r(L[:idx] + L[idx+1:]) # recursively call on the remainder
