@@ -17,10 +17,11 @@ curves are used.
 
 Note that the 'alfa' and 'beta' constants represent values for use as 
 Bezier control points like so:
-x-values (written in degrees): [0, 30, 60, 90]
-corresponding y-values:        [0, alfa, beta, 1]
 
-These values have been calculated by the `scipy.interpolate.splrep()` method.
+* x-values (written in degrees): `[0, 30, 60, 90]`
+* corresponding y-values:        `[0, alfa, beta, 1]`
+
+These values have been calculated using the `scipy.interpolate.splrep()` method.
 They provide an excellent spline approximation of the sine / cosine
 functions - please look at SciPy documentation for background.
 
