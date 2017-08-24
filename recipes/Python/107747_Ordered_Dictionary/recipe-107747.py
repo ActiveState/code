@@ -45,8 +45,9 @@ class odict(UserDict):
 
     def update(self, dict):
         UserDict.update(self, dict)
-        for key in dict.keys():
-            if key not in self._keys: self._keys.append(key)
+        for key in dict.__iter__():
+            if key not in self._keys: 
+                self._keys.append(key)
 
     def values(self):
         return map(self.get, self._keys)
