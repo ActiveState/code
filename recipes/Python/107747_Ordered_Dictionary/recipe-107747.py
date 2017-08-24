@@ -51,3 +51,7 @@ class odict(UserDict):
 
     def values(self):
         return map(self.get, self._keys)
+
+    def move_to_end(self, key):
+        self._keys.remove(key)
+        self._keys.append(key)
