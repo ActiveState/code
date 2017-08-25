@@ -3,6 +3,8 @@
 # Copyright, license and disclaimer are at the very end of this file.
 
 # This is the latest, enhanced version of the asizeof.py recipes at
+# <http://github.com/ActiveState/code/blob/master/recipes/Python/
+#         546530_Size_of_Python_objects_revised/recipe-546530.py>,
 # <http://code.activestate.com/recipes/546530-size-of-python-objects-revised>
 # and <http://code.activestate.com/recipes/544288-size-of-python-objects>.
 
@@ -13,9 +15,10 @@
 # memory footprint recipe <http://code.activestate.com/recipes/577504/>.
 
 # Tested with 64-bit Python 2.6.9 (and numpy 1.6.2), 2.7.13 (and numpy
-# 1.13.1), 3.5.3 and 3.6.2 on macOS 10.12.5 Sierra and with Pythonista
-# 3.1 using 64-bit Python 2.7.12 and 3.5.1 (both with numpy 1.8.0) on
-# iOS 10.3.2.
+# 1.13.1), 3.5.3 and 3.6.2 on macOS 10.12.6 Sierra, with 64-bit Intel-
+# Python 3.5.3 (and numpy 1.11.3) on macOS 10.12.6 Sierra and with
+# Pythonista 3.1 using 64-bit Python 2.7.12 and 3.5.1 (both with numpy
+# 1.8.0) on iOS 10.3.3.
 
 # Earlier versions of this module were tested with 32-bit Python 2.2.3,
 # 2.3.7, 2.4.5, 2.5.1, 2.5.2, 2.6.2, 3.0.1 or 3.1a2 on CentOS 4.6, SuSE
@@ -222,7 +225,7 @@ import weakref as Weakref
 __all__ = ['adict', 'asized', 'asizeof', 'asizesof',
            'Asized', 'Asizer',  # classes
            'basicsize', 'flatsize', 'itemsize', 'alen', 'refs']
-__version__ = '17.07.22'
+__version__ = '17.08.24'
 
 # any classes or types in modules listed in _builtin_modules are
 # considered built-in and ignored by default, as built-in functions
@@ -308,19 +311,19 @@ _Type_type = type(type)  # == type and new-style class type
 # behavior across Python version 2.2 thu 3.0
 
 def _items(obj):  # dict only
-    '''Returns iter-/generator, preferably.
+    '''Return iter-/generator, preferably.
     '''
     return getattr(obj, 'iteritems', obj.items)()
 
 
 def _keys(obj):  # dict only
-    '''Returns iter-/generator, preferably.
+    '''Return iter-/generator, preferably.
     '''
     return getattr(obj, 'iterkeys', obj.keys)()
 
 
 def _values(obj):  # dict only
-    '''Returns iter-/generator, preferably.
+    '''Return iter-/generator, preferably.
     '''
     return getattr(obj, 'itervalues', obj.values)()
 
@@ -339,6 +342,15 @@ try:
 except AttributeError:  # Python 2.5
     _cell_type = type(c.func_closure[0])
 del c
+
+try:
+    from gc import get_objects as _getobjects  # containers only?
+except ImportError:
+    def _getobjects():
+        # modules first, globals and stack
+        # objects (may contain duplicates)
+        return tuple(_values(sys.modules)) + (
+               globals(), stack(sys.getrecursionlimit())[2:])
 
 try:  # only used to get referents of
     # iterators, but gc.get_referents()
@@ -361,7 +373,7 @@ except NameError:  # no intern() in Python 3.0
 # private functions
 
 def _basicsize(t, base=0, heap=False, obj=None):
-    '''Gets non-zero basicsize of type,
+    '''Get non-zero basicsize of type,
        including the header sizes.
     '''
     s = max(getattr(t, '__basicsize__', 0), base)
@@ -385,13 +397,13 @@ def _c100(stats):
 
 
 def _classof(obj, dflt=None):
-    '''Returns the object's class object.
+    '''Return the object's class object.
     '''
     return getattr(obj, '__class__', dflt)
 
 
 def _derive_typedef(typ):
-    '''Returns single, existing super type typedef or None.
+    '''Return single, existing super type typedef or None.
     '''
     v = [v for v in _values(_typedefs) if _issubclass(typ, v.type)]
     if len(v) == 1:
@@ -400,7 +412,7 @@ def _derive_typedef(typ):
 
 
 def _dir2(obj, pref='', excl=(), slots=None, itor=''):
-    '''Returns an attribute name, object 2-tuple for certain
+    '''Return an attribute name, object 2-tuple for certain
        attributes or for the ``__slots__`` attributes of the
        given object, but not both.  Any iterator referent
        objects are returned with the given name if the
@@ -433,7 +445,7 @@ def _dir2(obj, pref='', excl=(), slots=None, itor=''):
 
 
 def _infer_dict(obj):
-    '''Returns True for likely dict object via duck typing.
+    '''Return True for likely dict object via duck typing.
     '''
     for ats in (('__len__', 'get', 'has_key', 'items', 'keys', 'update', 'values'),
                 ('__len__', 'get', 'has_key', 'iteritems', 'iterkeys', 'itervalues')):
@@ -443,16 +455,25 @@ def _infer_dict(obj):
 
 
 def _iscell(obj):
-    '''Returns True if obj is a cell as used in a closure.
+    '''Return True if obj is a cell as used in a closure.
     '''
     return isinstance(obj, _cell_type)
 
 
 def _isdictclass(obj):
-    '''Returns True for known dict objects.
+    '''Return True for known dict objects.
     '''
     c = _classof(obj)
     return c and c.__name__ in _dict_classes.get(c.__module__, ())
+
+
+def _isframe(obj):
+    '''Return True for a stack frame object.
+    '''
+    try:  # safe isframe(), see pympler.muppy
+        return isframe(obj)
+    except ReferenceError:
+        return False
 
 
 def _isnamedtuple(obj):
@@ -462,8 +483,18 @@ def _isnamedtuple(obj):
     return isinstance(obj, tuple) and hasattr(obj, '_fields')
 
 
+def _isNULL(obj):
+    '''Prevent asizeof(all=True, ...) crash.
+
+       Sizing gc.get_objects() crashes in Pythonista3 with
+       Python 3.5.1 on iOS due to 1-tuple (<Null>,) object.
+    '''
+    return isinstance(obj, tuple) and len(obj) == 1 \
+                                  and repr(obj) == '(<NULL>,)'
+
+
 def _isnumpy(obj):
-    '''Returns True for a NumPy arange, array, matrix, etc. instance.
+    '''Return True for a NumPy arange, array, matrix, etc. instance.
     '''
     if _numpy_types:  # see also _len_numpy
         return isinstance(obj, _numpy_types) or \
@@ -484,7 +515,7 @@ def _issubclass(sub, sup):
 
 
 def _itemsize(t, item=0):
-    '''Gets non-zero itemsize of type.
+    '''Get non-zero itemsize of type.
     '''
     # replace zero value with default
     return getattr(t, '__itemsize__', 0) or item
@@ -510,37 +541,37 @@ def _lengstr(obj):
 
 
 def _moduleof(obj, dflt=''):
-    '''Returns the object's module name.
+    '''Return the object's module name.
     '''
     return getattr(obj, '__module__', dflt)
 
 
 def _nameof(obj, dflt=''):
-    '''Returns the name of an object.
+    '''Return the name of an object.
     '''
     return getattr(obj, '__name__', dflt)
 
 
 def _objs_opts(objs, all=None, **opts):
-    '''Returns given or 'all' objects
+    '''Return given or 'all' objects
        and the remaining options.
     '''
     if objs:  # given objects
         t = objs
     elif all in (False, None):
         t = ()
-    elif all is True:  # 'all' objects ...
-        # ... modules first, globals and stack
-        # (may contain duplicate objects)
-        t = tuple(_values(sys.modules)) + (
-            globals(), stack(sys.getrecursionlimit())[2:])
+    elif all is True:  # 'all' objects
+        t = tuple(_getobjects())
+        if sys.platform == 'ios':
+            # remove any tuples containing NULLs
+            t = tuple(o for o in t if not _isNULL(o))
     else:
         raise ValueError('invalid option: %s=%r' % ('all', all))
     return t, opts
 
 
 def _p100(part, total, prec=1):
-    '''Returns percentage as string.
+    '''Return percentage as string.
     '''
     r = float(total)
     if r:
@@ -550,7 +581,7 @@ def _p100(part, total, prec=1):
 
 
 def _plural(num):
-    '''Returns 's' if plural.
+    '''Return 's' if plural.
     '''
     if num == 1:
         s = ''
@@ -595,7 +626,7 @@ def _printf(fmt, *args, **print3opts):
 
 
 def _refs(obj, named, *attrs, **kwds):
-    '''Returns specific attribute objects of an object.
+    '''Return specific attribute objects of an object.
     '''
     if named:
         _N = _NamedRef
@@ -626,7 +657,7 @@ def _repr(obj, clip=80):
 
 
 def _SI(size, K=1024, i='i'):
-    '''Returns size as SI string.
+    '''Return size as SI string.
     '''
     if 1 < K < size:
         f = float(size)
@@ -638,7 +669,7 @@ def _SI(size, K=1024, i='i'):
 
 
 def _SI2(size, **kwds):
-    '''Returns size as regular plus SI string.
+    '''Return size as regular plus SI string.
     '''
     return str(size) + _SI(size, **kwds)
 
@@ -650,20 +681,20 @@ def _cell_refs(obj, named):
 
 
 def _class_refs(obj, named):
-    '''Returns specific referents of a class object.
+    '''Return specific referents of a class object.
     '''
     return _refs(obj, named, '__class__', '__dict__', '__doc__', '__mro__',
                              '__name__', '__slots__', '__weakref__')
 
 
 def _co_refs(obj, named):
-    '''Returns specific referents of a code object.
+    '''Return specific referents of a code object.
     '''
     return _refs(obj, named, pref='co_')
 
 
 def _dict_refs(obj, named):
-    '''Returns key and value objects of a dict/proxy.
+    '''Return key and value objects of a dict/proxy.
     '''
     try:
         if named:
@@ -680,39 +711,39 @@ def _dict_refs(obj, named):
 
 
 def _enum_refs(obj, named):
-    '''Returns specific referents of an enumerate object.
+    '''Return specific referents of an enumerate object.
     '''
     return _refs(obj, named, '__doc__')
 
 
 def _exc_refs(obj, named):
-    '''Returns specific referents of an Exception object.
+    '''Return specific referents of an Exception object.
     '''
     # .message raises DeprecationWarning in Python 2.6
     return _refs(obj, named, 'args', 'filename', 'lineno', 'msg', 'text')  # , 'message', 'mixed'
 
 
 def _file_refs(obj, named):
-    '''Returns specific referents of a file object.
+    '''Return specific referents of a file object.
     '''
     return _refs(obj, named, 'mode', 'name')
 
 
 def _frame_refs(obj, named):
-    '''Returns specific referents of a frame object.
+    '''Return specific referents of a frame object.
     '''
     return _refs(obj, named, pref='f_')
 
 
 def _func_refs(obj, named):
-    '''Returns specific referents of a function or lambda object.
+    '''Return specific referents of a function or lambda object.
     '''
     return _refs(obj, named, '__doc__', '__name__', '__code__', '__closure__',
                  pref='func_', excl=('func_globals',))
 
 
 def _gen_refs(obj, named):
-    '''Returns the referent(s) of a generator object.
+    '''Return the referent(s) of a generator object.
     '''
     # only some gi_frame attrs
     f = getattr(obj, 'gi_frame', None)
@@ -720,26 +751,26 @@ def _gen_refs(obj, named):
 
 
 def _im_refs(obj, named):
-    '''Returns specific referents of a method object.
+    '''Return specific referents of a method object.
     '''
     return _refs(obj, named, '__doc__', '__name__', '__code__', pref='im_')
 
 
 def _inst_refs(obj, named):
-    '''Returns specific referents of a class instance.
+    '''Return specific referents of a class instance.
     '''
     return _refs(obj, named, '__dict__', '__class__', slots='__slots__')
 
 
 def _iter_refs(obj, named):
-    '''Returns the referent(s) of an iterator object.
+    '''Return the referent(s) of an iterator object.
     '''
     r = _getreferents(obj)  # special case
     return _refs(r, named, itor=_nameof(obj) or 'iteref')
 
 
 def _module_refs(obj, named):
-    '''Returns specific referents of a module object.
+    '''Return specific referents of a module object.
     '''
     # ignore this very module
     if obj.__name__ == __name__:
@@ -749,7 +780,7 @@ def _module_refs(obj, named):
 
 
 def _namedtuple_refs(obj, named):
-    '''Returns specific referents of obj-as-sequence and slots but exclude dict.
+    '''Return specific referents of obj-as-sequence and slots but exclude dict.
     '''
     for r in _refs(obj, named, '__class__', slots='__slots__'):
         yield r
@@ -758,44 +789,44 @@ def _namedtuple_refs(obj, named):
 
 
 def _prop_refs(obj, named):
-    '''Returns specific referents of a property object.
+    '''Return specific referents of a property object.
     '''
     return _refs(obj, named, '__doc__', pref='f')
 
 
 def _seq_refs(obj, unused):  # named unused for PyChecker
-    '''Returns specific referents of a frozen/set, list, tuple and xrange object.
+    '''Return specific referents of a frozen/set, list, tuple and xrange object.
     '''
     return obj  # XXX for r in obj: yield r
 
 
 def _stat_refs(obj, named):
-    '''Returns referents of a os.stat object.
+    '''Return referents of a os.stat object.
     '''
     return _refs(obj, named, pref='st_')
 
 
 def _statvfs_refs(obj, named):
-    '''Returns referents of a os.statvfs object.
+    '''Return referents of a os.statvfs object.
     '''
     return _refs(obj, named, pref='f_')
 
 
 def _tb_refs(obj, named):
-    '''Returns specific referents of a traceback object.
+    '''Return specific referents of a traceback object.
     '''
     return _refs(obj, named, pref='tb_')
 
 
 def _type_refs(obj, named):
-    '''Returns specific referents of a type object.
+    '''Return specific referents of a type object.
     '''
     return _refs(obj, named, '__dict__', '__doc__', '__mro__',
                              '__name__', '__slots__', '__weakref__')
 
 
 def _weak_refs(obj, unused):  # named unused for PyChecker
-    '''Returns weakly referent object.
+    '''Return weakly referent object.
     '''
     try:  # ignore 'key' of KeyedRef
         return (obj(),)
@@ -1041,7 +1072,7 @@ try:  # MCCABE 19
         return k
 
     def _keytuple(obj):
-        '''Returns class and instance keys for a class.
+        '''Return class and instance keys for a class.
         '''
         t = type(obj)
         if t is _Types_InstanceType:
@@ -1054,7 +1085,7 @@ try:  # MCCABE 19
         return None, None  # not a class
 
     def _objkey(obj):
-        '''Returns the key for any object.
+        '''Return the key for any object.
         '''
         k = type(obj)
         if k is _Types_InstanceType:
@@ -1068,14 +1099,14 @@ try:  # MCCABE 19
 except AttributeError:  # Python 3.0
 
     def _keytuple(obj):  # PYCHOK expected
-        '''Returns class and instance keys for a class.
+        '''Return class and instance keys for a class.
         '''
         if type(obj) is _Type_type:  # isclass(obj):
             return _claskey(obj, _new_style), obj
         return None, None  # not a class
 
     def _objkey(obj):  # PYCHOK expected
-        '''Returns the key for any object.
+        '''Return the key for any object.
         '''
         k = type(obj)
         if k is _Type_type:  # isclass(obj):
@@ -1146,7 +1177,7 @@ class _Typedef(object):
         return ', '.join(t)
 
     def args(self):  # as args tuple
-        '''Returns all attributes as arguments tuple.
+        '''Return all attributes as arguments tuple.
         '''
         return (self.base, self.item, self.alen, self.refs,
                 self.both, self.kind, self.type)
@@ -1162,7 +1193,7 @@ class _Typedef(object):
         self.reset(**d)
 
     def flat(self, obj, mask=0):
-        '''Returns the aligned flat size.
+        '''Return the aligned flat size.
         '''
         s = self.base
         if self.alen and self.item > 0:  # include items
@@ -1174,7 +1205,7 @@ class _Typedef(object):
         return s
 
     def format(self):
-        '''Returns format dict.
+        '''Return format dict.
         '''
         i = self.item
         if self.vari:
@@ -1188,7 +1219,7 @@ class _Typedef(object):
                     kind=self.kind)
 
     def kwds(self):
-        '''Returns all attributes as keywords dict.
+        '''Return all attributes as keywords dict.
         '''
         return dict(base=self.base, item=self.item,
                     alen=self.alen, refs=self.refs,
@@ -1457,7 +1488,7 @@ try:
                 raise AssertionError('not %s: %r' % ('numpy', d))
 
     # sizing numpy 1.13 arrays works fine, but 1.8 and older
-    # appears to suffer from sys.getsizeof() bug as array
+    # appears to suffer from sys.getsizeof() bug like array
     v = tuple(map(int, numpy.__version__.split('.')))
     _numpy_excl = v < (1, 9, 0)
     if _numpy_excl:  # see function _typedef below
@@ -1621,7 +1652,7 @@ def _typedef(obj, derive=False, infer=False):  # MCCABE 24
         v.dup(item=_dict_typedef.item + _sizeof_CPyModuleObject,
               alen=_len_module,
               refs=_module_refs)
-    elif isframe(obj):
+    elif _isframe(obj):
         v.set(base=_basicsize(t, base=_sizeof_CPyFrameObject, obj=obj),
               item=_itemsize(t),
               alen=_len_frame,
@@ -1714,7 +1745,7 @@ class _Prof(object):
         return self.__cmp__(other) < 0
 
     def format(self, clip=0, grand=None):
-        '''Returns format dict.
+        '''Return format dict.
         '''
         if self.number > 1:  # avg., plural
             a, p = int(self.total / self.number), 's'
@@ -1796,7 +1827,7 @@ class Asized(object):
         return '\n'.join(lines)
 
     def get(self, name, dflt=None):
-        '''Returns the named referent (or *dflt* if not found).
+        '''Return the named referent (or *dflt* if not found).
         '''
         for ref in self.refs:
             if name == ref.name:
@@ -1805,7 +1836,7 @@ class Asized(object):
 
 
 class Asizer(object):
-    '''Sizer state and options.
+    '''State and options to accumulate sizes.
     '''
     _align_ = 8
     _clip_ = 80
@@ -1867,7 +1898,7 @@ class Asizer(object):
             self._excl_d[k] = 0
 
     def _nameof(self, obj):
-        '''Returns the object's name.
+        '''Return the object's name.
         '''
         return _nameof(obj, '') or self._repr(obj)
 
@@ -1877,7 +1908,7 @@ class Asizer(object):
         return _prepr(obj, clip=self._clip_)
 
     def _prof(self, key):
-        '''Gets _Prof object.
+        '''Get _Prof object.
         '''
         p = self._profs.get(key, None)
         if not p:
@@ -1945,7 +1976,7 @@ class Asizer(object):
         return s
 
     def _sizes(self, objs, sized=None):
-        '''Returns the size or an **Asized** instance for each given
+        '''Return the size or an **Asized** instance for each given
         object and the total size.  The total includes the size of
         any duplicates only once.
         '''
@@ -1982,7 +2013,7 @@ class Asizer(object):
         return t
 
     def asizeof(self, *objs, **opts):
-        '''Returns the combined size of the given objects (with modified
+        '''Return the combined size of the given objects (with modified
         options, see method **set**).
         '''
         if opts:
@@ -1991,7 +2022,7 @@ class Asizer(object):
         return s
 
     def asizesof(self, *objs, **opts):
-        '''Returns the individual sizes of the given objects (with
+        '''Return the individual sizes of the given objects (with
         modified options, see method  **set**).
         '''
         if opts:
@@ -2298,7 +2329,7 @@ _asizer = Asizer()
 
 
 def asized(*objs, **opts):
-    '''Returns a tuple containing an **Asized** instance for each
+    '''Return a tuple containing an **Asized** instance for each
     object passed as positional argument.
 
     The available options and defaults are:
@@ -2343,7 +2374,7 @@ def asized(*objs, **opts):
 
 
 def asizeof(*objs, **opts):
-    '''Returns the combined size (in bytes) of all objects passed
+    '''Return the combined size (in bytes) of all objects passed
     as positional arguments.
 
     The available options and defaults are:
@@ -2369,8 +2400,9 @@ def asizeof(*objs, **opts):
     Set *align* to a power of 2 to align sizes.  Any value less
     than 2 avoids size alignment.
 
-    All current module, global and stack objects are sized if
-    *all* is True and if no positional arguments are supplied.
+    If *all* is True and if no positional arguments are supplied.
+    size all current gc objects, including module, global and stack
+    frame objects.
 
     A positive *clip* value truncates all repr() strings to at
     most *clip* characters.
@@ -2416,7 +2448,7 @@ def asizeof(*objs, **opts):
 
 
 def asizesof(*objs, **opts):
-    '''Returns a tuple containing the size (in bytes) of all objects
+    '''Return a tuple containing the size (in bytes) of all objects
     passed as positional argments.
 
     The available options and defaults are:
@@ -2454,7 +2486,7 @@ def asizesof(*objs, **opts):
 
 
 def _typedefof(obj, save=False, **opts):
-    '''Gets the typedef for an object.
+    '''Get the typedef for an object.
     '''
     k = _objkey(obj)
     v = _typedefs.get(k, None)
@@ -2466,7 +2498,7 @@ def _typedefof(obj, save=False, **opts):
 
 
 def alen(obj, **opts):
-    '''Returns the length of an object (in *items*).
+    '''Return the length of an object (in *items*).
 
     See function **basicsize** for a description of the options.
     '''
@@ -2486,7 +2518,7 @@ leng = alen  # for backward comptibility
 
 
 def basicsize(obj, **opts):
-    '''Returns the basic size of an object (in bytes).
+    '''Return the basic size of an object (in bytes).
 
     The available options and defaults are:
 
@@ -2503,7 +2535,7 @@ def basicsize(obj, **opts):
 
 
 def flatsize(obj, align=0, **opts):
-    '''Returns the flat size of an object (in bytes), optionally aligned
+    '''Return the flat size of an object (in bytes), optionally aligned
     to a given power of 2.
 
     See function **basicsize** for a description of all other options.
@@ -2523,7 +2555,7 @@ def flatsize(obj, align=0, **opts):
 
 
 def itemsize(obj, **opts):
-    '''Returns the item size of an object (in bytes).
+    '''Return the item size of an object (in bytes).
 
     See function **basicsize** for a description of the options.
     '''
@@ -2555,7 +2587,7 @@ def named_refs(obj, **opts):
 
 
 def refs(obj, **opts):
-    '''Returns (a generator for) specific *referents* of an object.
+    '''Return (a generator for) specific *referents* of an object.
 
     See function **basicsize** for a description of the options.
     '''
@@ -2569,15 +2601,28 @@ def refs(obj, **opts):
 
 if __name__ == '__main__':
 
-    # Show all static _typedefs
+    if '-types' in sys.argv:  # print static _typedefs
+        n = len(_typedefs)
+        w = len(str(n)) * ' '
+        _printf('%s%d type definitions: %s and %s, kind ... %s', linesep,
+                 n, 'basic-', 'itemsize (alen)', '-type[def]s')
+        for k, v in sorted((_prepr(k), v) for k, v in _items(_typedefs)):
+            s = '%(base)s and %(item)s%(alen)s, %(kind)s%(code)s' % v.format()
+            _printf('%s %s: %s', w, k, s)
 
-    n = len(_typedefs)
-    w = len(str(n)) * ' '
-    _printf('%s%d type definitions: basic- and itemsize (alen), kind ... %s', linesep, n, '-type[def]s')
-    for k, v in sorted((_prepr(k), v) for k, v in _items(_typedefs)):
-        s = '%(base)s and %(item)s%(alen)s, %(kind)s%(code)s' % v.format()
-        _printf('%s %s: %s', w, k, s)
+    else:
+        if '-gc' in sys.argv:
+            try:
+                import gc  # PYCHOK expected
+                gc.collect()
+            except ImportError:
+                pass
 
+        # just an example
+        asizeof(all=True, stats=2)  # print summary
+
+    if '-v' in sys.argv:
+        print('\n%s %s (Python %s)' % (__file__, __version__, sys.version.split()[0]))
 
 # License from the initial version of this source file follows:
 
