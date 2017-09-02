@@ -1,5 +1,5 @@
-wget -qO - http://internet.yandex.ru | grep IPv4 | awk '{print($2,$3)}'
+wget -qO - http://icanhazip.com | grep ^
 # or
-wget -qO - http://internet.yandex.ru | grep -oP 'IPv4:\s(\d+\.){3}\d+'
+lynx --dump http://icanhazip.com | grep ^
 # or
-lynx --dump http://internet.yandex.ru | grep IPv4 | awk '{print($2,$3)}'
+curl -s http://icanhazip.com | grep ^
