@@ -1,0 +1,10 @@
+---
+name: Frucht Cocktail
+persons: 3
+food:
+    - { name: Kiwi, quantity: 200 }
+    - { name: .*nge, quantity: 300 }
+    - { name: Ap.*, quantity: 400 }
+    - { name: Him.*, quantity: 350 }
+    - { name: Heid.*, quantity: 250 }
+    - { name: Zi.*, quantity: 200 }
