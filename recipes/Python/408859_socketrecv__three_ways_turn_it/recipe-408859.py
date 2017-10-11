@@ -27,7 +27,11 @@ def recv_timeout(the_socket,timeout=2):
                 total_data.append(data)
                 begin=time.time()
             else:
-                time.sleep(0.1)
+                # Incase there is actually no data to be read from a non blocking socket,
+                # a socket.error exception is raised with EWOULDBLOCK OR EAGAIN
+                # If there is data of zero length read, it implies the socket was closed on the other end.
+                the_socket.close()
+                break
         except:
             pass
     return ''.join(total_data)
