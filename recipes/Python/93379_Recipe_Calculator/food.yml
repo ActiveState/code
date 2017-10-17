@@ -1,0 +1,35 @@
+- name: Kiwi
+  large_calories: 62
+  fat: 0.6
+  carb: 9.1
+  protein: 1.0
+
+- name: Apfel
+  large_calories: 65
+  fat: 0.1
+  carb: 14.4
+  protein: 0.3
+
+- name: Orange
+  large_calories: 47
+  fat: 0.2
+  carb: 8.3
+  protein: 1.0
+
+- name: Heidelbeeren
+  large_calories: 39.0
+  fat: 0.0
+  carb: 6.0
+  protein: 1.0
+
+- name: Himbeeren
+  large_calories: 43.0
+  fat: 0.3
+  carb: 4.8
+  protein: 1.3
+
+- name: Zitrone
+  large_calories: 33.0
+  fat: 0.6
+  carb: 3.0
+  protein: 1.4
