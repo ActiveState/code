@@ -1,6 +1,6 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
-file=${1:?"file?"}
+FILE=${1:?"FILE?"}
 
 echo $*
 #get the fields
@@ -9,10 +9,10 @@ echo $*
 #print the fields
 
 #awk 'BEGIN { FS = "\n"; RS = "" }\
-#{print $2}' $file \
-sed -n '/.*user.*system.*/p' $file \
-|sed -e 's/user//' -e 's/system//' -e 's/elapsed//' |\
-awk 'BEGIN { FS = " "; RS = "\n" }\
+#{print $2}' $FILE \
+$(which sed) -n '/.*user.*system.*/p' ${FILE} \
+|$(which sed) -e 's/user//' -e 's/system//' -e 's/elapsed//' |\
+$(which awk) 'BEGIN { FS = " "; RS = "\n" }\
 {split($3, real, ":"); $3=real[1]*60 + real[2]} \
 #{printf $1 "\t"$2 "\t" $3"\n"} \
 { user_sum += $1;  sys_sum += $2; real_sum += $3; count++} \
