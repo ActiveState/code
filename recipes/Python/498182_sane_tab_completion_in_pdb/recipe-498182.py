@@ -22,6 +22,7 @@ def complete(self, text, state):
     """
     # keep a completer class, and make sure that it uses the current local scope 
     if not hasattr(self, 'completer'):
+        import rlcompleter
         self.completer = rlcompleter.Completer(self.curframe.f_locals)
     else:
         self.completer.namespace = self.curframe.f_locals
