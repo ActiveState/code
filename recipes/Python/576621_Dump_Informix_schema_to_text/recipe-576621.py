@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf8 -*-
-__version__ = '$Id: schema_inf.py 1754 2014-02-14 08:57:52Z mn $'
+__version__ = '$Id: schema_inf.py 3307 2017-11-29 06:18:57Z mn $'
 
 # export Informix schema to text using ODBC
 # usable to compare databases that should be the same
@@ -22,11 +22,15 @@ __version__ = '$Id: schema_inf.py 1754 2014-02-14 08:57:52Z mn $'
 #
 # Table names that start with '_' are ignored as they are temp tables
 #
+# https://code.activestate.com/recipes/576621-dump-informix-schema-to-text/
+#
 # author: Michal Niklas
 
 USAGE = 'usage:\n\tschema_inf.py connect_string\n\t\tconnect string: odbc_database/user/password'
 
+import re
 import sys
+import time
 import traceback
 
 USE_JYTHON = 0
@@ -49,50 +53,76 @@ DB_ENCODINGS = ('cp1250', 'iso8859_2', 'utf8')
 
 OUT_FILE_ENCODING = 'UTF8'
 
+FILTER_TEMP = """tabtype='T'
+AND systables.tabid >= 100
+AND tabname[1] <> '_'
+"""
+
+if '--no-temp-tables' in sys.argv:
+	FILTER_TEMP += """AND tabname NOT LIKE '%tmp%'
+AND tabname NOT LIKE '%temp%'
+"""
+
+DB_VERSION_SQL = """SELECT FIRST 1 DBINFO('version','full') FROM systables"""
 
 TABLE_NAMES_SQL = """SELECT tabname
 FROM systables
-WHERE tabtype='T'
-AND tabid >= 100
-AND tabname[1] <> '_'
-ORDER BY tabname"""
+WHERE
+%s
+ORDER BY tabname""" % (FILTER_TEMP)
+
+
+TABLE_COLUMNS_SQL = """SELECT tabname, colname
+FROM syscolumns, systables
+WHERE
+%s
+AND syscolumns.tabid = systables.tabid
+ORDER BY tabname, colname
+""" % (FILTER_TEMP)
 
 TABLE_INFO_SQL = """SELECT tabname, colname, colno, HEX(coltype),
 CASE MOD(coltype, 256)
-  WHEN  0 THEN 'char'
-  WHEN  1 THEN 'smallint'
-  WHEN  2 THEN 'integer'
-  WHEN  3 THEN 'float'
-  WHEN  4 THEN 'smallfloat'
-  WHEN  5 THEN 'decimal'
-  WHEN  6 THEN 'serial'
-  WHEN  7 THEN 'date'
-  WHEN  8 THEN 'money'
-  WHEN  9 THEN 'null'
-  WHEN 10 THEN 'datetime'
-  WHEN 11 THEN 'byte'
-  WHEN 12 THEN 'text'
-  WHEN 13 THEN 'varchar'
-  WHEN 14 THEN 'interval'
-  WHEN 15 THEN 'nchar'
-  WHEN 16 THEN 'nvarchar'
-  WHEN 17 THEN 'int8'
-  WHEN 18 THEN 'serial8'
-  WHEN 19 THEN 'set'
-  WHEN 20 THEN 'multiset'
-  WHEN 21 THEN 'list'
-  WHEN 22 THEN 'Unnamed ROW'
-  WHEN 40 THEN 'Variable-length'
-  WHEN 4118 THEN 'Named ROW'
-  ELSE '???'
+	WHEN  0 THEN 'char'
+	WHEN  1 THEN 'smallint'
+	WHEN  2 THEN 'integer'
+	WHEN  3 THEN 'float'
+	WHEN  4 THEN 'smallfloat'
+	WHEN  5 THEN 'decimal(' || (collength / 256)::int || ', ' || mod(collength, 256) || ')'
+	WHEN  6 THEN 'serial'
+	WHEN  7 THEN 'date'
+	WHEN  8 THEN 'money(' || (collength / 256)::int || ', ' || mod(collength, 256) || ')'
+	WHEN  9 THEN 'null'
+	WHEN 10 THEN 'datetime '  || substr(hex(collength), -2, 1) || ' to ' || substr(hex(collength), -1, 1)
+	WHEN 11 THEN 'byte'
+	WHEN 12 THEN 'text'
+	WHEN 13 THEN 'varchar'
+	WHEN 14 THEN 'interval'
+	WHEN 15 THEN 'nchar'
+	WHEN 16 THEN 'nvarchar'
+	WHEN 17 THEN 'int8'
+	WHEN 18 THEN 'serial8'
+	WHEN 19 THEN 'set'
+	WHEN 20 THEN 'multiset'
+	WHEN 21 THEN 'list'
+	WHEN 22 THEN 'row (unnamed)'
+	WHEN 23 THEN 'collection'
+	WHEN 40 THEN 'lvarchar fixed-length opaque types'
+	WHEN 41 THEN 'blob, boolean, clob variable-length opaque types'
+	WHEN 43 THEN 'lvarchar (client-side only)'
+	WHEN 45 THEN 'boolean'
+	WHEN 52 THEN 'bigint'
+	WHEN 53 THEN 'bigserial'
+	WHEN 2061 THEN 'idssecuritylabel'
+	WHEN 4118 THEN 'row (named)'
+	ELSE '???'
 END CASE, collength
 FROM syscolumns, systables
-WHERE tabtype='T'
-AND systables.tabid >= 100
-AND tabname[1] <> '_'
+WHERE
+%s
 AND syscolumns.tabid = systables.tabid
 ORDER BY tabname, colname
-"""
+""" % (FILTER_TEMP)
+
 
 KEYS_INFO_SQL = """select tabname, a.colname column1, b.colname column2,
 c.colname column3, d.colname column4, e.colname column5,
@@ -107,12 +137,11 @@ outer syscolumns f, outer syscolumns g, outer syscolumns h,
 outer syscolumns i, outer syscolumns j, outer syscolumns k,
 outer syscolumns l, outer syscolumns m, outer syscolumns n,
 outer syscolumns o, outer syscolumns p
-WHERE st.tabid >= 100
-AND tabtype='T'
-AND tabname[1] <> '_'
+WHERE
+%s
 AND sc.tabid = st.tabid
 AND si.idxname = sc.idxname
-AND sc.constrtype='%s'
+AND sc.constrtype='%%s'
 and st.tabid = si.tabid
 and st.tabid = a.tabid
 and st.tabid = b.tabid
@@ -147,7 +176,7 @@ and n.colno = part14
 and o.colno = part15
 and p.colno = part16
 ORDER BY tabname, column1, column2, column3, column4, column5
-"""
+""" % (FILTER_TEMP.replace('systables.', 'st.'))
 
 
 INDEXES_INFO_SQL = """SELECT idxname, idxtype
@@ -216,21 +245,18 @@ ORDER BY tabname, column1, column2, column3, column4, column5
 
 DEFAULTS_INFO_SQL = """SELECT tabname, colname, type, default
 FROM syscolumns, systables, sysdefaults
-WHERE tabtype='T'
-AND systables.tabid >= 100
-AND tabname[1] <> '_'
+WHERE
+%s
 AND syscolumns.tabid = systables.tabid
 AND sysdefaults.tabid = systables.tabid
 AND syscolumns.colno = sysdefaults.colno
-ORDER BY tabname, colname"""
+ORDER BY tabname, colname""" % (FILTER_TEMP)
 
 
 VIEWS_INFO_SQL = """SELECT tabname, tabid
 FROM systables
-WHERE tabtype='V'
-AND tabid >= 100
-AND tabname[1] <> '_'
-"""
+WHERE
+%s""" % (FILTER_TEMP.replace("'T'", "'V'"))
 
 VIEWS_TEXT_SQL = """SELECT viewtext
 FROM sysviews
@@ -241,11 +267,10 @@ ORDER BY seqno
 
 TRIGGERS_INFO_SQL = """SELECT tabname, trigname, event
 FROM systables, systriggers
-WHERE tabtype='T'
-AND systables.tabid >= 100
-AND tabname[1] <> '_'
+WHERE
+%s
 AND systables.tabid = systriggers.tabid
-ORDER BY tabname, trigname"""
+ORDER BY tabname, trigname""" % (FILTER_TEMP)
 
 
 PROCEDURES_INFO_SQL = """SELECT procname, numargs, isproc, paramtypes::LVARCHAR, variant, handlesnulls, parallelizable
@@ -253,6 +278,50 @@ FROM sysprocedures
 WHERE internal='f' AND mode IN ('D', 'd', 'O', 'o')
 ORDER BY procname, numargs, procid"""
 
+
+SQL_TYPES = """SELECT COUNT(*)::int,
+CASE MOD(coltype, 256)
+	WHEN  0 THEN 'char'
+	WHEN  1 THEN 'smallint'
+	WHEN  2 THEN 'integer'
+	WHEN  3 THEN 'float'
+	WHEN  4 THEN 'smallfloat'
+	WHEN  5 THEN 'decimal(' || (collength / 256)::int || ', ' || mod(collength, 256) || ')'
+	WHEN  6 THEN 'serial'
+	WHEN  7 THEN 'date'
+	WHEN  8 THEN 'money(' || (collength / 256)::int || ', ' || mod(collength, 256) || ')'
+	WHEN  9 THEN 'null'
+	WHEN 10 THEN 'datetime '  || substr(hex(collength), -2, 1) || ' to ' || substr(hex(collength), -1, 1)
+	WHEN 11 THEN 'byte'
+	WHEN 12 THEN 'text'
+	WHEN 13 THEN 'varchar'
+	WHEN 14 THEN 'interval'
+	WHEN 15 THEN 'nchar'
+	WHEN 16 THEN 'nvarchar'
+	WHEN 17 THEN 'int8'
+	WHEN 18 THEN 'serial8'
+	WHEN 19 THEN 'set'
+	WHEN 20 THEN 'multiset'
+	WHEN 21 THEN 'list'
+	WHEN 22 THEN 'row (unnamed)'
+	WHEN 23 THEN 'collection'
+	WHEN 40 THEN 'lvarchar fixed-length opaque types'
+	WHEN 41 THEN 'blob, boolean, clob variable-length opaque types'
+	WHEN 43 THEN 'lvarchar (client-side only)'
+	WHEN 45 THEN 'boolean'
+	WHEN 52 THEN 'bigint'
+	WHEN 53 THEN 'bigserial'
+	WHEN 2061 THEN 'idssecuritylabel'
+	WHEN 4118 THEN 'row (named)'
+	ELSE '???'
+END CASE
+FROM syscolumns, systables
+WHERE
+%s
+AND syscolumns.tabid = systables.tabid
+GROUP BY 2
+ORDER BY 1 desc, 2
+""" % (FILTER_TEMP)
 
 _CONN = None
 
@@ -276,20 +345,21 @@ def init_db_conn(connect_string, username, passwd):
 		dbinfo = connect_string
 		try:
 			if USE_JYTHON:
-				print(dbinfo)
+				output_line(dbinfo)
 				_CONN = zxJDBC.connect(connect_string, username, passwd, 'com.informix.jdbc.IfxDriver')
 			else:
 				(dbname, dbuser, _) = connect_string.split('/', 3)
 				dbinfo = 'db: %s:%s' % (dbname, dbuser)
 				try:
 					_CONN = odbc.odbc(connect_string)
-					print(dbinfo)
+					output_line(dbinfo)
 				except KeyboardInterrupt:
 					raise
+			add_ver_info(connect_string, username)
 		except:
 			ex = sys.exc_info()
 			s = 'Exception: %s: %s\n%s' % (ex[0], ex[1], dbinfo)
-			print(s)
+			output_line(s)
 			return None
 	return _CONN
 
@@ -310,10 +380,40 @@ def show_db_error(querystr):
 	"""shows exception info"""
 	ex = sys.exc_info()
 	s = 'Exception: %s: %s\n\nSomething is terribly wrong with query:\n%s\n\n' % (ex[0], ex[1], querystr)
-	print('\n\n!!!\n\n%s\n\n!!!\n\n' % (s))
+	output_line('\n\n!!!\n\n%s\n\n!!!\n\n' % (s))
 	sys.stderr.write(s)
 	traceback.print_exc()
 	reload_conn()
+
+
+RE_DATETIME = re.compile(r'datetime (.) to (.)', re.IGNORECASE)
+
+IFX_DATETYPE = {
+	'0': "YEAR",
+	'2': "MONTH",
+	'4': "DAY",
+	'6': "HOUR",
+	'8': "MINUTE",
+	'A': "SECOND",
+	'B': "FRACTION(1)",
+	'C': "FRACTION(2)",
+	'D': "FRACTION(3)",
+	'E': "FRACTION(4)",
+	'F': "FRACTION(5)",
+	}
+
+
+def linefilter_datetime(s):
+	"""converts 'datetime 0 to 4'
+		to 'datetime YEAR to DAY'
+	"""
+	line = s
+	rx = RE_DATETIME.search(line)
+	if rx:
+		txt = line[rx.start(1):rx.end(2)]
+		txt2 = '%s to %s' % (IFX_DATETYPE[rx.group(1)], IFX_DATETYPE[rx.group(2)])
+		line = line.replace(txt, txt2)
+	return line
 
 
 def output_str(fout, line):
@@ -342,10 +442,18 @@ def output_str(fout, line):
 		fout.flush()
 
 
-def output_line(line):
+def output_line(line, linefilter=None):
 	"""outputs line"""
+	if linefilter:
+		line = linefilter(line)
 	line = line.rstrip()
 	output_str(sys.stdout, line)
+
+
+def print_err(serr):
+	"""println on stderr"""
+	sys.stderr.write('%s\n' % (serr))
+	output_line('\nERROR! ERROR!\n%s\n' % (serr))
 
 
 def select_qry(querystr):
@@ -375,33 +483,68 @@ def field_str(fld_value):
 		return "???????"
 
 
-def show_qry(title, querystr, fld_join='\t', row_separator=None):
+def print_start_info(title):
+	output_line('\n\n')
+	output_line('--- %s (START) ---' % title)
+
+
+def print_stop_info(title):
+	output_line('--- %s (END) ---' % title)
+	output_line('\n\n')
+
+
+def show_qry(title, querystr, fld_join='\t', row_separator=None, linefilter=None):
 	"""prints rows from SELECT"""
-	print('\n\n')
-	print('--- %s ---' % title)
+	print_start_info(title)
 	rs = select_qry(querystr)
 	if rs:
 		for row in rs:
-			output_line(fld_join.join([field_str(s) for s in row]))
+			output_line(fld_join.join([field_str(s) for s in row]), linefilter=linefilter)
 			if row_separator:
-				print(row_separator)
+				output_line(row_separator)
 	else:
-		print(' -- NO DATA --')
+		output_line(' -- NO DATA --')
+	print_stop_info(title)
 
 
-def show_qry_ex(querystr, table, fld_join='\t', row_separator=None):
+def show_qry_ex(querystr, table, fld_join='\t', row_separator=None, linefilter=None):
 	"""like show_qry() but with table name as first column"""
 	rs = select_qry(querystr % table)
 	if rs:
 		for row in rs:
-			output_line("%s%s%s" % (table, fld_join, fld_join.join([field_str(s) for s in row])))
+			output_line("%s%s%s" % (table, fld_join, fld_join.join([field_str(s) for s in row])), linefilter=linefilter)
 			if row_separator:
-				print(row_separator)
+				output_line(row_separator)
 
 
 def init_session():
 	"""place to change db session settings like locale"""
 	pass
+
+
+def add_ver_info(connect_string, username):
+	"""add version information"""
+	title = 'info'
+	print_start_info(title)
+	output_line('date: %s' % (time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())))
+	output_line('connect string: %s' % (connect_string))
+	output_line('user: %s' % (username))
+	script_ver = __version__[5:-2]
+	output_line('created by: %s' % (script_ver))
+	print_stop_info(title)
+	show_qry('DB version', DB_VERSION_SQL)
+	show_qry('DB name', "SELECT DBINFO('dbname') FROM systables WHERE tabid = 1")
+	sel_info_option = '--ver-info-sql'
+	for s in sys.argv[1:]:
+		if s.startswith(sel_info_option):
+			sel = s[len(sel_info_option):].strip('=')
+			try:
+				show_qry(sel, sel)
+			except:
+				ex_info = traceback.format_exc()
+				serr = '\nSQL: %s\nException: %s\n' % (sel, ex_info)
+				print_err(serr)
+			break
 
 
 def show_tables():
@@ -413,7 +556,8 @@ def show_tables():
 			TABLES.append(row[0])
 	cur.close()
 	show_qry('tables', TABLE_NAMES_SQL)
-	show_qry('columns', TABLE_INFO_SQL)
+	show_qry('table columns', TABLE_COLUMNS_SQL)
+	show_qry('columns', TABLE_INFO_SQL, linefilter=linefilter_datetime)
 
 
 def show_primary_keys():
@@ -423,15 +567,18 @@ def show_primary_keys():
 
 def show_indexes():
 	"""print indexes"""
-	print('\n\n')
-	print('--- %s ---' % 'indexes')
+	title = 'indexes'
+	print_start_info(title)
 	for tbl in TABLES:
 		show_qry_ex(INDEXES_INFO_SQL, tbl)
 	#show_qry('indexes columns', INDEXES_COLUMNS_INFO_SQL)
-	print('\n\n')
-	print('--- %s ---' % 'indexes columns')
+	print_stop_info(title)
+
+	title = 'indexes columns'
+	print_start_info(title)
 	for tbl in TABLES:
 		show_qry_ex(INDEXES_COLUMNS_INFO_SQL, tbl)
+	print_stop_info(title)
 
 
 def show_foreign_keys():
@@ -446,8 +593,8 @@ def show_defaults():
 
 def show_views():
 	"""print views"""
-	print('\n\n')
-	print('--- %s ---' % 'views')
+	title = 'views'
+	print_start_info(title)
 	cur = db_conn().cursor()
 	try:
 		cur.execute(VIEWS_INFO_SQL)
@@ -458,17 +605,22 @@ def show_views():
 			try:
 				cur2 = db_conn().cursor()
 				cur2.execute(querystr)
-				print(tabname)
+				output_line(tabname)
 				vt = []
 				for row2 in cur2.fetchall():
 					vt.append(row2[0])
 				vtt = ''.join(vt)
 				output_line(vtt.rstrip())
-				print('')
+				output_line('')
 			except:
 				show_db_error(querystr)
 	except:
 		show_db_error(VIEWS_INFO_SQL)
+	print_stop_info(title)
+
+
+def show_types_stat():
+	show_qry('column type count', SQL_TYPES, linefilter=linefilter_datetime)
 
 
 def get_body(qry):
@@ -485,8 +637,8 @@ def get_body(qry):
 def show_procedures():
 	"""show procedures and functions"""
 	show_qry('procedures/functions', PROCEDURES_INFO_SQL)
-	print('\n\n')
-	print('--- %s ---' % 'procedures/functions bodies')
+	title = 'procedures/functions bodies'
+	print_start_info(title)
 	querystr1 = """SELECT procid, procname
 FROM sysprocedures
 WHERE internal='f' AND mode IN ('D', 'd', 'O', 'o')
@@ -502,17 +654,17 @@ ORDER BY seqno
 		for row in rs:
 			funname = row[1]
 			body = get_body(querystr2 % row[0])
-			print('\n\n -- >>> %s >>> --' % funname)
+			output_line('\n\n -- >>> %s >>> --' % funname)
 			output_line(body)
-			print('\n\n -- <<< %s <<< --' % funname)
-	print('---  ---')
+			output_line('\n\n -- <<< %s <<< --' % funname)
+	print_stop_info(title)
 
 
 def show_triggers():
 	"""show triggers"""
 	show_qry('triggers', TRIGGERS_INFO_SQL)
-	print('\n\n')
-	print('--- %s ---' % 'triggers bodies')
+	title = 'triggers bodies'
+	print_start_info(title)
 	querystr1 = """SELECT trigid, tabname, trigname
 FROM systables, systriggers
 WHERE tabtype='T'
@@ -537,41 +689,70 @@ ORDER BY seqno
 			for row in rs:
 				body_def = get_body(querystr2 % trigid)
 				body_txt = get_body(querystr3 % trigid)
-				print('\n\n -- >>> %s >>> --' % trigname)
+				output_line('\n\n -- >>> %s >>> --' % trigname)
 				output_line(body_def)
 				output_line(body_txt)
-				print('\n\n -- <<< %s <<< --' % trigname)
-	print('---  ---')
+				output_line('\n\n -- <<< %s <<< --' % trigname)
+	print_stop_info(title)
+
+
+def get_info_filter():
+	result = ''
+	for s in sys.argv[1:]:
+		if s.startswith('--info-filter='):
+			_, result = s.split('=', 1)
+	if not result:
+		result = 'kifdvtpT'
+	return result
 
 
 def main():
 	"""main"""
-	connect_string = sys.argv[1]
+	if '--version' in sys.argv:
+		print(__version__)
+		return
+	args = [x for x in sys.argv[1:] if not x.startswith('-')]
+	if not args:
+		print(USAGE)
+		return
+	connect_string = args[0]
 	username = None
 	passwd = None
-	if (len(sys.argv) > 2):
-		username = sys.argv[2]
-	if (len(sys.argv) > 3):
-		passwd = sys.argv[3]
+	if (len(args) > 1):
+		username = args[1]
+	if (len(args) > 2):
+		passwd = args[2]
 	if not init_db_conn(connect_string, username, passwd):
-		print('Something is terribly wrong with db connection')
+		output_line('Something is terribly wrong with db connection')
 	else:
+		tables_only = '--tables-only' in sys.argv
+		info_filter = get_info_filter()
+		t0 = time.time()
 		init_session()
 		show_tables()
-		show_primary_keys()
-		show_indexes()
-		show_foreign_keys()
-		show_defaults()
-		show_views()
-		show_triggers()
-		show_procedures()
-		print('--- the end ---')
+		if not tables_only and info_filter:
+			if 'k' in info_filter:
+				show_primary_keys()
+			if 'i' in info_filter:
+				show_indexes()
+			if 'f' in info_filter:
+				show_foreign_keys()
+			if 'd' in info_filter:
+				show_defaults()
+			if 'v' in info_filter:
+				show_views()
+			if 't' in info_filter:
+				show_triggers()
+			if 'p' in info_filter:
+				show_procedures()
+			if 'T' in info_filter:
+				show_types_stat()
+
+		t2 = time.time()
+		td = t2 - t0
+		output_line('\n\nexecution time: %d min %d sec' % (divmod(td, 60)))
+		output_line('\n\n-- the end, filter [%s] --' % (info_filter))
 
 
-if '--version' in sys.argv:
-	print(__version__)
-elif __name__ == '__main__':
-	if len(sys.argv) < 2:
-		print(USAGE)
-	else:
-		main()
+if __name__ == '__main__':
+	main()
