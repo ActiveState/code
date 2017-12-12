@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf8 -*-
-__version__ = '$Id: schema_ora.py 1754 2014-02-14 08:57:52Z mn $'
+__version__ = '$Id: schema_ora.py 3307 2017-11-29 06:18:57Z mn $'
 
 # export Oracle schema to text
 # usable to compare databases that should be the same
@@ -8,29 +8,33 @@ __version__ = '$Id: schema_ora.py 1754 2014-02-14 08:57:52Z mn $'
 # Oracle schema info:
 # http://www.eveandersson.com/writing/data-model-reverse-engineering
 #
+# http://code.activestate.com/recipes/576534-dump-oracle-db-schema-to-text/
 #
 # author: Michal Niklas, Adam Kopciński-Galik
 
 OPTIONS = """[OPTIONS]
 Options:
---tables_only      raport only tables
---separate-files   save tables, views etc in separate files
-                   in db_schema directory,
-                   tables are defined as CREATE TABLE statement
---sorted-info      for CREATE TABLE add comment with columns
-                   sorted by name
---zip              with --separate-files enabled zip all created files
+--add-ver-info     add version information
 --date-dir         with --separate-files add date and time
                    to db_schema_[date]_[time] directory
                    with -o[=file_name] save file_name
                    in db_schema_[date]_[time] directory
 --force-dir        with --separate-files do not check
                    if db_schema directory exists
+--lf-only          use Unix style end of lines
+--no-temp-tables   do not show info about tables with 'tmp' or 'temp' in name
 -o[=file_name]     send results to file instead of stdout
+--separate-files   save tables, views etc in separate files
+                   in db_schema directory,
+                   tables are defined as CREATE TABLE statement
+--sorted-info      for CREATE TABLE add comment with columns
+                   sorted by name
+--tables-only      raport only tables
 --version          show version
---add-ver-info     add version information
+--verbose          show more info in output (SQL queries)
 --ver-info-sql[=SELECT  ... FROM ... ORDER BY ...]
                    extend version information by results of this query
+--zip              with --separate-files enabled zip all created files
 """
 
 USAGE = 'usage:\n\tschema_ora.py tnsentry username passwd %s' % OPTIONS
@@ -41,22 +45,25 @@ example:
 """ % OPTIONS
 
 import codecs
-import sys
 import os
-import zipfile
 import os.path
-import time
 import re
+import sys
+import time
+import traceback
+import zipfile
 
 USE_JYTHON = 0
 
-TABLES_ONLY = 0
+TABLES_ONLY = '--tables_only' in sys.argv or '--tables-only' in sys.argv
+LF_ONLY = '--lf_only' in sys.argv or '--lf-only' in sys.argv
+
 
 SCHEMA_DIR = 'db_schema'
 if '--date-dir' in sys.argv:
 	SCHEMA_DIR += time.strftime("_%y%m%d_%H%M%S", time.localtime())
-TABLES_INFO_DIR    = SCHEMA_DIR + '/tables'
-VIEWS_INFO_DIR     = SCHEMA_DIR + '/views'
+TABLES_INFO_DIR = SCHEMA_DIR + '/tables'
+VIEWS_INFO_DIR = SCHEMA_DIR + '/views'
 SEQUENCES_INFO_DIR = SCHEMA_DIR + '/sequences'
 FUNCTIONS_INFO_DIR = SCHEMA_DIR + '/functions'
 PROCEDURES_INFO_DIR = SCHEMA_DIR + '/procedures'
@@ -65,6 +72,7 @@ INVALID = '_invalid'
 
 CREATED_FILES = []
 
+VERBOSE = '--verbose' in sys.argv
 
 try:
 	from com.ziclix.python.sql import zxJDBC
@@ -78,30 +86,40 @@ DB_ENCODINGS = ('cp1250', 'iso8859_2', 'utf8')
 
 OUT_FILE_ENCODING = 'UTF8'
 
-
-TABLE_AND_VIEWS_NAMES_SQL = """SELECT DISTINCT table_name
-FROM user_tab_columns
-WHERE INSTR(table_name, 'X_') <> 1
+FILTER_TEMP = """
+INSTR(table_name, 'X_') <> 1
 AND INSTR(table_name, '$') = 0
-ORDER BY table_name
 """
+
+FILTER_TEMP_SEQ = ""
+
+if '--no-temp-tables' in sys.argv:
+	# Oracle uses UPPER letters in table names
+	FILTER_TEMP += """AND INSTR(table_name, 'TMP') = 0
+AND INSTR(table_name, 'TEMP') = 0
+"""
+	FILTER_TEMP_SEQ = " WHERE INSTR(sequence_name, 'TMP') = 0 AND INSTR(sequence_name, 'TEMP') = 0"
+
+UC_FILTER_TEMP = FILTER_TEMP.replace('table_name', 'uc.table_name')
 
 TABLE_NAMES_SQL = """SELECT DISTINCT table_name
 FROM user_tables
-WHERE INSTR(table_name, 'X_') <> 1
-AND INSTR(table_name, '$') = 0
+WHERE
+%s
 AND NOT table_name IN (SELECT view_name FROM user_views)
 AND NOT table_name IN (SELECT mview_name FROM user_mviews)
 ORDER BY table_name
-"""
+""" % (FILTER_TEMP)
 
 
 TABLE_COLUMNS_SQL = """SELECT table_name, column_name
 FROM user_tab_columns
-WHERE INSTR(table_name, 'X_') <> 1
-AND INSTR(table_name, '$') = 0
+WHERE
+%s
+AND NOT table_name IN (SELECT view_name FROM user_views)
+AND NOT table_name IN (SELECT mview_name FROM user_mviews)
 ORDER BY table_name, column_name
-"""
+""" % (FILTER_TEMP)
 
 
 TABLE_INFO_SQL = """SELECT table_name, column_name, data_type, nullable,
@@ -109,53 +127,78 @@ decode(default_length, NULL, 0, 1) hasdef,
 decode(data_type,
 	'DATE', '11',
 	'NUMBER', data_precision || ',' || data_scale,
+	'VARCHAR2', char_length || char_used,
 	data_length) data_length
 FROM user_tab_columns
-WHERE INSTR(table_name, 'X_') <> 1
-AND INSTR(table_name, '$') = 0
+WHERE
+%s
+AND NOT table_name IN (SELECT view_name FROM user_views)
+AND NOT table_name IN (SELECT mview_name FROM user_mviews)
 ORDER BY table_name, column_name
-"""
+""" % (FILTER_TEMP)
+
+
+SQL_TYPES = """SELECT COUNT(*), data_type,
+decode(data_type,
+	'NUMBER', data_precision || ',' || data_scale,
+	'VARCHAR2', char_used,
+	'CHAR', char_used,
+	data_length)
+FROM user_tab_columns
+WHERE
+%s
+AND NOT table_name IN (SELECT view_name FROM user_views)
+AND NOT table_name IN (SELECT mview_name FROM user_mviews)
+GROUP BY data_type,
+decode(data_type,
+	'NUMBER', data_precision || ',' || data_scale,
+	'VARCHAR2', char_used,
+	'CHAR', char_used,
+	data_length)
+ORDER BY 1 DESC, 2, 3
+""" % (FILTER_TEMP)
+
 
 PRIMARY_KEYS_INFO_SQL = """SELECT uc.table_name, ucc.column_name
 FROM user_constraints uc, user_cons_columns ucc
-WHERE uc.constraint_name = ucc.constraint_name
+WHERE
+%s
+AND uc.constraint_name = ucc.constraint_name
 AND uc.constraint_type = 'P'
-AND INSTR(uc.table_name, 'X_') <> 1
-AND INSTR(uc.table_name, '$') = 0
 ORDER BY uc.table_name, ucc.position
-"""
+""" % (UC_FILTER_TEMP)
 
 
 INDEXES_INFO_SQL = """SELECT ui.table_name, ui.index_name, ui.uniqueness
 FROM user_indexes ui
-WHERE INSTR(ui.table_name, 'X_') <> 1
-AND INSTR(ui.table_name, '$') = 0
+WHERE
+%s
 ORDER BY ui.table_name, ui.index_name
-"""
+""" % (FILTER_TEMP)
 
 
 INDEXES_COLUMNS_INFO_SQL = """SELECT table_name, column_name, index_name, column_position, descend
 FROM user_ind_columns
-WHERE INSTR(table_name, 'X_') <> 1
-AND INSTR(table_name, '$')  = 0
+WHERE
+%s
 ORDER BY table_name, index_name, column_position
-"""
+""" % (FILTER_TEMP)
 
 
 COMPOSITE_INDEXES_COLUMNS_INFO_SQL = """SELECT table_name, column_name, index_name, column_position
 FROM user_ind_columns
-WHERE index_name in (select distinct index_name from USER_IND_COLUMNS where column_position > 1)
-AND INSTR(table_name, 'X_') <> 1
-AND INSTR(table_name, '$')  = 0
+WHERE
+%s
+AND index_name in (select distinct index_name from USER_IND_COLUMNS where column_position > 1)
 ORDER BY table_name, index_name, column_position
-"""
+""" % (FILTER_TEMP)
 
 FUNCTION_INDEXES_INFO_SQL = """SELECT table_name, column_expression, index_name, column_position
 FROM user_ind_expressions
-WHERE INSTR(table_name, 'X_') <> 1
-AND INSTR(table_name, '$') = 0
+WHERE
+%s
 ORDER BY table_name, index_name, column_position
-"""
+""" % (FILTER_TEMP)
 
 
 FOREIGN_KEYS_INFO_SQL = """SELECT uc.table_name, ucc.column_name, ucc.position
@@ -166,29 +209,36 @@ FROM user_cons_columns ucc
 ,user_constraints fc
 ,user_constraints uc
 ,user_ind_columns uic
-WHERE  uc.constraint_type = 'R'
-AND    uc.constraint_name = ucc.constraint_name
-AND    fc.constraint_name = uc.r_constraint_name
+WHERE
+%s
+AND uc.constraint_type = 'R'
+AND uc.constraint_name = ucc.constraint_name
+AND fc.constraint_name = uc.r_constraint_name
 AND uic.index_name=fc.constraint_name
 ORDER BY uc.table_name, ucc.position, uic.column_position
-"""
+""" % (UC_FILTER_TEMP)
 
 
 DEFAULTS_INFO_SQL = """SELECT table_name, column_name, data_default
-FROM   user_tab_columns
-WHERE  default_length IS NOT NULL
-AND INSTR(table_name, 'X_') <> 1
-AND INSTR(table_name, '$') = 0
+FROM user_tab_columns
+WHERE
+%s
+AND default_length IS NOT NULL
 ORDER BY table_name, column_name
-"""
+""" % (FILTER_TEMP)
 
 
-SEQUENCES_INFO_SQL = """SELECT sequence_name FROM user_sequences"""
+SEQUENCES_INFO_SQL = """SELECT sequence_name
+FROM user_sequences %s
+ORDER BY sequence_name
+""" % FILTER_TEMP_SEQ
 
 
 TSEQUENCES_INFO_SQL = """SELECT sequence_name, min_value, max_value, increment_by, last_number, cache_size, cycle_flag, order_flag
 FROM user_sequences
-"""
+%s
+ORDER BY sequence_name
+""" % FILTER_TEMP_SEQ
 
 
 VIEWS_INFO_SQL = """SELECT view_name, text
@@ -204,20 +254,27 @@ ORDER BY mview_name
 
 TRIGGERS_INFO_SQL = """SELECT trigger_name, trigger_type, triggering_event, table_name, trim(chr(13) from trim(chr(10) from description)), trigger_body
 FROM user_triggers
-WHERE INSTR(table_name, 'X_') <> 1
-AND INSTR(table_name, '$') = 0
+WHERE
+%s
 ORDER BY table_name, trigger_name
+""" % (FILTER_TEMP)
+
+
+PROCEDURE_AND_FUNCTION_NAME_SQL = """SELECT object_name
+FROM user_procedures
+WHERE procedure_name IS NULL AND LOWER(object_type)=LOWER('%s')
+ORDER BY object_name
 """
 
 
 TTABLE_NAMES_SQL = """SELECT DISTINCT table_name
 FROM user_tab_columns
-WHERE INSTR(table_name, 'X_') <> 1
-AND INSTR(table_name, '$') < 1
+WHERE
+%s
 AND NOT table_name IN (SELECT view_name FROM user_views)
 AND NOT table_name IN (SELECT mview_name FROM user_mviews)
 ORDER BY table_name
-"""
+""" % (FILTER_TEMP)
 
 
 TTABLE_COLUMNS = """SELECT column_name, data_type, nullable,
@@ -227,7 +284,8 @@ decode(data_type,
 	'NUMBER', data_precision || ',' || data_scale,
 	data_length) data_length,
 	data_default,
-	char_length
+	char_length,
+	char_used
 FROM user_tab_columns
 WHERE table_name='%s'
 """
@@ -240,6 +298,7 @@ FROM user_constraints uc, user_cons_columns ucc
 WHERE uc.constraint_name = ucc.constraint_name
 AND uc.constraint_type = 'P'
 AND uc.table_name='%s'
+ORDER BY ucc.position
 """
 
 
@@ -277,7 +336,18 @@ ORDER BY table_name, trigger_name
 """
 
 
+TTYPES_SQL = """SELECT type_name, line, text FROM user_types
+LEFT JOIN user_source ON user_source.name=user_types.type_name WHERE user_source.type='TYPE'
+ORDER BY type_name, line"""
+
+
 DB_VERSION_SQL = """SELECT * FROM v$version WHERE banner like 'Oracle%'"""
+
+FEATURE_USAGE_SQL = """SELECT NAME, VERSION, detected_usages,
+first_usage_date, last_usage_date
+FROM dba_feature_usage_statistics
+WHERE detected_usages > 0
+ORDER BY 1, 2"""
 
 
 _CONN = None
@@ -323,8 +393,8 @@ def init_db_conn(connect_string, username, passwd):
 				print('--%s' % (dbinfo))
 				_CONN = cx_Oracle.connect(username, passwd, connect_string)
 		except:
-			ex = sys.exc_info()
-			serr = 'Exception: %s: %s\n%s' % (ex[0], ex[1], dbinfo)
+			serr = traceback.format_exc()
+			serr = 'Exception while opening: %s\n%s' % (dbinfo, serr)
 			print_err(serr)
 			return None
 	return _CONN
@@ -339,6 +409,8 @@ def output_str(fout, line):
 	"""outputs line to fout trying various encodings in case of encoding errors"""
 	if fout:
 		try:
+			if LF_ONLY:
+				line = line.replace(chr(13), '')
 			fout.write(line)
 		except (UnicodeDecodeError, UnicodeEncodeError):
 			try:
@@ -357,13 +429,17 @@ def output_str(fout, line):
 				if not ok:
 					fout.write('!!! line cannot be encoded !!!\n')
 					fout.write(repr(line))
-		fout.write('\n')
+		if LF_ONLY:
+			# just LF, while we want to compare results on both Linux and Windows
+			# CRLF = 0d0a
+			fout.write(chr(10))
+		else:
+			fout.write('\n')
 		fout.flush()
 
 
 def output_line(line, fout=None):
 	"""outputs line"""
-	line = line.rstrip()
 	output_str(fout, line)
 	output_str(sys.stdout, line)
 
@@ -371,15 +447,24 @@ def output_line(line, fout=None):
 def print_err(serr):
 	"""println on stderr"""
 	sys.stderr.write('%s\n' % (serr))
+	output_line('\nERROR! ERROR!\n%s\n' % (serr))
 
 
 def select_qry(querystr):
 	"""executes SQL SELECT query"""
-	cur = db_conn().cursor()
-	cur.execute(querystr)
-	results = cur.fetchall()
-	cur.close()
-	return results
+	try:
+		qstr = querystr.encode('UTF8')
+		cur = db_conn().cursor()
+		if VERBOSE:
+			output_line('\n--\n%s\n--' % (qstr))
+		cur.execute(qstr)
+		results = cur.fetchall()
+		cur.close()
+		return results
+	except:
+		serr = traceback.format_exc()
+		print_err('cos nie tak z zapytaniem:\n%s\n%s' % (qstr, serr))
+		raise
 
 
 def run_qry(querystr):
@@ -403,16 +488,29 @@ def fld2str(fld_v):
 	return fld_v
 
 
+def print_start_info(title, fout=None):
+	output_line('\n\n', fout)
+	output_line('--- %s (START) ---' % title, fout)
+
+
+def print_stop_info(title, fout=None):
+	output_line('--- %s (END) ---' % title, fout)
+	output_line('\n\n', fout)
+
+
 def show_qry(title, querystr, fld_join='\t', row_separator=None, fout=None):
 	"""shows SQL query results"""
+	print_start_info(title, fout)
 	rs = select_qry(querystr)
 	if rs:
-		output_line('\n\n--- %s ---' % (title), fout)
 		for row in rs:
 			line = fld_join.join([fld2str(s) for s in row])
 			output_line(line, fout)
 			if row_separator:
 				output_line(row_separator, fout)
+	else:
+		output_line(' -- NO DATA --', fout)
+	print_stop_info(title, fout)
 
 
 def init_session():
@@ -420,7 +518,7 @@ def init_session():
 	run_qry("ALTER SESSION SET nls_numeric_characters = '.,'")
 
 
-def get_type_length(data_type, data_length, char_length):
+def get_type_length(data_type, data_length, char_length, char_used):
 	"""get string with length of field"""
 	if data_type == 'NUMBER':
 		if data_length == ',':
@@ -431,7 +529,10 @@ def get_type_length(data_type, data_length, char_length):
 	if data_type == 'RAW':
 		return ' (%s)' % (data_length)
 	if data_type in ('CHAR', 'VARCHAR2', 'NCHAR', 'NVARCHAR2'):
-		return ' (%.0f)' % (char_length)
+		char_used_str = 'BYTE'
+		if char_used.lower().startswith('c'):
+			char_used_str = 'CHAR'
+		return ' (%.0f %s)' % (char_length, char_used_str)
 	return ''
 
 
@@ -444,8 +545,9 @@ def table_info_row(row):
 	data_length = row[4]
 	data_default = row[5]
 	char_length = row[6]
+	char_used = row[7]
 	default_str = nullable_str = ''
-	data_length_str = get_type_length(data_type, data_length, char_length)
+	data_length_str = get_type_length(data_type, data_length, char_length, char_used)
 	if int(hasdef) == 1:
 		default_str = ' DEFAULT %s' % (data_default)
 	if nullable == 'N':
@@ -595,8 +697,12 @@ def create_create_table_ddl(table, sorted_in_comment):
 		sc = '\n---------- order by column name ----------\n-- ' + sc + '\n---------- order by column name ----------'
 		ct = ct + sc
 	indices_str = get_table_indices(table, pk_columns)
+	if indices_str:
+		ct += '\n\n' + indices_str
 	triggers_str = get_table_triggers(table)
-	return '%s\n\n%s\n\n%s' % (ct, indices_str, triggers_str)
+	if triggers_str:
+		ct += '\n\n' + triggers_str
+	return ct
 
 
 def save_table_definition(table, sorted_in_comment):
@@ -611,7 +717,7 @@ def save_table_definition(table, sorted_in_comment):
 
 def show_tables():
 	"""shows info tables"""
-	show_qry('tables', TABLE_AND_VIEWS_NAMES_SQL)
+	show_qry('tables', TABLE_NAMES_SQL)
 	show_qry('table columns', TABLE_COLUMNS_SQL)
 	show_qry('columns', TABLE_INFO_SQL)
 
@@ -709,6 +815,16 @@ def show_views(separate_files):
 	cur.close()
 
 
+def show_types_stat():
+	show_qry('column type count', SQL_TYPES)
+
+
+def show_procedures_and_functions():
+	"""shows SQL triggers"""
+	show_qry('function names', PROCEDURE_AND_FUNCTION_NAME_SQL % ('function'))
+	show_qry('procedure names', PROCEDURE_AND_FUNCTION_NAME_SQL % ('procedure'))
+
+
 def show_normal_procedures(separate_files, title, out_dir=None):
 	"""shows valid SQL procedures and functions"""
 	return show_procedures("SELECT object_name FROM user_procedures WHERE procedure_name IS NULL AND lower(object_type) = lower('%s') ORDER BY 1", separate_files, title, out_dir)
@@ -721,7 +837,7 @@ def show_invalid_procedures(separate_files, title, out_dir=None):
 
 def show_procedures(sql, separate_files, title, out_dir=None):
 	"""shows SQL procedures and functions"""
-	output_line('\n\n --- %ss ---' % (title))
+	print_start_info(title + 's')
 	fout = None
 	cur = db_conn().cursor()
 	cur.execute(sql % (title))
@@ -738,19 +854,21 @@ def show_procedures(sql, separate_files, title, out_dir=None):
 		cur2.execute("SELECT text FROM user_source where name = '%s' ORDER BY line" % funname)
 		lines = cur2.fetchall()
 		for line in lines:
-			output_line(line[0], fout)
+			output_line(line[0].rstrip(), fout)
 		if lines:
-			output_line('\n/\n', fout)
+			output_line('\n/', fout)
 		cur2.close()
 		output_line('\n\n -- <<< %s %s <<< --' % (title, funname))
 		if fout:
 			fout.close()
 	cur.close()
+	print_stop_info(title + 's')
 
 
 def show_packages(separate_files):
 	"""shows SQL packages"""
-	output_line('\n\n --- packages ---')
+	title = 'packages'
+	print_start_info(title)
 	fout = None
 	cur1 = db_conn().cursor()
 	cur1.execute("SELECT object_name FROM user_objects WHERE object_type='PACKAGE' ORDER BY 1")
@@ -766,9 +884,9 @@ def show_packages(separate_files):
 		cur2.execute("SELECT text FROM sys.user_source where name = '%s' AND type='PACKAGE' ORDER BY line" % funname)
 		lines = cur2.fetchall()
 		for line in lines:
-			output_line(line[0], fout)
+			output_line(line[0].rstrip(), fout)
 		if(lines):
-			output_line('\n/\n', fout)
+			output_line('\n/', fout)
 		output_line('\n')
 		cur2.close()
 		cur3 = db_conn().cursor()
@@ -777,19 +895,25 @@ def show_packages(separate_files):
 		if(lines):
 			output_line('\nCREATE OR REPLACE ', fout)
 		for line in lines:
-			output_line(line[0], fout)
+			output_line(line[0].rstrip(), fout)
 		if(lines):
-			output_line('\n/\n', fout)
+			output_line('\n/', fout)
 		cur3.close()
 		if fout:
 			fout.close()
 		output_line('\n\n -- <<< package %s <<< --' % (funname))
 	cur1.close()
+	print_stop_info(title)
 
 
 def show_triggers():
 	"""shows SQL triggers"""
 	show_qry('triggers', TRIGGERS_INFO_SQL, '\n', '\n-- end trigger --\n')
+
+
+def show_types():
+	"""shows SQL types"""
+	show_qry('types', TTYPES_SQL)
 
 
 def save_files_in_zip():
@@ -815,12 +939,14 @@ def add_ver_info(separate_files, connect_string, username):
 	if separate_files:
 		ver_file = os.path.join(SCHEMA_DIR, 'version.txt')
 		f = open_file_write(ver_file)
-	output_line('>>> ver info')
+	title = 'info'
+	print_start_info(title)
 	output_line('date: %s' % (time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())), f)
 	output_line('connect string: %s' % (connect_string), f)
 	output_line('user: %s' % (username), f)
 	script_ver = __version__[5:-2]
 	output_line('created by: %s' % (script_ver), f)
+	print_stop_info(title)
 	show_qry('DB version', DB_VERSION_SQL, fout=f)
 	show_qry('DB name', 'SELECT ora_database_name FROM dual', fout=f)
 	sel_info_option = '--ver-info-sql'
@@ -830,11 +956,11 @@ def add_ver_info(separate_files, connect_string, username):
 			try:
 				show_qry(sel, sel, fout=f)
 			except:
-				ex = sys.exc_info()
-				serr = '\nSQL: %s\nException: %s: %s\n' % (sel, ex[0], ex[1])
+				ex_info = traceback.format_exc()
+				serr = '\nSQL: %s\nException: %s\n' % (sel, ex_info)
 				print_err(serr)
 			break
-	output_line('<<< ver info')
+	show_qry('DB features used', FEATURE_USAGE_SQL, fout=f)
 	if f:
 		f.close()
 
@@ -848,22 +974,33 @@ def show_additional_info(separate_files):
 	show_sequences(separate_files)
 	show_views(separate_files)
 	show_triggers()
+	show_procedures_and_functions()
 	show_normal_procedures(separate_files, 'function', FUNCTIONS_INFO_DIR)
-	show_invalid_procedures(separate_files, 'function', FUNCTIONS_INFO_DIR + INVALID)
+	show_invalid_procedures(separate_files, 'invalid function', FUNCTIONS_INFO_DIR + INVALID)
 	show_normal_procedures(separate_files, 'procedure', PROCEDURES_INFO_DIR)
-	show_invalid_procedures(separate_files, 'procedure', PROCEDURES_INFO_DIR + INVALID)
+	show_invalid_procedures(separate_files, 'invalid procedure', PROCEDURES_INFO_DIR + INVALID)
 	show_packages(separate_files)
+	show_types()
+	show_types_stat()
+
+
+def rmdir_ex(dirname):
+	try:
+		os.rmdir(dirname)
+	except:
+		pass
 
 
 def clean_up():
 	"""removes created directories after zipping files"""
 	for dn in CREATED_DIRS:
-		os.rmdir(dn)
-	os.rmdir(SCHEMA_DIR)
+		rmdir_ex(dn)
+	rmdir_ex(SCHEMA_DIR)
 
 
 def dump_db_info(separate_files, out_f, stdout):
 	"""saves information about database schema in file/files"""
+	t0 = time.time()
 	test = '--test' in sys.argv
 	if test or separate_files:
 		for dn in (TABLES_INFO_DIR, VIEWS_INFO_DIR, SEQUENCES_INFO_DIR, FUNCTIONS_INFO_DIR, PROCEDURES_INFO_DIR, PACKAGES_INFO_DIR):
@@ -880,7 +1017,10 @@ def dump_db_info(separate_files, out_f, stdout):
 		show_tables()
 	if not TABLES_ONLY and not test:
 		show_additional_info(separate_files)
-	output_line('\n\n--- the end ---')
+	t2 = time.time()
+	td = t2 - t0
+	output_line('\n\nexecution time: %d min %d sec' % (divmod(td, 60)))
+	output_line('\n\n-- the end --')
 	if out_f:
 		out_f.close()
 		sys.stdout = stdout
@@ -899,25 +1039,37 @@ def get_option_value(prefix):
 	return result
 
 
+def mk_schema_dir():
+	try:
+		if not os.path.exists(SCHEMA_DIR):
+			os.mkdir(SCHEMA_DIR)
+	except:
+		pass
+
+
 def main():
 	"""main function"""
-	conn_args = [s for s in sys.argv[1:] if not s.startswith('-')]
-	if len(conn_args) != 3:
+	if '--version' in sys.argv:
+		print(__version__)
+		return
+	db_conn_args = [s for s in sys.argv[1:] if not s.startswith('-')]
+	if len(db_conn_args) != 3 or '--help' in sys.argv:
 		print(USAGE)
-		return 0
-	connect_string, username, passwd = conn_args
+		return
+	connect_string, username, passwd = db_conn_args
 	separate_files = '--separate-files' in sys.argv
 	if separate_files:
 		if os.path.exists(SCHEMA_DIR):
-			if not '--force-dir' in sys.argv:
+			if '--force-dir' not in sys.argv:
 				print_err('Output directory "%s" already exists,\nuse --force-dir or --date-dir option!' % (SCHEMA_DIR))
 				return 0
+		mk_schema_dir()
 	stdout = sys.stdout
 	out_f = None
 	out_fn = get_option_value('-o')
 	if out_fn:
 		if '--date-dir' in sys.argv:
-			os.mkdir(SCHEMA_DIR)
+			mk_schema_dir()
 			out_fn = os.path.join(SCHEMA_DIR, out_fn)
 		out_f = open(out_fn, 'w')
 		sys.stdout = out_f
@@ -932,12 +1084,5 @@ def main():
 	dump_db_info(separate_files, out_f, stdout)
 
 
-if '--version' in sys.argv:
-	print(__version__)
-elif __name__ == '__main__':
-	if '--tables_only' in sys.argv:
-		TABLES_ONLY = 1
-	if len(sys.argv) < 4:
-		print(USAGE)
-	else:
-		main()
+if __name__ == '__main__':
+	main()

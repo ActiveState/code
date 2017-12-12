@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf8 -*-
-__version__ = '$Id: schema_pg.py 1754 2014-02-14 08:57:52Z mn $'
+__version__ = '$Id: schema_pg.py 3307 2017-11-29 06:18:57Z mn $'
 
 # export PostgreSQL schema to text
 # usable to compare databases that should be the same
@@ -8,24 +8,37 @@ __version__ = '$Id: schema_pg.py 1754 2014-02-14 08:57:52Z mn $'
 # PostgreSQL schema info:
 # http://www.alberton.info/postgresql_meta_info.html
 #
+# https://code.activestate.com/recipes/576557-dump-postgresql-db-schema-to-text/
 #
 # author: Michal Niklas
 
-USAGE = 'usage:\n\tschema_pg.py connect_string\n\t\tconnect string:\n\t\t\thost:[port:]database:user:password\n\t\tor for ODBC:\n\t\t\tdatabase/user/passwd\n\t\tor (pyodbc)\n\t\t\tDriver={PostgreSQL};Server=IP address;Port=5432;Database=myDataBase;Uid=myUsername;Pwd=myPassword;'
+USAGE = """usage:
+	schema_pg.py connect_string
+		connect string:
+			host:[port:]database:user:password
+		or for ODBC:
+			database/user/passwd
+		or (pyodbc)
+			Driver={PostgreSQL};Server=IP address;Port=5432;Database=myDataBase;Uid=myUsername;Pwd=myPassword;
+"""
 
-import sys
 import array
 import exceptions
+import sys
+import time
+import traceback
 
 USE_JYTHON = 0
 
-TABLES_ONLY = 0
+TABLES_ONLY = '--tables_only' in sys.argv
+
+OUTPUT_FILE = sys.stdout
 
 try:
 	from com.ziclix.python.sql import zxJDBC
 	USE_JYTHON = 1
 	USAGE = """usage:
-\tschema_inf.py jdbcurl user passwd
+\tschema_py.py jdbcurl user passwd
 example:
 \tjython schema_py.py jdbc:postgresql://isof-test64:5434/gryfcard_mrb?stringtype=unspecified user passwd > db.schema 2> db.err
 """
@@ -38,10 +51,14 @@ DB_ENCODINGS = ('cp1250', 'iso8859_2', 'utf8')
 OUT_FILE_ENCODING = 'UTF8'
 
 
+DB_VERSION_SQL = """SELECT version()"""
+
 TABLE_NAMES_SQL = """SELECT DISTINCT table_name
 FROM information_schema.columns
 WHERE table_schema='public'
 AND position('_' in table_name) <> 1
+AND position('pg_' in table_name) <> 1
+AND NOT table_name IN (SELECT viewname FROM pg_views)
 ORDER BY 1"""
 
 
@@ -49,22 +66,66 @@ TABLE_COLUMNS_SQL = """SELECT DISTINCT table_name, column_name
 FROM information_schema.columns
 WHERE table_schema='public'
 AND position('_' in table_name) <> 1
+AND position('pg_' in table_name) <> 1
+AND position('_' in column_name) <> 1
+AND NOT table_name IN (SELECT viewname FROM pg_views)
 ORDER BY 1, 2"""
 
+TABLE_COLUMN_NAME_BY_IDX = """SELECT column_name
+FROM information_schema.columns
+WHERE table_name = '%s'
+AND ordinal_position = %s"""
 
-TABLE_INFO_SQL = """SELECT table_name, column_name, ordinal_position, data_type, is_nullable, character_maximum_length, numeric_precision
+
+TABLE_INFO_SQL = """SELECT table_name, column_name,
+case
+	when data_type='numeric' and numeric_precision is not null then data_type || '(' || numeric_precision || ',' || numeric_scale || ')'
+	when character_maximum_length is not null then data_type || '(' || character_maximum_length || ')'
+	else data_type end as data_type,
+is_nullable
 FROM information_schema.columns
 WHERE table_schema='public'
 AND position('_' in table_name) <> 1
+AND position('pg_' in table_name) <> 1
+AND NOT table_name IN (SELECT viewname FROM pg_views)
+AND position('_' in column_name) <> 1
 ORDER BY 1, 2
 """
 
-PRIMARY_KEYS_INFO_SQL = """SELECT t.relname AS table_name, array_to_string(c.conkey, ' ') AS constraint_key
+SQL_TYPES = """SELECT COUNT(*), case when data_type='numeric' and numeric_precision is not null then data_type || '(' || numeric_precision || ',' || numeric_scale || ')' else data_type end
+FROM information_schema.columns
+WHERE table_schema='public'
+AND position('_' in table_name) <> 1
+AND position('pg_' in table_name) <> 1
+AND NOT table_name IN (SELECT viewname FROM pg_views)
+AND position('_' in column_name) <> 1
+GROUP BY 2
+ORDER BY 1 DESC, 2
+"""
+
+
+xxPRIMARY_KEYS_INFO_SQL = """SELECT t.relname AS table_name, array_to_string(c.conkey, ' ') AS constraint_key
 FROM pg_constraint c
 LEFT JOIN pg_class t  ON c.conrelid  = t.oid
 WHERE c.contype = 'p'
-AND position('_' in t.relname ) <> 1
+AND position('_' in t.relname) <> 1
+AND position('pg_' in t.relname) <> 1
 ORDER BY table_name;
+"""
+
+
+PRIMARY_KEYS_INFO_SQL = """select tc.table_name, kc.column_name
+from
+    information_schema.table_constraints tc,
+    information_schema.key_column_usage kc
+where
+    tc.constraint_type = 'PRIMARY KEY'
+    and tc.table_schema = 'public'
+    and position('_' in tc.table_name) <> 1
+    and position('pg_' in tc.table_name) <> 1
+    and kc.table_name = tc.table_name and kc.table_schema = tc.table_schema
+    and kc.constraint_name = tc.constraint_name
+order by 1, 2;
 """
 
 
@@ -107,14 +168,41 @@ LEFT JOIN pg_attribute a
       AND a.attnum = %s
 """
 
-
-FOREIGN_KEYS_INFO_SQL = """SELECT t.relname AS table_name, t2.relname AS references_table
-FROM pg_constraint c
-LEFT JOIN pg_class t  ON c.conrelid  = t.oid
-LEFT JOIN pg_class t2 ON c.confrelid = t2.oid
-WHERE c.contype = 'f'
-AND position('_' in t.relname ) <> 1
-ORDER BY table_name, references_table
+# http://stackoverflow.com/questions/1567051/introspect-postgresql-8-3-to-find-foreign-keys
+FOREIGN_KEYS_INFO_SQL = """SELECT "table", array_agg(columns)::varchar, "foreign table", array_agg("foreign columns")::varchar, conname, 'ALTER TABLE ONLY ' || "table" || ' ADD CONSTRAINT ' || conname || ' FOREIGN KEY (' || trim(both '{}' from array_agg(columns)::varchar) || ') REFERENCES ' || "foreign table" || '(' || trim(both '{}' from array_agg("foreign columns")::varchar) || ');'
+FROM (SELECT conrelid::regclass AS "table",
+		a.attname as columns,
+		confrelid::regclass as "foreign table",
+		af.attname as "foreign columns",
+		conname
+	FROM pg_attribute AS af,
+		pg_attribute AS a,
+		(SELECT conrelid,
+			confrelid,
+			conkey[i] AS conkey,
+			confkey[i] as confkey,
+			conname
+		FROM (SELECT conrelid,
+				confrelid,
+				conkey,
+				confkey,
+				generate_series(1, array_upper(conkey, 1)) AS i,
+				conname
+			FROM pg_constraint
+				WHERE contype = 'f'
+		) AS ss
+		) AS ss2
+	WHERE af.attnum = confkey
+	AND af.attrelid = confrelid
+	AND a.attnum = conkey
+	AND a.attrelid = conrelid
+	AND position('_' in conrelid::regclass::varchar) <> 1
+	AND position('pg_' in conrelid::regclass::varchar) <> 1
+) AS ss3
+GROUP BY "table",
+	"foreign table",
+	conname
+ORDER BY 1, 2, 3, 4;
 """
 
 
@@ -122,12 +210,26 @@ DEFAULTS_INFO_SQL = """SELECT table_name, column_name, column_default
 FROM information_schema.columns
 WHERE column_default IS NOT NULL
 AND position('_' in table_name) <> 1
+AND position('pg_' in table_name) <> 1
+AND position('_' in column_name) <> 1
 ORDER BY table_name, column_name"""
 
 
-VIEWS_INFO_SQL = """SELECT viewname, definition
+VIEW_NAMES_SQL = """SELECT DISTINCT table_name
+FROM information_schema.columns
+WHERE table_schema='public'
+AND position('_' in table_name) <> 1
+AND position('pg_' in table_name) <> 1
+AND table_name IN (SELECT viewname FROM pg_views)
+ORDER BY 1
+"""
+
+
+VIEWS_INFO_SQL = """SELECT 'CREATE OR REPLACE VIEW ', viewname, ' AS ', definition
 FROM pg_views
 WHERE schemaname NOT IN ('pg_catalog', 'information_schema')
+AND position('_' in viewname) <> 1
+AND position('pg_' in viewname) <> 1
 ORDER BY viewname
 """
 
@@ -135,32 +237,76 @@ ORDER BY viewname
 TRIGGERS_INFO_SQL = """SELECT event_object_table, trigger_name, action_orientation, action_timing, event_manipulation, action_statement
 FROM information_schema.triggers
 WHERE trigger_schema NOT IN ('pg_catalog', 'information_schema')
+AND position('_' in event_object_table) <> 1
+AND position('pg_' in event_object_table) <> 1
 ORDER BY 1, 2, 3, 4, 5"""
 
+
+xxPROCEDURE_NAMES = """SELECT DISTINCT routine_name
+FROM information_schema.routines
+WHERE specific_schema NOT IN ('pg_catalog', 'information_schema')
+AND position('_' in routine_name) <> 1
+AND position('pg_' in routine_name) <> 1
+AND position('dblink_' in routine_name) <> 1
+AND position('dex_' in routine_name) <> 1
+AND position('prsd_' in routine_name) <> 1
+AND position('rewrite' in routine_name) <> 1
+AND position('_tsquery' in routine_name) < 1
+AND routine_name NOT IN ('array_search', 'bytea_export', 'bytea_to_largeobject',
+'headline', 'lexize', 'parse', 'rank', 'rank_cd',
+'rewrite', 'rewrite_accum', 'rewrite_finish',
+'set_curcfg', 'set_curdict', 'set_curprs', )
+ORDER BY 1"""
+
+
+xxPROCEDURE_NAMES = """SELECT DISTINCT routine_name, external_language
+FROM information_schema.routines
+WHERE specific_schema NOT IN ('pg_catalog', 'information_schema')
+AND position('_' in routine_name) <> 1
+AND position('pg_' in routine_name) <> 1
+AND position('ts_debug' in routine_name) <> 1
+AND external_language IN ('SQL', 'PLPGSQL', 'PLPYTHONU')
+ORDER BY routine_name, external_language"""
+
+
+PROCEDURE_NAMES = """SELECT proname, proname || '(' || pg_get_function_arguments(p.oid) || ')', lanname
+FROM pg_catalog.pg_proc p
+LEFT JOIN pg_catalog.pg_language l ON l.oid = prolang
+JOIN pg_catalog.pg_namespace n
+        ON n.oid = p.pronamespace
+        WHERE n.nspname = 'public'
+AND position('_' in p.proname) <> 1
+AND position('pg_' in p.proname) <> 1
+AND position('ts_debug' in p.proname) <> 1
+ORDER BY 1, 2, 3
+"""
 
 _CONN = None
 
 TABLES = []
 
 
-def init_db_conn(connect_string, username, passwd):
+def init_db_conn(connect_string, username, passwd, show_connection_info, show_version_info=True):
 	"""initializes db connections, can work with PyGres or psycopg2"""
 	global _CONN
 	try:
 		dbinfo = connect_string
-		print(dbinfo)
+		if show_connection_info:
+			print(dbinfo)
 		if USE_JYTHON:
 			_CONN = zxJDBC.connect(connect_string, username, passwd, 'org.postgresql.Driver')
 		elif '/' in connect_string:
 			import odbc
 			_CONN = odbc.odbc(connect_string)
-			print(_CONN)
+			if show_connection_info:
+				print(_CONN)
 		elif connect_string.startswith('Driver='):
 			import pyodbc
 			# Driver={PostgreSQL};Server=IP address;Port=5432;Database=myDataBase;Uid=myUsername;Pwd=myPassword;
 			# Driver={PostgreSQL};Server=isof-test64;Port=5435;Database=isof_stable;Uid=postgres;Pwd=postgres;
 			_CONN = pyodbc.connect(connect_string)
-			print(_CONN)
+			if show_connection_info:
+				print(_CONN)
 		else:
 			# 'host:[port]:database:user:password'
 			arr = connect_string.split(':')
@@ -184,7 +330,8 @@ def init_db_conn(connect_string, username, passwd):
 			else:
 				sport = ''
 			dsn = "host=%s %s dbname=%s user=%s password=%s" % (host, sport, dbname, user, passwd)
-			print(dsn)
+			if show_connection_info:
+				print(dsn)
 			dbinfo = 'db: %s:%s' % (host, dbname)
 			use_pgdb = 0
 			try:
@@ -196,13 +343,18 @@ def init_db_conn(connect_string, username, passwd):
 				except:
 					raise exceptions.ImportError('No PostgreSQL library, install psycopg2 or PyGres!')
 			if not _CONN:
-				print(dbinfo)
+				if show_connection_info:
+					print(dbinfo)
 				if use_pgdb:
 					_CONN = pgdb.connect(database=dbname, host=host, user=user, password=passwd)
-					print(_CONN)
+					if show_connection_info:
+						print(_CONN)
 				else:
 					_CONN = psycopg2.connect(dsn)
-					print(_CONN)
+					if show_connection_info:
+						print(_CONN)
+		if show_version_info:
+			add_ver_info(connect_string, username)
 	except:
 		ex = sys.exc_info()
 		s = 'Exception: %s: %s\n%s' % (ex[0], ex[1], dbinfo)
@@ -213,7 +365,16 @@ def init_db_conn(connect_string, username, passwd):
 
 def db_conn():
 	"""access to global db connection"""
+	global _CONN
 	return _CONN
+
+
+def db_close():
+	"""closes global db connection"""
+	global _CONN
+	if _CONN:
+		_CONN.close()
+	_CONN = None
 
 
 def output_str(fout, line):
@@ -228,11 +389,12 @@ def output_str(fout, line):
 				ok = 0
 				for enc in DB_ENCODINGS:
 					try:
-						line2 = line.decode(enc)
-						#fout.write(line2.encode(OUT_FILE_ENCODING))
-						fout.write(line2)
-						ok = 1
-						break
+						if not ok:
+							line2 = line.decode(enc)
+							#fout.write(line2.encode(OUT_FILE_ENCODING))
+							fout.write(line2)
+							ok = 1
+							break
 					except (UnicodeDecodeError, UnicodeEncodeError):
 						pass
 				if not ok:
@@ -246,7 +408,13 @@ def output_line(line, fout=None):
 	"""outputs line"""
 	line = line.rstrip()
 	output_str(fout, line)
-	output_str(sys.stdout, line)
+	output_str(OUTPUT_FILE, line)
+
+
+def print_err(serr):
+	"""println on stderr"""
+	sys.stderr.write('%s\n' % (serr))
+	output_line('\nERROR! ERROR!\n%s\n' % (serr))
 
 
 def select_qry(querystr):
@@ -271,10 +439,19 @@ def fld2str(fld_v):
 	return fld_v
 
 
+def print_start_info(title):
+	output_line('\n\n')
+	output_line('--- %s (START) ---' % title)
+
+
+def print_stop_info(title):
+	output_line('--- %s (END) ---' % title)
+	output_line('\n\n')
+
+
 def show_qry(title, querystr, fld_join='\t', row_separator=None):
 	"""prints rows from SELECT"""
-	output_line('\n\n')
-	output_line('--- %s ---' % title)
+	print_start_info(title)
 	rs = select_qry(querystr)
 	if rs:
 		for row in rs:
@@ -283,6 +460,7 @@ def show_qry(title, querystr, fld_join='\t', row_separator=None):
 				output_line(row_separator)
 	else:
 		output_line(' -- NO DATA --')
+	print_stop_info(title)
 
 
 def show_qry_tables(title, querystr, fld_join='\t', row_separator=None):
@@ -313,7 +491,33 @@ def show_qry_ex(querystr, table, fld_join='\t', row_separator=None):
 
 def init_session():
 	"""place to change db session settings like locale"""
-	pass
+	global TABLES
+	TABLES = []
+
+
+def add_ver_info(connect_string, username):
+	"""add version information"""
+	title = 'info'
+	print_start_info(title)
+	output_line('date: %s' % (time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())))
+	output_line('connect string: %s' % (connect_string))
+	output_line('user: %s' % (username))
+	script_ver = __version__[5:-2]
+	output_line('created by: %s' % (script_ver))
+	print_stop_info(title)
+	show_qry('DB version', DB_VERSION_SQL)
+	show_qry('DB name', 'SELECT current_catalog')
+	sel_info_option = '--ver-info-sql'
+	for s in sys.argv[1:]:
+		if s.startswith(sel_info_option):
+			sel = s[len(sel_info_option):].strip('=')
+			try:
+				show_qry(sel, sel)
+			except:
+				ex_info = traceback.format_exc()
+				serr = '\nSQL: %s\nException: %s\n' % (sel, ex_info)
+				print_err(serr)
+			break
 
 
 def show_tables():
@@ -328,17 +532,36 @@ def show_tables():
 
 
 def show_primary_keys():
-	show_qry('primary keys', PRIMARY_KEYS_INFO_SQL)
+	show_qry('primary keys idxs', PRIMARY_KEYS_INFO_SQL)
+	"""
+	title = 'primary keys'
+	print_start_info(title)
+	cur = db_conn().cursor()
+	cur.execute(PRIMARY_KEYS_INFO_SQL)
+	for row in cur.fetchall():
+		pk_flds = []
+		tblname = row[0]
+		if tblname in TABLES:
+			pk_idxs = '%s' % row[1]
+			for fld_idx in pk_idxs.split():
+				sql = TABLE_COLUMN_NAME_BY_IDX % (tblname, fld_idx)
+				cur.execute(sql)
+				for row in cur.fetchall():
+					pk_flds.append(row[0])
+			output_line("%s\t(%s)" % (tblname, '-'.join(pk_flds)))
+	print_stop_info(title)"""
 
 
 def show_indexes():
-	output_line('\n\n')
-	output_line('--- %s ---' % 'indexes')
+	title = 'indexes'
+	print_start_info(title)
 	for tbl in TABLES:
 		show_qry_ex(INDEXES_INFO_SQL, tbl)
 	#show_qry('indexes columns', INDEXES_COLUMNS_INFO_SQL)
-	output_line('\n\n')
-	output_line('--- %s ---' % 'indexes columns')
+	print_stop_info(title)
+
+	title = 'indexes columns'
+	print_start_info(title)
 	cur = db_conn().cursor()
 	for tbl in TABLES:
 		#print
@@ -353,6 +576,7 @@ def show_indexes():
 				cur.execute(sql)
 				for row in cur.fetchall():
 					output_line("%s\t%s\t%s" % (tbl, idxname, row[0]))
+	print_stop_info(title)
 
 
 def show_foreign_keys():
@@ -364,7 +588,12 @@ def show_defaults():
 
 
 def show_views():
+	show_qry('view names', VIEW_NAMES_SQL)
 	show_qry('views', VIEWS_INFO_SQL, '\n', '\n\n')
+
+
+def show_types_stat():
+	show_qry('column type count', SQL_TYPES)
 
 
 def get_arg_type(at):
@@ -409,13 +638,12 @@ def get_subfields(subfield_fld):
 
 
 def show_procedures():
+	show_qry('procedure names', PROCEDURE_NAMES)
 	argtypes_dict = {}
-	output_line('\n\n --- procedures ---')
+	title = 'procedures'
+	print_start_info(title)
 	cur = db_conn().cursor()
-	cur.execute("""SELECT DISTINCT routine_name
-        FROM information_schema.routines
-        WHERE specific_schema NOT IN ('pg_catalog', 'information_schema')
-        ORDER BY 1""")
+	cur.execute(PROCEDURE_NAMES)
 	rows = cur.fetchall()
 	for rt_row in rows:
 		funname = rt_row[0]
@@ -447,6 +675,7 @@ def show_procedures():
 			argtypes = []
 			argmodes = get_subfields(row[5])
 			argtypes_str = '%s' % row[1]
+			args = argtypes_str
 			proc_body = '%s' % row[3]
 			lang = row[6]
 			argtypes_nrs = get_subfields(row[4])
@@ -456,17 +685,19 @@ def show_procedures():
 					argmodes = 'i' * len(argtypes_nrs)
 				for at in argtypes_nrs:
 					if at:
-						if not at in argtypes_dict.keys():
+						if at not in argtypes_dict.keys():
 							argtypes_dict[at] = get_arg_type(at)
 						ats = argtypes_dict[at]
 						argtypes.append(ats)
+				if argtypes:
+					args = ', '.join(argtypes)
 				argnames = get_subfields(row[2])
 				if argnames:
 					args = ', '.join([join_arg(a, t, m) for (a, t, m) in zip(argnames, argtypes, argmodes)])
 
-			output_line('\n\n -- >>> %s >>> --' % funname)
-			lines = proc_body.split('\n')
-			output_line('CREATE FUNCTION %s(%s) RETURNS %s\nAS $$' % (funname, args, ret_type))
+			output_line('\n\n -- >>> %s(%s) [%s] >>> --' % (funname, args, lang))
+			lines = proc_body.rstrip().split('\n')
+			output_line('CREATE OR REPLACE FUNCTION %s(%s) RETURNS %s\nAS $$' % (funname, args, ret_type))
 			was_line = 0
 			for line in lines:
 				line = line.rstrip()
@@ -475,8 +706,11 @@ def show_procedures():
 					output_line(line)
 			output_line('$$')
 			output_line('  LANGUAGE %s;' % (lang))
-			output_line('\n\n -- <<< %s <<< --' % funname)
+			output_line(' -- <<< %s(%s) [%s] <<< --' % (funname, args, lang))
+			output_line('')
+			output_line('')
 	cur.close()
+	print_stop_info(title)
 
 
 def show_triggers():
@@ -484,43 +718,77 @@ def show_triggers():
 
 
 def test():
-	main('127.0.0.1:music:postgres:postgres')
+	info_filer = 'kifdvtp'
+	#main('127.0.0.1:music:postgres:postgres', None)
+	get_schema('test-baza.heuthesd:5494:pg_flugo:postgres:postgres', 'postgres', 'postgres', info_filer, True)
 
 
-def main(connect_string):
-	username = None
-	passwd = None
-	if (len(sys.argv) > 2):
-		username = sys.argv[2]
-	if (len(sys.argv) > 3):
-		passwd = sys.argv[3]
-	if not init_db_conn(connect_string, username, passwd):
+def get_schema(connect_string, username, passwd, info_filter, show_connection_info):
+	db_close()
+	t0 = time.time()
+	if not init_db_conn(connect_string, username, passwd, show_connection_info):
 		print('Something is terribly wrong with db connection')
 	else:
 		init_session()
 		show_tables()
-		if not TABLES_ONLY:
-			show_primary_keys()
-			show_indexes()
-			show_foreign_keys()
-			show_defaults()
-			show_views()
-			show_triggers()
-			show_procedures()
-		print('\n\n--- the end ---')
+		if not TABLES_ONLY and info_filter:
+			if 'k' in info_filter:
+				show_primary_keys()
+			if 'i' in info_filter:
+				show_indexes()
+			if 'f' in info_filter:
+				show_foreign_keys()
+			if 'd' in info_filter:
+				show_defaults()
+			if 'v' in info_filter:
+				show_views()
+			if 't' in info_filter:
+				show_triggers()
+			if 'p' in info_filter:
+				show_procedures()
+			if 'T' in info_filter:
+				show_types_stat()
+	t2 = time.time()
+	td = t2 - t0
+	output_line('\n\nexecution time: %d min %d sec' % (divmod(td, 60)))
+	output_line('\n\n-- the end, filter [%s] --' % (info_filter))
+	db_close()
 
 
-if '--version' in sys.argv:
-	print(__version__)
-elif '--test' in sys.argv:
-	test()
-elif '--help' in sys.argv:
-	print(USAGE)
-elif __name__ == '__main__':
-	if '--tables_only' in sys.argv:
-		TABLES_ONLY = 1
-	if len(sys.argv) < 2:
-		#print('arg len: %d' % (len(sys.argv)))
+def get_info_filter():
+	result = ''
+	for s in sys.argv[1:]:
+		if s.startswith('--info-filter='):
+			_, result = s.split('=', 1)
+	if not result:
+		result = 'kifdvtpT'
+	return result
+
+
+def main():
+	if '--version' in sys.argv:
+		print(__version__)
+		return
+	if '--test' in sys.argv:
+		test()
+		return
+	if '--help' in sys.argv:
 		print(USAGE)
-	else:
-		main(sys.argv[1])
+		return
+	args = [x for x in sys.argv[1:] if not x.startswith('-')]
+	if not args:
+		print(USAGE)
+		return
+	connect_string = args[0]
+	username = None
+	passwd = None
+	if (len(args) > 1):
+		username = args[1]
+	if (len(args) > 2):
+		passwd = args[2]
+	info_filter = get_info_filter()
+	get_schema(connect_string, username, passwd, info_filter, False)
+
+
+if __name__ == '__main__':
+	main()
