@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 
-tmp_file=$(mktemp)
+tmp_file="/tmp/_unsorted_find_n_grep"
 echo "--- find <$2> in <$1>" > $tmp_file
 
 find . -follow -iname "$1" | while read file
