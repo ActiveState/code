@@ -55,9 +55,7 @@ class Interval(object):
 
     def hull(self, other):
         "@return: Interval containing both self and other."
-        if self > other:
-            other, self = self, other
-        return Interval(self.start, other.end)
+        return Interval(min(self.start, other.start), max(self.end, other.end))
     
 
     def overlap(self, other):
