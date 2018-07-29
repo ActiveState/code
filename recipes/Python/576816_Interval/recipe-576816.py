@@ -84,7 +84,8 @@ class Interval(object):
 
     def proper_subset(self, other):
         "@return: True iff self is proper subset of other."
-        return self.start > other.start and self.end < other.end
+        return ((self.start > other.start and self.end <= other.end) or
+                (self.start >= other.start and self.end < other.end))
          
 
     def empty(self):
