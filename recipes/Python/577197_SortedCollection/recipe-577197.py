@@ -176,7 +176,7 @@ class SortedCollection(object):
         return  bisect_left(self._keys, k)
 
     def upper_bound(self, k):
-        'Return the first index of key greater than k or zero if none exists'
+        'Return the first index of key greater than k or len(_items) if none exists'
         return  bisect_right(self._keys, k)
 
     def find_lt(self, k):
@@ -316,6 +316,11 @@ if __name__ == '__main__':
     lu = SortedCollection([1,2,3,4,5,6,7,8,9,9,8,7,6,5,4,3,2,1])
     assert lu.lower_bound(8) == 14
     assert lu.upper_bound(8) == 16
+    assert lu.upper_bound(0) == 0
+    assert lu.lower_bound(0) == 0
+    assert lu.upper_bound(10) == 18
+    assert lu.lower_bound(10) == 18
+
 
     import doctest
     from operator import itemgetter
