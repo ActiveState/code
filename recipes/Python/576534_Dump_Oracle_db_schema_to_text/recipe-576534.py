@@ -10,7 +10,7 @@ __version__ = '$Id: schema_ora.py 3307 2017-11-29 06:18:57Z mn $'
 #
 # http://code.activestate.com/recipes/576534-dump-oracle-db-schema-to-text/
 #
-# author: Michal Niklas, Adam Kopciński-Galik
+# author: Michal Niklas, Adam Kopciński-Galik, Dean Toader
 
 OPTIONS = """[OPTIONS]
 Options:
@@ -68,6 +68,8 @@ SEQUENCES_INFO_DIR = SCHEMA_DIR + '/sequences'
 FUNCTIONS_INFO_DIR = SCHEMA_DIR + '/functions'
 PROCEDURES_INFO_DIR = SCHEMA_DIR + '/procedures'
 PACKAGES_INFO_DIR = SCHEMA_DIR + '/packages'
+JOBS_INFO_DIR = SCHEMA_DIR + '/jobs'
+SCHEDULES_INFO_DIR = SCHEMA_DIR + '/schedules'
 INVALID = '_invalid'
 
 CREATED_FILES = []
@@ -856,7 +858,7 @@ def show_procedures(sql, separate_files, title, out_dir=None):
 		for line in lines:
 			output_line(line[0].rstrip(), fout)
 		if lines:
-			output_line('\n/', fout)
+			output_line('/', fout)
 		cur2.close()
 		output_line('\n\n -- <<< %s %s <<< --' % (title, funname))
 		if fout:
@@ -886,7 +888,7 @@ def show_packages(separate_files):
 		for line in lines:
 			output_line(line[0].rstrip(), fout)
 		if(lines):
-			output_line('\n/', fout)
+			output_line('/', fout)
 		output_line('\n')
 		cur2.close()
 		cur3 = db_conn().cursor()
@@ -897,13 +899,71 @@ def show_packages(separate_files):
 		for line in lines:
 			output_line(line[0].rstrip(), fout)
 		if(lines):
-			output_line('\n/', fout)
+			output_line('/', fout)
 		cur3.close()
 		if fout:
 			fout.close()
 		output_line('\n\n -- <<< package %s <<< --' % (funname))
 	cur1.close()
 	print_stop_info(title)
+
+
+def show_jobs(separate_files):
+	"""shows SQL jobs"""
+	title = 'jobs'
+	print_start_info(title)
+	fout = None
+	cur1 = db_conn().cursor()
+	cur1.execute("SELECT object_name FROM user_objects WHERE object_type='JOB' ORDER BY 1")
+	rows = cur1.fetchall()
+	for row in rows:
+		funname = row[0]
+		output_line('\n\n -- >>> job %s >>> --' % (funname))
+		if separate_files:
+			fname = os.path.join(JOBS_INFO_DIR, '%s.sql' % (normalize_fname(funname)))
+			fout = open_file_write(fname)
+		cur2 = db_conn().cursor()
+		cur2.execute("SELECT TO_CHAR(DBMS_METADATA.GET_DDL('PROCOBJ','%s','HFOWNER')) as text FROM dual" % funname)
+		lines = cur2.fetchall()
+		for line in lines:
+			output_line(line[0].rstrip(), fout)
+		if(lines):
+			output_line('/', fout)
+		output_line('\n')
+		cur2.close()
+		if fout:
+			fout.close()
+		output_line('\n\n -- <<< job %s <<< --' % (funname))
+	cur1.close()
+
+
+def show_schedules(separate_files):
+	"""shows SQL schedules"""
+	title = 'schedules'
+	print_start_info(title)
+	fout = None
+	cur1 = db_conn().cursor()
+	cur1.execute("SELECT object_name FROM user_objects WHERE object_type='SCHEDULE' ORDER BY 1")
+	rows = cur1.fetchall()
+	for row in rows:
+		funname = row[0]
+		output_line('\n\n -- >>> schedule %s >>> --' % (funname))
+		if separate_files:
+			fname = os.path.join(SCHEDULES_INFO_DIR, '%s.sql' % (normalize_fname(funname)))
+			fout = open_file_write(fname)
+		cur2 = db_conn().cursor()
+		cur2.execute("SELECT TO_CHAR(DBMS_METADATA.GET_DDL('PROCOBJ','%s','HFOWNER')) as text FROM dual" % funname)
+		lines = cur2.fetchall()
+		for line in lines:
+			output_line(line[0].rstrip(), fout)
+		if(lines):
+			output_line('/', fout)
+		output_line('\n')
+		cur2.close()
+		if fout:
+			fout.close()
+		output_line('\n\n -- <<< schedule %s <<< --' % (funname))
+	cur1.close()
 
 
 def show_triggers():
@@ -980,6 +1040,8 @@ def show_additional_info(separate_files):
 	show_normal_procedures(separate_files, 'procedure', PROCEDURES_INFO_DIR)
 	show_invalid_procedures(separate_files, 'invalid procedure', PROCEDURES_INFO_DIR + INVALID)
 	show_packages(separate_files)
+	show_jobs(separate_files)
+	show_schedules(separate_files)
 	show_types()
 	show_types_stat()
 
@@ -1003,7 +1065,7 @@ def dump_db_info(separate_files, out_f, stdout):
 	t0 = time.time()
 	test = '--test' in sys.argv
 	if test or separate_files:
-		for dn in (TABLES_INFO_DIR, VIEWS_INFO_DIR, SEQUENCES_INFO_DIR, FUNCTIONS_INFO_DIR, PROCEDURES_INFO_DIR, PACKAGES_INFO_DIR):
+		for dn in (TABLES_INFO_DIR, VIEWS_INFO_DIR, SEQUENCES_INFO_DIR, FUNCTIONS_INFO_DIR, PROCEDURES_INFO_DIR, PACKAGES_INFO_DIR, JOBS_INFO_DIR, SCHEDULES_INFO_DIR):
 			ensure_directory(dn)
 
 		if not test:

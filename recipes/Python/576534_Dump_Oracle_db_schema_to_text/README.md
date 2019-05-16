@@ -1,7 +1,7 @@
 ## Dump Oracle db schema to text  
 Originally published: 2008-10-10 05:34:02  
 Last updated: 2014-02-21 09:18:55  
-Author: Michal Niklas  
+Author: Michal Niklas, Dean Toader  
   
 Export Oracle schema to text.
 Usable to compare databases that should be the same
