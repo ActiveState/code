@@ -29,7 +29,7 @@ Options:
                    tables are defined as CREATE TABLE statement
 --sorted-info      for CREATE TABLE add comment with columns
                    sorted by name
---tables-only      raport only tables
+--tables-only      report only tables
 --version          show version
 --verbose          show more info in output (SQL queries)
 --ver-info-sql[=SELECT  ... FROM ... ORDER BY ...]
@@ -70,6 +70,8 @@ PROCEDURES_INFO_DIR = SCHEMA_DIR + '/procedures'
 PACKAGES_INFO_DIR = SCHEMA_DIR + '/packages'
 JOBS_INFO_DIR = SCHEMA_DIR + '/jobs'
 SCHEDULES_INFO_DIR = SCHEMA_DIR + '/schedules'
+TYPES_INFO_DIR = SCHEMA_DIR + '/types'
+TRIGGERS_INFO_DIR = SCHEMA_DIR + '/triggers'
 INVALID = '_invalid'
 
 CREATED_FILES = []
@@ -908,62 +910,51 @@ def show_packages(separate_files):
 	print_stop_info(title)
 
 
-def show_jobs(separate_files):
+def show_using_get_ddl(separate_files, object_type, get_ddl_object_type, INFO_DIR):
+	"""shows SQL object_type"""
+	object_type_lower = object_type.lower()
+	title = object_type_lower + 's';
+	print_start_info(title)
+	fout = None
+	cur1 = db_conn().cursor()
+	cur1.execute("SELECT object_name FROM user_objects WHERE object_type='%s' ORDER BY 1" % (object_type))
+	rows = cur1.fetchall()
+	for row in rows:
+		funname = row[0]
+		output_line('\n\n -- >>> %s %s >>> --' % (object_type_lower,funname))
+		if separate_files:
+			fname = os.path.join(INFO_DIR, '%s.sql' % (normalize_fname(funname)))
+			fout = open_file_write(fname)
+		cur2 = db_conn().cursor()
+		cur2.execute("SELECT DBMS_METADATA.GET_DDL('%s','%s','HFOWNER') as text FROM dual" % (get_ddl_object_type, funname))
+		clob = cur2.fetchall()
+		output_line(clob[0][0].read().strip(), fout)
+		output_line('/', fout)
+		output_line('\n')
+		cur2.close()
+		if fout:
+			fout.close()
+		output_line('\n\n -- <<< %s %s <<< --' % (object_type_lower,funname))
+	cur1.close()
+
+
+def show_jobs_files(separate_files):
 	"""shows SQL jobs"""
-	title = 'jobs'
-	print_start_info(title)
-	fout = None
-	cur1 = db_conn().cursor()
-	cur1.execute("SELECT object_name FROM user_objects WHERE object_type='JOB' ORDER BY 1")
-	rows = cur1.fetchall()
-	for row in rows:
-		funname = row[0]
-		output_line('\n\n -- >>> job %s >>> --' % (funname))
-		if separate_files:
-			fname = os.path.join(JOBS_INFO_DIR, '%s.sql' % (normalize_fname(funname)))
-			fout = open_file_write(fname)
-		cur2 = db_conn().cursor()
-		cur2.execute("SELECT TO_CHAR(DBMS_METADATA.GET_DDL('PROCOBJ','%s','HFOWNER')) as text FROM dual" % funname)
-		lines = cur2.fetchall()
-		for line in lines:
-			output_line(line[0].rstrip(), fout)
-		if(lines):
-			output_line('/', fout)
-		output_line('\n')
-		cur2.close()
-		if fout:
-			fout.close()
-		output_line('\n\n -- <<< job %s <<< --' % (funname))
-	cur1.close()
+	show_using_get_ddl(separate_files, 'JOB', 'PROCOBJ', JOBS_INFO_DIR)
 
 
-def show_schedules(separate_files):
+def show_schedules_files(separate_files):
 	"""shows SQL schedules"""
-	title = 'schedules'
-	print_start_info(title)
-	fout = None
-	cur1 = db_conn().cursor()
-	cur1.execute("SELECT object_name FROM user_objects WHERE object_type='SCHEDULE' ORDER BY 1")
-	rows = cur1.fetchall()
-	for row in rows:
-		funname = row[0]
-		output_line('\n\n -- >>> schedule %s >>> --' % (funname))
-		if separate_files:
-			fname = os.path.join(SCHEDULES_INFO_DIR, '%s.sql' % (normalize_fname(funname)))
-			fout = open_file_write(fname)
-		cur2 = db_conn().cursor()
-		cur2.execute("SELECT TO_CHAR(DBMS_METADATA.GET_DDL('PROCOBJ','%s','HFOWNER')) as text FROM dual" % funname)
-		lines = cur2.fetchall()
-		for line in lines:
-			output_line(line[0].rstrip(), fout)
-		if(lines):
-			output_line('/', fout)
-		output_line('\n')
-		cur2.close()
-		if fout:
-			fout.close()
-		output_line('\n\n -- <<< schedule %s <<< --' % (funname))
-	cur1.close()
+	show_using_get_ddl(separate_files, 'SCHEDULE', 'PROCOBJ', SCHEDULES_INFO_DIR)
+
+
+def show_triggers_files(separate_files):
+	"""shows SQL triggers"""
+	show_using_get_ddl(separate_files, 'TRIGGER', 'TRIGGER', TRIGGERS_INFO_DIR)
+
+
+def show_types_files(separate_files):
+	show_using_get_ddl(separate_files, 'TYPE', 'TYPE', TYPES_INFO_DIR)
 
 
 def show_triggers():
@@ -1040,8 +1031,10 @@ def show_additional_info(separate_files):
 	show_normal_procedures(separate_files, 'procedure', PROCEDURES_INFO_DIR)
 	show_invalid_procedures(separate_files, 'invalid procedure', PROCEDURES_INFO_DIR + INVALID)
 	show_packages(separate_files)
-	show_jobs(separate_files)
-	show_schedules(separate_files)
+	show_jobs_files(separate_files)
+	show_schedules_files(separate_files)
+	show_types_files(separate_files)
+	show_triggers_files(separate_files)
 	show_types()
 	show_types_stat()
 
@@ -1065,7 +1058,16 @@ def dump_db_info(separate_files, out_f, stdout):
 	t0 = time.time()
 	test = '--test' in sys.argv
 	if test or separate_files:
-		for dn in (TABLES_INFO_DIR, VIEWS_INFO_DIR, SEQUENCES_INFO_DIR, FUNCTIONS_INFO_DIR, PROCEDURES_INFO_DIR, PACKAGES_INFO_DIR, JOBS_INFO_DIR, SCHEDULES_INFO_DIR):
+		for dn in (TABLES_INFO_DIR,
+					VIEWS_INFO_DIR,
+					SEQUENCES_INFO_DIR,
+					FUNCTIONS_INFO_DIR,
+					PROCEDURES_INFO_DIR,
+					PACKAGES_INFO_DIR,
+					JOBS_INFO_DIR,
+					SCHEDULES_INFO_DIR,
+					TYPES_INFO_DIR,
+					TRIGGERS_INFO_DIR):
 			ensure_directory(dn)
 
 		if not test:
