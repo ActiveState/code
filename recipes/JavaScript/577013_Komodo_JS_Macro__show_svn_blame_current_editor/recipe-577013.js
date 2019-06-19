@@ -14,5 +14,5 @@ var retval = process.wait(-1);
 if (retval == 0) {
     var stdout = process.getStdout();
     var lines = stdout.split("\n");
-    StatusBar_AddMessage("BLAME: " + lines[linenum], "editor", 10000, true);
+    ko.statusBar.AddMessage("BLAME: " + lines[linenum], "editor", 10000, true);
 }

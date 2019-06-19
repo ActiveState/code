@@ -18,6 +18,6 @@ if (retval == 0) {
     var re = new RegExp("[0-9a-f]* \\((.*? [12][09][0-9]{2}-[0-9]{2}-[0-9]{2}) ");
     var match = re.exec(lines[linenum]);
     if (match) {
-        StatusBar_AddMessage("BLAME: " + match[1], "editor", 10000, true);        
+        ko.statusBar.AddMessage("BLAME: " + match[1], "editor", 10000, true);
     }
 }
