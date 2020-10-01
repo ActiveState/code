@@ -12,7 +12,7 @@ recipe that is missing, or conversely, is totally outdated and no longer relevan
 This repo exists to contribute useful snippets, utility functions, and other interesting tidbits in *any* language that may be
 helpful to other developers.
 
-## Is there a master list of all the recipes?
+## Is there any master list of all the recipes?
 
 You can find the master index of all recipes over at the [wiki](https://github.com/ActiveState/code/wiki).  
 
