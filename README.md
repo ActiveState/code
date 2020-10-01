@@ -14,7 +14,7 @@ helpful to other developers.
 
 ## Is there a master list of all the recipes?
 
-You can find the master index of all recipes over at the [wiki](https://github.com/ActiveState/code/wiki).  
+You can find the master index of all recipes in this [wiki](https://github.com/ActiveState/code/wiki).  
 
 *Coming Soon: Search Functionality!*
 
