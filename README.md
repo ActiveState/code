@@ -1,6 +1,6 @@
 # ActiveState Code Recipes
 
-Welcome to the ActiveState code recipes repo! We have migrated all of the great content from code.activestate.com to its new
+Welcome to the ActiveState Code recipes repo! We have migrated all of the great content from code.activestate.com to its new
 forever-home here at GitHub. This makes it easier for everyone to submit new recipes, contribute code and integrate all the great
 information into their own projects.  
 
@@ -18,7 +18,7 @@ You can find the master index of all recipes over at the [wiki](https://github.c
 
 *Coming Soon: Search Functionality!*
 
-## How do I submit a new recipe?
+## How could I submit a new recipe?
 
 1. Fork this repo.
 2. Create your new recipe in the correct language subfolder (create a new folder if it doesn't already exist).
