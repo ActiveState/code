@@ -68,8 +68,8 @@ def _bresenhamlines(start, end, max_iter):
 
 def bresenhamline(start, end, max_iter=5):
     """
-    Returns a list of points from (start, end] by ray tracing a line b/w the
-    points.
+    Returns a list of points from (start, end] by ray tracing a line between
+    the points.
     Parameters:
         start: An array of start points (number of points x dimension)
         end:   An end points (1 x dimension)
