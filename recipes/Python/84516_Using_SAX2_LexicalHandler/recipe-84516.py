@@ -44,6 +44,7 @@ class EchoGenerator(saxutils.XMLGenerator):
         self._in_entity = 0
 
     def startCDATA(self):
+        self._finish_pending_start_element()
         self._out.write('<![CDATA[')
         self._in_cdata = 1
 
