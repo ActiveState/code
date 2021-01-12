@@ -64,7 +64,7 @@ def atomic_write(filename, text=True, keep=True,
             # FIXME This is definitely not atomic!
             # But it's how (for example) Mercurial does it, as of 2016-03-23
             # https://selenic.com/repo/hg/file/tip/mercurial/windows.py
-            def replace(source, destination):
+            def replace(source, dest):
                 assert sys.platform == 'win32'
                 try:
                     os.rename(source, dest)
