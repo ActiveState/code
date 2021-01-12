@@ -171,6 +171,14 @@ class SortedCollection(object):
             return self._items[i-1]
         raise ValueError('No item found with key at or below: %r' % (k,))
 
+    def lower_bound(self, k):
+        'Return the first index of key not less than k or len(_items) if none exists'
+        return  bisect_left(self._keys, k)
+
+    def upper_bound(self, k):
+        'Return the first index of key greater than k or len(_items) if none exists'
+        return  bisect_right(self._keys, k)
+
     def find_lt(self, k):
         'Return last item with a key < k.  Raise ValueError if not found.'
         i = bisect_left(self._keys, k)
@@ -305,6 +313,14 @@ if __name__ == '__main__':
         assert 0, 'Oops, failed to notify of missing value'
     sd.remove('jumped')
     assert list(sd) == ['Brown', 'Fox', 'jUmPeD', 'quick', 'QuIcK', 'The']
+    lu = SortedCollection([1,2,3,4,5,6,7,8,9,9,8,7,6,5,4,3,2,1])
+    assert lu.lower_bound(8) == 14
+    assert lu.upper_bound(8) == 16
+    assert lu.upper_bound(0) == 0
+    assert lu.lower_bound(0) == 0
+    assert lu.upper_bound(10) == 18
+    assert lu.lower_bound(10) == 18
+
 
     import doctest
     from operator import itemgetter
