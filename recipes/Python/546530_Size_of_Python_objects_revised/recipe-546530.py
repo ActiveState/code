@@ -3,29 +3,29 @@
 # Copyright, license and disclaimer are at the very end of this file.
 
 # This is the latest, enhanced version of the asizeof.py recipes at
-# <http://github.com/ActiveState/code/blob/master/recipes/Python/
+# <http://GitHub.com/ActiveState/code/blob/master/recipes/Python/
 #         546530_Size_of_Python_objects_revised/recipe-546530.py>,
-# <http://code.activestate.com/recipes/546530-size-of-python-objects-revised>
-# and <http://code.activestate.com/recipes/544288-size-of-python-objects>.
+# <http://Code.ActiveState.com/recipes/546530-size-of-python-objects-revised>
+# and <http://Code.ActiveState.com/recipes/544288-size-of-python-objects>.
 
 # Recent versions of this module handle objects like ``namedtuples``,
 # ``closure``, and NumPy data ``arange``, ``array``, ``matrix``, etc.
+# Sizing of ``__slots__`` has been incorrect before this version.
 
-# See also project Pympler at <https://github.com/pympler/pympler> and
-# memory footprint recipe <http://code.activestate.com/recipes/577504/>.
+# See also project Pympler at <http://GitHub.com/pympler/pympler> and
+# memory footprint recipe <http://Code.ActiveState.com/recipes/577504/>.
 
-# Tested with 64-bit Python 2.6.9 (and numpy 1.6.2), 2.7.13 (and numpy
-# 1.13.1), 3.5.3 and 3.6.2 on macOS 10.12.6 Sierra, with 64-bit Intel-
-# Python 3.5.3 (and numpy 1.11.3) on macOS 10.12.6 Sierra and with
-# Pythonista 3.1 using 64-bit Python 2.7.12 and 3.5.1 (both with numpy
-# 1.8.0) on iOS 10.3.3.
-
+# Tested with 64-bit Python 2.7.15 and 3.7.0 on macOS 10.13.5 High Sierra.
 # Earlier versions of this module were tested with 32-bit Python 2.2.3,
 # 2.3.7, 2.4.5, 2.5.1, 2.5.2, 2.6.2, 3.0.1 or 3.1a2 on CentOS 4.6, SuSE
 # 9.3, MacOS X 10.3.9 Panther (PPC), MacOS X 10.4.11 Tiger, Solaris 10
 # (Opteron) and Windows XP, with 64-bit Python 3.0.1 on RHEL 3u7 and
 # Solaris 10 (Opteron) and with 64-bit Python 2.7.10 and 3.5.1 on MacOS
-# X 10.11.5 El Capitan (all without numpy).
+# X 10.11.5 El Capitan (all without numpy) and with 64-bit Python 2.6.9
+# (and numpy 1.6.2), 2.7.13 (and numpy 1.13.1), 3.5.3 and 3.6.2 on macOS
+# 10.12.6 Sierra, with 64-bit Intel-Python 3.5.3 (and numpy 1.11.3) on
+# macOS 10.12.6 Sierra and with Pythonista 3.1 using 64-bit Python 2.7.12
+# and 3.5.1 (both with numpy 1.8.0) on iOS 10.3.3.
 
 # This module was checked statically with PyChecker 0.8.12, PyFlakes
 # 1.5.0, PyCodeStyle 2.3.1 (formerly Pep8) and McCabe 0.6.1 using Python
@@ -208,7 +208,7 @@ including Python 3+ [#v]_.
 .. [#bi] ``Type``s and ``class``es are considered built-in if the
     ``__module__`` of the type or class is listed in the private
     ``_builtin_modules``.
-'''
+'''  # PYCHOK \_
 import sys
 if sys.version_info < (2, 6, 0):
     raise NotImplementedError('%s requires Python 2.6 or newer' % ('asizeof',))
@@ -225,7 +225,7 @@ import weakref as Weakref
 __all__ = ['adict', 'asized', 'asizeof', 'asizesof',
            'Asized', 'Asizer',  # classes
            'basicsize', 'flatsize', 'itemsize', 'alen', 'refs']
-__version__ = '17.08.24'
+__version__ = '18.07.04'
 
 # any classes or types in modules listed in _builtin_modules are
 # considered built-in and ignored by default, as built-in functions
@@ -430,9 +430,9 @@ def _dir2(obj, pref='', excl=(), slots=None, itor=''):
                         a = '_' + c.__name__ + a
                     if hasattr(obj, a):
                         s.setdefault(a, getattr(obj, a))
-            # assume __slots__ tuple/list
-            # is holding the attr values
-            yield slots, _Slots(s)  # _keys(s)
+            #  assume a __slots__ tuple is holding the values
+            # yield slots, _Slots(s)  # _keys(s) ... REMOVED,
+            #  see _Slots.__doc__ further below
             for t in _items(s):
                 yield t  # attr name, value
     elif itor:  # iterator referents
@@ -683,8 +683,9 @@ def _cell_refs(obj, named):
 def _class_refs(obj, named):
     '''Return specific referents of a class object.
     '''
-    return _refs(obj, named, '__class__', '__dict__', '__doc__', '__mro__',
-                             '__name__', '__slots__', '__weakref__')
+    return _refs(obj, named, '__class__', '__doc__', '__mro__',
+                             '__name__', '__slots__', '__weakref__',
+                             '__dict__')  # __dict__ last
 
 
 def _co_refs(obj, named):
@@ -966,10 +967,11 @@ def _len_slice(obj):
         return 0
 
 
-def _len_slots(obj):
-    '''Slots length.
-    '''
-    return len(obj) - 1
+# REMOVED, see _Slots.__doc__
+# def _len_slots(obj):
+#     '''Slots length.
+#     '''
+#     return len(obj) - 1
 
 
 def _len_struct(obj):
@@ -990,7 +992,7 @@ def _len_unicode(obj):
 _all_lens = (None, _len, _len_array, _len_bytearray, _len_code,
                    _len_dict, _len_frame, _len_int, _len_iter,
                    _len_list, _len_module, _len_numpy, _len_set,
-                   _len_slice, _len_slots, _len_struct, _len_unicode)
+                   _len_slice, _len_struct, _len_unicode)  # _len_slots
 
 # more private functions and classes
 
@@ -1125,13 +1127,15 @@ class _NamedRef(object):
         self.ref = ref
 
 
-class _Slots(tuple):
-    '''Wrapper class for __slots__ attribute at
-       class instances to account for the size
-       of the __slots__ tuple/list containing
-       references to the attribute values.
-    '''
-    pass
+# class _Slots(tuple):
+#     '''Wrapper class for __slots__ attribute at class definition.
+#        The instance-specific __slots__ attributes are stored in
+#        a "tuple-like" space inside the instance, see Luciano
+#        Ramalho, "Fluent Python", page 274+, O'Reilly, 2016 or
+#        at <http://Books.Google.com/books>, then search for
+#        "Fluent Python" "Space Savings with the __slots__".
+#     '''
+#     pass
 
 
 # kinds of _Typedefs
@@ -1323,11 +1327,11 @@ _typedef_both(property, refs=_prop_refs)
 _typedef_both(type(Ellipsis))
 _typedef_both(type(None))
 
-# _Slots is a special tuple, see _Slots.__doc__
-_typedef_both(_Slots, item=_sizeof_Cvoidp,
-              alen=_len_slots,  # length less one
-              refs=None,  # but no referents
-              heap=True)  # plus head
+# _Slots are "tuple-like", REMOVED see _Slots.__doc__
+# _typedef_both(_Slots, item=_sizeof_Cvoidp,
+#               leng=_len_slots,  # length less one
+#               refs=None,  # but no referents
+#               heap=True)  # plus head
 
 # dict, dictproxy, dict_proxy and other dict-like types
 _dict_typedef = _typedef_both(dict, item=_sizeof_CPyDictEntry, alen=_len_dict, refs=_dict_refs)
@@ -2627,7 +2631,7 @@ if __name__ == '__main__':
 # License from the initial version of this source file follows:
 
 # --------------------------------------------------------------------
-#       Copyright (c) 2002-2017 -- ProphICy Semiconductor, Inc.
+#       Copyright (c) 2002-2018 -- ProphICy Semiconductor, Inc.
 #                        All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without
