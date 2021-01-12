@@ -1,4 +1,6 @@
 import os
+from functools import reduce
+
 
 def get_directory_structure(rootdir):
     """
