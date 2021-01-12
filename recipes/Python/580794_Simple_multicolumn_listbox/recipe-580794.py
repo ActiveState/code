@@ -1,4 +1,4 @@
-# Version: 2.3
+# Version: 2.4
 # Author: Miguel Martinez Lopez
 # Uncomment the next line to see my email
 # print("Author's email: %s"%"61706c69636163696f6e616d656469646140676d61696c2e636f6d".decode("hex"))
@@ -137,7 +137,7 @@ class Multicolumn_Listbox(object):
         def __len__(self): 
             return self._multicolumn_listbox.number_of_columns
 
-    def __init__(self, master, columns, data=None, command=None, sort=True, select_mode=None, heading_anchor = CENTER, cell_anchor=W, style=None, height=None, padding=None, adjust_heading_to_content=False, stripped_rows=None, selection_background=None, selection_foreground=None, field_background=None, heading_font= None, heading_background=None, heading_foreground=None, cell_pady=2, cell_background=None, cell_foreground=None, cell_font=None, headers=True):
+    def __init__(self, master, columns, data=None, command=None, sort=True, select_mode=None, heading_anchor = CENTER, cell_anchor=W, style=None, height=None, padding=None, adjust_heading_to_content=False, stripped_rows=None, selection_background=None, selection_foreground=None, field_background=None, heading_font= None, heading_background=None, heading_foreground=None, cell_pady=2, cell_background=None, cell_foreground=None, cell_font=None, headers=True, right_click_command=None):
 
         self._stripped_rows = stripped_rows
 
@@ -236,6 +236,10 @@ class Multicolumn_Listbox(object):
         if command is not None:
             self._command = command
             self.interior.bind("<<TreeviewSelect>>", self._on_select)
+
+        if right_click_command is not None:
+            self._right_click_command = right_click_command
+            self.interior.bind("<Button-3>", self._on_right_click)
 
         for i in range(0, self._number_of_columns):
 
@@ -443,6 +447,12 @@ class Multicolumn_Listbox(object):
             data_row = self.item_ID_to_row_data(item_ID)
             self._command(data_row)
 
+    def _on_right_click(self, event):
+        item_ID = event.widget.identify_row(event.y)
+        data_row = self.item_ID_to_row_data(item_ID)
+        if data_row:
+          self._right_click_command(data_row)
+
     def item_ID_to_row_data(self, item_ID):
         item = self.interior.item(item_ID)
         return item["values"]
@@ -543,11 +553,16 @@ if __name__ == '__main__':
         print("called command when row is selected")
         print(data)
         print("\n")
-        
+       
+    def on_right_click(data):
+        print("called command when row is right clicked")
+        print(data)
+        print("\n")
+
     def show_info(msg):
         messagebox.showinfo("Table Data", msg)
 
-    mc = Multicolumn_Listbox(root, ["column one","column two", "column three"], stripped_rows = ("white","#f2f2f2"), command=on_select, cell_anchor="center")
+    mc = Multicolumn_Listbox(root, ["column one","column two", "column three"], stripped_rows = ("white","#f2f2f2"), command=on_select, cell_anchor="center", right_click_command=on_right_click)
     mc.interior.pack()
     
     mc.insert_row([1,2,3])
@@ -607,3 +622,4 @@ if __name__ == '__main__':
     show_info("mc.row[0].update([2,4,5])")
 
     root.mainloop()
+
