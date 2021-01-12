@@ -50,7 +50,7 @@ class Interval(object):
             other, self = self, other
         if self.end <= other.start:
             return Interval(self.start, self.start)
-        return Interval(other.start, self.end)
+        return Interval(other.start, min(self.end, other.end))
 
 
     def hull(self, other):
