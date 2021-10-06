@@ -13,5 +13,7 @@ int main()
   while(clock() - start < delay){
   SendMessage(HWND_BROADCAST, WM_SYSCOMMAND, SC_MONITORPOWER, (LPARAM) 2);}
   SendMessage(HWND_BROADCAST, WM_SYSCOMMAND, SC_MONITORPOWER, (LPARAM) 2);
+ // SendMessage(HWND_BROADCAST, WM_SYSCOMMAND, SC_MONITORPOWER, (LPARAM) 2);
+// three loops are used in case if like while loop and do while loop and for loop....
     return 0;
 }
