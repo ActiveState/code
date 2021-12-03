@@ -23,7 +23,11 @@ license GPL
 
 LPPRINTER_DEFAULTS = wt.LPVOID
 
+k32 = ct.WinDLL("kernel32.dll")
 ws = ct.WinDLL("winspool.drv")
+
+k32.GetLastError.argtypes = ()
+k32.GetLastError.restype = wt.DWORD
 
 ws.ClosePrinter.argtypes = (wt.HANDLE,)
 ws.ClosePrinter.restype = wt.BOOL
@@ -141,9 +145,10 @@ class Printer:
                              pReadBuffer,
                              BufSize,
                              ct.byref(NoRead))
-
         if ret:
-            print("Printer buffer:", "".join([i for i in pReadBuffer]))
+            print("Printer buffer:", b"".join([i for i in pReadBuffer]))
+        else:
+            print("ReadPrinter error: {:d}".format(k32.GetLastError()))
         pReadBuffer = None
 
     def GetDefaultPrinter(self):
@@ -156,10 +161,12 @@ class Printer:
 
     def OpenPrinter(self, prtname=None):
         #-- Let open our printer
-        if prtname is None:
-            self.prtname = self.GetDefaultPrinter()
+        self.prtname = self.GetDefaultPrinter() if prtname is None else prtname
         self.handle = wt.HANDLE()
         ret = ws.OpenPrinterA(self.prtname, ct.byref(self.handle), None)
+        if not ret:
+            print("OpenPrinter error: {:d}".format(k32.GetLastError()))
+            self.handle = wt.HANDLE()
         return self.handle
 
     def ClosePrinter(self, handle=None):
@@ -193,7 +200,7 @@ class Printer:
 if __name__== "__main__":
     while 1:
         #-- Loop picking up printer jobs
-        print("Checking for printers...")
+        print("Checking for printers (and jobs)...")
         prt = Printer()
 
         # we need to call EnumJobs() to find out how much memory you need
@@ -218,8 +225,8 @@ if __name__== "__main__":
                     prtName =  prt.GetDefaultPrinter()
 
                     #-- Lets try and get the spool file. The call to open printer must have the jobid:
-                    #-- Format "printername,Job xxxx"
-                    prtJobName = "{:},Job {:}".format(prtName.decode(), jobInfo[i].JobId).encode()
+                    #-- Format "PrinterName, Job xxxx"
+                    prtJobName = "{:}, Job {:}".format(prtName.decode(), jobInfo[i].JobId).encode()
                     pHandle = prt.OpenPrinter(prtJobName)
 
                     if pHandle.value:
