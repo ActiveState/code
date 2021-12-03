@@ -124,7 +124,7 @@ class Printer:
                              pNoRead)
 
         if ret:
-            print "".join([i for i in pReadBuffer])
+            print("".join([i for i in pReadBuffer]))
         pBuf = None
         pReadBuffer = None
 
@@ -196,7 +196,7 @@ if __name__== "__main__":
             #-- Lets check whether we got any job from the second call
             if prt.nReturned.value:
                 for i in range (prt.nReturned.value):
-                    print  pJobInfo[i].JobId, pJobInfo[i].pDocument, pJobInfo[i].pUserName, pJobInfo[i].Status
+                    print(pJobInfo[i].JobId, pJobInfo[i].pDocument, pJobInfo[i].pUserName, pJobInfo[i].Status)
 
                     prtName =  prt.GetDefaultPrinter()
 
