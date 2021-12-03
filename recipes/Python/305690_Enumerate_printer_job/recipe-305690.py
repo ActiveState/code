@@ -132,28 +132,25 @@ class Printer:
 
     def ReadPrinterData(self, hPrinter):
         #-- Read Data from printer
-        pReadBuffer = ct.c_buffer(500) # can make this dynamic depending on the job Size i.e. pJobInfo[i].Size
-        pBuf = ct.addressof(pReadBuffer)
-        READ_BUFFER_SIZE = ct.sizeof(pReadBuffer)
+        BufSize = 500 # can make this dynamic depending on the job Size i.e. pJobInfo[i].Size
+        pReadBuffer = ct.create_string_buffer(BufSize)
         NoRead = ct.c_ulong()
-        pNoRead = ct.addressof(NoRead)
 
         #-- Lets try to get the spool file
         ret = ws.ReadPrinter(hPrinter,
-                             pBuf,
-                             READ_BUFFER_SIZE,
-                             pNoRead)
+                             pReadBuffer,
+                             BufSize,
+                             ct.byref(NoRead))
 
         if ret:
-            print("".join([i for i in pReadBuffer]))
-        pBuf = None
+            print("Printer buffer:", "".join([i for i in pReadBuffer]))
         pReadBuffer = None
 
     def GetDefaultPrinter(self):
         #-- Get the default printer
         plen = wt.DWORD()
         ret = ws.GetDefaultPrinterA(None, ct.byref(plen))
-        pname = ct.c_buffer(plen.value)
+        pname = ct.create_string_buffer(plen.value)
         ret = ws.GetDefaultPrinterA(pname, ct.byref(plen))
         return pname.value
 
@@ -190,40 +187,39 @@ class Printer:
                            cbBuf,
                            ct.byref(self.pcbNeeded),
                            ct.byref(self.nReturned))
-
         return ret
 
 
 if __name__== "__main__":
     while 1:
         #-- Loop picking up printer jobs
+        print("Checking for printers...")
         prt = Printer()
 
         # we need to call EnumJobs() to find out how much memory you need
         # It should have failed if there are jobs on the printer
-        if not prt.EnumJobs(None,0):
+        if not prt.EnumJobs(None, 0):
 
             #-- Lets first close the printer
             prt.ClosePrinter()
 
-            #-- Allocate JOB_INFO_2 structures
-            pJobArray = JOB_INFO_2 * prt.NoJobs
-            pJobInfo = pJobArray()
-            pJob = ct.addressof(pJobInfo)
-
+            #-- Allocate buffer for JOB_INFO_2 structures
+            pJobBuf = ct.create_string_buffer(prt.pcbNeeded.value)
             #-- Call EnumJobs now with the correct memory needed from the first call
-            prt.EnumJobs(pJob, prt.pcbNeeded)
+            prt.EnumJobs(ct.cast(pJobBuf, wt.LPBYTE), prt.pcbNeeded)
 
             #-- Lets check whether we got any job from the second call
             if prt.nReturned.value:
-                for i in range (prt.nReturned.value):
-                    print(pJobInfo[i].JobId, pJobInfo[i].pDocument, pJobInfo[i].pUserName, pJobInfo[i].Status)
+                JobArray = JOB_INFO_2 * prt.nReturned.value
+                jobInfo = JobArray.from_buffer(pJobBuf)
+                for i in range(prt.nReturned.value):
+                    print("Job {:}:".format(i), jobInfo[i].JobId, jobInfo[i].pDocument, jobInfo[i].pUserName, jobInfo[i].Status)
 
                     prtName =  prt.GetDefaultPrinter()
 
                     #-- Lets try and get the spool file. The call to open printer must have the jobid:
                     #-- Format "printername,Job xxxx"
-                    prtJobName = prtName+","+"Job"+" "+str(pJobInfo[i].JobId)
+                    prtJobName = "{:},Job {:}".format(prtName.decode(), jobInfo[i].JobId).encode()
                     pHandle = prt.OpenPrinter(prtJobName)
 
                     if pHandle.value:
@@ -233,8 +229,7 @@ if __name__== "__main__":
             prt.ClosePrinter()
 
             #-- Clean up
-            pJob = None
-            pJobInfo = None
+            pJobBuf = None
         prt = None
 
         #-- Wait for the next printer job
