@@ -34,6 +34,7 @@ JOB_STATUS_BLOCKED_DEVQ            = 0x00000200
 JOB_STATUS_USER_INTERVENTION       = 0x00000400
 JOB_STATUS_RESTART                 = 0x00000800
 
+
 class SYSTEMTIME(Structure):
     _fields_ = [
         ("wYear", c_short),
@@ -43,38 +44,41 @@ class SYSTEMTIME(Structure):
         ("wHour", c_short),
         ("wMinute",c_short),
         ("wSecond", c_short),
-        ("wMilliseconds", c_short)
-        ]
-
-class DEVMODE(Structure): 
-    _fields_ = [ 
-        ("dmDeviceName", c_char * 32), 
-        ("dmSpecVersion", c_short), 
-        ("dmDriverVersion", c_short), 
-        ("dmSize", c_short), 
-        ("dmDriverExtra", c_short), 
-        ("dmFields", c_int), 
-        ("dmOrientation", c_short), 
-        ("dmPaperSize", c_short), 
-        ("dmPaperLength", c_short), 
-        ("dmPaperWidth", c_short), 
-        ("dmScale", c_short), 
-        ("dmCopies", c_short), 
-        ("dmDefaultSource", c_short), 
-        ("dmPrintQuality", c_short), 
-        ("dmColor", c_short), 
-        ("dmDuplex", c_short), 
-        ("dmYResolution", c_short), 
-        ("dmTTOption", c_short), 
-        ("dmCollate", c_short), 
-        ("dmFormName", c_char * 32), 
-        ("dmLogPixels", c_int), 
-        ("dmBitsPerPel", c_long), 
-        ("dmPelsWidth", c_long), 
-        ("dmPelsHeight", c_long), 
-        ("dmDisplayFlags", c_long), 
-        ("dmDisplayFrequency", c_long) 
+        ("wMilliseconds", c_short),
     ]
+
+
+class DEVMODE(Structure):
+    _fields_ = [
+        ("dmDeviceName", c_char * 32),
+        ("dmSpecVersion", c_short),
+        ("dmDriverVersion", c_short),
+        ("dmSize", c_short),
+        ("dmDriverExtra", c_short),
+        ("dmFields", c_int),
+        ("dmOrientation", c_short),
+        ("dmPaperSize", c_short),
+        ("dmPaperLength", c_short),
+        ("dmPaperWidth", c_short),
+        ("dmScale", c_short),
+        ("dmCopies", c_short),
+        ("dmDefaultSource", c_short),
+        ("dmPrintQuality", c_short),
+        ("dmColor", c_short),
+        ("dmDuplex", c_short),
+        ("dmYResolution", c_short),
+        ("dmTTOption", c_short),
+        ("dmCollate", c_short),
+        ("dmFormName", c_char * 32),
+        ("dmLogPixels", c_int),
+        ("dmBitsPerPel", c_long),
+        ("dmPelsWidth", c_long),
+        ("dmPelsHeight", c_long),
+        ("dmDisplayFlags", c_long),
+        ("dmDisplayFrequency", c_long),
+    ]
+
+
 class JOB_INFO_2(Structure):
     _fields_ = [
         ("JobId", c_ulong),
@@ -99,41 +103,39 @@ class JOB_INFO_2(Structure):
         ("Size", c_ulong),
         ("Submitted", SYSTEMTIME),
         ("Time", c_ulong),
-        ("PagesPrinted", c_ulong)      
-        ]    
+        ("PagesPrinted", c_ulong),
+    ]
 
 
 class Printer:
 
     def ReadPrinterData(self, hPrinter):
-        
         #-- Read Data from printer
         pReadBuffer = c_buffer(500) # can make this dynamic depending on the job Size i.e. pJobInfo[i].Size
-        pBuf = addressof(pReadBuffer) 
+        pBuf = addressof(pReadBuffer)
         READ_BUFFER_SIZE = sizeof(pReadBuffer)
         NoRead = c_ulong()
         pNoRead = addressof(NoRead)
 
         #-- Lets try to get the spool file
         ret = ws.ReadPrinter(hPrinter,
-                               pBuf,
-                               READ_BUFFER_SIZE,
-                               pNoRead)
+                             pBuf,
+                             READ_BUFFER_SIZE,
+                             pNoRead)
 
         if ret:
             print "".join([i for i in pReadBuffer])
         pBuf = None
         pReadBuffer = None
-        
+
     def GetDefaultPrinter(self):
-        
         #-- Get the default printer
-        plen = c_long() 
-        ret = ws.GetDefaultPrinterA(None, byref(plen)) 
-        pname = c_buffer(plen.value) 
-        ret = ws.GetDefaultPrinterA(pname, byref(plen)) 
+        plen = c_long()
+        ret = ws.GetDefaultPrinterA(None, byref(plen))
+        pname = c_buffer(plen.value)
+        ret = ws.GetDefaultPrinterA(pname, byref(plen))
         return pname.value
-    
+
     def OpenPrinter(self, prtname = None):
         #-- Let open our printer
         if prtname == None:
@@ -150,9 +152,8 @@ class Printer:
         else:
             ws.ClosePrinter(handle)
             handle = None
-        
+
     def EnumJobs(self, pJob, cbBuf):
-        
         #-- Enumerates printer jobs
         FirstJob = c_ulong(0) #Start from this job
         self.NoJobs = 20 #How many jobs do you want to get?
@@ -161,30 +162,29 @@ class Printer:
         self.nReturned = c_ulong(0) # No. of jobs returned
 
         ret = ws.EnumJobsA(self.OpenPrinter(),
-                       FirstJob,
-                       self.NoJobs,
-                       Level,
-                       pJob,
-                       cbBuf,
-                       byref(self.pcbNeeded),
-                       byref(self.nReturned))
-        
+                           FirstJob,
+                           self.NoJobs,
+                           Level,
+                           pJob,
+                           cbBuf,
+                           byref(self.pcbNeeded),
+                           byref(self.nReturned))
+
         return ret
 
 
-    
 if __name__== "__main__":
     while 1:
         #-- Loop picking up printer jobs
         prt = Printer()
-        
+
         # we need to call EnumJobs() to find out how much memory you need
         # It should have failed if there are jobs on the printer
         if not prt.EnumJobs(None,0):
-            
+
             #-- Lets first close the printer
             prt.ClosePrinter()
-            
+
             #-- Allocate JOB_INFO_2 structures
             pJobArray = JOB_INFO_2 * prt.NoJobs
             pJobInfo = pJobArray()
@@ -192,30 +192,30 @@ if __name__== "__main__":
 
             #-- Call EnumJobs now with the correct memory needed from the first call
             prt.EnumJobs(pJob, prt.pcbNeeded)
-            
+
             #-- Lets check whether we got any job from the second call
             if prt.nReturned.value:
                 for i in range (prt.nReturned.value):
                     print  pJobInfo[i].JobId, pJobInfo[i].pDocument, pJobInfo[i].pUserName, pJobInfo[i].Status
-                    
+
                     prtName =  prt.GetDefaultPrinter()
 
                     #-- Lets try and get the spool file. The call to open printer must have the jobid:
                     #-- Format "printername,Job xxxx"
                     prtJobName = prtName+","+"Job"+" "+str(pJobInfo[i].JobId)
                     pHandle = prt.OpenPrinter(prtJobName)
-                    
+
                     if pHandle.value:
                         #-- Read spool file. Does not work well if you do not have a bidirectional printer.
                         prt.ReadPrinterData(pHandle)
                         prt.ClosePrinter(pHandle)
             prt.ClosePrinter()
-                
+
             #-- Clean up
             pJob = None
             pJobInfo = None
         prt = None
-        
+
         #-- Wait for the next printer job
         #-- Adjust this depending on the speed of your printer and network
         time.sleep(3)
