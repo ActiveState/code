@@ -1,5 +1,7 @@
 import time
 from ctypes import *
+from ctypes import wintypes as wt
+
 
 """
 This script enumerates printer jobs from a specified default printer. This information includes Jobid, Document name,
@@ -18,7 +20,26 @@ email ekoome@yahoo.com
 license GPL
 
 """
+
+LPPRINTER_DEFAULTS = wt.LPVOID
+
 ws = WinDLL("winspool.drv")
+
+ws.ClosePrinter.argtypes = (wt.HANDLE,)
+ws.ClosePrinter.restype = wt.BOOL
+
+ws.EnumJobsA.argtypes = (wt.HANDLE, wt.DWORD, wt.DWORD, wt.DWORD, wt.LPBYTE, wt.DWORD, wt.LPDWORD, wt.LPDWORD)
+ws.EnumJobsA.restype = wt.BOOL
+
+ws.GetDefaultPrinterA.argtypes = (wt.LPSTR, wt.LPDWORD)
+ws.GetDefaultPrinterA.restype = wt.BOOL
+
+ws.OpenPrinterA.argtypes = (wt.LPSTR, POINTER(wt.HANDLE), LPPRINTER_DEFAULTS)
+ws.OpenPrinterA.restype = wt.BOOL
+
+ws.ReadPrinter.argtypes = (wt.HANDLE, wt.LPVOID, wt.DWORD, wt.LPDWORD)
+ws.ReadPrinter.restype = wt.BOOL
+
 
 #-- Job Status meaning
 JOB_STATUS_PAUSED                  = 0x00000001
@@ -130,7 +151,7 @@ class Printer:
 
     def GetDefaultPrinter(self):
         #-- Get the default printer
-        plen = c_long()
+        plen = wt.DWORD()
         ret = ws.GetDefaultPrinterA(None, byref(plen))
         pname = c_buffer(plen.value)
         ret = ws.GetDefaultPrinterA(pname, byref(plen))
@@ -140,7 +161,7 @@ class Printer:
         #-- Let open our printer
         if prtname == None:
             self.prtname = self.GetDefaultPrinter()
-        self.handle = c_ulong()
+        self.handle = wt.HANDLE()
         ret = ws.OpenPrinterA(self.prtname, byref(self.handle), None)
         return self.handle
 
