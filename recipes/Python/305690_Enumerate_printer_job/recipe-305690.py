@@ -1,5 +1,5 @@
 import time
-from ctypes import *
+import ctypes as ct
 from ctypes import wintypes as wt
 
 
@@ -23,7 +23,7 @@ license GPL
 
 LPPRINTER_DEFAULTS = wt.LPVOID
 
-ws = WinDLL("winspool.drv")
+ws = ct.WinDLL("winspool.drv")
 
 ws.ClosePrinter.argtypes = (wt.HANDLE,)
 ws.ClosePrinter.restype = wt.BOOL
@@ -34,7 +34,7 @@ ws.EnumJobsA.restype = wt.BOOL
 ws.GetDefaultPrinterA.argtypes = (wt.LPSTR, wt.LPDWORD)
 ws.GetDefaultPrinterA.restype = wt.BOOL
 
-ws.OpenPrinterA.argtypes = (wt.LPSTR, POINTER(wt.HANDLE), LPPRINTER_DEFAULTS)
+ws.OpenPrinterA.argtypes = (wt.LPSTR, ct.POINTER(wt.HANDLE), LPPRINTER_DEFAULTS)
 ws.OpenPrinterA.restype = wt.BOOL
 
 ws.ReadPrinter.argtypes = (wt.HANDLE, wt.LPVOID, wt.DWORD, wt.LPDWORD)
@@ -56,75 +56,75 @@ JOB_STATUS_USER_INTERVENTION       = 0x00000400
 JOB_STATUS_RESTART                 = 0x00000800
 
 
-class SYSTEMTIME(Structure):
+class SYSTEMTIME(ct.Structure):
     _fields_ = [
-        ("wYear", c_short),
-        ("wMonth", c_short),
-        ("wDayOfWeek", c_short),
-        ("wDay", c_short),
-        ("wHour", c_short),
-        ("wMinute",c_short),
-        ("wSecond", c_short),
-        ("wMilliseconds", c_short),
+        ("wYear", ct.c_short),
+        ("wMonth", ct.c_short),
+        ("wDayOfWeek", ct.c_short),
+        ("wDay", ct.c_short),
+        ("wHour", ct.c_short),
+        ("wMinute", ct.c_short),
+        ("wSecond", ct.c_short),
+        ("wMilliseconds", ct.c_short),
     ]
 
 
-class DEVMODE(Structure):
+class DEVMODE(ct.Structure):
     _fields_ = [
-        ("dmDeviceName", c_char * 32),
-        ("dmSpecVersion", c_short),
-        ("dmDriverVersion", c_short),
-        ("dmSize", c_short),
-        ("dmDriverExtra", c_short),
-        ("dmFields", c_int),
-        ("dmOrientation", c_short),
-        ("dmPaperSize", c_short),
-        ("dmPaperLength", c_short),
-        ("dmPaperWidth", c_short),
-        ("dmScale", c_short),
-        ("dmCopies", c_short),
-        ("dmDefaultSource", c_short),
-        ("dmPrintQuality", c_short),
-        ("dmColor", c_short),
-        ("dmDuplex", c_short),
-        ("dmYResolution", c_short),
-        ("dmTTOption", c_short),
-        ("dmCollate", c_short),
-        ("dmFormName", c_char * 32),
-        ("dmLogPixels", c_int),
-        ("dmBitsPerPel", c_long),
-        ("dmPelsWidth", c_long),
-        ("dmPelsHeight", c_long),
-        ("dmDisplayFlags", c_long),
-        ("dmDisplayFrequency", c_long),
+        ("dmDeviceName", ct.c_char * 32),
+        ("dmSpecVersion", ct.c_short),
+        ("dmDriverVersion", ct.c_short),
+        ("dmSize", ct.c_short),
+        ("dmDriverExtra", ct.c_short),
+        ("dmFields", ct.c_int),
+        ("dmOrientation", ct.c_short),
+        ("dmPaperSize", ct.c_short),
+        ("dmPaperLength", ct.c_short),
+        ("dmPaperWidth", ct.c_short),
+        ("dmScale", ct.c_short),
+        ("dmCopies", ct.c_short),
+        ("dmDefaultSource", ct.c_short),
+        ("dmPrintQuality", ct.c_short),
+        ("dmColor", ct.c_short),
+        ("dmDuplex", ct.c_short),
+        ("dmYResolution", ct.c_short),
+        ("dmTTOption", ct.c_short),
+        ("dmCollate", ct.c_short),
+        ("dmFormName", ct.c_char * 32),
+        ("dmLogPixels", ct.c_int),
+        ("dmBitsPerPel", ct.c_long),
+        ("dmPelsWidth", ct.c_long),
+        ("dmPelsHeight", ct.c_long),
+        ("dmDisplayFlags", ct.c_long),
+        ("dmDisplayFrequency", ct.c_long),
     ]
 
 
-class JOB_INFO_2(Structure):
+class JOB_INFO_2(ct.Structure):
     _fields_ = [
-        ("JobId", c_ulong),
-        ("pPrinterName", c_char_p),
-        ("pMachineName", c_char_p),
-        ("pUserName", c_char_p),
-        ("pDocument", c_char_p),
-        ("pNotifyName", c_char_p),
-        ("pDatatype", c_char_p),
-        ("pPrintProcessor", c_char_p),
-        ("pParameters", c_char_p),
-        ("pDriverName", c_char_p),
-        ("pDevMode", POINTER(DEVMODE)),
-        ("pStatus", c_char_p),
-        ("pSecurityDescriptor", c_void_p),
-        ("Status", c_ulong),
-        ("Priority", c_ulong),
-        ("Position",c_ulong),
-        ("StartTime", c_ulong),
-        ("UntilTime", c_ulong),
-        ("TotalPages", c_ulong),
-        ("Size", c_ulong),
+        ("JobId", ct.c_ulong),
+        ("pPrinterName", ct.c_char_p),
+        ("pMachineName", ct.c_char_p),
+        ("pUserName", ct.c_char_p),
+        ("pDocument", ct.c_char_p),
+        ("pNotifyName", ct.c_char_p),
+        ("pDatatype", ct.c_char_p),
+        ("pPrintProcessor", ct.c_char_p),
+        ("pParameters", ct.c_char_p),
+        ("pDriverName", ct.c_char_p),
+        ("pDevMode", ct.POINTER(DEVMODE)),
+        ("pStatus", ct.c_char_p),
+        ("pSecurityDescriptor", ct.c_void_p),
+        ("Status", ct.c_ulong),
+        ("Priority", ct.c_ulong),
+        ("Position", ct.c_ulong),
+        ("StartTime", ct.c_ulong),
+        ("UntilTime", ct.c_ulong),
+        ("TotalPages", ct.c_ulong),
+        ("Size", ct.c_ulong),
         ("Submitted", SYSTEMTIME),
-        ("Time", c_ulong),
-        ("PagesPrinted", c_ulong),
+        ("Time", ct.c_ulong),
+        ("PagesPrinted", ct.c_ulong),
     ]
 
 
@@ -132,11 +132,11 @@ class Printer:
 
     def ReadPrinterData(self, hPrinter):
         #-- Read Data from printer
-        pReadBuffer = c_buffer(500) # can make this dynamic depending on the job Size i.e. pJobInfo[i].Size
-        pBuf = addressof(pReadBuffer)
-        READ_BUFFER_SIZE = sizeof(pReadBuffer)
-        NoRead = c_ulong()
-        pNoRead = addressof(NoRead)
+        pReadBuffer = ct.c_buffer(500) # can make this dynamic depending on the job Size i.e. pJobInfo[i].Size
+        pBuf = ct.addressof(pReadBuffer)
+        READ_BUFFER_SIZE = ct.sizeof(pReadBuffer)
+        NoRead = ct.c_ulong()
+        pNoRead = ct.addressof(NoRead)
 
         #-- Lets try to get the spool file
         ret = ws.ReadPrinter(hPrinter,
@@ -152,22 +152,22 @@ class Printer:
     def GetDefaultPrinter(self):
         #-- Get the default printer
         plen = wt.DWORD()
-        ret = ws.GetDefaultPrinterA(None, byref(plen))
-        pname = c_buffer(plen.value)
-        ret = ws.GetDefaultPrinterA(pname, byref(plen))
+        ret = ws.GetDefaultPrinterA(None, ct.byref(plen))
+        pname = ct.c_buffer(plen.value)
+        ret = ws.GetDefaultPrinterA(pname, ct.byref(plen))
         return pname.value
 
-    def OpenPrinter(self, prtname = None):
+    def OpenPrinter(self, prtname=None):
         #-- Let open our printer
-        if prtname == None:
+        if prtname is None:
             self.prtname = self.GetDefaultPrinter()
         self.handle = wt.HANDLE()
-        ret = ws.OpenPrinterA(self.prtname, byref(self.handle), None)
+        ret = ws.OpenPrinterA(self.prtname, ct.byref(self.handle), None)
         return self.handle
 
-    def ClosePrinter(self, handle = None):
+    def ClosePrinter(self, handle=None):
         #-- Close our printer after opening it
-        if handle == None:
+        if handle is None:
             ws.ClosePrinter(self.handle)
             self.handle = None
         else:
@@ -176,11 +176,11 @@ class Printer:
 
     def EnumJobs(self, pJob, cbBuf):
         #-- Enumerates printer jobs
-        FirstJob = c_ulong(0) #Start from this job
+        FirstJob = ct.c_ulong(0) #Start from this job
         self.NoJobs = 20 #How many jobs do you want to get?
         Level = 2 #JOB_INFO_2 Structure
-        self.pcbNeeded = c_ulong(0) # Bytes needed to fill the structure
-        self.nReturned = c_ulong(0) # No. of jobs returned
+        self.pcbNeeded = ct.c_ulong(0) # Bytes needed to fill the structure
+        self.nReturned = ct.c_ulong(0) # No. of jobs returned
 
         ret = ws.EnumJobsA(self.OpenPrinter(),
                            FirstJob,
@@ -188,8 +188,8 @@ class Printer:
                            Level,
                            pJob,
                            cbBuf,
-                           byref(self.pcbNeeded),
-                           byref(self.nReturned))
+                           ct.byref(self.pcbNeeded),
+                           ct.byref(self.nReturned))
 
         return ret
 
@@ -209,7 +209,7 @@ if __name__== "__main__":
             #-- Allocate JOB_INFO_2 structures
             pJobArray = JOB_INFO_2 * prt.NoJobs
             pJobInfo = pJobArray()
-            pJob = addressof(pJobInfo)
+            pJob = ct.addressof(pJobInfo)
 
             #-- Call EnumJobs now with the correct memory needed from the first call
             prt.EnumJobs(pJob, prt.pcbNeeded)
