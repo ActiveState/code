@@ -162,6 +162,7 @@ class Printer:
     def OpenPrinter(self, prtname=None):
         #-- Let open our printer
         self.prtname = self.GetDefaultPrinter() if prtname is None else prtname
+        print("Attempting to open printer {:}".format(self.prtname))
         self.handle = wt.HANDLE()
         ret = ws.OpenPrinterA(self.prtname, ct.byref(self.handle), None)
         if not ret:
@@ -200,7 +201,7 @@ class Printer:
 if __name__== "__main__":
     while 1:
         #-- Loop picking up printer jobs
-        print("Checking for printers (and jobs)...")
+        print("\nChecking for printers (and jobs)...")
         prt = Printer()
 
         # we need to call EnumJobs() to find out how much memory you need
@@ -220,9 +221,9 @@ if __name__== "__main__":
                 JobArray = JOB_INFO_2 * prt.nReturned.value
                 jobInfo = JobArray.from_buffer(pJobBuf)
                 for i in range(prt.nReturned.value):
-                    print("Job {:}:".format(i), jobInfo[i].JobId, jobInfo[i].pDocument, jobInfo[i].pUserName, jobInfo[i].Status)
+                    print("\nJob {:}:".format(i), jobInfo[i].JobId, jobInfo[i].pDocument, jobInfo[i].pUserName, jobInfo[i].Status)
 
-                    prtName =  prt.GetDefaultPrinter()
+                    prtName = prt.GetDefaultPrinter()
 
                     #-- Lets try and get the spool file. The call to open printer must have the jobid:
                     #-- Format "PrinterName, Job xxxx"
